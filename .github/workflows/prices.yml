@@ -1,0 +1,40 @@
+name: prices
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Daily 03:30 UTC — full Limitless sweep takes ~25 min at concurrency 3.
+    - cron: "30 3 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: prices
+  cancel-in-progress: false
+
+jobs:
+  prices:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Scrape prices
+        run: node scripts/prices.mjs
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/prices/
+          if git diff --cached --quiet; then
+            echo "no changes"
+          else
+            git commit -m "data: prices $(date -u +%Y-%m-%d)"
+            git push
+          fi

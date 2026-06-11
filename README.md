@@ -74,6 +74,34 @@ const cards = (code: string) =>
 > a non-issue; pin `@<commit>` or hit jsDelivr's purge endpoint if a fresher read is ever
 > needed.
 
+## Prices
+
+A second workflow (`.github/workflows/prices.yml`, daily 03:30 UTC + manual dispatch)
+scrapes per-print prices from [Limitless TCG](https://onepiece.limitlesstcg.com)
+(Cardmarket EUR / TCGplayer USD) and publishes them under `data/prices/`:
+
+| Path | Contents |
+| --- | --- |
+| `data/prices/summary.json` | **App-facing.** `{ updatedAt, cardCount, cards: { "<printId>": { eur, usd, d7, d30 } } }` — d7/d30 are % changes of the EUR price vs ≥7/≥30 days ago (null until enough history). |
+| `data/prices/history.json` | Pipeline-internal rolling window (~120 days) of daily EUR prices per print. |
+| `data/prices/unmapped.json` | Report: pages that failed and print rows the mapper refused to assign. |
+
+Print mapping: Limitless lists versions whose Cardmarket links end in `-V<N>` —
+`V1` maps to the base print, `V2` to `_p1`, and so on. Rows without a version suffix
+(reprints in other products, tournament promos) are mapped only when unambiguous,
+otherwise reported in `unmapped.json` — never guessed.
+
+Local checks (no network / tiny live smoke):
+
+```sh
+node scripts/prices.mjs --test-fixture
+PRICES_DIR=/tmp/prices node scripts/prices.mjs --only OP01-001,OP01-025
+```
+
+Prices are scraped politely (concurrency 3, identifying user agent) and are for
+personal, informational use only — this project is not affiliated with Limitless TCG,
+Cardmarket, or TCGplayer.
+
 ## Local development
 
 The scraper (`scripts/pull.mjs`) needs the `vega` binary and only runs in CI. The
