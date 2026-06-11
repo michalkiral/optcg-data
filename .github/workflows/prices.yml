@@ -9,6 +9,11 @@ on:
 permissions:
   contents: write
 
+# Opt remaining node20 actions (upload-artifact@v4) into node24 ahead of the
+# 2026-06-16 forced switch.
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
+
 concurrency:
   group: prices
   cancel-in-progress: false
@@ -18,11 +23,11 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 60
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v5
         with:
-          node-version: 20
+          node-version: 24
 
       - name: Scrape prices
         run: node scripts/prices.mjs

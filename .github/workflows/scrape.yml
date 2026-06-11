@@ -9,6 +9,11 @@ on:
 permissions:
   contents: write
 
+# Opt remaining node20 actions (rust-cache etc.) into node24 ahead of the
+# 2026-06-16 forced switch.
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
+
 concurrency:
   group: scrape
   cancel-in-progress: false
@@ -17,11 +22,11 @@ jobs:
   scrape:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v5
         with:
-          node-version: 20
+          node-version: 24
 
       - uses: dtolnay/rust-toolchain@stable
 

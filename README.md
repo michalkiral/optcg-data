@@ -86,10 +86,12 @@ scrapes per-print prices from [Limitless TCG](https://onepiece.limitlesstcg.com)
 | `data/prices/history.json` | Pipeline-internal rolling window (~120 days) of daily EUR prices per print. |
 | `data/prices/unmapped.json` | Report: pages that failed and print rows the mapper refused to assign. |
 
-Print mapping: Limitless lists versions whose Cardmarket links end in `-V<N>` —
-`V1` maps to the base print, `V2` to `_p1`, and so on. Rows without a version suffix
-(reprints in other products, tournament promos) are mapped only when unambiguous,
-otherwise reported in `unmapped.json` — never guessed.
+Print mapping is conservative (Cardmarket `-V<N>` suffixes number versions *within a
+product* and are ignored): the card's own-set row without a variant marker is the base
+print; own-set marked rows (`aa`, …) map to `_p` alt arts in page order; reprint rows
+map to `_r` prints by product-name match only when both sides are unique; a single
+leftover row maps to a single leftover print. Everything else lands in `unmapped.json`
+— never guessed.
 
 Local checks (no network / tiny live smoke):
 
