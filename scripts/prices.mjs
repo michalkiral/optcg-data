@@ -195,7 +195,16 @@ function buildOutputs(pricesByPrint, allPrintIds, today) {
   mkdirSync(OUT_DIR, { recursive: true });
   const history = readJson(join(OUT_DIR, "history.json"), { dates: [], cards: {} });
 
-  if (!history.dates.includes(today)) {
+  // Re-runs on the same day overwrite that day's column (last run wins).
+  const existingIdx = history.dates.indexOf(today);
+  if (existingIdx === history.dates.length - 1 && existingIdx !== -1) {
+    for (const id of new Set([...Object.keys(history.cards), ...allPrintIds])) {
+      const series = history.cards[id] ?? new Array(history.dates.length).fill(null);
+      while (series.length < history.dates.length) series.push(null);
+      series[existingIdx] = pricesByPrint.get(id)?.eur ?? null;
+      history.cards[id] = series;
+    }
+  } else if (existingIdx === -1) {
     history.dates.push(today);
     for (const id of new Set([...Object.keys(history.cards), ...allPrintIds])) {
       const series = history.cards[id] ?? new Array(history.dates.length - 1).fill(null);
