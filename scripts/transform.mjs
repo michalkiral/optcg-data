@@ -26,6 +26,21 @@ const GENERATED_AT = process.env.GENERATED_AT ?? "";
 const readJson = (p) => JSON.parse(readFileSync(p, "utf8"));
 const writeJson = (p, v) => writeFileSync(p, `${JSON.stringify(v, null, 2)}\n`, "utf8");
 
+// vegapull passes Bandai's HTML through undecoded ("Ace &amp; Newgate",
+// "&lt;Blocker&gt;"). Decode the common entities; &amp; last so "&amp;lt;"
+// can't double-decode.
+function decodeEntities(s) {
+  if (typeof s !== "string" || !s.includes("&")) return s;
+  return s
+    .replace(/&#(\d+);/g, (_, n) => String.fromCodePoint(Number(n)))
+    .replace(/&lt;/g, "<")
+    .replace(/&gt;/g, ">")
+    .replace(/&quot;/g, '"')
+    .replace(/&apos;/g, "'")
+    .replace(/&nbsp;/g, " ")
+    .replace(/&amp;/g, "&");
+}
+
 // vegapull nests its output under a language subfolder (e.g. raw/english/ or
 // raw/data-<ts>-english/); the fixture puts packs.json at the root. Find the
 // directory that actually contains packs.json, breadth-first.
@@ -62,7 +77,7 @@ function transformCard(c, setCode) {
   return {
     id: c.id,
     set: setCode,
-    name: c.name ?? "",
+    name: decodeEntities(c.name ?? ""),
     rarity: c.rarity ?? "",
     category: c.category ?? "",
     colors: c.colors ?? [],
@@ -71,9 +86,9 @@ function transformCard(c, setCode) {
     counter: c.counter ?? null,
     block: c.block_number ?? null,
     attributes: c.attributes ?? [],
-    types: c.types ?? [],
-    effect: c.effect ?? "",
-    trigger: c.trigger ?? null,
+    types: (c.types ?? []).map(decodeEntities),
+    effect: decodeEntities(c.effect ?? ""),
+    trigger: decodeEntities(c.trigger ?? null),
     image: c.img_full_url ?? null,
   };
 }
@@ -108,7 +123,7 @@ function main() {
     writeJson(join(OUT_DIR, "cards", `${setCode}.json`), cards);
     packsOut.push({
       code: setCode,
-      name: pack?.title_parts?.title ?? pack?.raw_title ?? setCode,
+      name: decodeEntities(pack?.title_parts?.title ?? pack?.raw_title ?? setCode),
       vegapullId: pack.id,
       cardCount: cards.length,
     });
