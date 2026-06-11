@@ -1,50 +1,30 @@
 #!/usr/bin/env node
-// Drive the vegapull (`vega`) CLI to dump raw pack + card JSON into raw/.
-// CI-only: needs the `vega` binary on PATH (installed in the workflow). vegapull
-// prints JSON to stdout, which we capture and persist verbatim for transform.mjs.
-// The exact CLI shape is validated by the first workflow run.
+// Drive the vegapull (`vega`) CLI to download the full raw dataset into raw/.
+// CI-only: needs the `vega` binary on PATH (installed in the workflow).
+//
+// vegapull writes JSON *files* to disk (NOT stdout): `vega pull all` downloads
+// packs.json + per-pack cards_<id>.json for one language into the --output dir
+// (it may nest them in a language subfolder; transform.mjs locates packs.json).
 import { execFileSync } from "node:child_process";
-import { mkdirSync, writeFileSync } from "node:fs";
-import { join } from "node:path";
+import { mkdirSync, rmSync } from "node:fs";
 
 const RAW_DIR = process.env.RAW_DIR ?? "raw";
 const VEGA = process.env.VEGA_BIN ?? "vega";
-
-function vega(args) {
-  return execFileSync(VEGA, args, {
-    encoding: "utf8",
-    maxBuffer: 64 * 1024 * 1024,
-  });
-}
+const LANG = process.env.SCRAPER_LANG ?? "english";
+const UA =
+  process.env.SCRAPER_UA ?? "optcg-data (+https://github.com/michalkiral/optcg-data)";
 
 function main() {
+  rmSync(RAW_DIR, { recursive: true, force: true });
   mkdirSync(RAW_DIR, { recursive: true });
 
-  console.log("pulling packs...");
-  const packsJson = vega(["pull", "packs"]);
-  writeFileSync(join(RAW_DIR, "packs.json"), packsJson, "utf8");
-  const packs = JSON.parse(packsJson);
-  console.log(`got ${packs.length} packs`);
-
-  let failures = 0;
-  for (const pack of packs) {
-    const id = String(pack.id);
-    process.stdout.write(`pulling cards for ${id}... `);
-    try {
-      const cardsJson = vega(["pull", "cards", id]);
-      writeFileSync(join(RAW_DIR, `cards_${id}.json`), cardsJson, "utf8");
-      console.log("ok");
-    } catch (e) {
-      failures += 1;
-      console.log(`FAILED: ${e.message}`);
-    }
-  }
-
-  if (failures > 0) {
-    console.error(`error: ${failures} pack(s) failed to pull`);
-    process.exit(1);
-  }
-  console.log("done");
+  console.log(`running: vega pull all --language ${LANG} --output ${RAW_DIR}`);
+  execFileSync(
+    VEGA,
+    ["pull", "all", "--language", LANG, "--output", RAW_DIR, "--user-agent", UA],
+    { stdio: "inherit" },
+  );
+  console.log("vegapull done");
 }
 
 main();

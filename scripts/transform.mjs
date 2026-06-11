@@ -7,6 +7,7 @@ import {
   existsSync,
   mkdirSync,
   readFileSync,
+  readdirSync,
   rmSync,
   writeFileSync,
 } from "node:fs";
@@ -24,6 +25,25 @@ const GENERATED_AT = process.env.GENERATED_AT ?? "";
 
 const readJson = (p) => JSON.parse(readFileSync(p, "utf8"));
 const writeJson = (p, v) => writeFileSync(p, `${JSON.stringify(v, null, 2)}\n`, "utf8");
+
+// vegapull nests its output under a language subfolder (e.g. raw/english/ or
+// raw/data-<ts>-english/); the fixture puts packs.json at the root. Find the
+// directory that actually contains packs.json, breadth-first.
+function findDataDir(root) {
+  const queue = [root];
+  while (queue.length > 0) {
+    const dir = queue.shift();
+    let entries;
+    try {
+      entries = readdirSync(dir, { withFileTypes: true });
+    } catch {
+      continue;
+    }
+    if (entries.some((e) => e.isFile() && e.name === "packs.json")) return dir;
+    for (const e of entries) if (e.isDirectory()) queue.push(join(dir, e.name));
+  }
+  throw new Error(`packs.json not found under ${root}`);
+}
 
 // Human set code for a vegapull pack: prefer the "[OP-01]"-style label, else
 // slugify the title so promos / general products still get a stable filename.
@@ -58,7 +78,8 @@ function transformCard(c, setCode) {
 }
 
 function main() {
-  const rawPacks = readJson(join(RAW_DIR, "packs.json"));
+  const dataDir = findDataDir(RAW_DIR);
+  const rawPacks = readJson(join(dataDir, "packs.json"));
 
   rmSync(OUT_DIR, { recursive: true, force: true });
   mkdirSync(join(OUT_DIR, "cards"), { recursive: true });
@@ -70,7 +91,7 @@ function main() {
 
   for (const pack of rawPacks) {
     const setCode = setCodeFor(pack);
-    const cardsPath = join(RAW_DIR, `cards_${pack.id}.json`);
+    const cardsPath = join(dataDir, `cards_${pack.id}.json`);
     if (!existsSync(cardsPath)) {
       console.warn(`warn: no cards file for pack ${pack.id} (${setCode}), skipping`);
       continue;
