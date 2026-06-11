@@ -1,0 +1,4677 @@
+[
+  {
+    "id": "EB04-011",
+    "set": "OP14-EB04",
+    "name": "Scaled Neptunian",
+    "rarity": "Common",
+    "category": "Character",
+    "colors": [
+      "Green"
+    ],
+    "cost": 7,
+    "power": 8000,
+    "counter": 1000,
+    "block": 4,
+    "attributes": [
+      "Strike"
+    ],
+    "types": [
+      "Neptunian"
+    ],
+    "effect": "[Rush: Character] (This card can attack Characters on the turn in which it is played.)<br>[On Play] Draw a card for each of your {Neptunian} type Characters. Then, trash the same number of cards from your hand.<br>",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-011.png?260529"
+  },
+  {
+    "id": "EB04-012",
+    "set": "OP14-EB04",
+    "name": "Kikunojo",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "colors": [
+      "Green"
+    ],
+    "cost": 7,
+    "power": 8000,
+    "counter": null,
+    "block": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "types": [
+      "Land of Wano",
+      "The Akazaya Nine"
+    ],
+    "effect": "[Activate: Main] [Once Per Turn] If this Character was played on this turn, set your {Land of Wano} type Leader as active.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-012.png?260529"
+  },
+  {
+    "id": "EB04-012_p1",
+    "set": "OP14-EB04",
+    "name": "Kikunojo",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "colors": [
+      "Green"
+    ],
+    "cost": 7,
+    "power": 8000,
+    "counter": null,
+    "block": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "types": [
+      "Land of Wano",
+      "The Akazaya Nine"
+    ],
+    "effect": "[Activate: Main] [Once Per Turn] If this Character was played on this turn, set your {Land of Wano} type Leader as active.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-012_p1.png?260529"
+  },
+  {
+    "id": "EB04-013",
+    "set": "OP14-EB04",
+    "name": "Carrot",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "colors": [
+      "Green"
+    ],
+    "cost": 8,
+    "power": 9000,
+    "counter": null,
+    "block": 4,
+    "attributes": [
+      "Special"
+    ],
+    "types": [
+      "Minks"
+    ],
+    "effect": "[On Play] If your Leader has the {Minks} type, set up to 2 of your {Minks} type Characters and your Leader as active.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-013.png?260529"
+  },
+  {
+    "id": "EB04-013_p1",
+    "set": "OP14-EB04",
+    "name": "Carrot",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "colors": [
+      "Green"
+    ],
+    "cost": 8,
+    "power": 9000,
+    "counter": null,
+    "block": 4,
+    "attributes": [
+      "Special"
+    ],
+    "types": [
+      "Minks"
+    ],
+    "effect": "[On Play] If your Leader has the {Minks} type, set up to 2 of your {Minks} type Characters and your Leader as active.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-013_p1.png?260529"
+  },
+  {
+    "id": "EB04-014",
+    "set": "OP14-EB04",
+    "name": "Kozuki Sukiyaki",
+    "rarity": "Common",
+    "category": "Character",
+    "colors": [
+      "Green"
+    ],
+    "cost": 3,
+    "power": null,
+    "counter": null,
+    "block": 4,
+    "attributes": [
+      "Wisdom"
+    ],
+    "types": [
+      "Land of Wano",
+      "Kouzuki Clan"
+    ],
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[Activate: Main] [Once Per Turn] Give up to 1 rested DON!! card to your {Land of Wano} type Leader.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-014.png?260529"
+  },
+  {
+    "id": "EB04-015",
+    "set": "OP14-EB04",
+    "name": "Jinbe",
+    "rarity": "Rare",
+    "category": "Character",
+    "colors": [
+      "Green"
+    ],
+    "cost": 7,
+    "power": 8000,
+    "counter": null,
+    "block": 4,
+    "attributes": [
+      "Strike"
+    ],
+    "types": [
+      "Fish-Man",
+      "Fish-Man Island",
+      "The Sun Pirates"
+    ],
+    "effect": "[Blocker]<br>[On K.O.] You may rest 1 of your cards: If your Leader has the {Fish-Man} or {Merfolk} type, play up to 1 green Character card with a cost of 6 or less from your hand.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-015.png?260529"
+  },
+  {
+    "id": "EB04-016",
+    "set": "OP14-EB04",
+    "name": "Bird Neptunian",
+    "rarity": "Common",
+    "category": "Character",
+    "colors": [
+      "Green"
+    ],
+    "cost": 5,
+    "power": 7000,
+    "counter": null,
+    "block": 4,
+    "attributes": [
+      "Strike"
+    ],
+    "types": [
+      "Neptunian"
+    ],
+    "effect": "[Activate: Main] Set up to 1 of your DON!! cards as active. Then, you cannot set DON!! cards as active using Character effects during this turn.<br>[When Attacking] If you have 3 or more {Neptunian} type Characters, rest up to 1 of your opponent's Characters with a cost of 8 or less.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-016.png?260529"
+  },
+  {
+    "id": "EB04-017",
+    "set": "OP14-EB04",
+    "name": "Mystoms",
+    "rarity": "Common",
+    "category": "Character",
+    "colors": [
+      "Green"
+    ],
+    "cost": 6,
+    "power": 5000,
+    "counter": 1000,
+    "block": 4,
+    "attributes": [
+      "Strike"
+    ],
+    "types": [
+      "Minks",
+      "Big Mom Pirates"
+    ],
+    "effect": "[Your Turn] If you have 3 or more {Minks} type Characters, give all of your opponent's Characters −1 cost.<br>[On Play] If your Leader has the {Minks} type, play up to 1 {Minks} type Character card with a cost of 5 or less from your hand.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-017.png?260529"
+  },
+  {
+    "id": "EB04-018",
+    "set": "OP14-EB04",
+    "name": "Megalo",
+    "rarity": "Rare",
+    "category": "Character",
+    "colors": [
+      "Green"
+    ],
+    "cost": 4,
+    "power": 4000,
+    "counter": 2000,
+    "block": 4,
+    "attributes": [
+      "Wisdom"
+    ],
+    "types": [
+      "Animal",
+      "Fish-Man Island"
+    ],
+    "effect": "[On Play] You may rest this Character: K.O. up to 1 of your opponent's rested Characters with 8000 power or less.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-018.png?260529"
+  },
+  {
+    "id": "EB04-018_p1",
+    "set": "OP14-EB04",
+    "name": "Megalo",
+    "rarity": "Rare",
+    "category": "Character",
+    "colors": [
+      "Green"
+    ],
+    "cost": 4,
+    "power": 4000,
+    "counter": 2000,
+    "block": 4,
+    "attributes": [
+      "Wisdom"
+    ],
+    "types": [
+      "Animal",
+      "Fish-Man Island"
+    ],
+    "effect": "[On Play] You may rest this Character: K.O. up to 1 of your opponent's rested Characters with 8000 power or less.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-018_p1.png?260529"
+  },
+  {
+    "id": "EB04-019",
+    "set": "OP14-EB04",
+    "name": "Eleclaw",
+    "rarity": "Rare",
+    "category": "Event",
+    "colors": [
+      "Green"
+    ],
+    "cost": 1,
+    "power": null,
+    "counter": null,
+    "block": 4,
+    "attributes": [],
+    "types": [
+      "Minks"
+    ],
+    "effect": "[Main] You may rest 1 of your cards: If your Leader has the {Minks} type, give up to 1 of your opponent's Characters −3 cost during this turn.<br>[Counter] Up to 1 of your {Minks} type Leader or Character cards gains +3000 power during this battle.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-019.png?260529"
+  },
+  {
+    "id": "EB04-020",
+    "set": "OP14-EB04",
+    "name": "Shark Brick Fist",
+    "rarity": "Common",
+    "category": "Event",
+    "colors": [
+      "Green"
+    ],
+    "cost": 1,
+    "power": null,
+    "counter": null,
+    "block": 4,
+    "attributes": [],
+    "types": [
+      "Fish-Man",
+      "Fish-Man Island",
+      "The Sun Pirates"
+    ],
+    "effect": "[Counter] Up to 1 of your {Fish-Man} type Leader or Character cards gains +3000 power during this battle. Then, set up to 1 of your {Fish-Man} type Characters as active.",
+    "trigger": "[Trigger] Rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-020.png?260529"
+  },
+  {
+    "id": "EB04-021",
+    "set": "OP14-EB04",
+    "name": "Igaram",
+    "rarity": "Common",
+    "category": "Character",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 3,
+    "power": 4000,
+    "counter": 1000,
+    "block": 4,
+    "attributes": [
+      "Wisdom"
+    ],
+    "types": [
+      "Alabasta"
+    ],
+    "effect": "[On Play] If your Leader is [Nefeltari Vivi], draw 2 cards and trash 1 card from your hand.<br>[Activate: Main] [Once Per Turn] You may trash 1 card from your hand: Give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-021.png?260529"
+  },
+  {
+    "id": "EB04-022",
+    "set": "OP14-EB04",
+    "name": "Issho",
+    "rarity": "Rare",
+    "category": "Character",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 5,
+    "power": 7000,
+    "counter": null,
+    "block": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "types": [
+      "Dressrosa",
+      "Navy"
+    ],
+    "effect": "[On Play] You may trash 2 cards from your hand: If your opponent has 6 or more cards in their hand, your opponent places 2 cards from their hand at the bottom of their deck in any order.<br>[DON!! x1] [When Attacking] You may trash 1 card from your hand: Give up to 1 of your opponent's Characters −2000 power during this turn.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-022.png?260529"
+  },
+  {
+    "id": "EB04-022_p1",
+    "set": "OP14-EB04",
+    "name": "Issho",
+    "rarity": "Rare",
+    "category": "Character",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 5,
+    "power": 7000,
+    "counter": null,
+    "block": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "types": [
+      "Dressrosa",
+      "Navy"
+    ],
+    "effect": "[On Play] You may trash 2 cards from your hand: If your opponent has 6 or more cards in their hand, your opponent places 2 cards from their hand at the bottom of their deck in any order.<br>[DON!! x1] [When Attacking] You may trash 1 card from your hand: Give up to 1 of your opponent's Characters −2000 power during this turn.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-022_p1.png?260529"
+  },
+  {
+    "id": "EB04-023",
+    "set": "OP14-EB04",
+    "name": "Chaka &amp; Pell",
+    "rarity": "Rare",
+    "category": "Character",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 8,
+    "power": 9000,
+    "counter": null,
+    "block": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "types": [
+      "Alabasta"
+    ],
+    "effect": "[Double Attack] (This card deals 2 damage.)<br>[On Play] You may give your active Leader −5000 power during this turn: Draw 2 cards.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-023.png?260529"
+  },
+  {
+    "id": "EB04-024",
+    "set": "OP14-EB04",
+    "name": "Terracotta",
+    "rarity": "Common",
+    "category": "Character",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 2,
+    "power": null,
+    "counter": 2000,
+    "block": 4,
+    "attributes": [
+      "Wisdom"
+    ],
+    "types": [
+      "Alabasta"
+    ],
+    "effect": "[Activate: Main] You may rest this Character and trash 1 card from your hand: Up to 1 of your {Alabasta} type Characters gains [Unblockable] during this turn.<br>(This card cannot be blocked.)",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-024.png?260529"
+  },
+  {
+    "id": "EB04-025",
+    "set": "OP14-EB04",
+    "name": "Nefeltari Vivi",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 7,
+    "power": 4000,
+    "counter": 1000,
+    "block": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "types": [
+      "Alabasta"
+    ],
+    "effect": "[On Play] Play up to 1 {Alabasta} type Character card with a cost of 8 or less other than [Nefeltari Vivi] from your hand. Then, your opponent places 1 card from their hand at the bottom of their deck.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-025.png?260529"
+  },
+  {
+    "id": "EB04-025_p1",
+    "set": "OP14-EB04",
+    "name": "Nefeltari Vivi",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 7,
+    "power": 4000,
+    "counter": 1000,
+    "block": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "types": [
+      "Alabasta"
+    ],
+    "effect": "[On Play] Play up to 1 {Alabasta} type Character card with a cost of 8 or less other than [Nefeltari Vivi] from your hand. Then, your opponent places 1 card from their hand at the bottom of their deck.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-025_p1.png?260529"
+  },
+  {
+    "id": "EB04-026",
+    "set": "OP14-EB04",
+    "name": "Bluegrass",
+    "rarity": "Common",
+    "category": "Character",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 4,
+    "power": 6000,
+    "counter": null,
+    "block": 4,
+    "attributes": [
+      "Special"
+    ],
+    "types": [
+      "Egghead",
+      "Navy"
+    ],
+    "effect": "[On Play] Place up to 1 of your opponent's Characters with a cost of 1 or less at the bottom of the owner's deck.<br>[When Attacking] Draw 1 card and trash 1 card from your hand.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-026.png?260529"
+  },
+  {
+    "id": "EB04-027",
+    "set": "OP14-EB04",
+    "name": "Boa Hancock",
+    "rarity": "Rare",
+    "category": "Character",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 5,
+    "power": 7000,
+    "counter": null,
+    "block": 4,
+    "attributes": [
+      "Special"
+    ],
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Kuja Pirates"
+    ],
+    "effect": "[On Play] Draw 2 cards and trash 1 card from your hand.",
+    "trigger": "[Trigger] Play up to 1 Character card with 5000 power or less and a [Trigger] from your hand.",
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-027.png?260529"
+  },
+  {
+    "id": "EB04-028",
+    "set": "OP14-EB04",
+    "name": "Ice Time",
+    "rarity": "Rare",
+    "category": "Event",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 5,
+    "power": null,
+    "counter": null,
+    "block": 4,
+    "attributes": [],
+    "types": [
+      "Navy"
+    ],
+    "effect": "[Main] You may trash 1 card from your hand: If your Leader has the {Navy} type, up to 2 of your opponent's Characters with 10000 power or less cannot attack until the end of your opponent's next End Phase.",
+    "trigger": "[Trigger] Return up to 1 Character with a cost of 5 or less to the owner's hand.",
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-028.png?260529"
+  },
+  {
+    "id": "EB04-029",
+    "set": "OP14-EB04",
+    "name": "I Heard the Sound...of a Lady's Teardrops Falling",
+    "rarity": "Uncommon",
+    "category": "Event",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 1,
+    "power": null,
+    "counter": null,
+    "block": 4,
+    "attributes": [],
+    "types": [
+      "Punk Hazard",
+      "Straw Hat Crew"
+    ],
+    "effect": "[Main] If your Leader is [Sanji], look at 3 cards from the top of your deck; reveal up to 1 [Sanji] or Event card and add it to your hand. Then, trash the rest.<br>[Counter] You may trash 1 card from your hand: Up to 1 of your [Sanji] cards gains +4000 power during this battle.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-029.png?260529"
+  },
+  {
+    "id": "EB04-030",
+    "set": "OP14-EB04",
+    "name": "Kaido",
+    "rarity": "Rare",
+    "category": "Character",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 7,
+    "power": 9000,
+    "counter": null,
+    "block": 4,
+    "attributes": [
+      "Strike"
+    ],
+    "types": [
+      "The Four Emperors",
+      "Animal Kingdom Pirates"
+    ],
+    "effect": "If this Character would be K.O.'d, you may return 1 DON!! card from your field to your DON!! deck instead.<br>[On Play] DON!! −2: If your Leader has the {Animal Kingdom Pirates} type, this Character gains [Rush] during this turn. Then, rest up to 1 of your opponent's Characters with a cost of 7 or less.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-030.png?260529"
+  },
+  {
+    "id": "EB04-031",
+    "set": "OP14-EB04",
+    "name": "King",
+    "rarity": "Rare",
+    "category": "Character",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 6,
+    "power": 7000,
+    "counter": null,
+    "block": 4,
+    "attributes": [
+      "Special"
+    ],
+    "types": [
+      "Lunarian",
+      "Animal Kingdom Pirates"
+    ],
+    "effect": "If this Character would be K.O.'d, you may return 1 DON!! card from your field to your DON!! deck instead.<br>[Activate: Main] [Once Per Turn] If your Leader has the {Animal Kingdom Pirates} type and you have no other [King] Characters, add up to 1 DON!! card from your DON!! deck and set it as active, and add up to 1 additional DON!! card and rest it.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-031.png?260529"
+  },
+  {
+    "id": "EB04-031_p1",
+    "set": "OP14-EB04",
+    "name": "King",
+    "rarity": "Rare",
+    "category": "Character",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 6,
+    "power": 7000,
+    "counter": null,
+    "block": 4,
+    "attributes": [
+      "Special"
+    ],
+    "types": [
+      "Lunarian",
+      "Animal Kingdom Pirates"
+    ],
+    "effect": "If this Character would be K.O.'d, you may return 1 DON!! card from your field to your DON!! deck instead.<br>[Activate: Main] [Once Per Turn] If your Leader has the {Animal Kingdom Pirates} type and you have no other [King] Characters, add up to 1 DON!! card from your DON!! deck and set it as active, and add up to 1 additional DON!! card and rest it.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-031_p1.png?260529"
+  },
+  {
+    "id": "EB04-032",
+    "set": "OP14-EB04",
+    "name": "Queen",
+    "rarity": "Rare",
+    "category": "Character",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 1,
+    "power": 1000,
+    "counter": 1000,
+    "block": 4,
+    "attributes": [
+      "Strike"
+    ],
+    "types": [
+      "Animal Kingdom Pirates"
+    ],
+    "effect": "[On Play] You may trash 1 {Animal Kingdom Pirates} type card from your hand: Draw 2 cards.<br>[Activate: Main] [Once Per Turn] You may rest 2 of your DON!! cards: If your Leader has the {Animal Kingdom Pirates} type, add up to 1 DON!! card from your DON!! deck and rest it.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-032.png?260529"
+  },
+  {
+    "id": "EB04-033",
+    "set": "OP14-EB04",
+    "name": "Groggy Monsters",
+    "rarity": "Common",
+    "category": "Character",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 5,
+    "power": 6000,
+    "counter": 1000,
+    "block": 4,
+    "attributes": [
+      "Strike"
+    ],
+    "types": [
+      "Giant",
+      "Fish-Man",
+      "Foxy Pirates"
+    ],
+    "effect": "[On Play] DON!! −1: If you have 3 or more {Foxy Pirates} type Characters, K.O. up to 1 of your opponent's Characters with 6000 base power or less.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-033.png?260529"
+  },
+  {
+    "id": "EB04-034",
+    "set": "OP14-EB04",
+    "name": "Charlotte Pudding",
+    "rarity": "Common",
+    "category": "Character",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 2,
+    "power": 1000,
+    "counter": 1000,
+    "block": 4,
+    "attributes": [
+      "Wisdom"
+    ],
+    "types": [
+      "Big Mom Pirates"
+    ],
+    "effect": "[Blocker]<br>[On Your Opponent's Attack] [Once Per Turn] You may trash 1 card from your hand: If you have 4 or more Events in your trash, up to 1 of your Leader or Character cards gains +2000 power during this battle.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-034.png?260529"
+  },
+  {
+    "id": "EB04-035",
+    "set": "OP14-EB04",
+    "name": "Hitokiri Kamazo",
+    "rarity": "Common",
+    "category": "Character",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 3,
+    "power": 4000,
+    "counter": 1000,
+    "block": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "types": [
+      "SMILE",
+      "Supernovas",
+      "Kid Pirates"
+    ],
+    "effect": "[Blocker]<br>[Your Turn] [Once Per Turn] When a DON!! card on your field is returned to your DON!! deck, if your Leader has the {Kid Pirates} type, add up to 1 DON!! card from your DON!! deck and rest it.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-035.png?260529"
+  },
+  {
+    "id": "EB04-036",
+    "set": "OP14-EB04",
+    "name": "Foxy",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 8,
+    "power": 9000,
+    "counter": null,
+    "block": 4,
+    "attributes": [
+      "Special"
+    ],
+    "types": [
+      "Foxy Pirates"
+    ],
+    "effect": "[On Play] DON!! −1: If your Leader has the {Foxy Pirates} type, draw 2 cards and trash 1 card from your hand. Then, rest up to 1 of your opponent's Characters with a cost of 9 or less.<br>[Activate: Main] [Once Per Turn] Add up to 1 DON!! card from your DON!! deck and rest it.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-036.png?260529"
+  },
+  {
+    "id": "EB04-036_p1",
+    "set": "OP14-EB04",
+    "name": "Foxy",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 8,
+    "power": 9000,
+    "counter": null,
+    "block": 4,
+    "attributes": [
+      "Special"
+    ],
+    "types": [
+      "Foxy Pirates"
+    ],
+    "effect": "[On Play] DON!! −1: If your Leader has the {Foxy Pirates} type, draw 2 cards and trash 1 card from your hand. Then, rest up to 1 of your opponent's Characters with a cost of 9 or less.<br>[Activate: Main] [Once Per Turn] Add up to 1 DON!! card from your DON!! deck and rest it.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-036_p1.png?260529"
+  },
+  {
+    "id": "EB04-037",
+    "set": "OP14-EB04",
+    "name": "Porche",
+    "rarity": "Common",
+    "category": "Character",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 1,
+    "power": 2000,
+    "counter": 1000,
+    "block": 4,
+    "attributes": [
+      "Wisdom"
+    ],
+    "types": [
+      "Foxy Pirates"
+    ],
+    "effect": "[On Play] If your Leader has the {Foxy Pirates} type, look at 5 cards from the top of your deck; reveal up to 1 {Foxy Pirates} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-037.png?260529"
+  },
+  {
+    "id": "EB04-038",
+    "set": "OP14-EB04",
+    "name": "Rosinante &amp; Law",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 6,
+    "power": 8000,
+    "counter": null,
+    "block": 4,
+    "attributes": [
+      "Special",
+      "Wisdom"
+    ],
+    "types": [
+      "Navy",
+      "Donquixote Pirates"
+    ],
+    "effect": "Under the rules of this game, also treat this card's name as [Trafalgar Law] and [Donquixote Rosinante].<br>[Blocker]<br>[On Play] If the number of DON!! cards on your field is equal to or less than the number on your opponent's field, draw 1 card. Then, add up to 1 DON!! card from your DON!! deck and set it as active.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-038.png?260529"
+  },
+  {
+    "id": "EB04-038_p1",
+    "set": "OP14-EB04",
+    "name": "Rosinante &amp; Law",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 6,
+    "power": 8000,
+    "counter": null,
+    "block": 4,
+    "attributes": [
+      "Special",
+      "Wisdom"
+    ],
+    "types": [
+      "Navy",
+      "Donquixote Pirates"
+    ],
+    "effect": "Under the rules of this game, also treat this card's name as [Trafalgar Law] and [Donquixote Rosinante].<br>[Blocker]<br>[On Play] If the number of DON!! cards on your field is equal to or less than the number on your opponent's field, draw 1 card. Then, add up to 1 DON!! card from your DON!! deck and set it as active.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-038_p1.png?260529"
+  },
+  {
+    "id": "EB04-039",
+    "set": "OP14-EB04",
+    "name": "Eustass\"Captain\"Kid",
+    "rarity": "Rare",
+    "category": "Character",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 7,
+    "power": 8000,
+    "counter": null,
+    "block": 4,
+    "attributes": [
+      "Special"
+    ],
+    "types": [
+      "Supernovas",
+      "Kid Pirates"
+    ],
+    "effect": "[On Play] Add up to 1 DON!! card from your DON!! deck and set it as active.<br>[Activate: Main] You may trash this Character: Play up to 1 {Kid Pirates} type Character card with a cost of 5 or less from your hand.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-039.png?260529"
+  },
+  {
+    "id": "EB04-040",
+    "set": "OP14-EB04",
+    "name": "Flame Dragon Torch",
+    "rarity": "Rare",
+    "category": "Event",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 1,
+    "power": null,
+    "counter": null,
+    "block": 4,
+    "attributes": [],
+    "types": [
+      "The Four Emperors",
+      "Animal Kingdom Pirates"
+    ],
+    "effect": "[Main] You may rest 6 of your DON!! cards: Up to 1 of your [Kaido] cards gains +3000 power during this turn. Then, rest up to 1 of your opponent's Characters.<br>[Counter] DON!! −1: Your Leader gains +4000 power during this battle.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-040.png?260529"
+  },
+  {
+    "id": "EB04-041",
+    "set": "OP14-EB04",
+    "name": "Stealth Black",
+    "rarity": "Common",
+    "category": "Event",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 3,
+    "power": null,
+    "counter": null,
+    "block": 4,
+    "attributes": [],
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[Main] If your Leader is [Sanji] and you have 4 or more DON!! cards on your field, play up to 1 [Sanji] with 6000 power or less from your hand or trash.",
+    "trigger": "[Trigger] Draw 2 cards and trash 1 card from your hand.",
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-041.png?260529"
+  },
+  {
+    "id": "OP12-108_p2",
+    "set": "OP14-EB04",
+    "name": "Donquixote Rosinante",
+    "rarity": "TreasureRare",
+    "category": "Character",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 1,
+    "power": 2000,
+    "counter": 1000,
+    "block": 3,
+    "attributes": [
+      "Special"
+    ],
+    "types": [
+      "Navy",
+      "Donquixote Pirates"
+    ],
+    "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 [Trafalgar Law] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-108_p2.png?260529"
+  },
+  {
+    "id": "OP14-001",
+    "set": "OP14-EB04",
+    "name": "Trafalgar Law",
+    "rarity": "Leader",
+    "category": "Leader",
+    "colors": [
+      "Red"
+    ],
+    "cost": 5,
+    "power": 5000,
+    "counter": null,
+    "block": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Supernovas",
+      "Heart Pirates"
+    ],
+    "effect": "[Activate: Main] [Once Per Turn] Select 2 of your {Supernovas} or {Heart Pirates} type Characters. Swap the base power of the selected Characters with each other during this turn.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-001.png?260529"
+  },
+  {
+    "id": "OP14-001_p1",
+    "set": "OP14-EB04",
+    "name": "Trafalgar Law",
+    "rarity": "Leader",
+    "category": "Leader",
+    "colors": [
+      "Red"
+    ],
+    "cost": 5,
+    "power": 5000,
+    "counter": null,
+    "block": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Supernovas",
+      "Heart Pirates"
+    ],
+    "effect": "[Activate: Main] [Once Per Turn] Select 2 of your {Supernovas} or {Heart Pirates} type Characters. Swap the base power of the selected Characters with each other during this turn.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-001_p1.png?260529"
+  },
+  {
+    "id": "OP14-002",
+    "set": "OP14-EB04",
+    "name": "Urouge",
+    "rarity": "Uncommon",
+    "category": "Character",
+    "colors": [
+      "Red"
+    ],
+    "cost": 3,
+    "power": 2000,
+    "counter": 1000,
+    "block": 4,
+    "attributes": [
+      "Strike"
+    ],
+    "types": [
+      "Supernovas",
+      "Fallen Monk Pirates"
+    ],
+    "effect": "[When Attacking] If this Character has 5000 power or more, draw 1 card and K.O. up to 1 of your opponent's Characters with 3000 base power or less.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-002.png?260529"
+  },
+  {
+    "id": "OP14-003",
+    "set": "OP14-EB04",
+    "name": "Capone\"Gang\"Bege",
+    "rarity": "Common",
+    "category": "Character",
+    "colors": [
+      "Red"
+    ],
+    "cost": 1,
+    "power": 2000,
+    "counter": 1000,
+    "block": 4,
+    "attributes": [
+      "Ranged"
+    ],
+    "types": [
+      "Supernovas",
+      "Firetank Pirates"
+    ],
+    "effect": "This Character cannot be K.O.'d by effects of your opponent's Characters with 5000 base power or less.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-003.png?260529"
+  },
+  {
+    "id": "OP14-004",
+    "set": "OP14-EB04",
+    "name": "Cavendish",
+    "rarity": "Uncommon",
+    "category": "Character",
+    "colors": [
+      "Red"
+    ],
+    "cost": 2,
+    "power": 2000,
+    "counter": 1000,
+    "block": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "types": [
+      "Dressrosa",
+      "Supernovas",
+      "Beautiful Pirates"
+    ],
+    "effect": "If this Character has 5000 power or more, this Character gains [Rush].<br>(This card can attack on the turn in which it is played.)",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-004.png?260529"
+  },
+  {
+    "id": "OP14-005",
+    "set": "OP14-EB04",
+    "name": "Killer",
+    "rarity": "Common",
+    "category": "Character",
+    "colors": [
+      "Red"
+    ],
+    "cost": 1,
+    "power": 1000,
+    "counter": 1000,
+    "block": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "types": [
+      "Supernovas",
+      "Kid Pirates"
+    ],
+    "effect": "[Activate: Main] [Once Per Turn] Give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-005.png?260529"
+  },
+  {
+    "id": "OP14-006",
+    "set": "OP14-EB04",
+    "name": "Shachi &amp; Penguin",
+    "rarity": "Common",
+    "category": "Character",
+    "colors": [
+      "Red"
+    ],
+    "cost": 2,
+    "power": 2000,
+    "counter": 1000,
+    "block": 4,
+    "attributes": [
+      "Ranged"
+    ],
+    "types": [
+      "Heart Pirates"
+    ],
+    "effect": "[When Attacking] If this Character has 5000 power or more, give up to 1 of your opponent's Characters −2000 power during this turn.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-006.png?260529"
+  },
+  {
+    "id": "OP14-007",
+    "set": "OP14-EB04",
+    "name": "Jewelry Bonney",
+    "rarity": "Common",
+    "category": "Character",
+    "colors": [
+      "Red"
+    ],
+    "cost": 6,
+    "power": 7000,
+    "counter": 2000,
+    "block": 4,
+    "attributes": [
+      "Special"
+    ],
+    "types": [
+      "Supernovas",
+      "Bonney Pirates"
+    ],
+    "effect": "-",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-007.png?260529"
+  },
+  {
+    "id": "OP14-008",
+    "set": "OP14-EB04",
+    "name": "Scratchmen Apoo",
+    "rarity": "Common",
+    "category": "Character",
+    "colors": [
+      "Red"
+    ],
+    "cost": 3,
+    "power": 5000,
+    "counter": 1000,
+    "block": 4,
+    "attributes": [
+      "Special"
+    ],
+    "types": [
+      "Supernovas",
+      "On-Air Pirates"
+    ],
+    "effect": "-",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-008.png?260529"
+  },
+  {
+    "id": "OP14-009",
+    "set": "OP14-EB04",
+    "name": "Trafalgar Law",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "colors": [
+      "Red"
+    ],
+    "cost": 9,
+    "power": 10000,
+    "counter": null,
+    "block": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Supernovas",
+      "Heart Pirates"
+    ],
+    "effect": "[Rush]<br>[On Your Opponent's Attack] [Once Per Turn] You may trash 2 cards from your hand: Select your Leader and 1 Character. Swap the base power of the selected cards with each other during this battle.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-009.png?260529"
+  },
+  {
+    "id": "OP14-009_p1",
+    "set": "OP14-EB04",
+    "name": "Trafalgar Law",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "colors": [
+      "Red"
+    ],
+    "cost": 9,
+    "power": 10000,
+    "counter": null,
+    "block": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Supernovas",
+      "Heart Pirates"
+    ],
+    "effect": "[Rush]<br>[On Your Opponent's Attack] [Once Per Turn] You may trash 2 cards from your hand: Select your Leader and 1 Character. Swap the base power of the selected cards with each other during this battle.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-009_p1.png?260529"
+  },
+  {
+    "id": "OP14-010",
+    "set": "OP14-EB04",
+    "name": "Basil Hawkins",
+    "rarity": "Uncommon",
+    "category": "Character",
+    "colors": [
+      "Red"
+    ],
+    "cost": 1,
+    "power": 2000,
+    "counter": 1000,
+    "block": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "types": [
+      "Supernovas",
+      "Hawkins Pirates"
+    ],
+    "effect": "[On K.O.] Look at 5 cards from the top of your deck; play up to 1 {Supernovas} type Character card with 2000 power or less other than [Basil Hawkins]. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-010.png?260529"
+  },
+  {
+    "id": "OP14-011",
+    "set": "OP14-EB04",
+    "name": "Bartolomeo",
+    "rarity": "Uncommon",
+    "category": "Character",
+    "colors": [
+      "Red"
+    ],
+    "cost": 2,
+    "power": 2000,
+    "counter": 2000,
+    "block": 4,
+    "attributes": [
+      "Special"
+    ],
+    "types": [
+      "Dressrosa",
+      "Supernovas",
+      "Barto Club"
+    ],
+    "effect": "[DON!! x2] This Character gains [Blocker].<br>(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-011.png?260529"
+  },
+  {
+    "id": "OP14-012",
+    "set": "OP14-EB04",
+    "name": "Bepo",
+    "rarity": "Common",
+    "category": "Character",
+    "colors": [
+      "Red"
+    ],
+    "cost": 2,
+    "power": 2000,
+    "counter": 1000,
+    "block": 4,
+    "attributes": [
+      "Strike"
+    ],
+    "types": [
+      "Minks",
+      "Heart Pirates"
+    ],
+    "effect": "[When Attacking] If this Character has 5000 power or more, give up to 2 rested DON!! cards to your Leader or 1 of your Characters.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-012.png?260529"
+  },
+  {
+    "id": "OP14-013",
+    "set": "OP14-EB04",
+    "name": "Monkey.D.Luffy",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "colors": [
+      "Red"
+    ],
+    "cost": 1,
+    "power": null,
+    "counter": 1000,
+    "block": 4,
+    "attributes": [
+      "Strike"
+    ],
+    "types": [
+      "Supernovas",
+      "Straw Hat Crew"
+    ],
+    "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Supernovas} type card other than [Monkey.D.Luffy] and add it to your hand. Then, place the rest at the bottom of your deck in any order.<br>[When Attacking] Give up to 1 of your opponent's Characters −1000 power during this turn.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-013.png?260529"
+  },
+  {
+    "id": "OP14-013_p1",
+    "set": "OP14-EB04",
+    "name": "Monkey.D.Luffy",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "colors": [
+      "Red"
+    ],
+    "cost": 1,
+    "power": null,
+    "counter": 1000,
+    "block": 4,
+    "attributes": [
+      "Strike"
+    ],
+    "types": [
+      "Supernovas",
+      "Straw Hat Crew"
+    ],
+    "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Supernovas} type card other than [Monkey.D.Luffy] and add it to your hand. Then, place the rest at the bottom of your deck in any order.<br>[When Attacking] Give up to 1 of your opponent's Characters −1000 power during this turn.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-013_p1.png?260529"
+  },
+  {
+    "id": "OP14-014",
+    "set": "OP14-EB04",
+    "name": "Eustass\"Captain\"Kid",
+    "rarity": "Rare",
+    "category": "Character",
+    "colors": [
+      "Red"
+    ],
+    "cost": 4,
+    "power": 5000,
+    "counter": 1000,
+    "block": 4,
+    "attributes": [
+      "Special"
+    ],
+    "types": [
+      "Supernovas",
+      "Kid Pirates"
+    ],
+    "effect": "[Blocker]<br>[On Play] If your Leader has the {Supernovas} type, play up to 1 red Character card with 2000 power or less from your hand.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-014.png?260529"
+  },
+  {
+    "id": "OP14-015",
+    "set": "OP14-EB04",
+    "name": "Roronoa Zoro",
+    "rarity": "Rare",
+    "category": "Character",
+    "colors": [
+      "Red"
+    ],
+    "cost": 7,
+    "power": 8000,
+    "counter": null,
+    "block": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "types": [
+      "Supernovas",
+      "Straw Hat Crew"
+    ],
+    "effect": "[Rush] (This card can attack on the turn in which it is played.)<br>[When Attacking] Give up to 1 of your opponent's Characters −1000 power during this turn.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-015.png?260529"
+  },
+  {
+    "id": "OP14-015_p1",
+    "set": "OP14-EB04",
+    "name": "Roronoa Zoro",
+    "rarity": "Rare",
+    "category": "Character",
+    "colors": [
+      "Red"
+    ],
+    "cost": 7,
+    "power": 8000,
+    "counter": null,
+    "block": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "types": [
+      "Supernovas",
+      "Straw Hat Crew"
+    ],
+    "effect": "[Rush] (This card can attack on the turn in which it is played.)<br>[When Attacking] Give up to 1 of your opponent's Characters −1000 power during this turn.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-015_p1.png?260529"
+  },
+  {
+    "id": "OP14-016",
+    "set": "OP14-EB04",
+    "name": "X.Drake",
+    "rarity": "Rare",
+    "category": "Character",
+    "colors": [
+      "Red"
+    ],
+    "cost": 5,
+    "power": 7000,
+    "counter": null,
+    "block": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "types": [
+      "Supernovas",
+      "Navy",
+      "Drake Pirates"
+    ],
+    "effect": "[Opponent's Turn] [Once Per Turn] If your {Supernovas} type Character would be removed from the field by your opponent's effect, you may give your Leader −2000 power during this turn instead.<br>[DON!! x1] [When Attacking] Give up to 1 of your opponent's Characters −2000 power during this turn.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-016.png?260529"
+  },
+  {
+    "id": "OP14-017",
+    "set": "OP14-EB04",
+    "name": "Chambres",
+    "rarity": "Common",
+    "category": "Event",
+    "colors": [
+      "Red"
+    ],
+    "cost": 3,
+    "power": null,
+    "counter": null,
+    "block": 4,
+    "attributes": [],
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Supernovas",
+      "Heart Pirates"
+    ],
+    "effect": "[Main] Select 2 of your opponent's Characters with 9000 base power or less. Swap the base power of the selected Characters with each other during this turn.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-017.png?260529"
+  },
+  {
+    "id": "OP14-018",
+    "set": "OP14-EB04",
+    "name": "Time for the Counterattack",
+    "rarity": "Rare",
+    "category": "Event",
+    "colors": [
+      "Red"
+    ],
+    "cost": 1,
+    "power": null,
+    "counter": null,
+    "block": 4,
+    "attributes": [],
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Supernovas",
+      "Heart Pirates"
+    ],
+    "effect": "[Counter] If there is a Character with 8000 power or more, up to 1 of your Leader or Character cards gains +4000 power during this battle.",
+    "trigger": "[Trigger] Play up to 1 red Character card with 2000 power or less from your hand.",
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-018.png?260529"
+  },
+  {
+    "id": "OP14-019",
+    "set": "OP14-EB04",
+    "name": "I Have a Plan to Take Down One of the Four Emperors!!",
+    "rarity": "Uncommon",
+    "category": "Event",
+    "colors": [
+      "Red"
+    ],
+    "cost": 1,
+    "power": null,
+    "counter": null,
+    "block": 4,
+    "attributes": [],
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Supernovas",
+      "Heart Pirates"
+    ],
+    "effect": "[Main] Look at 4 cards from the top of your deck; reveal up to 1 {Supernovas} or {Straw Hat Crew} type Character card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "[Trigger] Draw 1 card.",
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-019.png?260529"
+  },
+  {
+    "id": "OP14-020",
+    "set": "OP14-EB04",
+    "name": "Dracule Mihawk",
+    "rarity": "Leader",
+    "category": "Leader",
+    "colors": [
+      "Green"
+    ],
+    "cost": 5,
+    "power": 5000,
+    "counter": null,
+    "block": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "types": [
+      "The Seven Warlords of the Sea"
+    ],
+    "effect": "If your opponent's Leader has the &lt;Slash&gt; attribute, this Leader gains +1000 power.<br>[Activate: Main] [Once Per Turn] You may rest 1 of your cards: If there is a Character with a cost of 5 or more, set up to 3 of your DON!! cards as active. Then, you cannot play Character cards during this turn.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-020.png?260529"
+  },
+  {
+    "id": "OP14-020_p1",
+    "set": "OP14-EB04",
+    "name": "Dracule Mihawk",
+    "rarity": "Leader",
+    "category": "Leader",
+    "colors": [
+      "Green"
+    ],
+    "cost": 5,
+    "power": 5000,
+    "counter": null,
+    "block": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "types": [
+      "The Seven Warlords of the Sea"
+    ],
+    "effect": "If your opponent's Leader has the &lt;Slash&gt; attribute, this Leader gains +1000 power.<br>[Activate: Main] [Once Per Turn] You may rest 1 of your cards: If there is a Character with a cost of 5 or more, set up to 3 of your DON!! cards as active. Then, you cannot play Character cards during this turn.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-020_p1.png?260529"
+  },
+  {
+    "id": "OP14-021",
+    "set": "OP14-EB04",
+    "name": "Issho",
+    "rarity": "Common",
+    "category": "Character",
+    "colors": [
+      "Green"
+    ],
+    "cost": 6,
+    "power": 7000,
+    "counter": 1000,
+    "block": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "types": [
+      "Dressrosa",
+      "Navy"
+    ],
+    "effect": "[Your Turn] When this Character becomes rested, you may add 1 card from the top of your Life cards to your hand. If you do, up to 1 of your opponent's rested Characters or Stages will not become active in your opponent's next Refresh Phase.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-021.png?260529"
+  },
+  {
+    "id": "OP14-022",
+    "set": "OP14-EB04",
+    "name": "Usopp",
+    "rarity": "Uncommon",
+    "category": "Character",
+    "colors": [
+      "Green"
+    ],
+    "cost": 4,
+    "power": 5000,
+    "counter": 1000,
+    "block": 4,
+    "attributes": [
+      "Ranged"
+    ],
+    "types": [
+      "FILM",
+      "Straw Hat Crew"
+    ],
+    "effect": "[End of Your Turn] If your Leader has the {FILM} or {Straw Hat Crew} type, set up to 2 of your DON!! cards as active.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-022.png?260529"
+  },
+  {
+    "id": "OP14-023",
+    "set": "OP14-EB04",
+    "name": "Kikunojo",
+    "rarity": "Rare",
+    "category": "Character",
+    "colors": [
+      "Green"
+    ],
+    "cost": 1,
+    "power": 2000,
+    "counter": 2000,
+    "block": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "types": [
+      "Land of Wano",
+      "The Akazaya Nine"
+    ],
+    "effect": "[End of Your Turn] Set this Character as active.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-023.png?260529"
+  },
+  {
+    "id": "OP14-024",
+    "set": "OP14-EB04",
+    "name": "Kin'emon",
+    "rarity": "Common",
+    "category": "Character",
+    "colors": [
+      "Green"
+    ],
+    "cost": 4,
+    "power": 5000,
+    "counter": 1000,
+    "block": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "types": [
+      "Land of Wano",
+      "The Akazaya Nine"
+    ],
+    "effect": "[On Play] Set up to 3 of your DON!! cards as active. Then, you cannot play Character cards during this turn.<br>[On K.O.] Rest up to 1 of your opponent's cards.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-024.png?260529"
+  },
+  {
+    "id": "OP14-025",
+    "set": "OP14-EB04",
+    "name": "Kuro",
+    "rarity": "Common",
+    "category": "Character",
+    "colors": [
+      "Green"
+    ],
+    "cost": 7,
+    "power": 8000,
+    "counter": null,
+    "block": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "types": [
+      "East Blue",
+      "Black Cat Pirates"
+    ],
+    "effect": "[On Play] If your Leader is [Kuro], play up to 1 {East Blue} type Character card with a cost of 6 or less from your hand.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-025.png?260529"
+  },
+  {
+    "id": "OP14-026",
+    "set": "OP14-EB04",
+    "name": "Kouzuki Oden",
+    "rarity": "Uncommon",
+    "category": "Character",
+    "colors": [
+      "Green"
+    ],
+    "cost": 4,
+    "power": 5000,
+    "counter": 2000,
+    "block": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "types": [
+      "Land of Wano",
+      "Kouzuki Clan"
+    ],
+    "effect": "[Opponent's Turn] If this Character is rested, this Character gains +2000 power.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-026.png?260529"
+  },
+  {
+    "id": "OP14-027",
+    "set": "OP14-EB04",
+    "name": "Shanks",
+    "rarity": "Rare",
+    "category": "Character",
+    "colors": [
+      "Green"
+    ],
+    "cost": 7,
+    "power": 9000,
+    "counter": null,
+    "block": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "types": [
+      "East Blue",
+      "The Four Emperors",
+      "Red-Haired Pirates"
+    ],
+    "effect": "[Your Turn] When this Character becomes rested, rest up to 1 of your opponent's Characters with 7000 base power or less.<br>[Opponent's Turn] If this Character is rested, give all of your opponent's Characters −1000 power.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-027.png?260529"
+  },
+  {
+    "id": "OP14-027_p1",
+    "set": "OP14-EB04",
+    "name": "Shanks",
+    "rarity": "Rare",
+    "category": "Character",
+    "colors": [
+      "Green"
+    ],
+    "cost": 7,
+    "power": 9000,
+    "counter": null,
+    "block": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "types": [
+      "East Blue",
+      "The Four Emperors",
+      "Red-Haired Pirates"
+    ],
+    "effect": "[Your Turn] When this Character becomes rested, rest up to 1 of your opponent's Characters with 7000 base power or less.<br>[Opponent's Turn] If this Character is rested, give all of your opponent's Characters −1000 power.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-027_p1.png?260529"
+  },
+  {
+    "id": "OP14-028",
+    "set": "OP14-EB04",
+    "name": "Johnny",
+    "rarity": "Common",
+    "category": "Character",
+    "colors": [
+      "Green"
+    ],
+    "cost": 2,
+    "power": 2000,
+    "counter": 1000,
+    "block": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "types": [
+      "East Blue"
+    ],
+    "effect": "[Your Turn] When this Character becomes rested, K.O. up to 1 of your opponent's rested Characters with a cost of 2 or less.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-028.png?260529"
+  },
+  {
+    "id": "OP14-029",
+    "set": "OP14-EB04",
+    "name": "Tashigi",
+    "rarity": "Rare",
+    "category": "Character",
+    "colors": [
+      "Green"
+    ],
+    "cost": 5,
+    "power": 6000,
+    "counter": 1000,
+    "block": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "types": [
+      "Navy"
+    ],
+    "effect": "[Opponent's Turn] If this Character would be removed from the field by your opponent's effect, you may rest 1 of your cards instead.<br>[Activate: Main] [Once Per Turn] You may rest 2 of your cards: This Character gains +2000 power until the end of your opponent's next End Phase.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-029.png?260529"
+  },
+  {
+    "id": "OP14-030",
+    "set": "OP14-EB04",
+    "name": "Chaka &amp; Pell",
+    "rarity": "Common",
+    "category": "Character",
+    "colors": [
+      "Green"
+    ],
+    "cost": 6,
+    "power": 7000,
+    "counter": 2000,
+    "block": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "types": [
+      "Alabasta"
+    ],
+    "effect": "-",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-030.png?260529"
+  },
+  {
+    "id": "OP14-031",
+    "set": "OP14-EB04",
+    "name": "Nami",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "colors": [
+      "Green"
+    ],
+    "cost": 4,
+    "power": 2000,
+    "counter": 1000,
+    "block": 4,
+    "attributes": [
+      "Special"
+    ],
+    "types": [
+      "FILM",
+      "Straw Hat Crew"
+    ],
+    "effect": "[Blocker]<br>[On Play] Rest up to 2 of your opponent's Characters with a cost of 8 or less. Then, set up to 5 of your DON!! cards as active at the end of this turn.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-031.png?260529"
+  },
+  {
+    "id": "OP14-031_p1",
+    "set": "OP14-EB04",
+    "name": "Nami",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "colors": [
+      "Green"
+    ],
+    "cost": 4,
+    "power": 2000,
+    "counter": 1000,
+    "block": 4,
+    "attributes": [
+      "Special"
+    ],
+    "types": [
+      "FILM",
+      "Straw Hat Crew"
+    ],
+    "effect": "[Blocker]<br>[On Play] Rest up to 2 of your opponent's Characters with a cost of 8 or less. Then, set up to 5 of your DON!! cards as active at the end of this turn.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-031_p1.png?260529"
+  },
+  {
+    "id": "OP14-032",
+    "set": "OP14-EB04",
+    "name": "Humandrill",
+    "rarity": "Uncommon",
+    "category": "Character",
+    "colors": [
+      "Green"
+    ],
+    "cost": 3,
+    "power": 4000,
+    "counter": 2000,
+    "block": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "types": [
+      "Animal",
+      "Muggy Kingdom"
+    ],
+    "effect": "[Your Turn] When this Character becomes rested, rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-032.png?260529"
+  },
+  {
+    "id": "OP14-033",
+    "set": "OP14-EB04",
+    "name": "Perona",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "colors": [
+      "Green"
+    ],
+    "cost": 5,
+    "power": 6000,
+    "counter": 1000,
+    "block": 4,
+    "attributes": [
+      "Special"
+    ],
+    "types": [
+      "Muggy Kingdom",
+      "Thriller Bark Pirates"
+    ],
+    "effect": "[On Play] Up to 2 of your opponent's Characters with a cost of 5 or less cannot be rested until the end of your opponent's next End Phase.<br>[On K.O.] You may rest 1 of your cards: Play up to 1 green Character card with a cost of 5 or less from your hand.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-033.png?260529"
+  },
+  {
+    "id": "OP14-033_p1",
+    "set": "OP14-EB04",
+    "name": "Perona",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "colors": [
+      "Green"
+    ],
+    "cost": 5,
+    "power": 6000,
+    "counter": 1000,
+    "block": 4,
+    "attributes": [
+      "Special"
+    ],
+    "types": [
+      "Muggy Kingdom",
+      "Thriller Bark Pirates"
+    ],
+    "effect": "[On Play] Up to 2 of your opponent's Characters with a cost of 5 or less cannot be rested until the end of your opponent's next End Phase.<br>[On K.O.] You may rest 1 of your cards: Play up to 1 green Character card with a cost of 5 or less from your hand.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-033_p1.png?260529"
+  },
+  {
+    "id": "OP14-034",
+    "set": "OP14-EB04",
+    "name": "Monkey.D.Luffy",
+    "rarity": "Rare",
+    "category": "Character",
+    "colors": [
+      "Green"
+    ],
+    "cost": 3,
+    "power": 3000,
+    "counter": 1000,
+    "block": 4,
+    "attributes": [
+      "Strike"
+    ],
+    "types": [
+      "FILM",
+      "Supernovas",
+      "Straw Hat Crew"
+    ],
+    "effect": "[Your Turn] All of your green {Straw Hat Crew} type Characters with a base cost of 4 or more gain +1000 power.<br>[Once Per Turn] If your {Straw Hat Crew} type Character would be K.O.'d by your opponent's effect, you may rest 1 of your Characters instead.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-034.png?260529"
+  },
+  {
+    "id": "OP14-035",
+    "set": "OP14-EB04",
+    "name": "Yosaku",
+    "rarity": "Common",
+    "category": "Character",
+    "colors": [
+      "Green"
+    ],
+    "cost": 2,
+    "power": 2000,
+    "counter": 1000,
+    "block": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "types": [
+      "East Blue"
+    ],
+    "effect": "[Your Turn] When this Character becomes rested, up to 1 of your opponent's rested Characters with a cost of 4 or less will not become active in your opponent's next Refresh Phase.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-035.png?260529"
+  },
+  {
+    "id": "OP14-036",
+    "set": "OP14-EB04",
+    "name": "Strive to Surpass me, Roronoa Zoro!!!",
+    "rarity": "Common",
+    "category": "Event",
+    "colors": [
+      "Green"
+    ],
+    "cost": 1,
+    "power": null,
+    "counter": null,
+    "block": 4,
+    "attributes": [],
+    "types": [
+      "East Blue",
+      "The Seven Warlords of the Sea"
+    ],
+    "effect": "[Counter] You may rest 1 of your cards: Up to 1 of your Leader or Character cards gains +4000 power during this battle.",
+    "trigger": "[Trigger] You may rest 1 of your cards: Rest up to 1 of your opponent's Characters with 7000 base power or less.",
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-036.png?260529"
+  },
+  {
+    "id": "OP14-037",
+    "set": "OP14-EB04",
+    "name": "For Fun",
+    "rarity": "Rare",
+    "category": "Event",
+    "colors": [
+      "Green"
+    ],
+    "cost": 1,
+    "power": null,
+    "counter": null,
+    "block": 4,
+    "attributes": [],
+    "types": [
+      "East Blue",
+      "The Seven Warlords of the Sea"
+    ],
+    "effect": "[Main] You may rest 3 of your cards: K.O. up to 1 of your opponent's rested Characters with 7000 base power or less.<br>[Counter] Your Leader gains +3000 power during this battle.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-037.png?260529"
+  },
+  {
+    "id": "OP14-038",
+    "set": "OP14-EB04",
+    "name": "I Never Bother to Remember the Faces of Trash",
+    "rarity": "Uncommon",
+    "category": "Event",
+    "colors": [
+      "Green"
+    ],
+    "cost": 1,
+    "power": null,
+    "counter": null,
+    "block": 4,
+    "attributes": [],
+    "types": [
+      "The Seven Warlords of the Sea"
+    ],
+    "effect": "[Main] You may rest 2 of your cards: Draw 1 card and rest up to 1 of your opponent's Characters with 7000 base power or less.<br>[Counter] Your Leader gains +3000 power during this battle.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-038.png?260529"
+  },
+  {
+    "id": "OP14-039",
+    "set": "OP14-EB04",
+    "name": "Coffin Boat",
+    "rarity": "Uncommon",
+    "category": "Stage",
+    "colors": [
+      "Green"
+    ],
+    "cost": 1,
+    "power": null,
+    "counter": null,
+    "block": 4,
+    "attributes": [],
+    "types": [
+      "East Blue",
+      "The Seven Warlords of the Sea"
+    ],
+    "effect": "[On Play] If your Leader is [Dracule Mihawk], draw 1 card.<br>[End of Your Turn] If your Leader is [Dracule Mihawk], set up to 1 of your DON!! cards as active.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-039.png?260529"
+  },
+  {
+    "id": "OP14-040",
+    "set": "OP14-EB04",
+    "name": "Jinbe",
+    "rarity": "Leader",
+    "category": "Leader",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 5,
+    "power": 5000,
+    "counter": null,
+    "block": 4,
+    "attributes": [
+      "Strike"
+    ],
+    "types": [
+      "Fish-Man",
+      "The Seven Warlords of the Sea",
+      "The Sun Pirates"
+    ],
+    "effect": "[Activate: Main] You may trash 1 card from your hand: Give up to 2 rested DON!! cards to 1 of your {Fish-Man} or {Merfolk} type Leader or Character cards.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-040.png?260529"
+  },
+  {
+    "id": "OP14-040_p1",
+    "set": "OP14-EB04",
+    "name": "Jinbe",
+    "rarity": "Leader",
+    "category": "Leader",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 5,
+    "power": 5000,
+    "counter": null,
+    "block": 4,
+    "attributes": [
+      "Strike"
+    ],
+    "types": [
+      "Fish-Man",
+      "The Seven Warlords of the Sea",
+      "The Sun Pirates"
+    ],
+    "effect": "[Activate: Main] You may trash 1 card from your hand: Give up to 2 rested DON!! cards to 1 of your {Fish-Man} or {Merfolk} type Leader or Character cards.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-040_p1.png?260529"
+  },
+  {
+    "id": "OP14-041",
+    "set": "OP14-EB04",
+    "name": "Boa Hancock",
+    "rarity": "Leader",
+    "category": "Leader",
+    "colors": [
+      "Blue",
+      "Yellow"
+    ],
+    "cost": 4,
+    "power": 5000,
+    "counter": null,
+    "block": 4,
+    "attributes": [
+      "Special"
+    ],
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Kuja Pirates"
+    ],
+    "effect": "[Opponent's Turn] When you play a Character, draw 1 card.<br>[DON!! x1] [Once Per Turn] When one of your {Amazon Lily} or {Kuja Pirates} type Characters with 5000 base power or more is K.O.'d, add up to 1 card from the top of your opponent's Life cards to the owner's hand.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-041.png?260529"
+  },
+  {
+    "id": "OP14-041_p1",
+    "set": "OP14-EB04",
+    "name": "Boa Hancock",
+    "rarity": "Leader",
+    "category": "Leader",
+    "colors": [
+      "Blue",
+      "Yellow"
+    ],
+    "cost": 4,
+    "power": 5000,
+    "counter": null,
+    "block": 4,
+    "attributes": [
+      "Special"
+    ],
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Kuja Pirates"
+    ],
+    "effect": "[Opponent's Turn] When you play a Character, draw 1 card.<br>[DON!! x1] [Once Per Turn] When one of your {Amazon Lily} or {Kuja Pirates} type Characters with 5000 base power or more is K.O.'d, add up to 1 card from the top of your opponent's Life cards to the owner's hand.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-041_p1.png?260529"
+  },
+  {
+    "id": "OP14-042",
+    "set": "OP14-EB04",
+    "name": "Arlong",
+    "rarity": "Rare",
+    "category": "Character",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 1,
+    "power": 3000,
+    "counter": null,
+    "block": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "types": [
+      "Fish-Man",
+      "The Sun Pirates"
+    ],
+    "effect": "[On Play] If your Leader has the {Fish-Man} type, look at 4 cards from the top of your deck; reveal up to 1 card with a cost of 2 or more and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-042.png?260529"
+  },
+  {
+    "id": "OP14-042_p1",
+    "set": "OP14-EB04",
+    "name": "Arlong",
+    "rarity": "Rare",
+    "category": "Character",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 1,
+    "power": 3000,
+    "counter": null,
+    "block": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "types": [
+      "Fish-Man",
+      "The Sun Pirates"
+    ],
+    "effect": "[On Play] If your Leader has the {Fish-Man} type, look at 4 cards from the top of your deck; reveal up to 1 card with a cost of 2 or more and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-042_p1.png?260529"
+  },
+  {
+    "id": "OP14-043",
+    "set": "OP14-EB04",
+    "name": "Aladine",
+    "rarity": "Rare",
+    "category": "Character",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 4,
+    "power": 5000,
+    "counter": 1000,
+    "block": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "types": [
+      "Merfolk",
+      "The Sun Pirates"
+    ],
+    "effect": "[On Play] Play up to 1 {Fish-Man} or {Merfolk} type Character card with a cost of 3 or less from your hand.<br>[On K.O.] Draw 1 card.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-043.png?260529"
+  },
+  {
+    "id": "OP14-044",
+    "set": "OP14-EB04",
+    "name": "Edward.Newgate",
+    "rarity": "Common",
+    "category": "Character",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 8,
+    "power": 8000,
+    "counter": 1000,
+    "block": 4,
+    "attributes": [
+      "Special"
+    ],
+    "types": [
+      "The Four Emperors",
+      "Whitebeard Pirates"
+    ],
+    "effect": "[Blocker]<br>[On Play] Reveal 1 card from the top of your deck. If that card's type includes \"Whitebeard Pirates\", draw 2 cards and trash 1 card from your hand.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-044.png?260529"
+  },
+  {
+    "id": "OP14-045",
+    "set": "OP14-EB04",
+    "name": "Kuroobi",
+    "rarity": "Uncommon",
+    "category": "Character",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 3,
+    "power": 3000,
+    "counter": 1000,
+    "block": 4,
+    "attributes": [
+      "Strike"
+    ],
+    "types": [
+      "Fish-Man",
+      "The Sun Pirates"
+    ],
+    "effect": "When a card is trashed from your hand by an effect, this Character gains [Rush] during this turn.<br>(This card can attack on the turn in which it is played.)<br>[On K.O.] Draw 1 card.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-045.png?260529"
+  },
+  {
+    "id": "OP14-046",
+    "set": "OP14-EB04",
+    "name": "Koala",
+    "rarity": "Uncommon",
+    "category": "Character",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 2,
+    "power": null,
+    "counter": 2000,
+    "block": 4,
+    "attributes": [
+      "Wisdom"
+    ],
+    "types": [
+      "Foolshout Island"
+    ],
+    "effect": "[Activate: Main] You may trash this Character: Up to 1 of your {Fish-Man} or {Merfolk} type Leader or Character cards gains +2000 power during this turn.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-046.png?260529"
+  },
+  {
+    "id": "OP14-047",
+    "set": "OP14-EB04",
+    "name": "Shirahoshi",
+    "rarity": "Rare",
+    "category": "Character",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 4,
+    "power": null,
+    "counter": 1000,
+    "block": 4,
+    "attributes": [
+      "Wisdom"
+    ],
+    "types": [
+      "Merfolk",
+      "Fish-Man Island"
+    ],
+    "effect": "[Blocker]<br>[On Play] Draw 1 card and play up to 1 {Fish-Man} or {Merfolk} type Character card with a cost of 3 or less from your hand.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-047.png?260529"
+  },
+  {
+    "id": "OP14-048",
+    "set": "OP14-EB04",
+    "name": "Shiryu",
+    "rarity": "Common",
+    "category": "Character",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 8,
+    "power": 10000,
+    "counter": null,
+    "block": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "types": [
+      "Impel Down"
+    ],
+    "effect": "[On Play] Return up to 1 of your opponent's Characters to the owner's hand. Then, trash all cards from your hand.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-048.png?260529"
+  },
+  {
+    "id": "OP14-049",
+    "set": "OP14-EB04",
+    "name": "Jinbe",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 8,
+    "power": 10000,
+    "counter": null,
+    "block": 4,
+    "attributes": [
+      "Strike"
+    ],
+    "types": [
+      "Fish-Man",
+      "The Seven Warlords of the Sea",
+      "The Sun Pirates"
+    ],
+    "effect": "When a card is trashed from your hand by an effect, this Character gains [Rush] during this turn.<br>[On Play] You may rest 2 of your DON!! cards: Draw 2 cards and return up to 1 Character with a cost of 7 or less to the owner's hand.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-049.png?260529"
+  },
+  {
+    "id": "OP14-049_p1",
+    "set": "OP14-EB04",
+    "name": "Jinbe",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 8,
+    "power": 10000,
+    "counter": null,
+    "block": 4,
+    "attributes": [
+      "Strike"
+    ],
+    "types": [
+      "Fish-Man",
+      "The Seven Warlords of the Sea",
+      "The Sun Pirates"
+    ],
+    "effect": "When a card is trashed from your hand by an effect, this Character gains [Rush] during this turn.<br>[On Play] You may rest 2 of your DON!! cards: Draw 2 cards and return up to 1 Character with a cost of 7 or less to the owner's hand.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-049_p1.png?260529"
+  },
+  {
+    "id": "OP14-050",
+    "set": "OP14-EB04",
+    "name": "Chew",
+    "rarity": "Uncommon",
+    "category": "Character",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 1,
+    "power": 3000,
+    "counter": null,
+    "block": 4,
+    "attributes": [
+      "Ranged"
+    ],
+    "types": [
+      "Fish-Man",
+      "The Sun Pirates"
+    ],
+    "effect": "[On Play] If your Leader has the {Fish-Man} type, draw 1 card.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-050.png?260529"
+  },
+  {
+    "id": "OP14-051",
+    "set": "OP14-EB04",
+    "name": "Hatchan",
+    "rarity": "Common",
+    "category": "Character",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 1,
+    "power": 3000,
+    "counter": null,
+    "block": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "types": [
+      "Fish-Man",
+      "The Sun Pirates"
+    ],
+    "effect": "[DON!! x2] [On K.O.] Draw 1 card.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-051.png?260529"
+  },
+  {
+    "id": "OP14-052",
+    "set": "OP14-EB04",
+    "name": "Hannyabal",
+    "rarity": "Common",
+    "category": "Character",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 5,
+    "power": 6000,
+    "counter": 1000,
+    "block": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "types": [
+      "Impel Down"
+    ],
+    "effect": "[Blocker]<br>[On Play] You may trash 3 cards from your hand: Play up to 1 {Impel Down} type Character card with a cost of 6 or less from your hand.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-052.png?260529"
+  },
+  {
+    "id": "OP14-053",
+    "set": "OP14-EB04",
+    "name": "Vista",
+    "rarity": "Common",
+    "category": "Character",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 3,
+    "power": 4000,
+    "counter": 1000,
+    "block": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "types": [
+      "Whitebeard Pirates"
+    ],
+    "effect": "[Blocker]<br>[Opponent's Turn] If you have 7 or less cards in your hand, this Character's base power becomes the same as your Leader's base power.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-053.png?260529"
+  },
+  {
+    "id": "OP14-054",
+    "set": "OP14-EB04",
+    "name": "Fisher Tiger",
+    "rarity": "Uncommon",
+    "category": "Character",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 6,
+    "power": 7000,
+    "counter": 1000,
+    "block": 4,
+    "attributes": [
+      "Strike"
+    ],
+    "types": [
+      "Fish-Man",
+      "The Sun Pirates"
+    ],
+    "effect": "[On Play] If your Leader has the {Fish-Man} type, draw 3 cards.<br>[End of Your Turn] Trash cards from your hand until you have 5 cards in your hand.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-054.png?260529"
+  },
+  {
+    "id": "OP14-055",
+    "set": "OP14-EB04",
+    "name": "The Macro Gang",
+    "rarity": "Common",
+    "category": "Character",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 5,
+    "power": 6000,
+    "counter": 2000,
+    "block": 4,
+    "attributes": [
+      "Strike"
+    ],
+    "types": [
+      "Fish-Man",
+      "The Sun Pirates"
+    ],
+    "effect": "-",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-055.png?260529"
+  },
+  {
+    "id": "OP14-056",
+    "set": "OP14-EB04",
+    "name": "Wadatsumi",
+    "rarity": "Common",
+    "category": "Character",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 3,
+    "power": 5000,
+    "counter": 2000,
+    "block": 4,
+    "attributes": [
+      "Strike"
+    ],
+    "types": [
+      "Fish-Man",
+      "The Sun Pirates"
+    ],
+    "effect": "This Character cannot attack.<br>When a card is trashed from your hand by an effect, this Character's effect is negated during this turn.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-056.png?260529"
+  },
+  {
+    "id": "OP14-057",
+    "set": "OP14-EB04",
+    "name": "Don't Worry!! I'm Here!!",
+    "rarity": "Common",
+    "category": "Event",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 2,
+    "power": null,
+    "counter": null,
+    "block": 4,
+    "attributes": [],
+    "types": [
+      "Fish-Man",
+      "The Seven Warlords of the Sea",
+      "The Sun Pirates"
+    ],
+    "effect": "[Main] All of your {Fish-Man} or {Merfolk} type Leader and Character cards gain +1000 power during this turn.",
+    "trigger": "[Trigger] Draw 2 cards.",
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-057.png?260529"
+  },
+  {
+    "id": "OP14-058",
+    "set": "OP14-EB04",
+    "name": "Ocean Current Shoulder Throw",
+    "rarity": "Rare",
+    "category": "Event",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 2,
+    "power": null,
+    "counter": null,
+    "block": 4,
+    "attributes": [],
+    "types": [
+      "Fish-Man",
+      "The Seven Warlords of the Sea",
+      "The Sun Pirates"
+    ],
+    "effect": "[Main] You may rest 3 of your DON!! cards: Play up to 1 {Fish-Man} type Character card with a cost of 3 or less from your hand. Then, return up to 1 Character with 6000 base power to the owner's hand.<br>[Counter] Draw 1 card and your Leader gains +3000 power during this battle.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-058.png?260529"
+  },
+  {
+    "id": "OP14-059",
+    "set": "OP14-EB04",
+    "name": "Please Take Me with You!! I Can Be of Great Help to You!!",
+    "rarity": "Uncommon",
+    "category": "Event",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 1,
+    "power": null,
+    "counter": null,
+    "block": 4,
+    "attributes": [],
+    "types": [
+      "Fish-Man",
+      "The Seven Warlords of the Sea",
+      "The Sun Pirates"
+    ],
+    "effect": "[Main] If your Leader is [Jinbe] and you have 2 or less cards in your hand, draw 2 cards.",
+    "trigger": "[Trigger] Return up to 1 Character with a cost of 4 or less to the owner's hand.",
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-059.png?260529"
+  },
+  {
+    "id": "OP14-060",
+    "set": "OP14-EB04",
+    "name": "Donquixote Doflamingo",
+    "rarity": "Leader",
+    "category": "Leader",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 5,
+    "power": 5000,
+    "counter": null,
+    "block": 4,
+    "attributes": [
+      "Special"
+    ],
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Donquixote Pirates"
+    ],
+    "effect": "[On Your Opponent's Attack] [Once Per Turn] DON!! −1: Select your Leader or 1 of your {Donquixote Pirates} type Characters. Change the attack target to the selected card.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-060.png?260529"
+  },
+  {
+    "id": "OP14-060_p1",
+    "set": "OP14-EB04",
+    "name": "Donquixote Doflamingo",
+    "rarity": "Leader",
+    "category": "Leader",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 5,
+    "power": 5000,
+    "counter": null,
+    "block": 4,
+    "attributes": [
+      "Special"
+    ],
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Donquixote Pirates"
+    ],
+    "effect": "[On Your Opponent's Attack] [Once Per Turn] DON!! −1: Select your Leader or 1 of your {Donquixote Pirates} type Characters. Change the attack target to the selected card.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-060_p1.png?260529"
+  },
+  {
+    "id": "OP14-061",
+    "set": "OP14-EB04",
+    "name": "Vergo",
+    "rarity": "Rare",
+    "category": "Character",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 5,
+    "power": 7000,
+    "counter": null,
+    "block": 4,
+    "attributes": [
+      "Strike"
+    ],
+    "types": [
+      "Punk Hazard",
+      "Navy",
+      "Donquixote Pirates"
+    ],
+    "effect": "[Once Per Turn] If your {Donquixote Pirates} type Character would be removed from the field by your opponent's effect, you may return 1 DON!! card from your field to your DON!! deck instead.<br>[When Attacking] DON!! −1: Give up to 1 of your opponent's Characters −2000 power during this turn.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-061.png?260529"
+  },
+  {
+    "id": "OP14-061_p1",
+    "set": "OP14-EB04",
+    "name": "Vergo",
+    "rarity": "Rare",
+    "category": "Character",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 5,
+    "power": 7000,
+    "counter": null,
+    "block": 4,
+    "attributes": [
+      "Strike"
+    ],
+    "types": [
+      "Punk Hazard",
+      "Navy",
+      "Donquixote Pirates"
+    ],
+    "effect": "[Once Per Turn] If your {Donquixote Pirates} type Character would be removed from the field by your opponent's effect, you may return 1 DON!! card from your field to your DON!! deck instead.<br>[When Attacking] DON!! −1: Give up to 1 of your opponent's Characters −2000 power during this turn.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-061_p1.png?260529"
+  },
+  {
+    "id": "OP14-062",
+    "set": "OP14-EB04",
+    "name": "Gladius",
+    "rarity": "Common",
+    "category": "Character",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 3,
+    "power": 4000,
+    "counter": 1000,
+    "block": 4,
+    "attributes": [
+      "Special"
+    ],
+    "types": [
+      "Donquixote Pirates"
+    ],
+    "effect": "[On K.O.] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): K.O. or rest up to 1 of your opponent's Characters with a base power of 6000 or less.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-062.png?260529"
+  },
+  {
+    "id": "OP14-063",
+    "set": "OP14-EB04",
+    "name": "Sugar",
+    "rarity": "Rare",
+    "category": "Character",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 4,
+    "power": 1000,
+    "counter": 1000,
+    "block": 4,
+    "attributes": [
+      "Special"
+    ],
+    "types": [
+      "Donquixote Pirates"
+    ],
+    "effect": "[On Play] Add up to 1 DON!! card from your DON!! deck and set it as active.<br>[On K.O.] If your opponent has 6 or more DON!! cards on their field, play up to 1 {Donquixote Pirates} type Character card with a cost of 5 or less from your hand.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-063.png?260529"
+  },
+  {
+    "id": "OP14-064",
+    "set": "OP14-EB04",
+    "name": "Giolla",
+    "rarity": "Common",
+    "category": "Character",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 3,
+    "power": 1000,
+    "counter": 1000,
+    "block": 4,
+    "attributes": [
+      "Special"
+    ],
+    "types": [
+      "Donquixote Pirates"
+    ],
+    "effect": "[On K.O.] Add up to 1 DON!! card from your DON!! deck and rest it. Then, K.O. up to 1 of your opponent's Characters with a base power of 0.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-064.png?260529"
+  },
+  {
+    "id": "OP14-065",
+    "set": "OP14-EB04",
+    "name": "Senor Pink",
+    "rarity": "Common",
+    "category": "Character",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 4,
+    "power": 5000,
+    "counter": 1000,
+    "block": 4,
+    "attributes": [
+      "Special"
+    ],
+    "types": [
+      "Donquixote Pirates"
+    ],
+    "effect": "[On K.O.] Your opponent returns 1 DON!! card from their field to their DON!! deck.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-065.png?260529"
+  },
+  {
+    "id": "OP14-066",
+    "set": "OP14-EB04",
+    "name": "Diamante",
+    "rarity": "Common",
+    "category": "Character",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 6,
+    "power": 8000,
+    "counter": 1000,
+    "block": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "types": [
+      "Donquixote Pirates"
+    ],
+    "effect": "-",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-066.png?260529"
+  },
+  {
+    "id": "OP14-067",
+    "set": "OP14-EB04",
+    "name": "Dellinger",
+    "rarity": "Uncommon",
+    "category": "Character",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 1,
+    "power": 2000,
+    "counter": 1000,
+    "block": 4,
+    "attributes": [
+      "Strike"
+    ],
+    "types": [
+      "Donquixote Pirates"
+    ],
+    "effect": "[On K.O.] Add up to 1 DON!! card from your DON!! deck and rest it, look at 5 cards from the top of your deck; reveal up to 1 {Donquixote Pirates} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-067.png?260529"
+  },
+  {
+    "id": "OP14-068",
+    "set": "OP14-EB04",
+    "name": "Trebol",
+    "rarity": "Uncommon",
+    "category": "Character",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 5,
+    "power": 5000,
+    "counter": 2000,
+    "block": 4,
+    "attributes": [
+      "Special"
+    ],
+    "types": [
+      "Donquixote Pirates"
+    ],
+    "effect": "[Opponent's Turn] [Once Per Turn] When a DON!! card on your field is returned to your DON!! deck, if your Leader has the {Donquixote Pirates} type, add up to 1 DON!! card from your DON!! deck and rest it.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-068.png?260529"
+  },
+  {
+    "id": "OP14-069",
+    "set": "OP14-EB04",
+    "name": "Donquixote Doflamingo",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 10,
+    "power": 10000,
+    "counter": null,
+    "block": 4,
+    "attributes": [
+      "Special"
+    ],
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Donquixote Pirates"
+    ],
+    "effect": "[On Play] DON!! −3: Choose one:<br>• If your Leader has the {Donquixote Pirates} type, K.O. up to 1 of your opponent's Characters with a cost of 8 or less.<br>• Up to 3 of your opponent's Characters with a cost of 7 or less cannot be rested until the end of your opponent's next End Phase.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-069.png?260529"
+  },
+  {
+    "id": "OP14-069_p1",
+    "set": "OP14-EB04",
+    "name": "Donquixote Doflamingo",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 10,
+    "power": 10000,
+    "counter": null,
+    "block": 4,
+    "attributes": [
+      "Special"
+    ],
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Donquixote Pirates"
+    ],
+    "effect": "[On Play] DON!! −3: Choose one:<br>• If your Leader has the {Donquixote Pirates} type, K.O. up to 1 of your opponent's Characters with a cost of 8 or less.<br>• Up to 3 of your opponent's Characters with a cost of 7 or less cannot be rested until the end of your opponent's next End Phase.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-069_p1.png?260529"
+  },
+  {
+    "id": "OP14-070",
+    "set": "OP14-EB04",
+    "name": "Buffalo",
+    "rarity": "Common",
+    "category": "Character",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 2,
+    "power": 1000,
+    "counter": 1000,
+    "block": 4,
+    "attributes": [
+      "Strike"
+    ],
+    "types": [
+      "Donquixote Pirates"
+    ],
+    "effect": "When this Character becomes rested by your opponent's Character's effect, you may return 1 DON!! card from your field to your DON!! deck. If you do, set this Character as active.<br>[Blocker]",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-070.png?260529"
+  },
+  {
+    "id": "OP14-071",
+    "set": "OP14-EB04",
+    "name": "Pica",
+    "rarity": "Uncommon",
+    "category": "Character",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 5,
+    "power": 6000,
+    "counter": 1000,
+    "block": 4,
+    "attributes": [
+      "Strike"
+    ],
+    "types": [
+      "Donquixote Pirates"
+    ],
+    "effect": "[End of Your Turn] If your Leader has the {Donquixote Pirates} type, add up to 1 DON!! card from your DON!! deck and set it as active.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-071.png?260529"
+  },
+  {
+    "id": "OP14-072",
+    "set": "OP14-EB04",
+    "name": "Baby 5",
+    "rarity": "Uncommon",
+    "category": "Character",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 4,
+    "power": 1000,
+    "counter": 1000,
+    "block": 4,
+    "attributes": [
+      "Special"
+    ],
+    "types": [
+      "Donquixote Pirates"
+    ],
+    "effect": "[On Play] Add up to 1 DON!! card from your DON!! deck and set it as active.<br>[On K.O.] DON!! −1: Add up to 1 card from the top of your deck to the top of your Life cards.<br>",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-072.png?260529"
+  },
+  {
+    "id": "OP14-073",
+    "set": "OP14-EB04",
+    "name": "Machvise",
+    "rarity": "Common",
+    "category": "Character",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 6,
+    "power": 7000,
+    "counter": 2000,
+    "block": 4,
+    "attributes": [
+      "Strike"
+    ],
+    "types": [
+      "Donquixote Pirates"
+    ],
+    "effect": "-",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-073.png?260529"
+  },
+  {
+    "id": "OP14-074",
+    "set": "OP14-EB04",
+    "name": "Monet",
+    "rarity": "Rare",
+    "category": "Character",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 5,
+    "power": 6000,
+    "counter": 1000,
+    "block": 4,
+    "attributes": [
+      "Special"
+    ],
+    "types": [
+      "Punk Hazard",
+      "Donquixote Pirates"
+    ],
+    "effect": "[On Play] If your Leader has the {Donquixote Pirates} type, add up to 1 DON!! card from your DON!! deck and set it as active.<br>[On K.O.] Draw 2 cards and trash 1 card from your hand. Then, add up to 2 DON!! cards from your DON!! deck and rest them.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-074.png?260529"
+  },
+  {
+    "id": "OP14-075",
+    "set": "OP14-EB04",
+    "name": "Lao.G",
+    "rarity": "Common",
+    "category": "Character",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 3,
+    "power": 4000,
+    "counter": 1000,
+    "block": 4,
+    "attributes": [
+      "Strike"
+    ],
+    "types": [
+      "Donquixote Pirates"
+    ],
+    "effect": "[On K.O.] Add up to 1 DON!! card from your DON!! deck and rest it. Then, give up to 1 of your opponent's Characters −2000 power during this turn.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-075.png?260529"
+  },
+  {
+    "id": "OP14-076",
+    "set": "OP14-EB04",
+    "name": "Ever White",
+    "rarity": "Rare",
+    "category": "Event",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 1,
+    "power": null,
+    "counter": null,
+    "block": 4,
+    "attributes": [],
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Donquixote Pirates"
+    ],
+    "effect": "[Main] You may rest 2 of your DON!! cards: If your Leader has the {Donquixote Pirates} type, add up to 1 DON!! card from your DON!! deck and rest it.<br>[Counter] Your Leader gains +3000 power during this battle.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-076.png?260529"
+  },
+  {
+    "id": "OP14-077",
+    "set": "OP14-EB04",
+    "name": "Penta-Chromatic String",
+    "rarity": "Uncommon",
+    "category": "Event",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 2,
+    "power": null,
+    "counter": null,
+    "block": 4,
+    "attributes": [],
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Donquixote Pirates"
+    ],
+    "effect": "[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, if your opponent has a Character with 6000 power or more, add up to 1 DON!! card from your DON!! deck and rest it.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-077.png?260529"
+  },
+  {
+    "id": "OP14-078",
+    "set": "OP14-EB04",
+    "name": "Bullet String",
+    "rarity": "Common",
+    "category": "Event",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 2,
+    "power": null,
+    "counter": null,
+    "block": 4,
+    "attributes": [],
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Donquixote Pirates"
+    ],
+    "effect": "[Counter] DON!! −1: If your Leader has the {Donquixote Pirates} type, up to 1 of your Leader or Character cards gains +2000 power during this battle. Then, that card gains an additional +2000 power during this turn.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-078.png?260529"
+  },
+  {
+    "id": "OP14-079",
+    "set": "OP14-EB04",
+    "name": "Crocodile",
+    "rarity": "Leader",
+    "category": "Leader",
+    "colors": [
+      "Black"
+    ],
+    "cost": 5,
+    "power": 5000,
+    "counter": null,
+    "block": 4,
+    "attributes": [
+      "Special"
+    ],
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Baroque Works"
+    ],
+    "effect": "All of your opponent's Characters cannot be removed from the field by your effects.<br>[Activate: Main] [Once Per Turn] You may K.O. 1 of your Characters with a type including \"Baroque Works\": Give up to 1 of your opponent's Characters −10 cost during this turn. Then, you may trash 2 cards from the top of your deck.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-079.png?260529"
+  },
+  {
+    "id": "OP14-079_p1",
+    "set": "OP14-EB04",
+    "name": "Crocodile",
+    "rarity": "Leader",
+    "category": "Leader",
+    "colors": [
+      "Black"
+    ],
+    "cost": 5,
+    "power": 5000,
+    "counter": null,
+    "block": 4,
+    "attributes": [
+      "Special"
+    ],
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Baroque Works"
+    ],
+    "effect": "All of your opponent's Characters cannot be removed from the field by your effects.<br>[Activate: Main] [Once Per Turn] You may K.O. 1 of your Characters with a type including \"Baroque Works\": Give up to 1 of your opponent's Characters −10 cost during this turn. Then, you may trash 2 cards from the top of your deck.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-079_p1.png?260529"
+  },
+  {
+    "id": "OP14-080",
+    "set": "OP14-EB04",
+    "name": "Gecko Moria",
+    "rarity": "Leader",
+    "category": "Leader",
+    "colors": [
+      "Black",
+      "Yellow"
+    ],
+    "cost": 4,
+    "power": 5000,
+    "counter": null,
+    "block": 4,
+    "attributes": [
+      "Special"
+    ],
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Thriller Bark Pirates"
+    ],
+    "effect": "[Activate: Main] [Once Per Turn] You may K.O. 1 of your {Thriller Bark Pirates} type Characters: Your Leader and all of your Characters gain +1000 power during this turn.<br>[When Attacking] You may trash 3 cards from your hand: Add up to 1 card from the top of your deck to the top of your Life cards.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-080.png?260529"
+  },
+  {
+    "id": "OP14-080_p1",
+    "set": "OP14-EB04",
+    "name": "Gecko Moria",
+    "rarity": "Leader",
+    "category": "Leader",
+    "colors": [
+      "Black",
+      "Yellow"
+    ],
+    "cost": 4,
+    "power": 5000,
+    "counter": null,
+    "block": 4,
+    "attributes": [
+      "Special"
+    ],
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Thriller Bark Pirates"
+    ],
+    "effect": "[Activate: Main] [Once Per Turn] You may K.O. 1 of your {Thriller Bark Pirates} type Characters: Your Leader and all of your Characters gain +1000 power during this turn.<br>[When Attacking] You may trash 3 cards from your hand: Add up to 1 card from the top of your deck to the top of your Life cards.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-080_p1.png?260529"
+  },
+  {
+    "id": "OP14-081",
+    "set": "OP14-EB04",
+    "name": "Spider Mice",
+    "rarity": "Common",
+    "category": "Character",
+    "colors": [
+      "Black"
+    ],
+    "cost": 1,
+    "power": 1000,
+    "counter": 1000,
+    "block": 4,
+    "attributes": [
+      "Special"
+    ],
+    "types": [
+      "Thriller Bark Pirates"
+    ],
+    "effect": "[On Play] Trash 3 cards from the top of your deck.<br>[On K.O.] K.O. up to 1 of your opponent's Characters with a base cost of 1.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-081.png?260529"
+  },
+  {
+    "id": "OP14-082",
+    "set": "OP14-EB04",
+    "name": "Oinkchuck",
+    "rarity": "Common",
+    "category": "Character",
+    "colors": [
+      "Black"
+    ],
+    "cost": 2,
+    "power": 3000,
+    "counter": 1000,
+    "block": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "types": [
+      "Thriller Bark Pirates"
+    ],
+    "effect": "[On K.O.] All of your {Thriller Bark Pirates} type Characters gain +4 cost until the end of your opponent's next End Phase.",
+    "trigger": "[Trigger] Play up to 1 {Thriller Bark Pirates} type Character card with a cost of 2 or less from your trash rested.",
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-082.png?260529"
+  },
+  {
+    "id": "OP14-083",
+    "set": "OP14-EB04",
+    "name": "Ms. Wednesday",
+    "rarity": "Uncommon",
+    "category": "Character",
+    "colors": [
+      "Black"
+    ],
+    "cost": 1,
+    "power": 1000,
+    "counter": 2000,
+    "block": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "types": [
+      "Baroque Works"
+    ],
+    "effect": "[Activate: Main] You may trash this Character: Give up to 1 of your opponent's 0 cost Characters −3000 power during this turn.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-083.png?260529"
+  },
+  {
+    "id": "OP14-084",
+    "set": "OP14-EB04",
+    "name": "Ms. All Sunday",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "colors": [
+      "Black"
+    ],
+    "cost": 7,
+    "power": 8000,
+    "counter": null,
+    "block": 4,
+    "attributes": [
+      "Strike"
+    ],
+    "types": [
+      "Baroque Works"
+    ],
+    "effect": "[On Play] If your Leader's type includes \"Baroque Works\", play up to 1 Character card with a type including \"Baroque Works\" and a cost of 4 or less and up to 1 Character card with a type including \"Baroque Works\" and a cost of 1 from your trash.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-084.png?260529"
+  },
+  {
+    "id": "OP14-084_p1",
+    "set": "OP14-EB04",
+    "name": "Ms. All Sunday",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "colors": [
+      "Black"
+    ],
+    "cost": 7,
+    "power": 8000,
+    "counter": null,
+    "block": 4,
+    "attributes": [
+      "Strike"
+    ],
+    "types": [
+      "Baroque Works"
+    ],
+    "effect": "[On Play] If your Leader's type includes \"Baroque Works\", play up to 1 Character card with a type including \"Baroque Works\" and a cost of 4 or less and up to 1 Character card with a type including \"Baroque Works\" and a cost of 1 from your trash.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-084_p1.png?260529"
+  },
+  {
+    "id": "OP14-085",
+    "set": "OP14-EB04",
+    "name": "Miss.Goldenweek(Marianne)",
+    "rarity": "Uncommon",
+    "category": "Character",
+    "colors": [
+      "Black"
+    ],
+    "cost": 1,
+    "power": 2000,
+    "counter": 2000,
+    "block": 4,
+    "attributes": [
+      "Wisdom"
+    ],
+    "types": [
+      "Baroque Works"
+    ],
+    "effect": "[On K.O.] Draw 2 cards and trash 2 cards from your hand.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-085.png?260529"
+  },
+  {
+    "id": "OP14-086",
+    "set": "OP14-EB04",
+    "name": "Miss Doublefinger(Zala)",
+    "rarity": "Common",
+    "category": "Character",
+    "colors": [
+      "Black"
+    ],
+    "cost": 5,
+    "power": 6000,
+    "counter": 1000,
+    "block": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "types": [
+      "Baroque Works"
+    ],
+    "effect": "If you have 7 or more cards in your trash, this Character gains +1000 power, and all of your Characters with a type including \"Baroque Works\" gain +2 cost.<br>",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-086.png?260529"
+  },
+  {
+    "id": "OP14-087",
+    "set": "OP14-EB04",
+    "name": "Miss.Valentine(Mikita)",
+    "rarity": "Rare",
+    "category": "Character",
+    "colors": [
+      "Black"
+    ],
+    "cost": 1,
+    "power": 2000,
+    "counter": 1000,
+    "block": 4,
+    "attributes": [
+      "Strike"
+    ],
+    "types": [
+      "Baroque Works"
+    ],
+    "effect": "[On Play] If your Leader's type includes \"Baroque Works\", look at 4 cards from the top of your deck; reveal up to 1 card with a type including \"Baroque Works\" other than [Miss.Valentine(Mikita)] and add it to your hand. Then, trash the rest.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-087.png?260529"
+  },
+  {
+    "id": "OP14-088",
+    "set": "OP14-EB04",
+    "name": "Miss.MerryChristmas(Drophy)",
+    "rarity": "Common",
+    "category": "Character",
+    "colors": [
+      "Black"
+    ],
+    "cost": 1,
+    "power": 2000,
+    "counter": 2000,
+    "block": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "types": [
+      "Baroque Works"
+    ],
+    "effect": "[On K.O.] If your Leader's type includes \"Baroque Works\", draw 1 card and K.O. up to 1 of your opponent's Stages with a cost of 1.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-088.png?260529"
+  },
+  {
+    "id": "OP14-089",
+    "set": "OP14-EB04",
+    "name": "Ryuma",
+    "rarity": "Common",
+    "category": "Character",
+    "colors": [
+      "Black"
+    ],
+    "cost": 3,
+    "power": 5000,
+    "counter": null,
+    "block": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "types": [
+      "Land of Wano",
+      "Thriller Bark Pirates"
+    ],
+    "effect": "[On K.O.] Draw 2 cards and trash 2 cards from your hand.",
+    "trigger": "[Trigger] Play up to 1 {Thriller Bark Pirates} type Character card with a cost of 4 or less from your trash rested.",
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-089.png?260529"
+  },
+  {
+    "id": "OP14-090",
+    "set": "OP14-EB04",
+    "name": "Mr.1(Daz.Bonez)",
+    "rarity": "Rare",
+    "category": "Character",
+    "colors": [
+      "Black"
+    ],
+    "cost": 5,
+    "power": 6000,
+    "counter": 1000,
+    "block": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "types": [
+      "Baroque Works"
+    ],
+    "effect": "If there is a Character with a cost of 0 or with a cost of 8 or more, this Character can attack Characters on the turn in which it is played.<br>[On Play] Rest up to 1 of your opponent's Characters with a cost of 0.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-090.png?260529"
+  },
+  {
+    "id": "OP14-090_p1",
+    "set": "OP14-EB04",
+    "name": "Mr.1(Daz.Bonez)",
+    "rarity": "Rare",
+    "category": "Character",
+    "colors": [
+      "Black"
+    ],
+    "cost": 5,
+    "power": 6000,
+    "counter": 1000,
+    "block": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "types": [
+      "Baroque Works"
+    ],
+    "effect": "If there is a Character with a cost of 0 or with a cost of 8 or more, this Character can attack Characters on the turn in which it is played.<br>[On Play] Rest up to 1 of your opponent's Characters with a cost of 0.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-090_p1.png?260529"
+  },
+  {
+    "id": "OP14-091",
+    "set": "OP14-EB04",
+    "name": "Mr.2.Bon.Kurei(Bentham)",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "colors": [
+      "Black"
+    ],
+    "cost": 4,
+    "power": 5000,
+    "counter": 1000,
+    "block": 4,
+    "attributes": [
+      "Strike"
+    ],
+    "types": [
+      "Baroque Works"
+    ],
+    "effect": "[On K.O.] Play up to 1 Character card with a type including \"Baroque Works\" and a cost of 5 or less other than [Mr.2.Bon.Kurei(Bentham)] from your hand or trash.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-091.png?260529"
+  },
+  {
+    "id": "OP14-091_p1",
+    "set": "OP14-EB04",
+    "name": "Mr.2.Bon.Kurei(Bentham)",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "colors": [
+      "Black"
+    ],
+    "cost": 4,
+    "power": 5000,
+    "counter": 1000,
+    "block": 4,
+    "attributes": [
+      "Strike"
+    ],
+    "types": [
+      "Baroque Works"
+    ],
+    "effect": "[On K.O.] Play up to 1 Character card with a type including \"Baroque Works\" and a cost of 5 or less other than [Mr.2.Bon.Kurei(Bentham)] from your hand or trash.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-091_p1.png?260529"
+  },
+  {
+    "id": "OP14-092",
+    "set": "OP14-EB04",
+    "name": "Mr.3(Galdino)",
+    "rarity": "Rare",
+    "category": "Character",
+    "colors": [
+      "Black"
+    ],
+    "cost": 4,
+    "power": 6000,
+    "counter": null,
+    "block": 4,
+    "attributes": [
+      "Special"
+    ],
+    "types": [
+      "Baroque Works"
+    ],
+    "effect": "[Opponent's Turn] [Once Per Turn] If this Character would be K.O.'d, you may place 3 cards from your trash at the bottom of your deck in any order instead.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-092.png?260529"
+  },
+  {
+    "id": "OP14-093",
+    "set": "OP14-EB04",
+    "name": "Mr.4(Babe)",
+    "rarity": "Common",
+    "category": "Character",
+    "colors": [
+      "Black"
+    ],
+    "cost": 4,
+    "power": 5000,
+    "counter": 1000,
+    "block": 4,
+    "attributes": [
+      "Strike"
+    ],
+    "types": [
+      "Baroque Works"
+    ],
+    "effect": "[Blocker]<br>[On K.O.] Add up to 1 Character card with a type including \"Baroque Works\" and a cost of 8 or less from your trash to your hand.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-093.png?260529"
+  },
+  {
+    "id": "OP14-094",
+    "set": "OP14-EB04",
+    "name": "Mr.5(Gem)",
+    "rarity": "Uncommon",
+    "category": "Character",
+    "colors": [
+      "Black"
+    ],
+    "cost": 5,
+    "power": 6000,
+    "counter": 1000,
+    "block": 4,
+    "attributes": [
+      "Special"
+    ],
+    "types": [
+      "Baroque Works"
+    ],
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On Play] If there is a Character with a cost of 0 or with a cost of 8 or more, draw 2 cards and trash 1 card from your hand.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-094.png?260529"
+  },
+  {
+    "id": "OP14-095",
+    "set": "OP14-EB04",
+    "name": "Mr.9",
+    "rarity": "Common",
+    "category": "Character",
+    "colors": [
+      "Black"
+    ],
+    "cost": 5,
+    "power": 6000,
+    "counter": 2000,
+    "block": 4,
+    "attributes": [
+      "Strike"
+    ],
+    "types": [
+      "Baroque Works"
+    ],
+    "effect": "-",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-095.png?260529"
+  },
+  {
+    "id": "OP14-096",
+    "set": "OP14-EB04",
+    "name": "Ground Death",
+    "rarity": "Rare",
+    "category": "Event",
+    "colors": [
+      "Black"
+    ],
+    "cost": 1,
+    "power": null,
+    "counter": null,
+    "block": 4,
+    "attributes": [],
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Baroque Works"
+    ],
+    "effect": "[Main] You may rest 2 of your DON!! cards: Negate the effect of up to 1 of your opponent's Characters with a cost of 5 or less during this turn.<br>[Counter] If you have 10 or more cards in your trash, up to 1 of your Leader or Character cards gains +4000 power during this battle.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-096.png?260529"
+  },
+  {
+    "id": "OP14-096_p1",
+    "set": "OP14-EB04",
+    "name": "Ground Death",
+    "rarity": "Rare",
+    "category": "Event",
+    "colors": [
+      "Black"
+    ],
+    "cost": 1,
+    "power": null,
+    "counter": null,
+    "block": 4,
+    "attributes": [],
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Baroque Works"
+    ],
+    "effect": "[Main] You may rest 2 of your DON!! cards: Negate the effect of up to 1 of your opponent's Characters with a cost of 5 or less during this turn.<br>[Counter] If you have 10 or more cards in your trash, up to 1 of your Leader or Character cards gains +4000 power during this battle.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-096_p1.png?260529"
+  },
+  {
+    "id": "OP14-097",
+    "set": "OP14-EB04",
+    "name": "Hurry Up and Make Me the Pirate King!",
+    "rarity": "Uncommon",
+    "category": "Event",
+    "colors": [
+      "Black"
+    ],
+    "cost": 1,
+    "power": null,
+    "counter": null,
+    "block": 4,
+    "attributes": [],
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Thriller Bark Pirates"
+    ],
+    "effect": "[Main] Look at 3 cards from the top of your deck; reveal up to 1 {Thriller Bark Pirates} type card other than [Hurry Up and Make Me the Pirate King!] and add it to your hand. Then, trash the rest.",
+    "trigger": "[Trigger] Activate this card's [Main] effect.",
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-097.png?260529"
+  },
+  {
+    "id": "OP14-098",
+    "set": "OP14-EB04",
+    "name": "Crescent Cutlass",
+    "rarity": "Common",
+    "category": "Event",
+    "colors": [
+      "Black"
+    ],
+    "cost": 1,
+    "power": null,
+    "counter": null,
+    "block": 4,
+    "attributes": [],
+    "types": [
+      "Impel Down",
+      "Former Baroque Works"
+    ],
+    "effect": "[Main] If there is a Character with a cost of 0 or with a cost of 8 or more, all of your Characters with a type including \"Baroque Works\" gain +3 cost until the end of your opponent's next End Phase.<br>[Counter] Your Leader gains +3000 power during this battle.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-098.png?260529"
+  },
+  {
+    "id": "OP14-099",
+    "set": "OP14-EB04",
+    "name": "Disappointed?",
+    "rarity": "Uncommon",
+    "category": "Event",
+    "colors": [
+      "Black"
+    ],
+    "cost": 1,
+    "power": null,
+    "counter": null,
+    "block": 4,
+    "attributes": [],
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Baroque Works"
+    ],
+    "effect": "[Main] Look at 3 cards from the top of your deck; reveal up to 1 card with a type including \"Baroque Works\" other than [Disappointed?] and add it to your hand. Then, trash the rest.",
+    "trigger": "[Trigger] Activate this card's [Main] effect.",
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-099.png?260529"
+  },
+  {
+    "id": "OP14-100",
+    "set": "OP14-EB04",
+    "name": "Absalom",
+    "rarity": "Rare",
+    "category": "Character",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 3,
+    "power": 5000,
+    "counter": null,
+    "block": 4,
+    "attributes": [
+      "Ranged"
+    ],
+    "types": [
+      "Thriller Bark Pirates"
+    ],
+    "effect": "[On K.O.] Look at 3 cards from the top of your deck; reveal up to 1 {Thriller Bark Pirates} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "[Trigger] Play up to 1 {Thriller Bark Pirates} type Character card with a cost of 4 or less from your trash rested.",
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-100.png?260529"
+  },
+  {
+    "id": "OP14-101",
+    "set": "OP14-EB04",
+    "name": "Oars",
+    "rarity": "Common",
+    "category": "Character",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 8,
+    "power": 10000,
+    "counter": 1000,
+    "block": 4,
+    "attributes": [
+      "Strike"
+    ],
+    "types": [
+      "Giant",
+      "Thriller Bark Pirates"
+    ],
+    "effect": "-",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-101.png?260529"
+  },
+  {
+    "id": "OP14-102",
+    "set": "OP14-EB04",
+    "name": "Kumacy",
+    "rarity": "Common",
+    "category": "Character",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 1,
+    "power": 2000,
+    "counter": 2000,
+    "block": 4,
+    "attributes": [
+      "Strike"
+    ],
+    "types": [
+      "Thriller Bark Pirates"
+    ],
+    "effect": "-",
+    "trigger": "[Trigger] Play up to 1 {Thriller Bark Pirates} type Character card with a cost of 4 or less from your trash rested.",
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-102.png?260529"
+  },
+  {
+    "id": "OP14-103",
+    "set": "OP14-EB04",
+    "name": "Gloriosa (Grandma Nyon)",
+    "rarity": "Common",
+    "category": "Character",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 2,
+    "power": null,
+    "counter": 1000,
+    "block": 4,
+    "attributes": [
+      "Wisdom"
+    ],
+    "types": [
+      "Amazon Lily"
+    ],
+    "effect": "[On Play] You may add 1 card from the top or bottom of your Life cards to your hand: Add up to 1 card from your hand to the top of your Life cards.",
+    "trigger": "[Trigger] Play this card.",
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-103.png?260529"
+  },
+  {
+    "id": "OP14-104",
+    "set": "OP14-EB04",
+    "name": "Gecko Moria",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 8,
+    "power": 10000,
+    "counter": null,
+    "block": 4,
+    "attributes": [
+      "Special"
+    ],
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Thriller Bark Pirates"
+    ],
+    "effect": "[On Play] Select up to 1 {Thriller Bark Pirates} type Character with a cost of 4 or less from your trash and play it or add it to the top of your Life cards face-up.",
+    "trigger": "[Trigger] Play up to 1 Character card with a cost of 4 or less from your trash.",
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-104.png?260529"
+  },
+  {
+    "id": "OP14-104_p1",
+    "set": "OP14-EB04",
+    "name": "Gecko Moria",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 8,
+    "power": 10000,
+    "counter": null,
+    "block": 4,
+    "attributes": [
+      "Special"
+    ],
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Thriller Bark Pirates"
+    ],
+    "effect": "[On Play] Select up to 1 {Thriller Bark Pirates} type Character with a cost of 4 or less from your trash and play it or add it to the top of your Life cards face-up.",
+    "trigger": "[Trigger] Play up to 1 Character card with a cost of 4 or less from your trash.",
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-104_p1.png?260529"
+  },
+  {
+    "id": "OP14-105",
+    "set": "OP14-EB04",
+    "name": "Gorgon Sisters",
+    "rarity": "Uncommon",
+    "category": "Character",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 6,
+    "power": 5000,
+    "counter": 2000,
+    "block": 4,
+    "attributes": [
+      "Slash",
+      "Special"
+    ],
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Kuja Pirates"
+    ],
+    "effect": "[Activate: Main] [Once Per Turn] You may reveal 3 {Amazon Lily} or {Kuja Pirates} type cards from your hand: Give your Leader and all of your Characters up to 1 rested DON!! card each.",
+    "trigger": "[Trigger] If your Leader has the {Kuja Pirates} type, play this card.",
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-105.png?260529"
+  },
+  {
+    "id": "OP14-106",
+    "set": "OP14-EB04",
+    "name": "Salome",
+    "rarity": "Common",
+    "category": "Character",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 3,
+    "power": 1000,
+    "counter": 1000,
+    "block": 4,
+    "attributes": [
+      "Strike"
+    ],
+    "types": [
+      "Animal",
+      "Amazon Lily"
+    ],
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+    "trigger": "[Trigger] Play this card.",
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-106.png?260529"
+  },
+  {
+    "id": "OP14-107",
+    "set": "OP14-EB04",
+    "name": "Shakuyaku",
+    "rarity": "Uncommon",
+    "category": "Character",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 6,
+    "power": 5000,
+    "counter": 2000,
+    "block": 4,
+    "attributes": [
+      "Wisdom"
+    ],
+    "types": [
+      "Amazon Lily"
+    ],
+    "effect": "[On Play] If your opponent has 3 or less Life cards, draw 2 cards and trash 2 cards from your hand.",
+    "trigger": "[Trigger] If your Leader has the {Kuja Pirates} type, play this card.",
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-107.png?260529"
+  },
+  {
+    "id": "OP14-108",
+    "set": "OP14-EB04",
+    "name": "Silvers Rayleigh",
+    "rarity": "Rare",
+    "category": "Character",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 6,
+    "power": 6000,
+    "counter": 1000,
+    "block": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "types": [
+      "Former Roger Pirates"
+    ],
+    "effect": "[On Play] If your Leader is multicolored and your opponent has 3 or less Life cards, K.O. up to 1 of your opponent's Characters with 7000 base power or less.",
+    "trigger": "[Trigger] Activate this card's [On Play] effect.",
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-108.png?260529"
+  },
+  {
+    "id": "OP14-109",
+    "set": "OP14-EB04",
+    "name": "Victoria Cindry",
+    "rarity": "Common",
+    "category": "Character",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 3,
+    "power": 1000,
+    "counter": 1000,
+    "block": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "types": [
+      "Thriller Bark Pirates"
+    ],
+    "effect": "[Blocker]",
+    "trigger": "[Trigger] Play up to 1 {Thriller Bark Pirates} type Character card with a cost of 4 or less from your trash rested.",
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-109.png?260529"
+  },
+  {
+    "id": "OP14-110",
+    "set": "OP14-EB04",
+    "name": "Dr. Hogback",
+    "rarity": "Rare",
+    "category": "Character",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 4,
+    "power": 5000,
+    "counter": 1000,
+    "block": 4,
+    "attributes": [
+      "Wisdom"
+    ],
+    "types": [
+      "Thriller Bark Pirates"
+    ],
+    "effect": "[On K.O.] Play up to 1 Character card with a cost of 4 or less and a [Trigger] other than [Dr. Hogback] from your trash.",
+    "trigger": "[Trigger] Play up to 1 {Thriller Bark Pirates} type Character card with a cost of 4 or less from your trash rested.",
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-110.png?260529"
+  },
+  {
+    "id": "OP14-111",
+    "set": "OP14-EB04",
+    "name": "Perona",
+    "rarity": "Rare",
+    "category": "Character",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 4,
+    "power": 5000,
+    "counter": 1000,
+    "block": 4,
+    "attributes": [
+      "Special"
+    ],
+    "types": [
+      "Thriller Bark Pirates"
+    ],
+    "effect": "[On Play]/[On K.O.] Up to 1 of your opponent's Characters with a cost of 6 or less cannot attack until the end of your opponent's next End Phase.",
+    "trigger": "[Trigger] Play up to 1 {Thriller Bark Pirates} type Character card with a cost of 4 or less from your trash rested.",
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-111.png?260529"
+  },
+  {
+    "id": "OP14-111_p1",
+    "set": "OP14-EB04",
+    "name": "Perona",
+    "rarity": "Rare",
+    "category": "Character",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 4,
+    "power": 5000,
+    "counter": 1000,
+    "block": 4,
+    "attributes": [
+      "Special"
+    ],
+    "types": [
+      "Thriller Bark Pirates"
+    ],
+    "effect": "[On Play]/[On K.O.] Up to 1 of your opponent's Characters with a cost of 6 or less cannot attack until the end of your opponent's next End Phase.",
+    "trigger": "[Trigger] Play up to 1 {Thriller Bark Pirates} type Character card with a cost of 4 or less from your trash rested.",
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-111_p1.png?260529"
+  },
+  {
+    "id": "OP14-112",
+    "set": "OP14-EB04",
+    "name": "Boa Hancock",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 9,
+    "power": 10000,
+    "counter": null,
+    "block": 4,
+    "attributes": [
+      "Special"
+    ],
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Kuja Pirates"
+    ],
+    "effect": "[On Play] If your Leader has the {The Seven Warlords of the Sea} type, add up to 1 card from the top of your deck to the top of your Life cards. Then, add up to 1 card from the top of your opponent's Life cards to the owner's hand.",
+    "trigger": "[Trigger] Play up to 1 Character card with 6000 power or less and a [Trigger] from your hand.",
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-112.png?260529"
+  },
+  {
+    "id": "OP14-112_p1",
+    "set": "OP14-EB04",
+    "name": "Boa Hancock",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 9,
+    "power": 10000,
+    "counter": null,
+    "block": 4,
+    "attributes": [
+      "Special"
+    ],
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Kuja Pirates"
+    ],
+    "effect": "[On Play] If your Leader has the {The Seven Warlords of the Sea} type, add up to 1 card from the top of your deck to the top of your Life cards. Then, add up to 1 card from the top of your opponent's Life cards to the owner's hand.",
+    "trigger": "[Trigger] Play up to 1 Character card with 6000 power or less and a [Trigger] from your hand.",
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-112_p1.png?260529"
+  },
+  {
+    "id": "OP14-113",
+    "set": "OP14-EB04",
+    "name": "Marguerite",
+    "rarity": "Uncommon",
+    "category": "Character",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 3,
+    "power": 5000,
+    "counter": null,
+    "block": 4,
+    "attributes": [
+      "Wisdom"
+    ],
+    "types": [
+      "Amazon Lily"
+    ],
+    "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Amazon Lily} or {Kuja Pirates} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order and trash 1 card from your hand.",
+    "trigger": "[Trigger] If your Leader has the {Kuja Pirates} type, play this card.",
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-113.png?260529"
+  },
+  {
+    "id": "OP14-114",
+    "set": "OP14-EB04",
+    "name": "Ran",
+    "rarity": "Uncommon",
+    "category": "Character",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 4,
+    "power": 5000,
+    "counter": 1000,
+    "block": 4,
+    "attributes": [
+      "Ranged"
+    ],
+    "types": [
+      "Kuja Pirates"
+    ],
+    "effect": "[Activate: Main] [Once Per Turn] Give up to 1 rested DON!! card to 1 of your {Kuja Pirates} type Leader or Character cards.",
+    "trigger": "[Trigger] If your Leader has the {Kuja Pirates} type, play this card.",
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-114.png?260529"
+  },
+  {
+    "id": "OP14-115",
+    "set": "OP14-EB04",
+    "name": "Rindo",
+    "rarity": "Common",
+    "category": "Character",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 5,
+    "power": 5000,
+    "counter": 1000,
+    "block": 4,
+    "attributes": [
+      "Ranged"
+    ],
+    "types": [
+      "Kuja Pirates"
+    ],
+    "effect": "[Opponent's Turn] [On K.O.] Add up to 1 card from the top of your deck to the top of your Life cards. Then, you take 1 damage.",
+    "trigger": "[Trigger] If your Leader has the {Kuja Pirates} type, play this card.",
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-115.png?260529"
+  },
+  {
+    "id": "OP14-116",
+    "set": "OP14-EB04",
+    "name": "Salamander",
+    "rarity": "Common",
+    "category": "Event",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 4,
+    "power": null,
+    "counter": null,
+    "block": 4,
+    "attributes": [],
+    "types": [
+      "Kuja Pirates"
+    ],
+    "effect": "[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle. Then, play up to 1 {Amazon Lily} or {Kuja Pirates} type Character card with a cost of 4 or less from your hand.",
+    "trigger": "[Trigger] Draw 1 card.",
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-116.png?260529"
+  },
+  {
+    "id": "OP14-117",
+    "set": "OP14-EB04",
+    "name": "Brick Bat",
+    "rarity": "Uncommon",
+    "category": "Event",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 1,
+    "power": null,
+    "counter": null,
+    "block": 4,
+    "attributes": [],
+    "types": [
+      "Thriller Bark Pirates"
+    ],
+    "effect": "[Counter] Up to 1 of your {Thriller Bark Pirates} type Leader or Character cards gains +3000 power during this battle.",
+    "trigger": "[Trigger] Play up to 1 {Thriller Bark Pirates} type Character card with a cost of 4 or less from your trash rested.",
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-117.png?260529"
+  },
+  {
+    "id": "OP14-118",
+    "set": "OP14-EB04",
+    "name": "You'll Frighten Me... ♡",
+    "rarity": "Rare",
+    "category": "Event",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 1,
+    "power": null,
+    "counter": null,
+    "block": 4,
+    "attributes": [],
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Kuja Pirates"
+    ],
+    "effect": "[Counter] If you have 2 or less Life cards, up to 1 of your opponent's active Characters cannot attack during this turn.",
+    "trigger": "[Trigger] Play up to 1 Character card with 6000 power or less and a [Trigger] from your hand.",
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-118.png?260529"
+  },
+  {
+    "id": "OP14-118_p1",
+    "set": "OP14-EB04",
+    "name": "You'll Frighten Me... ♡",
+    "rarity": "Rare",
+    "category": "Event",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 1,
+    "power": null,
+    "counter": null,
+    "block": 4,
+    "attributes": [],
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Kuja Pirates"
+    ],
+    "effect": "[Counter] If you have 2 or less Life cards, up to 1 of your opponent's active Characters cannot attack during this turn.",
+    "trigger": "[Trigger] Play up to 1 Character card with 6000 power or less and a [Trigger] from your hand.",
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-118_p1.png?260529"
+  },
+  {
+    "id": "OP14-119",
+    "set": "OP14-EB04",
+    "name": "Dracule Mihawk",
+    "rarity": "SecretRare",
+    "category": "Character",
+    "colors": [
+      "Green"
+    ],
+    "cost": 9,
+    "power": 10000,
+    "counter": null,
+    "block": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "types": [
+      "The Seven Warlords of the Sea"
+    ],
+    "effect": "[Your Turn] When this Character becomes rested, up to 1 of your opponent's Characters with a cost of 9 or less cannot be rested until the end of your opponent's next End Phase.<br>[On Your Opponent's Attack] [Once Per Turn] You may trash 1 card from your hand: Up to 1 of your Leader or Character cards gains +2000 power during this battle.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-119.png?260529"
+  },
+  {
+    "id": "OP14-119_p1",
+    "set": "OP14-EB04",
+    "name": "Dracule Mihawk",
+    "rarity": "SecretRare",
+    "category": "Character",
+    "colors": [
+      "Green"
+    ],
+    "cost": 9,
+    "power": 10000,
+    "counter": null,
+    "block": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "types": [
+      "The Seven Warlords of the Sea"
+    ],
+    "effect": "[Your Turn] When this Character becomes rested, up to 1 of your opponent's Characters with a cost of 9 or less cannot be rested until the end of your opponent's next End Phase.<br>[On Your Opponent's Attack] [Once Per Turn] You may trash 1 card from your hand: Up to 1 of your Leader or Character cards gains +2000 power during this battle.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-119_p1.png?260529"
+  },
+  {
+    "id": "OP14-119_p2",
+    "set": "OP14-EB04",
+    "name": "Dracule Mihawk",
+    "rarity": "SecretRare",
+    "category": "Character",
+    "colors": [
+      "Green"
+    ],
+    "cost": 9,
+    "power": 10000,
+    "counter": null,
+    "block": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "types": [
+      "The Seven Warlords of the Sea"
+    ],
+    "effect": "[Your Turn] When this Character becomes rested, up to 1 of your opponent's Characters with a cost of 9 or less cannot be rested until the end of your opponent's next End Phase.<br>[On Your Opponent's Attack] [Once Per Turn] You may trash 1 card from your hand: Up to 1 of your Leader or Character cards gains +2000 power during this battle.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-119_p2.png?260529"
+  },
+  {
+    "id": "OP14-120",
+    "set": "OP14-EB04",
+    "name": "Crocodile",
+    "rarity": "SecretRare",
+    "category": "Character",
+    "colors": [
+      "Black"
+    ],
+    "cost": 8,
+    "power": 10000,
+    "counter": null,
+    "block": 4,
+    "attributes": [
+      "Special"
+    ],
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Baroque Works"
+    ],
+    "effect": "[On Play] Up to 1 of your opponent's Characters with a cost of 9 or less cannot attack until the end of your opponent's next End Phase. Then, if your opponent has a Character with a cost of 0 or with a cost of 8 or more, draw 1 card.<br>[On K.O.] You may trash 1 card from your hand: Play this Character card from your trash.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-120.png?260529"
+  },
+  {
+    "id": "OP14-120_p1",
+    "set": "OP14-EB04",
+    "name": "Crocodile",
+    "rarity": "SecretRare",
+    "category": "Character",
+    "colors": [
+      "Black"
+    ],
+    "cost": 8,
+    "power": 10000,
+    "counter": null,
+    "block": 4,
+    "attributes": [
+      "Special"
+    ],
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Baroque Works"
+    ],
+    "effect": "[On Play] Up to 1 of your opponent's Characters with a cost of 9 or less cannot attack until the end of your opponent's next End Phase. Then, if your opponent has a Character with a cost of 0 or with a cost of 8 or more, draw 1 card.<br>[On K.O.] You may trash 1 card from your hand: Play this Character card from your trash.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-120_p1.png?260529"
+  },
+  {
+    "id": "EB01-003_p5",
+    "set": "OP14-EB04",
+    "name": "Kid &amp; Killer",
+    "rarity": "Special",
+    "category": "Character",
+    "colors": [
+      "Red"
+    ],
+    "cost": 4,
+    "power": 5000,
+    "counter": null,
+    "block": 2,
+    "attributes": [
+      "Slash",
+      "Special"
+    ],
+    "types": [
+      "Supernovas",
+      "Kid Pirates"
+    ],
+    "effect": "[Rush] (This card can attack on the turn in which it is played.)<br>[When Attacking] If your opponent has 2 or less Life cards, this Character gains +2000 power during this turn.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-003_p5.png?260529"
+  },
+  {
+    "id": "EB01-023_p1",
+    "set": "OP14-EB04",
+    "name": "Edward Weevil",
+    "rarity": "Special",
+    "category": "Character",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 4,
+    "power": 8000,
+    "counter": 1000,
+    "block": 2,
+    "attributes": [
+      "Slash"
+    ],
+    "types": [
+      "The Seven Warlords of the Sea"
+    ],
+    "effect": "[On Play] Draw 1 card.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-023_p1.png?260529"
+  },
+  {
+    "id": "EB04-039_p1",
+    "set": "OP14-EB04",
+    "name": "Eustass\"Captain\"Kid",
+    "rarity": "Special",
+    "category": "Character",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 7,
+    "power": 8000,
+    "counter": null,
+    "block": 4,
+    "attributes": [
+      "Special"
+    ],
+    "types": [
+      "Supernovas",
+      "Kid Pirates"
+    ],
+    "effect": "[On Play] Add up to 1 DON!! card from your DON!! deck and set it as active.<br>[Activate: Main] You may trash this Character: Play up to 1 {Kid Pirates} type Character card with a cost of 5 or less from your hand.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-039_p1.png?260529"
+  },
+  {
+    "id": "OP06-093_p5",
+    "set": "OP14-EB04",
+    "name": "Perona",
+    "rarity": "Special",
+    "category": "Character",
+    "colors": [
+      "Black"
+    ],
+    "cost": 4,
+    "power": 5000,
+    "counter": 2000,
+    "block": 2,
+    "attributes": [
+      "Special"
+    ],
+    "types": [
+      "Thriller Bark Pirates"
+    ],
+    "effect": "[On Play] If your opponent has 5 or more cards in their hand, choose one:<br>• Your opponent trashes 1 card from their hand.<br>• Give up to 1 of your opponent's Characters −3 cost during this turn.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP06-093_p5.png?260529"
+  },
+  {
+    "id": "OP07-046_p2",
+    "set": "OP14-EB04",
+    "name": "Sengoku",
+    "rarity": "Special",
+    "category": "Character",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 1,
+    "power": 2000,
+    "counter": 1000,
+    "block": 2,
+    "attributes": [
+      "Wisdom"
+    ],
+    "types": [
+      "Navy"
+    ],
+    "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {The Seven Warlords of the Sea} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP07-046_p2.png?260529"
+  },
+  {
+    "id": "OP09-051_p4",
+    "set": "OP14-EB04",
+    "name": "Buggy",
+    "rarity": "Special",
+    "category": "Character",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 10,
+    "power": 12000,
+    "counter": null,
+    "block": 3,
+    "attributes": [
+      "Slash"
+    ],
+    "types": [
+      "The Four Emperors",
+      "Cross Guild"
+    ],
+    "effect": "[On Play] Place up to 1 of your opponent's Characters at the bottom of the owner's deck. Then, if you do not have 5 Characters with a cost of 5 or more, place this Character at the bottom of the owner's deck.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-051_p4.png?260529"
+  },
+  {
+    "id": "OP09-051_p5",
+    "set": "OP14-EB04",
+    "name": "Buggy",
+    "rarity": "Special",
+    "category": "Character",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 10,
+    "power": 12000,
+    "counter": null,
+    "block": 3,
+    "attributes": [
+      "Slash"
+    ],
+    "types": [
+      "The Four Emperors",
+      "Cross Guild"
+    ],
+    "effect": "[On Play] Place up to 1 of your opponent's Characters at the bottom of the owner's deck. Then, if you do not have 5 Characters with a cost of 5 or more, place this Character at the bottom of the owner's deck.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-051_p5.png?260529"
+  },
+  {
+    "id": "OP10-065_p1",
+    "set": "OP14-EB04",
+    "name": "Sugar",
+    "rarity": "Special",
+    "category": "Character",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 1,
+    "power": 1000,
+    "counter": 1000,
+    "block": 3,
+    "attributes": [
+      "Special"
+    ],
+    "types": [
+      "Donquixote Pirates"
+    ],
+    "effect": "[Activate: Main] Rest 1 of your DON!! cards and you may rest this Character: Look at 5 cards from the top of your deck; reveal up to 1 {Donquixote Pirates} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP10-065_p1.png?260529"
+  },
+  {
+    "id": "OP12-030_p2",
+    "set": "OP14-EB04",
+    "name": "Dracule Mihawk",
+    "rarity": "Special",
+    "category": "Character",
+    "colors": [
+      "Green"
+    ],
+    "cost": 8,
+    "power": 8000,
+    "counter": null,
+    "block": 3,
+    "attributes": [
+      "Slash"
+    ],
+    "types": [
+      "Muggy Kingdom",
+      "The Seven Warlords of the Sea"
+    ],
+    "effect": "[Blocker]<br>[On Play] Set up to 4 of your DON!! cards as active. Then, you cannot play Character cards with a base cost of 7 or more during this turn.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-030_p2.png?260529"
+  },
+  {
+    "id": "OP14-112_p2",
+    "set": "OP14-EB04",
+    "name": "Boa Hancock",
+    "rarity": "Special",
+    "category": "Character",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 9,
+    "power": 10000,
+    "counter": null,
+    "block": 4,
+    "attributes": [
+      "Special"
+    ],
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Kuja Pirates"
+    ],
+    "effect": "[On Play] If your Leader has the {The Seven Warlords of the Sea} type, add up to 1 card from the top of your deck to the top of your Life cards. Then, add up to 1 card from the top of your opponent's Life cards to the owner's hand.",
+    "trigger": "[Trigger] Play up to 1 Character card with 6000 power or less and a [Trigger] from your hand.",
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-112_p2.png?260529"
+  },
+  {
+    "id": "PRB02-006_p2",
+    "set": "OP14-EB04",
+    "name": "Roronoa Zoro",
+    "rarity": "Special",
+    "category": "Character",
+    "colors": [
+      "Green"
+    ],
+    "cost": 4,
+    "power": 4000,
+    "counter": 2000,
+    "block": 3,
+    "attributes": [
+      "Slash"
+    ],
+    "types": [
+      "Supernovas",
+      "Straw Hat Crew"
+    ],
+    "effect": "[Opponent's Turn] If this Character would be rested by your opponent's Character's effect, you may rest 1 of your other Characters instead.<br>[Blocker]",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/PRB02-006_p2.png?260529"
+  }
+]

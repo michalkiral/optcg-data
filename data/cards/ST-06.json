@@ -1,0 +1,385 @@
+[
+  {
+    "id": "ST06-001",
+    "set": "ST-06",
+    "name": "Sakazuki",
+    "rarity": "Leader",
+    "category": "Leader",
+    "colors": [
+      "Black"
+    ],
+    "cost": 5,
+    "power": 5000,
+    "counter": null,
+    "block": 1,
+    "attributes": [
+      "Special"
+    ],
+    "types": [
+      "Navy"
+    ],
+    "effect": "[Activate: Main] [Once Per Turn] ③ (You may rest the specified number of DON!! cards in your cost area.) You may trash 1 card from your hand: K.O. up to 1 of your opponent's Characters with a cost of 0.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST06-001.png?260529"
+  },
+  {
+    "id": "ST06-002",
+    "set": "ST-06",
+    "name": "Koby",
+    "rarity": "Common",
+    "category": "Character",
+    "colors": [
+      "Black"
+    ],
+    "cost": 1,
+    "power": 2000,
+    "counter": 1000,
+    "block": 1,
+    "attributes": [
+      "Strike"
+    ],
+    "types": [
+      "Navy"
+    ],
+    "effect": "[On Play] You may trash 1 card from your hand: K.O. up to 1 of your opponent's Characters with a cost of 0.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST06-002.png?260529"
+  },
+  {
+    "id": "ST06-003",
+    "set": "ST-06",
+    "name": "Jango",
+    "rarity": "Common",
+    "category": "Character",
+    "colors": [
+      "Black"
+    ],
+    "cost": 1,
+    "power": 3000,
+    "counter": 1000,
+    "block": 1,
+    "attributes": [
+      "Slash"
+    ],
+    "types": [
+      "Navy"
+    ],
+    "effect": "-",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST06-003.png?260529"
+  },
+  {
+    "id": "ST06-004",
+    "set": "ST-06",
+    "name": "Smoker",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "colors": [
+      "Black"
+    ],
+    "cost": 5,
+    "power": 7000,
+    "counter": null,
+    "block": 1,
+    "attributes": [
+      "Special"
+    ],
+    "types": [
+      "Navy"
+    ],
+    "effect": "This Character cannot be K.O.'d by effects.<br>[DON!! x1] If there is a Character with a cost of 0, this Character gains [Double Attack].<br>(This card deals 2 damage.)",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST06-004.png?260529"
+  },
+  {
+    "id": "ST06-005",
+    "set": "ST-06",
+    "name": "Sengoku",
+    "rarity": "Common",
+    "category": "Character",
+    "colors": [
+      "Black"
+    ],
+    "cost": 5,
+    "power": 6000,
+    "counter": 1000,
+    "block": 1,
+    "attributes": [
+      "Wisdom"
+    ],
+    "types": [
+      "Navy"
+    ],
+    "effect": "[When Attacking] Give up to 1 of your opponent's Characters −4 cost during this turn.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST06-005.png?260529"
+  },
+  {
+    "id": "ST06-006",
+    "set": "ST-06",
+    "name": "Tashigi",
+    "rarity": "Common",
+    "category": "Character",
+    "colors": [
+      "Black"
+    ],
+    "cost": 3,
+    "power": 4000,
+    "counter": 2000,
+    "block": 1,
+    "attributes": [
+      "Slash"
+    ],
+    "types": [
+      "Navy"
+    ],
+    "effect": "[Activate: Main] You may rest this Character: Give up to 1 of your opponent's Characters −2 cost during this turn.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST06-006.png?260529"
+  },
+  {
+    "id": "ST06-007",
+    "set": "ST-06",
+    "name": "Tsuru",
+    "rarity": "Common",
+    "category": "Character",
+    "colors": [
+      "Black"
+    ],
+    "cost": 2,
+    "power": 2000,
+    "counter": 1000,
+    "block": 1,
+    "attributes": [
+      "Wisdom"
+    ],
+    "types": [
+      "Navy"
+    ],
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST06-007.png?260529"
+  },
+  {
+    "id": "ST06-008",
+    "set": "ST-06",
+    "name": "Hina",
+    "rarity": "Common",
+    "category": "Character",
+    "colors": [
+      "Black"
+    ],
+    "cost": 3,
+    "power": 5000,
+    "counter": null,
+    "block": 1,
+    "attributes": [
+      "Special"
+    ],
+    "types": [
+      "Navy"
+    ],
+    "effect": "[On Play] Give up to 1 of your opponent's Characters −4 cost during this turn.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST06-008.png?260529"
+  },
+  {
+    "id": "ST06-009",
+    "set": "ST-06",
+    "name": "Fullbody",
+    "rarity": "Common",
+    "category": "Character",
+    "colors": [
+      "Black"
+    ],
+    "cost": 2,
+    "power": 4000,
+    "counter": 1000,
+    "block": 1,
+    "attributes": [
+      "Strike"
+    ],
+    "types": [
+      "Navy"
+    ],
+    "effect": "-",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST06-009.png?260529"
+  },
+  {
+    "id": "ST06-010",
+    "set": "ST-06",
+    "name": "Helmeppo",
+    "rarity": "Common",
+    "category": "Character",
+    "colors": [
+      "Black"
+    ],
+    "cost": 2,
+    "power": 3000,
+    "counter": 1000,
+    "block": 1,
+    "attributes": [
+      "Slash"
+    ],
+    "types": [
+      "Navy"
+    ],
+    "effect": "[On Play] Give up to 1 of your opponent's Characters −3 cost during this turn.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST06-010.png?260529"
+  },
+  {
+    "id": "ST06-011",
+    "set": "ST-06",
+    "name": "Momonga",
+    "rarity": "Common",
+    "category": "Character",
+    "colors": [
+      "Black"
+    ],
+    "cost": 4,
+    "power": 6000,
+    "counter": 1000,
+    "block": 1,
+    "attributes": [
+      "Slash"
+    ],
+    "types": [
+      "Navy"
+    ],
+    "effect": "-",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST06-011.png?260529"
+  },
+  {
+    "id": "ST06-012",
+    "set": "ST-06",
+    "name": "Monkey.D.Garp",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "colors": [
+      "Black"
+    ],
+    "cost": 5,
+    "power": 6000,
+    "counter": null,
+    "block": 1,
+    "attributes": [
+      "Strike"
+    ],
+    "types": [
+      "Navy"
+    ],
+    "effect": "[Activate: Main] You may trash 1 card from your hand and rest this Character: K.O. up to 1 of your opponent's Characters with a cost of 4 or less.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST06-012.png?260529"
+  },
+  {
+    "id": "ST06-013",
+    "set": "ST-06",
+    "name": "T-Bone",
+    "rarity": "Common",
+    "category": "Character",
+    "colors": [
+      "Black"
+    ],
+    "cost": 3,
+    "power": 5000,
+    "counter": 1000,
+    "block": 1,
+    "attributes": [
+      "Slash"
+    ],
+    "types": [
+      "Navy"
+    ],
+    "effect": "-",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST06-013.png?260529"
+  },
+  {
+    "id": "ST06-014",
+    "set": "ST-06",
+    "name": "Shockwave",
+    "rarity": "Common",
+    "category": "Event",
+    "colors": [
+      "Black"
+    ],
+    "cost": 2,
+    "power": null,
+    "counter": null,
+    "block": 1,
+    "attributes": [],
+    "types": [
+      "Navy"
+    ],
+    "effect": "[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, K.O. up to 1 of your opponent's active Characters with a cost of 3 or less.",
+    "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with a cost of 4 or less.",
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST06-014.png?260529"
+  },
+  {
+    "id": "ST06-015",
+    "set": "ST-06",
+    "name": "Great Eruption",
+    "rarity": "Common",
+    "category": "Event",
+    "colors": [
+      "Black"
+    ],
+    "cost": 1,
+    "power": null,
+    "counter": null,
+    "block": 1,
+    "attributes": [],
+    "types": [
+      "Navy"
+    ],
+    "effect": "[Main] Draw 1 card. Then, give up to 1 of your opponent's Characters −2 cost during this turn.",
+    "trigger": "[Trigger] Your opponent chooses 1 card from their hand and trashes it.",
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST06-015.png?260529"
+  },
+  {
+    "id": "ST06-016",
+    "set": "ST-06",
+    "name": "White Out",
+    "rarity": "Common",
+    "category": "Event",
+    "colors": [
+      "Black"
+    ],
+    "cost": 1,
+    "power": null,
+    "counter": null,
+    "block": 1,
+    "attributes": [],
+    "types": [
+      "Navy"
+    ],
+    "effect": "[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle.",
+    "trigger": "[Trigger] Draw 1 card and none of your Characters can be K.O.'d during this turn.",
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST06-016.png?260529"
+  },
+  {
+    "id": "ST06-017",
+    "set": "ST-06",
+    "name": "Navy HQ",
+    "rarity": "Common",
+    "category": "Stage",
+    "colors": [
+      "Black"
+    ],
+    "cost": 1,
+    "power": null,
+    "counter": null,
+    "block": 1,
+    "attributes": [],
+    "types": [
+      "Navy"
+    ],
+    "effect": "[On Play] Give up to 1 of your opponent's Characters −1 cost during this turn.<br>[Activate: Main] You may rest this Stage: If your Leader has the {Navy} type, give up to 1 of your opponent's Characters −1 cost during this turn.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST06-017.png?260529"
+  }
+]

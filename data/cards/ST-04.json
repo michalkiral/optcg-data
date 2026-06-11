@@ -1,0 +1,392 @@
+[
+  {
+    "id": "ST04-001",
+    "set": "ST-04",
+    "name": "Kaido",
+    "rarity": "Leader",
+    "category": "Leader",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 5,
+    "power": 5000,
+    "counter": null,
+    "block": 1,
+    "attributes": [
+      "Strike"
+    ],
+    "types": [
+      "The Four Emperors",
+      "Animal Kingdom Pirates"
+    ],
+    "effect": "[Activate: Main] [Once Per Turn] DON!! −7 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Trash up to 1 of your opponent's Life cards.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-001.png?260529"
+  },
+  {
+    "id": "ST04-002",
+    "set": "ST-04",
+    "name": "Ulti",
+    "rarity": "Common",
+    "category": "Character",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 4,
+    "power": 5000,
+    "counter": 2000,
+    "block": 1,
+    "attributes": [
+      "Strike"
+    ],
+    "types": [
+      "Animal Kingdom Pirates"
+    ],
+    "effect": "[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Play up to 1 [Page One] card with a cost of 4 or less from your hand.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-002.png?260529"
+  },
+  {
+    "id": "ST04-003",
+    "set": "ST-04",
+    "name": "Kaido",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 9,
+    "power": 10000,
+    "counter": null,
+    "block": 1,
+    "attributes": [
+      "Strike"
+    ],
+    "types": [
+      "The Four Emperors",
+      "Animal Kingdom Pirates"
+    ],
+    "effect": "[On Play] DON!! −5 (You may return the specified number of DON!! cards from your field to your DON!! deck.): K.O. up to 1 of your opponent's Characters with a cost of 6 or less. This Character gains [Rush] during this turn.<br>(This card can attack on the turn in which it is played.)",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-003.png?260529"
+  },
+  {
+    "id": "ST04-004",
+    "set": "ST-04",
+    "name": "King",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 6,
+    "power": 7000,
+    "counter": null,
+    "block": 1,
+    "attributes": [
+      "Special"
+    ],
+    "types": [
+      "Animal Kingdom Pirates"
+    ],
+    "effect": "[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): K.O. up to 1 of your opponent's Characters with a cost of 4 or less.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-004.png?260529"
+  },
+  {
+    "id": "ST04-005",
+    "set": "ST-04",
+    "name": "Queen",
+    "rarity": "Common",
+    "category": "Character",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 5,
+    "power": 6000,
+    "counter": 1000,
+    "block": 1,
+    "attributes": [
+      "Strike"
+    ],
+    "types": [
+      "Animal Kingdom Pirates"
+    ],
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Draw 2 cards and trash 1 card from your hand.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-005.png?260529"
+  },
+  {
+    "id": "ST04-006",
+    "set": "ST-04",
+    "name": "Sasaki",
+    "rarity": "Common",
+    "category": "Character",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 3,
+    "power": 4000,
+    "counter": 1000,
+    "block": 1,
+    "attributes": [
+      "Ranged"
+    ],
+    "types": [
+      "Animal Kingdom Pirates"
+    ],
+    "effect": "[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Draw 1 card.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-006.png?260529"
+  },
+  {
+    "id": "ST04-007",
+    "set": "ST-04",
+    "name": "Sheepshead",
+    "rarity": "Common",
+    "category": "Character",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 2,
+    "power": 4000,
+    "counter": 1000,
+    "block": 1,
+    "attributes": [
+      "Slash"
+    ],
+    "types": [
+      "Animal Kingdom Pirates",
+      "Smile"
+    ],
+    "effect": "-",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-007.png?260529"
+  },
+  {
+    "id": "ST04-008",
+    "set": "ST-04",
+    "name": "Jack",
+    "rarity": "Common",
+    "category": "Character",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 3,
+    "power": 4000,
+    "counter": 1000,
+    "block": 1,
+    "attributes": [
+      "Strike"
+    ],
+    "types": [
+      "Animal Kingdom Pirates"
+    ],
+    "effect": "[On Play] You may trash 1 card from your hand: Add up to 1 DON!! card from your DON!! deck and set it as active.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-008.png?260529"
+  },
+  {
+    "id": "ST04-009",
+    "set": "ST-04",
+    "name": "Ginrummy",
+    "rarity": "Common",
+    "category": "Character",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 1,
+    "power": 3000,
+    "counter": 1000,
+    "block": 1,
+    "attributes": [
+      "Strike"
+    ],
+    "types": [
+      "Animal Kingdom Pirates",
+      "Smile"
+    ],
+    "effect": "-",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-009.png?260529"
+  },
+  {
+    "id": "ST04-010",
+    "set": "ST-04",
+    "name": "Who's.Who",
+    "rarity": "Common",
+    "category": "Character",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 3,
+    "power": 3000,
+    "counter": null,
+    "block": 1,
+    "attributes": [
+      "Slash"
+    ],
+    "types": [
+      "Animal Kingdom Pirates"
+    ],
+    "effect": "[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): K.O. up to 1 of your opponent's Characters with a cost of 3 or less.",
+    "trigger": "[Trigger] Play this card.",
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-010.png?260529"
+  },
+  {
+    "id": "ST04-011",
+    "set": "ST-04",
+    "name": "Black Maria",
+    "rarity": "Common",
+    "category": "Character",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 2,
+    "power": 2000,
+    "counter": 1000,
+    "block": 1,
+    "attributes": [
+      "Special"
+    ],
+    "types": [
+      "Animal Kingdom Pirates"
+    ],
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-011.png?260529"
+  },
+  {
+    "id": "ST04-012",
+    "set": "ST-04",
+    "name": "Page One",
+    "rarity": "Common",
+    "category": "Character",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 4,
+    "power": 6000,
+    "counter": 1000,
+    "block": 1,
+    "attributes": [
+      "Strike"
+    ],
+    "types": [
+      "Animal Kingdom Pirates"
+    ],
+    "effect": "-",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-012.png?260529"
+  },
+  {
+    "id": "ST04-013",
+    "set": "ST-04",
+    "name": "X.Drake",
+    "rarity": "Common",
+    "category": "Character",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 3,
+    "power": 5000,
+    "counter": 1000,
+    "block": 1,
+    "attributes": [
+      "Slash"
+    ],
+    "types": [
+      "Navy",
+      "Drake Pirates",
+      "Animal Kingdom Pirates"
+    ],
+    "effect": "-",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-013.png?260529"
+  },
+  {
+    "id": "ST04-014",
+    "set": "ST-04",
+    "name": "Lead Performer \"Disaster\"",
+    "rarity": "Common",
+    "category": "Event",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 4,
+    "power": null,
+    "counter": null,
+    "block": 1,
+    "attributes": [],
+    "types": [
+      "Animal Kingdom Pirates"
+    ],
+    "effect": "[Main] Draw 1 card, then add up to 1 DON!! card from your DON!! deck and set it as active.",
+    "trigger": "[Trigger] Activate this card's [Main] effect.",
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-014.png?260529"
+  },
+  {
+    "id": "ST04-015",
+    "set": "ST-04",
+    "name": "Brachio Bomber",
+    "rarity": "Common",
+    "category": "Event",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 6,
+    "power": null,
+    "counter": null,
+    "block": 1,
+    "attributes": [],
+    "types": [
+      "Animal Kingdom Pirates"
+    ],
+    "effect": "[Main] K.O. up to 1 of your opponent's Characters with a cost of 6 or less, then add up to 1 DON!! card from your DON!! deck and set it as active.",
+    "trigger": "[Trigger] Add up to 1 DON!! card from your DON!! deck and set it as active.",
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-015.png?260529"
+  },
+  {
+    "id": "ST04-016",
+    "set": "ST-04",
+    "name": "Blast Breath",
+    "rarity": "Common",
+    "category": "Event",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 1,
+    "power": null,
+    "counter": null,
+    "block": 1,
+    "attributes": [],
+    "types": [
+      "The Four Emperors",
+      "Animal Kingdom Pirates"
+    ],
+    "effect": "[Counter] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Up to 1 of your Leader or Character cards gains +4000 power during this battle.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-016.png?260529"
+  },
+  {
+    "id": "ST04-017",
+    "set": "ST-04",
+    "name": "Onigashima Island",
+    "rarity": "Common",
+    "category": "Stage",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 3,
+    "power": null,
+    "counter": null,
+    "block": 1,
+    "attributes": [],
+    "types": [
+      "Animal Kingdom Pirates"
+    ],
+    "effect": "[Activate: Main] You may rest this Stage: If your Leader has the {Animal Kingdom Pirates} type, add up to 1 DON!! card from your DON!! deck and rest it.",
+    "trigger": null,
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-017.png?260529"
+  }
+]

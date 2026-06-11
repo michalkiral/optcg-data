@@ -1,0 +1,320 @@
+[
+  {
+    "code": "EB-01",
+    "name": "MEMORIAL COLLECTION",
+    "vegapullId": "569201",
+    "cardCount": 80
+  },
+  {
+    "code": "EB-02",
+    "name": "Anime 25th Collection",
+    "vegapullId": "569202",
+    "cardCount": 105
+  },
+  {
+    "code": "EB-03",
+    "name": "ONE PIECE HEROINES EDITION",
+    "vegapullId": "569203",
+    "cardCount": 90
+  },
+  {
+    "code": "OP-01",
+    "name": "ROMANCE DAWN",
+    "vegapullId": "569101",
+    "cardCount": 154
+  },
+  {
+    "code": "OP-02",
+    "name": "PARAMOUNT WAR",
+    "vegapullId": "569102",
+    "cardCount": 154
+  },
+  {
+    "code": "OP-03",
+    "name": "PILLARS OF STRENGTH",
+    "vegapullId": "569103",
+    "cardCount": 154
+  },
+  {
+    "code": "OP-04",
+    "name": "KINGDOMS OF INTRIGUE",
+    "vegapullId": "569104",
+    "cardCount": 149
+  },
+  {
+    "code": "OP-05",
+    "name": "AWAKENING OF THE NEW ERA",
+    "vegapullId": "569105",
+    "cardCount": 154
+  },
+  {
+    "code": "OP-06",
+    "name": "WINGS OF THE CAPTAIN",
+    "vegapullId": "569106",
+    "cardCount": 151
+  },
+  {
+    "code": "OP-07",
+    "name": "500 YEARS IN THE FUTURE",
+    "vegapullId": "569107",
+    "cardCount": 151
+  },
+  {
+    "code": "OP-08",
+    "name": "TWO LEGENDS",
+    "vegapullId": "569108",
+    "cardCount": 151
+  },
+  {
+    "code": "OP-09",
+    "name": "EMPERORS IN THE NEW WORLD",
+    "vegapullId": "569109",
+    "cardCount": 159
+  },
+  {
+    "code": "OP-10",
+    "name": "ROYAL BLOOD",
+    "vegapullId": "569110",
+    "cardCount": 151
+  },
+  {
+    "code": "OP-11",
+    "name": "A FIST OF DIVINE SPEED",
+    "vegapullId": "569111",
+    "cardCount": 156
+  },
+  {
+    "code": "OP-12",
+    "name": "LEGACY OF THE MASTER",
+    "vegapullId": "569112",
+    "cardCount": 155
+  },
+  {
+    "code": "OP-13",
+    "name": "CARRYING ON HIS WILL",
+    "vegapullId": "569113",
+    "cardCount": 175
+  },
+  {
+    "code": "OP-16",
+    "name": "THE TIME OF BATTLE",
+    "vegapullId": "569116",
+    "cardCount": 155
+  },
+  {
+    "code": "OP14-EB04",
+    "name": "THE AZURE SEA’S SEVEN",
+    "vegapullId": "569114",
+    "cardCount": 199
+  },
+  {
+    "code": "OP15-EB04",
+    "name": "BOOSTER PACK",
+    "vegapullId": "569115",
+    "cardCount": 196
+  },
+  {
+    "code": "OTHER-PRODUCT-CARD",
+    "name": "Other Product Card",
+    "vegapullId": "569801",
+    "cardCount": 173
+  },
+  {
+    "code": "PRB-01",
+    "name": "ONE PIECE CARD THE BEST",
+    "vegapullId": "569301",
+    "cardCount": 319
+  },
+  {
+    "code": "PRB-02",
+    "name": "ONE PIECE CARD THE BEST vol.2",
+    "vegapullId": "569302",
+    "cardCount": 316
+  },
+  {
+    "code": "PROMOTION-CARD",
+    "name": "Promotion card",
+    "vegapullId": "569901",
+    "cardCount": 365
+  },
+  {
+    "code": "ST-01",
+    "name": "Straw Hat Crew",
+    "vegapullId": "569001",
+    "cardCount": 17
+  },
+  {
+    "code": "ST-02",
+    "name": "Worst Generation",
+    "vegapullId": "569002",
+    "cardCount": 17
+  },
+  {
+    "code": "ST-03",
+    "name": "The Seven Warlords of the Sea",
+    "vegapullId": "569003",
+    "cardCount": 17
+  },
+  {
+    "code": "ST-04",
+    "name": "Animal Kingdom Pirates",
+    "vegapullId": "569004",
+    "cardCount": 17
+  },
+  {
+    "code": "ST-05",
+    "name": "ONE PIECE FILM edition",
+    "vegapullId": "569005",
+    "cardCount": 17
+  },
+  {
+    "code": "ST-06",
+    "name": "Absolute Justice",
+    "vegapullId": "569006",
+    "cardCount": 17
+  },
+  {
+    "code": "ST-07",
+    "name": "Big Mom Pirates",
+    "vegapullId": "569007",
+    "cardCount": 17
+  },
+  {
+    "code": "ST-08",
+    "name": "Monkey D. Luffy",
+    "vegapullId": "569008",
+    "cardCount": 15
+  },
+  {
+    "code": "ST-09",
+    "name": "Yamato",
+    "vegapullId": "569009",
+    "cardCount": 15
+  },
+  {
+    "code": "ST-10",
+    "name": "The Three Captains",
+    "vegapullId": "569010",
+    "cardCount": 19
+  },
+  {
+    "code": "ST-11",
+    "name": "Uta",
+    "vegapullId": "569011",
+    "cardCount": 15
+  },
+  {
+    "code": "ST-12",
+    "name": "Zoro and Sanji",
+    "vegapullId": "569012",
+    "cardCount": 17
+  },
+  {
+    "code": "ST-13",
+    "name": "The Three Brothers",
+    "vegapullId": "569013",
+    "cardCount": 35
+  },
+  {
+    "code": "ST-14",
+    "name": "3D2Y",
+    "vegapullId": "569014",
+    "cardCount": 17
+  },
+  {
+    "code": "ST-15",
+    "name": "Red Edward.Newgate",
+    "vegapullId": "569015",
+    "cardCount": 15
+  },
+  {
+    "code": "ST-16",
+    "name": "Green Uta",
+    "vegapullId": "569016",
+    "cardCount": 15
+  },
+  {
+    "code": "ST-17",
+    "name": "Blue Donquixote Doflamingo",
+    "vegapullId": "569017",
+    "cardCount": 15
+  },
+  {
+    "code": "ST-18",
+    "name": "Purple Monkey.D.Luffy",
+    "vegapullId": "569018",
+    "cardCount": 15
+  },
+  {
+    "code": "ST-19",
+    "name": "Black Smoker",
+    "vegapullId": "569019",
+    "cardCount": 15
+  },
+  {
+    "code": "ST-20",
+    "name": "Yellow Charlotte Katakuri",
+    "vegapullId": "569020",
+    "cardCount": 15
+  },
+  {
+    "code": "ST-21",
+    "name": "GEAR5",
+    "vegapullId": "569021",
+    "cardCount": 32
+  },
+  {
+    "code": "ST-22",
+    "name": "Ace &amp; Newgate",
+    "vegapullId": "569022",
+    "cardCount": 31
+  },
+  {
+    "code": "ST-23",
+    "name": "RED Shanks",
+    "vegapullId": "569023",
+    "cardCount": 15
+  },
+  {
+    "code": "ST-24",
+    "name": "GREEN Jewelry Bonney",
+    "vegapullId": "569024",
+    "cardCount": 15
+  },
+  {
+    "code": "ST-25",
+    "name": "BLUE Buggy",
+    "vegapullId": "569025",
+    "cardCount": 15
+  },
+  {
+    "code": "ST-26",
+    "name": "PURPLE/BLACK Monkey.D.Luffy",
+    "vegapullId": "569026",
+    "cardCount": 15
+  },
+  {
+    "code": "ST-27",
+    "name": "BLACK Marshall.D.Teach",
+    "vegapullId": "569027",
+    "cardCount": 15
+  },
+  {
+    "code": "ST-28",
+    "name": "GREEN/YELLOW Yamato",
+    "vegapullId": "569028",
+    "cardCount": 15
+  },
+  {
+    "code": "ST-29",
+    "name": "Egghead",
+    "vegapullId": "569029",
+    "cardCount": 31
+  },
+  {
+    "code": "ST-30",
+    "name": "Luffy &amp; Ace",
+    "vegapullId": "569030",
+    "cardCount": 34
+  }
+]
