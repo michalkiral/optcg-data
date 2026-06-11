@@ -18,10 +18,12 @@ function main() {
   rmSync(RAW_DIR, { recursive: true, force: true });
   mkdirSync(RAW_DIR, { recursive: true });
 
-  console.log(`running: vega pull all --language ${LANG} --output ${RAW_DIR}`);
+  // vegapull's language/output/user-agent flags belong to `pull` (not global),
+  // so they must precede the `all` subcommand.
+  console.log(`running: vega pull --language ${LANG} --output ${RAW_DIR} all`);
   execFileSync(
     VEGA,
-    ["pull", "all", "--language", LANG, "--output", RAW_DIR, "--user-agent", UA],
+    ["pull", "--language", LANG, "--output", RAW_DIR, "--user-agent", UA, "all"],
     { stdio: "inherit" },
   );
   console.log("vegapull done");
