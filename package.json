@@ -1,0 +1,14 @@
+{
+  "name": "optcg-data",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Static, versioned JSON catalog of One Piece Card Game cards, scraped from the official Bandai cardlist via vegapull and served over jsDelivr.",
+  "scripts": {
+    "pull": "node scripts/pull.mjs",
+    "transform": "node scripts/transform.mjs",
+    "build": "node scripts/pull.mjs && node scripts/transform.mjs",
+    "verify:fixture": "node scripts/transform.mjs --raw fixtures/raw --out fixtures/out"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,53 @@
+[
+  {
+    "id": "OP01-001",
+    "pack_id": "569101",
+    "name": "Roronoa Zoro",
+    "rarity": "Leader",
+    "category": "Leader",
+    "img_url": "../images/cardlist/card/OP01-001.png?250425",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-001.png?250425",
+    "colors": ["Red"],
+    "cost": 5,
+    "attributes": ["Slash"],
+    "power": 5000,
+    "counter": null,
+    "types": ["Supernovas", "Straw Hat Crew"],
+    "effect": "[DON!! x1] [Your Turn] All of your Characters gain +1000 power.",
+    "trigger": null
+  },
+  {
+    "id": "OP01-025",
+    "pack_id": "569101",
+    "name": "Trafalgar Law",
+    "rarity": "Super Rare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-025.png",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-025.png",
+    "colors": ["Green", "Purple"],
+    "cost": 5,
+    "attributes": ["Slash"],
+    "power": 6000,
+    "counter": "1000",
+    "types": ["The Four Emperors", "Heart Pirates"],
+    "effect": "[On Play] You may rest 1 of your DON!! cards: Draw 1 card.",
+    "trigger": ""
+  },
+  {
+    "id": "OP01-025_p1",
+    "pack_id": "569101",
+    "name": "Trafalgar Law",
+    "rarity": "Super Rare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-025_p1.png",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-025_p1.png",
+    "colors": ["Green", "Purple"],
+    "cost": 5,
+    "attributes": ["Slash"],
+    "power": 6000,
+    "counter": "1000",
+    "types": ["The Four Emperors", "Heart Pirates"],
+    "effect": "[On Play] You may rest 1 of your DON!! cards: Draw 1 card.",
+    "trigger": ""
+  }
+]

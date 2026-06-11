@@ -1,0 +1,102 @@
+#!/usr/bin/env node
+// Transform raw vegapull output into our normalized, CDN-served schema.
+// Pure Node built-ins, no dependencies. Driven by CI; also runnable locally
+// against the committed fixture (no Rust needed):
+//   node scripts/transform.mjs --raw fixtures/raw --out fixtures/out
+import {
+  existsSync,
+  mkdirSync,
+  readFileSync,
+  rmSync,
+  writeFileSync,
+} from "node:fs";
+import { join } from "node:path";
+
+function arg(name, fallback) {
+  const i = process.argv.indexOf(`--${name}`);
+  return i !== -1 && process.argv[i + 1] ? process.argv[i + 1] : fallback;
+}
+
+const RAW_DIR = arg("raw", process.env.RAW_DIR ?? "raw");
+const OUT_DIR = arg("out", process.env.OUT_DIR ?? "data");
+const VEGAPULL_VERSION = process.env.VEGAPULL_VERSION ?? "unknown";
+const GENERATED_AT = process.env.GENERATED_AT ?? "";
+
+const readJson = (p) => JSON.parse(readFileSync(p, "utf8"));
+const writeJson = (p, v) => writeFileSync(p, `${JSON.stringify(v, null, 2)}\n`, "utf8");
+
+// Human set code for a vegapull pack: prefer the "[OP-01]"-style label, else
+// slugify the title so promos / general products still get a stable filename.
+function setCodeFor(pack) {
+  const label = pack?.title_parts?.label?.trim();
+  if (label) return label;
+  const title = pack?.title_parts?.title ?? pack?.raw_title ?? String(pack?.id ?? "MISC");
+  return title.toUpperCase().replace(/[^A-Z0-9]+/g, "-").replace(/^-+|-+$/g, "") || "MISC";
+}
+
+// vegapull card -> our schema. Drops the relative img_url and redundant pack_id,
+// denormalizes the set code onto each card so the app needs no join. `life` is
+// passed through when vegapull provides it (leaders); null otherwise.
+function transformCard(c, setCode) {
+  return {
+    id: c.id,
+    set: setCode,
+    name: c.name ?? "",
+    rarity: c.rarity ?? "",
+    category: c.category ?? "",
+    colors: c.colors ?? [],
+    cost: c.cost ?? null,
+    power: c.power ?? null,
+    counter: c.counter ?? null,
+    life: c.life ?? null,
+    attributes: c.attributes ?? [],
+    types: c.types ?? [],
+    effect: c.effect ?? "",
+    trigger: c.trigger ?? null,
+    image: c.img_full_url ?? null,
+  };
+}
+
+function main() {
+  const rawPacks = readJson(join(RAW_DIR, "packs.json"));
+
+  rmSync(OUT_DIR, { recursive: true, force: true });
+  mkdirSync(join(OUT_DIR, "cards"), { recursive: true });
+  mkdirSync(join(OUT_DIR, "index"), { recursive: true });
+
+  const packsOut = [];
+  const byId = {};
+  let totalCards = 0;
+
+  for (const pack of rawPacks) {
+    const setCode = setCodeFor(pack);
+    const cardsPath = join(RAW_DIR, `cards_${pack.id}.json`);
+    if (!existsSync(cardsPath)) {
+      console.warn(`warn: no cards file for pack ${pack.id} (${setCode}), skipping`);
+      continue;
+    }
+    const cards = readJson(cardsPath).map((c) => transformCard(c, setCode));
+    for (const c of cards) byId[c.id] = c;
+    writeJson(join(OUT_DIR, "cards", `${setCode}.json`), cards);
+    packsOut.push({
+      code: setCode,
+      name: pack?.title_parts?.title ?? pack?.raw_title ?? setCode,
+      vegapullId: pack.id,
+      cardCount: cards.length,
+    });
+    totalCards += cards.length;
+  }
+
+  writeJson(join(OUT_DIR, "packs.json"), packsOut);
+  writeJson(join(OUT_DIR, "index", "cards_by_id.json"), byId);
+  writeJson(join(OUT_DIR, "manifest.json"), {
+    generatedAt: GENERATED_AT,
+    vegapullVersion: VEGAPULL_VERSION,
+    packCount: packsOut.length,
+    cardCount: totalCards,
+  });
+
+  console.log(`ok: ${packsOut.length} packs, ${totalCards} cards -> ${OUT_DIR}/`);
+}
+
+main();

@@ -1,0 +1,56 @@
+name: scrape
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Mondays 06:00 UTC — new sets ship every ~1-2 months, weekly is ample.
+    - cron: "0 6 * * 1"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scrape
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - uses: dtolnay/rust-toolchain@stable
+
+      - uses: Swatinem/rust-cache@v2
+
+      - name: Install vegapull
+        # crates.io lags behind; install the current CLI straight from git.
+        run: cargo install --git https://github.com/Coko7/vegapull --locked
+
+      - name: Pull raw card data
+        run: node scripts/pull.mjs
+
+      - name: Transform into published schema
+        env:
+          GENERATED_AT: ${{ github.event.repository.updated_at }}
+          VEGAPULL_VERSION: vega-git
+        run: |
+          GENERATED_AT="$(date -u +%Y-%m-%dT%H:%M:%SZ)" \
+          VEGAPULL_VERSION="$(vega --version 2>/dev/null || echo vega-git)" \
+          node scripts/transform.mjs
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "no changes"
+          else
+            git commit -m "data: update $(date -u +%Y-%m-%d)"
+            git push
+          fi
