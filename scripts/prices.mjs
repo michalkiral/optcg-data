@@ -32,11 +32,15 @@ const readJson = (p, fallback) => {
 };
 const writeJson = (p, v) => writeFileSync(p, `${JSON.stringify(v)}\n`, "utf8");
 
-const basePrintId = (id) => id.replace(/_p\d+$/, "");
+// Print suffixes: _p<N> = alternate art (a numbered Version on Limitless),
+// _r<N> = reprint in another product (a versionless product row on Limitless).
+const basePrintId = (id) => id.replace(/_[pr]\d+$/, "");
 const printOrder = (id) => {
-  const m = id.match(/_p(\d+)$/);
-  return m ? Number(m[1]) : 0;
+  const m = id.match(/_([pr])(\d+)$/);
+  if (!m) return 0;
+  return (m[1] === "r" ? 100 : 0) + Number(m[2]);
 };
+const isReprint = (id) => /_r\d+$/.test(id);
 
 // --- Parsing (pure; exported shape used by --test-fixture) ---
 
@@ -75,15 +79,18 @@ export function parsePrintsTable(html) {
 
 /**
  * Maps parsed rows to our print ids for one base id.
- * prints must be ordered: base, _p1, _p2, ...
+ * prints must be ordered: base, _p1, _p2, ..., _r1, _r2, ...
+ * V<N> rows map positionally onto base+_p prints only; versionless rows
+ * (reprints/promos) are assigned only when exactly one candidate remains.
  */
 export function mapRowsToPrints(rows, prints) {
+  const vPrints = prints.filter((p) => !isReprint(p));
   const mapped = new Map();
   const unmapped = [];
   const assigned = new Set();
   for (const row of rows) {
     if (row.version === null) continue;
-    const print = prints[row.version - 1];
+    const print = vPrints[row.version - 1];
     if (print && !assigned.has(print)) {
       mapped.set(print, row);
       assigned.add(print);
