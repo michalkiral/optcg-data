@@ -12,6 +12,7 @@
     "attributes": ["Slash"],
     "power": 5000,
     "counter": null,
+    "block_number": 1,
     "types": ["Supernovas", "Straw Hat Crew"],
     "effect": "[DON!! x1] [Your Turn] All of your Characters gain +1000 power.",
     "trigger": null
@@ -28,10 +29,11 @@
     "cost": 5,
     "attributes": ["Slash"],
     "power": 6000,
-    "counter": "1000",
+    "counter": 1000,
+    "block_number": 1,
     "types": ["The Four Emperors", "Heart Pirates"],
     "effect": "[On Play] You may rest 1 of your DON!! cards: Draw 1 card.",
-    "trigger": ""
+    "trigger": null
   },
   {
     "id": "OP01-025_p1",
@@ -45,9 +47,10 @@
     "cost": 5,
     "attributes": ["Slash"],
     "power": 6000,
-    "counter": "1000",
+    "counter": 1000,
+    "block_number": 1,
     "types": ["The Four Emperors", "Heart Pirates"],
     "effect": "[On Play] You may rest 1 of your DON!! cards: Draw 1 card.",
-    "trigger": ""
+    "trigger": null
   }
 ]

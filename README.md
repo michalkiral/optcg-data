@@ -50,7 +50,7 @@ published cards link the official Bandai CDN image URLs.
   "cost": 5,
   "power": 5000,
   "counter": null,
-  "life": null,
+  "block": 1,
   "attributes": ["Slash"],
   "types": ["Supernovas", "Straw Hat Crew"],
   "effect": "[DON!! x1] [Your Turn] All of your Characters gain +1000 power.",

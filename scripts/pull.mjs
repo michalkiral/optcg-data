@@ -51,7 +51,10 @@ function main() {
   vega(["packs"]);
 
   const dataDir = findPacksDir(RAW_DIR);
-  const packs = JSON.parse(readFileSync(join(dataDir, "packs.json"), "utf8"));
+  // v1.2.2 serializes packs as a HashMap -> JSON object { "<id>": pack };
+  // accept both that and the older array shape.
+  const parsed = JSON.parse(readFileSync(join(dataDir, "packs.json"), "utf8"));
+  const packs = Array.isArray(parsed) ? parsed : Object.values(parsed);
   console.log(`got ${packs.length} packs -> ${dataDir}`);
 
   let failures = 0;

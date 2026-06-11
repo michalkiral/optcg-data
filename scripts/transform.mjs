@@ -55,8 +55,9 @@ function setCodeFor(pack) {
 }
 
 // vegapull card -> our schema. Drops the relative img_url and redundant pack_id,
-// denormalizes the set code onto each card so the app needs no join. `life` is
-// passed through when vegapull provides it (leaders); null otherwise.
+// denormalizes the set code onto each card so the app needs no join. In
+// vegapull v1.2.2 `counter` is a number|null and `block_number` is the block
+// icon (a real OPTCG filter dimension) — both pass through.
 function transformCard(c, setCode) {
   return {
     id: c.id,
@@ -68,7 +69,7 @@ function transformCard(c, setCode) {
     cost: c.cost ?? null,
     power: c.power ?? null,
     counter: c.counter ?? null,
-    life: c.life ?? null,
+    block: c.block_number ?? null,
     attributes: c.attributes ?? [],
     types: c.types ?? [],
     effect: c.effect ?? "",
@@ -79,7 +80,13 @@ function transformCard(c, setCode) {
 
 function main() {
   const dataDir = findDataDir(RAW_DIR);
-  const rawPacks = readJson(join(dataDir, "packs.json"));
+  // v1.2.2 serializes packs as a HashMap -> JSON object with random iteration
+  // order; accept object or array and sort by set code so the published files
+  // are deterministic (no diff churn between runs).
+  const parsedPacks = readJson(join(dataDir, "packs.json"));
+  const rawPacks = (
+    Array.isArray(parsedPacks) ? parsedPacks : Object.values(parsedPacks)
+  ).sort((a, b) => setCodeFor(a).localeCompare(setCodeFor(b), "en", { numeric: true }));
 
   rmSync(OUT_DIR, { recursive: true, force: true });
   mkdirSync(join(OUT_DIR, "cards"), { recursive: true });
