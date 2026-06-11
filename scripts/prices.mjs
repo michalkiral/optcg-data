@@ -16,10 +16,12 @@ import { join } from "node:path";
 
 const BASE_URL = "https://onepiece.limitlesstcg.com/cards";
 const UA = "optcg-data (+https://github.com/michalkiral/optcg-data)";
-const CONCURRENCY = 3;
-const DELAY_MS = 150;
+const CONCURRENCY = 2;
+const DELAY_MS = 250;
 const HISTORY_DAYS = 120;
-const FAILURE_BUDGET = 0.1; // abort when more than 10% of pages fail
+// Abort when more than 10% of pages fail for infra reasons (throttling, markup
+// change). 404s are NOT failures — Limitless legitimately lacks some cards.
+const FAILURE_BUDGET = 0.1;
 
 const INDEX_PATH = process.env.INDEX_PATH ?? "data/index/cards_by_id.json";
 const OUT_DIR = process.env.PRICES_DIR ?? "data/prices";
@@ -103,20 +105,31 @@ export function mapRowsToPrints(rows, prints) {
 
 const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
+const BACKOFFS_MS = [2_000, 8_000, 20_000];
+
 async function fetchPage(baseId) {
   const url = `${BASE_URL}/${encodeURIComponent(baseId)}`;
-  for (let attempt = 0; attempt < 2; attempt++) {
+  let lastStatus = 0;
+  for (let attempt = 0; attempt <= BACKOFFS_MS.length; attempt++) {
     try {
       const response = await fetch(url, { headers: { "user-agent": UA } });
       if (response.status === 404) return { status: 404, html: null };
-      if (!response.ok) throw new Error(`HTTP ${response.status}`);
-      return { status: 200, html: await response.text() };
-    } catch (error) {
-      if (attempt === 1) return { status: 0, html: null, error: String(error) };
-      await sleep(1000);
+      if (response.ok) return { status: 200, html: await response.text() };
+      lastStatus = response.status;
+      // Throttled or transient server error — back off and retry.
+      if (attempt < BACKOFFS_MS.length) {
+        const retryAfter = Number(response.headers.get("retry-after"));
+        const wait = Number.isFinite(retryAfter) && retryAfter > 0
+          ? retryAfter * 1000
+          : BACKOFFS_MS[attempt];
+        await sleep(wait);
+      }
+    } catch {
+      lastStatus = 0;
+      if (attempt < BACKOFFS_MS.length) await sleep(BACKOFFS_MS[attempt]);
     }
   }
-  return { status: 0, html: null };
+  return { status: lastStatus, html: null };
 }
 
 // --- History & summary ---
@@ -234,6 +247,7 @@ async function main() {
 
   const pricesByPrint = new Map();
   const failedPages = [];
+  const missingPages = []; // 404 — Limitless does not have the card; expected
   const unmappedRows = [];
   let done = 0;
 
@@ -243,7 +257,9 @@ async function main() {
       const baseId = queue.shift();
       if (!baseId) return;
       const page = await fetchPage(baseId);
-      if (page.status !== 200) {
+      if (page.status === 404) {
+        missingPages.push(baseId);
+      } else if (page.status !== 200) {
         failedPages.push({ baseId, status: page.status });
       } else {
         const rows = parsePrintsTable(page.html);
@@ -266,32 +282,42 @@ async function main() {
   }
   await Promise.all(Array.from({ length: CONCURRENCY }, worker));
 
+  const byStatus = {};
+  for (const f of failedPages) byStatus[f.status] = (byStatus[f.status] ?? 0) + 1;
   const failureRate = baseIds.length > 0 ? failedPages.length / baseIds.length : 0;
   console.log(
-    `pages ok: ${baseIds.length - failedPages.length}/${baseIds.length}, ` +
-      `prints priced: ${pricesByPrint.size}, unmapped rows: ${unmappedRows.length}`,
+    `pages ok: ${baseIds.length - failedPages.length - missingPages.length}/${baseIds.length}, ` +
+      `missing (404): ${missingPages.length}, failed: ${failedPages.length} ` +
+      `${JSON.stringify(byStatus)}, prints priced: ${pricesByPrint.size}, ` +
+      `unmapped rows: ${unmappedRows.length}`,
   );
-  if (failureRate > FAILURE_BUDGET) {
-    console.error(
-      `error: ${(failureRate * 100).toFixed(1)}% of pages failed — markup change or outage, aborting`,
-    );
-    process.exit(1);
-  }
 
+  // Write the report FIRST so a failed run still leaves diagnostics behind.
   const today = new Date().toISOString().slice(0, 10);
-  buildOutputs(pricesByPrint, [...pricesByPrint.keys()], today);
   mkdirSync(OUT_DIR, { recursive: true });
   writeJson(join(OUT_DIR, "unmapped.json"), {
     updatedAt: today,
     stats: {
       pages: baseIds.length,
+      pagesMissing: missingPages.length,
       pagesFailed: failedPages.length,
+      failedByStatus: byStatus,
       printsPriced: pricesByPrint.size,
       unmappedRows: unmappedRows.length,
     },
+    missingPages,
     failedPages,
     unmappedRows,
   });
+
+  if (failureRate > FAILURE_BUDGET) {
+    console.error(
+      `error: ${(failureRate * 100).toFixed(1)}% of pages failed (throttling or markup change), aborting`,
+    );
+    process.exit(1);
+  }
+
+  buildOutputs(pricesByPrint, [...pricesByPrint.keys()], today);
   console.log(`wrote ${OUT_DIR}/summary.json, history.json, unmapped.json`);
 }
 

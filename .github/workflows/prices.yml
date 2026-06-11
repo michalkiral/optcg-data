@@ -27,6 +27,14 @@ jobs:
       - name: Scrape prices
         run: node scripts/prices.mjs
 
+      - name: Upload diagnostics report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: prices-report
+          path: data/prices/unmapped.json
+          if-no-files-found: ignore
+
       - name: Commit if changed
         run: |
           git config user.name "github-actions[bot]"
