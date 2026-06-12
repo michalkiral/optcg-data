@@ -7,10 +7,12 @@
 //   node scripts/prices.mjs --test-fixture   # parse fixtures/limitless, no network
 //   node scripts/prices.mjs --only OP01-001,OP01-025   # live smoke on a few ids
 //
-// Mapping contract: Cardmarket hrefs in the prints table end in -V<N> for
-// numbered versions (V1 = base print, V2 = first alt art, ...). Rows without a
-// -V suffix are mapped only when exactly one of our prints for that base id is
-// still unmatched — never guessed.
+// Mapping contract: the base print maps from the own-set (or promo-product)
+// row without a variant marker; every other row links to a Limitless version
+// page (?v=N) whose card image URL carries Bandai's print id — our catalog id.
+// That resolution is exact and cached in data/prices/printmap.json keyed by
+// shop product URL, so steady-state runs fetch version pages only for newly
+// listed products. Nothing is ever mapped positionally.
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
@@ -40,7 +42,6 @@ const printOrder = (id) => {
   if (!m) return 0;
   return (m[1] === "r" ? 100 : 0) + Number(m[2]);
 };
-const isReprint = (id) => /_r\d+$/.test(id);
 
 // --- Parsing (pure; exported shape used by --test-fixture) ---
 
@@ -82,10 +83,11 @@ function productSlug(eurHref) {
 
 /**
  * Returns rows from the card-prints-versions table:
- * { marker: string, slug: string|null, eur: number|null, usd: number|null, eurHref }
+ * { marker, slug, eur, usd, eurHref, v, cacheKey }
  * marker is Limitless's variant tag ("" = regular, "aa" = alt art, "jr", "fa", ...).
- * NOTE: cardmarket "-V<N>" suffixes number versions WITHIN one product and say
- * nothing about print order — never map positionally from them.
+ * v is the Limitless version number from the row's /cards/<id>?v=N link (null
+ * for the page's current print). cacheKey is the shop product URL stripped of
+ * tracking — stable across runs even when Limitless renumbers versions.
  */
 export function parsePrintsTable(html) {
   const tableMatch = html.match(/<table class="card-prints-versions"[\s\S]*?<\/table>/);
@@ -95,47 +97,53 @@ export function parsePrintsTable(html) {
   for (const chunk of rowChunks) {
     if (/<th[\s>]/.test(chunk)) continue; // header row
     const eurMatch = chunk.match(/class="card-price eur"\s+href="([^"]*)"[^>]*>\s*([^<]*)</);
-    const usdMatch = chunk.match(/class="card-price usd"\s+href="[^"]*"[^>]*>\s*([^<]*)</);
+    const usdMatch = chunk.match(/class="card-price usd"\s+href="([^"]*)"[^>]*>\s*([^<]*)</);
     const markerMatch = chunk.match(/<span class="prints-table-card-number">([^<]*)</);
+    const vMatch = chunk.match(/href="\/cards\/[^"]*\?v=(\d+)"/);
     const eurHref = eurMatch ? eurMatch[1] : null;
+    const usdHref = usdMatch ? usdMatch[1] : null;
     rows.push({
       marker: markerMatch ? markerMatch[1].trim() : "",
       slug: productSlug(eurHref),
       eur: eurMatch ? parsePrice(eurMatch[2]) : null,
-      usd: usdMatch ? parsePrice(usdMatch[1]) : null,
+      usd: usdMatch ? parsePrice(usdMatch[2]) : null,
       eurHref,
+      v: vMatch ? Number(vMatch[1]) : null,
+      cacheKey: eurHref?.split("?")[0] ?? usdHref?.split("?")[0] ?? null,
     });
   }
   return rows;
+}
+
+/**
+ * The print id a Limitless version page is about, read from its card image
+ * URL (https://...cdn.../one-piece/<SET>/<printId>_EN.webp). Limitless mirrors
+ * Bandai's official print ids, which are exactly our catalog ids — this is the
+ * ground truth that replaces positional guessing.
+ */
+export function parseVersionPrintId(html, baseId) {
+  const escaped = baseId.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+  const match = html.match(
+    new RegExp(`/one-piece/[^/]+/(${escaped}(?:_[a-z0-9]+)?)_[A-Z]{2}\\.webp`),
+  );
+  return match ? match[1] : null;
 }
 
 const namesMatch = (a, b) => a !== null && b !== null && (a.includes(b) || b.includes(a));
 const namesMatchAny = (slug, names) => names.some((name) => namesMatch(slug, name));
 
 /**
- * Maps parsed rows to our print ids for one base id.
- * prints must be ordered: base, _p1, _p2, ..., _r1, _r2, ...
- *
- * 1. The card's OWN-SET row without a variant marker is the base print —
- *    the one assignment that is always unambiguous. For PROMOTION-CARD cards
- *    there is no own-set product; rows from the Cardmarket promo products
- *    play that role instead.
- * 2. Own-set rows WITH markers (alt arts) map in page order onto _p prints,
- *    only when their counts are equal.
- * 3. Rows whose product slug matches the pack name of exactly one unassigned
- *    _r reprint (closest name wins, ties stay unmapped) map to that reprint.
- * 4. A single leftover row maps to a single leftover print.
- * Anything else is reported, never guessed.
+ * Maps the BASE print for one card: the own-set row without a variant marker
+ * (for PROMOTION-CARD cards, rows from the Cardmarket promo products play
+ * that role). That is the only assignment a single page makes unambiguous.
+ * Every other row carries a Limitless version link (?v=N) and is resolved
+ * exactly via its version page (see resolveVersionRows) — positional and
+ * product-name guessing used to misprice variants (e.g. a manga-art row glued
+ * onto a plain reprint id), so it is gone.
  */
 export function mapRowsToPrints(rows, prints, packNamesByPrint = new Map()) {
   const mapped = new Map();
-  const assigned = new Set();
   let pool = [...rows];
-  const take = (print, row) => {
-    mapped.set(print, row);
-    assigned.add(print);
-    pool = pool.filter((r) => r !== row);
-  };
 
   const base = prints[0];
   const ownNames = packNamesByPrint.get(base) ?? [];
@@ -144,39 +152,13 @@ export function mapRowsToPrints(rows, prints, packNamesByPrint = new Map()) {
     ? pool.filter((row) => row.slug !== null && PROMO_PRODUCTS.includes(row.slug))
     : pool.filter((row) => namesMatchAny(row.slug, ownNames));
 
-  // 1. Base print.
-  const ownPlain = ownRows.filter((row) => row.marker === "");
-  if (ownPlain.length === 1) take(base, ownPlain[0]);
-
-  // 2. Own-set alt arts in page order (both sides are in release order; map
-  // the prefix when Limitless lists fewer than the catalog knows).
-  const ownMarked = ownRows.filter((row) => row.marker !== "" && pool.includes(row));
-  const pPrints = prints.filter((p) => !isReprint(p) && p !== base);
-  if (ownMarked.length > 0 && ownMarked.length <= pPrints.length) {
-    ownMarked.forEach((row, i) => take(pPrints[i], row));
-  }
-
-  // 3. Reprints by product-name match — only when both sides are unique
-  // (one row for that product, one matching reprint print).
-  const bySlug = new Map();
-  for (const row of pool) {
-    if (row.slug === null || namesMatchAny(row.slug, ownNames)) continue;
-    bySlug.set(row.slug, [...(bySlug.get(row.slug) ?? []), row]);
-  }
-  for (const [slug, slugRows] of bySlug) {
-    if (slugRows.length !== 1) continue;
-    const candidates = prints.filter(
-      (p) =>
-        isReprint(p) && !assigned.has(p) && namesMatchAny(slug, packNamesByPrint.get(p) ?? []),
-    );
-    if (candidates.length !== 1) continue;
-    take(candidates[0], slugRows[0]);
-  }
-
-  // 4. Single leftover row -> single leftover print.
-  const remaining = prints.filter((p) => !assigned.has(p));
-  if (remaining.length === 1 && pool.length === 1) {
-    take(remaining[0], pool[0]);
+  // The page's CURRENT row (no ?v link) is the print the URL names — the base.
+  // Versioned siblings (e.g. a starter deck's parallel art, also unmarked)
+  // resolve exactly through their version pages instead.
+  const ownPlain = ownRows.filter((row) => row.marker === "" && row.v === null);
+  if (ownPlain.length === 1) {
+    mapped.set(base, ownPlain[0]);
+    pool = pool.filter((r) => r !== ownPlain[0]);
   }
 
   return { mapped, unmapped: pool };
@@ -188,8 +170,8 @@ const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
 const BACKOFFS_MS = [2_000, 8_000, 20_000];
 
-async function fetchPage(baseId) {
-  const url = `${BASE_URL}/${encodeURIComponent(baseId)}`;
+async function fetchPage(baseId, query = "") {
+  const url = `${BASE_URL}/${encodeURIComponent(baseId)}${query}`;
   let lastStatus = 0;
   for (let attempt = 0; attempt <= BACKOFFS_MS.length; attempt++) {
     try {
@@ -326,8 +308,21 @@ function runFixtureTest() {
   }
   console.log("unmapped rows:", unmapped.length);
   const base = mapped.get("OP01-001");
-  if (mapped.size !== 3 || !base || base.slug !== "romancedawn" || base.marker !== "") {
-    console.error("FAIL: expected base from own set + all 3 prints mapped");
+  if (mapped.size !== 1 || !base || base.slug !== "romancedawn" || base.marker !== "") {
+    console.error("FAIL: expected exactly the base print, mapped from its own set");
+    process.exit(1);
+  }
+  if (unmapped.some((row) => row.v === null || row.cacheKey === null)) {
+    console.error("FAIL: expected every non-base row to carry a version link and cache key");
+    process.exit(1);
+  }
+
+  // Version page → print id (the exact mapping source for non-base rows).
+  const vHtml = readFileSync("fixtures/limitless/OP01-006_v3.html", "utf8");
+  const printId = parseVersionPrintId(vHtml, "OP01-006");
+  console.log("version page print id:", printId);
+  if (printId !== "OP01-006_p3") {
+    console.error("FAIL: expected OP01-006?v=3 to resolve to OP01-006_p3");
     process.exit(1);
   }
 
@@ -338,17 +333,13 @@ function runFixtureTest() {
   const promoPrints = ["P-135", "P-135_p1"];
   const promoPacks = new Map(promoPrints.map((p) => [p, [PROMO_PACK]]));
   const promo = mapRowsToPrints(promoRows, promoPrints, promoPacks);
-  for (const [id, row] of promo.mapped) {
-    console.log(`${id} -> eur ${row.eur}, usd ${row.usd} (${row.slug}, marker "${row.marker}")`);
-  }
   const promoBase = promo.mapped.get("P-135");
-  const promoAlt = promo.mapped.get("P-135_p1");
   if (!promoBase || promoBase.slug !== "promos" || promoBase.marker !== "") {
     console.error("FAIL: expected P-135 base from the Promos product");
     process.exit(1);
   }
-  if (!promoAlt || promoAlt.slug !== "specialtournamentspromos" || promoAlt.marker !== "fa") {
-    console.error("FAIL: expected P-135_p1 from Special-Tournaments-Promos (fa)");
+  if (promo.unmapped.length !== 1 || promo.unmapped[0].v === null) {
+    console.error("FAIL: expected the P-135 fa row to be left for version resolution");
     process.exit(1);
   }
 
@@ -371,10 +362,19 @@ async function main() {
   const baseIds = [...printsByBase.keys()].filter((id) => !only || only.has(id));
   console.log(`pricing ${baseIds.length} base cards...`);
 
+  // Version pages resolve a shop product to a print id; that relation is
+  // stable, so it is cached on disk — steady-state runs only fetch version
+  // pages for products Limitless newly listed.
+  const printmapPath = join(OUT_DIR, "printmap.json");
+  const printmap = readJson(printmapPath, { version: 1, map: {} }).map;
+
   const pricesByPrint = new Map();
   const failedPages = [];
   const missingPages = []; // 404 — Limitless does not have the card; expected
   const unmappedRows = [];
+  const conflicts = []; // two shop products resolving to the same print
+  let vFetched = 0;
+  let vFailed = 0;
   let done = 0;
 
   const queue = [...baseIds];
@@ -392,15 +392,18 @@ async function main() {
         if (!rows) {
           failedPages.push({ baseId, status: "no-prints-table" });
         } else {
-          const { mapped, unmapped } = mapRowsToPrints(
-            rows,
-            printsByBase.get(baseId),
-            packNamesByPrint,
-          );
+          const prints = printsByBase.get(baseId);
+          const { mapped, unmapped } = mapRowsToPrints(rows, prints, packNamesByPrint);
           for (const [id, row] of mapped) {
             pricesByPrint.set(id, { eur: row.eur, usd: row.usd });
           }
-          for (const row of unmapped) {
+
+          // Resolve versioned rows exactly via their version page (cached).
+          // Rows with a price first, so a duplicate listing without prices
+          // never shadows the priced one.
+          const versioned = unmapped.filter((row) => row.v !== null);
+          versioned.sort((a, b) => (a.eur === null ? 1 : 0) - (b.eur === null ? 1 : 0));
+          const report = (row, resolved = null) => {
             unmappedRows.push({
               baseId,
               marker: row.marker,
@@ -408,7 +411,39 @@ async function main() {
               eurHref: row.eurHref,
               eur: row.eur,
               usd: row.usd,
+              resolved,
             });
+          };
+          for (const row of unmapped.filter((r) => r.v === null)) report(row);
+          for (const row of versioned) {
+            let printId = row.cacheKey ? printmap[row.cacheKey] : undefined;
+            if (printId !== undefined && !prints.includes(printId)) {
+              delete printmap[row.cacheKey]; // catalog changed under the cache
+              printId = undefined;
+            }
+            if (printId === undefined) {
+              await sleep(DELAY_MS);
+              vFetched += 1;
+              const vp = await fetchPage(baseId, `?v=${row.v}`);
+              if (vp.status !== 200 || vp.html === null) {
+                vFailed += 1;
+                report(row);
+                continue;
+              }
+              printId = parseVersionPrintId(vp.html, baseId);
+              if (printId !== null && prints.includes(printId) && row.cacheKey) {
+                printmap[row.cacheKey] = printId;
+              }
+            }
+            if (printId === null || !prints.includes(printId)) {
+              report(row, printId);
+              continue;
+            }
+            if (pricesByPrint.has(printId)) {
+              conflicts.push({ baseId, printId, eurHref: row.eurHref, eur: row.eur });
+              continue;
+            }
+            pricesByPrint.set(printId, { eur: row.eur, usd: row.usd });
           }
         }
       }
@@ -425,13 +460,18 @@ async function main() {
   console.log(
     `pages ok: ${baseIds.length - failedPages.length - missingPages.length}/${baseIds.length}, ` +
       `missing (404): ${missingPages.length}, failed: ${failedPages.length} ` +
-      `${JSON.stringify(byStatus)}, prints priced: ${pricesByPrint.size}, ` +
-      `unmapped rows: ${unmappedRows.length}`,
+      `${JSON.stringify(byStatus)}, version pages: ${vFetched} (${vFailed} failed), ` +
+      `prints priced: ${pricesByPrint.size}, unmapped rows: ${unmappedRows.length}, ` +
+      `conflicts: ${conflicts.length}`,
   );
 
   // Write the report FIRST so a failed run still leaves diagnostics behind.
   const today = new Date().toISOString().slice(0, 10);
   mkdirSync(OUT_DIR, { recursive: true });
+  const sortedMap = Object.fromEntries(
+    Object.entries(printmap).sort(([a], [b]) => a.localeCompare(b)),
+  );
+  writeJson(printmapPath, { version: 1, map: sortedMap });
   writeJson(join(OUT_DIR, "unmapped.json"), {
     updatedAt: today,
     stats: {
@@ -439,11 +479,15 @@ async function main() {
       pagesMissing: missingPages.length,
       pagesFailed: failedPages.length,
       failedByStatus: byStatus,
+      versionPagesFetched: vFetched,
+      versionPagesFailed: vFailed,
       printsPriced: pricesByPrint.size,
       unmappedRows: unmappedRows.length,
+      conflicts: conflicts.length,
     },
     missingPages,
     failedPages,
+    conflicts,
     unmappedRows,
   });
 
