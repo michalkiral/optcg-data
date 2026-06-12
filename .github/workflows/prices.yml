@@ -55,12 +55,28 @@ jobs:
             echo "pushed=true" >> "$GITHUB_OUTPUT"
           fi
 
-      # jsDelivr caches @main files 12 h at the edge (and tells browsers 7 d) —
-      # purge so the app's revalidating fetches see today's prices right away.
+      # jsDelivr caches @main files 12 h at the edge (and tells browsers 7 d).
+      # Purge-verify-purge: an immediate purge can refetch a stale copy from
+      # raw.githubusercontent's ~5 min cache and re-pin it for 12 h.
       - name: Purge jsDelivr cache
         if: steps.commit.outputs.pushed == 'true'
         run: |
-          for f in summary.json history.json unmapped.json printmap.json; do
-            curl -fsS "https://purge.jsdelivr.net/gh/${GITHUB_REPOSITORY}@main/data/prices/$f" > /dev/null \
-              || echo "warn: purge failed for $f"
+          purge() {
+            curl -fsS "https://purge.jsdelivr.net/gh/${GITHUB_REPOSITORY}@main/$1" > /dev/null \
+              || echo "warn: purge failed for $1"
+          }
+          expected=$(sha1sum data/prices/summary.json | cut -d' ' -f1)
+          for attempt in 1 2 3 4 5 6; do
+            sleep 60
+            purge "data/prices/summary.json"
+            sleep 5
+            actual=$(curl -fsS "https://cdn.jsdelivr.net/gh/${GITHUB_REPOSITORY}@main/data/prices/summary.json" | sha1sum | cut -d' ' -f1)
+            if [ "$actual" = "$expected" ]; then
+              echo "CDN serves the fresh summary after $attempt attempt(s)"
+              break
+            fi
+            echo "CDN still stale (attempt $attempt)"
+          done
+          for f in history.json unmapped.json printmap.json; do
+            purge "data/prices/$f"
           done

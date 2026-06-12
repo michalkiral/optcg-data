@@ -369,6 +369,15 @@ async function main() {
   const printmapPath = join(OUT_DIR, "printmap.json");
   const printmap = readJson(printmapPath, { version: 1, map: {} }).map;
 
+  // Custom prints (overrides) can carry the Cardmarket product URL of their
+  // Limitless row — seeding it here maps that row to the custom id, so prices
+  // flow for printings Bandai's cardlist does not know. Overrides win over
+  // anything previously cached for the same product.
+  const customPrints = readJson("overrides/custom-prints.json", { prints: [] }).prints ?? [];
+  for (const entry of customPrints) {
+    if (entry.priceUrl) printmap[entry.priceUrl.split("?")[0]] = entry.id;
+  }
+
   const pricesByPrint = new Map();
   const failedPages = [];
   const missingPages = []; // 404 — Limitless does not have the card; expected

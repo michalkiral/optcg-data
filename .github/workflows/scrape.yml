@@ -63,8 +63,11 @@ jobs:
             echo "pushed=true" >> "$GITHUB_OUTPUT"
           fi
 
-      # jsDelivr caches @main files 12 h at the edge (and tells browsers 7 d) —
-      # purge the catalog files so new sets and promo prints show up right away.
+      # jsDelivr caches @main files 12 h at the edge (and tells browsers 7 d).
+      # Purging right after the push backfires: jsDelivr refetches from
+      # raw.githubusercontent, whose own ~5 min cache can still serve the OLD
+      # commit — re-pinning stale data for 12 h. So: purge a sentinel, VERIFY
+      # the edge serves the fresh content, and only then purge everything else.
       - name: Purge jsDelivr cache
         if: steps.commit.outputs.pushed == 'true'
         run: |
@@ -72,8 +75,19 @@ jobs:
             curl -fsS "https://purge.jsdelivr.net/gh/${GITHUB_REPOSITORY}@main/$1" > /dev/null \
               || echo "warn: purge failed for $1"
           }
+          expected=$(sha1sum data/manifest.json | cut -d' ' -f1)
+          for attempt in 1 2 3 4 5 6; do
+            sleep 60
+            purge "data/manifest.json"
+            sleep 5
+            actual=$(curl -fsS "https://cdn.jsdelivr.net/gh/${GITHUB_REPOSITORY}@main/data/manifest.json" | sha1sum | cut -d' ' -f1)
+            if [ "$actual" = "$expected" ]; then
+              echo "CDN serves the fresh manifest after $attempt attempt(s)"
+              break
+            fi
+            echo "CDN still stale (attempt $attempt)"
+          done
           purge "data/packs.json"
-          purge "data/manifest.json"
           purge "data/index/cards_by_id.json"
           for f in data/cards/*.json; do
             purge "$f"
