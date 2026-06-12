@@ -50,7 +50,29 @@ function parsePrice(text) {
   return Number.isFinite(value) ? value : null;
 }
 
-const normalizeName = (s) => s.toLowerCase().replace(/[^a-z0-9]/g, "");
+// Bandai pack names carry undecoded entities ("Ace &amp; Newgate") — decode
+// before stripping so they can match Cardmarket product names ("Ace-Newgate").
+const decodeEntities = (s) =>
+  s
+    .replace(/&amp;/g, "&")
+    .replace(/&quot;/g, '"')
+    .replace(/&#\d+;/g, "")
+    .replace(/&[a-z]+;/g, "");
+const normalizeName = (s) => decodeEntities(s.toLowerCase()).replace(/[^a-z0-9]/g, "");
+
+// Cardmarket product names that differ from Bandai's pack names — each entry
+// is an extra name the pack also answers to. Curated by mining unmapped.json;
+// only add aliases verified against the actual Cardmarket product.
+const PACK_ALIASES = {
+  "OP-07": ["500 Years into the Future"], // Bandai: "500 YEARS IN THE FUTURE"
+  "OP15-EB04": ["Adventure on Kamis Island"], // Bandai: "BOOSTER PACK" (placeholder)
+  "OP-16": ["OP16"], // Cardmarket has no English name yet, product is just "OP16"
+};
+
+// Cardmarket products that hold PROMOTION-CARD prints. On a promo card's page
+// these rows ARE the card's own prints (there is no own-set product to match).
+const PROMO_PRODUCTS = ["promos", "unnumberedpromos", "specialtournamentspromos"];
+const PROMO_PACK = normalizeName("Promotion card");
 
 /** Cardmarket product slug from a price href: .../Singles/<product>/<card>. */
 function productSlug(eurHref) {
@@ -88,13 +110,16 @@ export function parsePrintsTable(html) {
 }
 
 const namesMatch = (a, b) => a !== null && b !== null && (a.includes(b) || b.includes(a));
+const namesMatchAny = (slug, names) => names.some((name) => namesMatch(slug, name));
 
 /**
  * Maps parsed rows to our print ids for one base id.
  * prints must be ordered: base, _p1, _p2, ..., _r1, _r2, ...
  *
  * 1. The card's OWN-SET row without a variant marker is the base print —
- *    the one assignment that is always unambiguous.
+ *    the one assignment that is always unambiguous. For PROMOTION-CARD cards
+ *    there is no own-set product; rows from the Cardmarket promo products
+ *    play that role instead.
  * 2. Own-set rows WITH markers (alt arts) map in page order onto _p prints,
  *    only when their counts are equal.
  * 3. Rows whose product slug matches the pack name of exactly one unassigned
@@ -102,7 +127,7 @@ const namesMatch = (a, b) => a !== null && b !== null && (a.includes(b) || b.inc
  * 4. A single leftover row maps to a single leftover print.
  * Anything else is reported, never guessed.
  */
-export function mapRowsToPrints(rows, prints, packNameByPrint = new Map()) {
+export function mapRowsToPrints(rows, prints, packNamesByPrint = new Map()) {
   const mapped = new Map();
   const assigned = new Set();
   let pool = [...rows];
@@ -113,8 +138,11 @@ export function mapRowsToPrints(rows, prints, packNameByPrint = new Map()) {
   };
 
   const base = prints[0];
-  const ownPack = packNameByPrint.get(base) ?? null;
-  const ownRows = pool.filter((row) => namesMatch(row.slug, ownPack));
+  const ownNames = packNamesByPrint.get(base) ?? [];
+  const isPromoPage = ownNames.includes(PROMO_PACK);
+  const ownRows = isPromoPage
+    ? pool.filter((row) => row.slug !== null && PROMO_PRODUCTS.includes(row.slug))
+    : pool.filter((row) => namesMatchAny(row.slug, ownNames));
 
   // 1. Base print.
   const ownPlain = ownRows.filter((row) => row.marker === "");
@@ -132,13 +160,14 @@ export function mapRowsToPrints(rows, prints, packNameByPrint = new Map()) {
   // (one row for that product, one matching reprint print).
   const bySlug = new Map();
   for (const row of pool) {
-    if (row.slug === null || namesMatch(row.slug, ownPack)) continue;
+    if (row.slug === null || namesMatchAny(row.slug, ownNames)) continue;
     bySlug.set(row.slug, [...(bySlug.get(row.slug) ?? []), row]);
   }
   for (const [slug, slugRows] of bySlug) {
     if (slugRows.length !== 1) continue;
     const candidates = prints.filter(
-      (p) => isReprint(p) && !assigned.has(p) && namesMatch(packNameByPrint.get(p) ?? null, slug),
+      (p) =>
+        isReprint(p) && !assigned.has(p) && namesMatchAny(slug, packNamesByPrint.get(p) ?? []),
     );
     if (candidates.length !== 1) continue;
     take(candidates[0], slugRows[0]);
@@ -263,21 +292,26 @@ function loadCatalog() {
   const index = readJson(INDEX_PATH, null);
   if (!index) throw new Error(`catalog index not found at ${INDEX_PATH}`);
   const packs = readJson("data/packs.json", []);
-  const packNameByCode = new Map(packs.map((p) => [p.code, normalizeName(p.name)]));
+  const packNamesByCode = new Map(
+    packs.map((p) => [
+      p.code,
+      [normalizeName(p.name), ...(PACK_ALIASES[p.code] ?? []).map(normalizeName)],
+    ]),
+  );
 
   const printsByBase = new Map();
-  const packNameByPrint = new Map();
+  const packNamesByPrint = new Map();
   for (const [id, card] of Object.entries(index)) {
     const base = basePrintId(id);
     if (!printsByBase.has(base)) printsByBase.set(base, []);
     printsByBase.get(base).push(id);
-    const packName = packNameByCode.get(card.set);
-    if (packName) packNameByPrint.set(id, packName);
+    const packNames = packNamesByCode.get(card.set);
+    if (packNames) packNamesByPrint.set(id, packNames);
   }
   for (const prints of printsByBase.values()) {
     prints.sort((a, b) => printOrder(a) - printOrder(b));
   }
-  return { printsByBase, packNameByPrint };
+  return { printsByBase, packNamesByPrint };
 }
 
 function runFixtureTest() {
@@ -285,7 +319,7 @@ function runFixtureTest() {
   const rows = parsePrintsTable(html);
   console.log("parsed rows:", JSON.stringify(rows, null, 2));
   const prints = ["OP01-001", "OP01-001_p1", "OP01-001_p2"];
-  const packNames = new Map(prints.map((p) => [p, normalizeName("ROMANCE DAWN")]));
+  const packNames = new Map(prints.map((p) => [p, [normalizeName("ROMANCE DAWN")]]));
   const { mapped, unmapped } = mapRowsToPrints(rows, prints, packNames);
   for (const [id, row] of mapped) {
     console.log(`${id} -> eur ${row.eur}, usd ${row.usd} (${row.slug}, marker "${row.marker}")`);
@@ -296,6 +330,28 @@ function runFixtureTest() {
     console.error("FAIL: expected base from own set + all 3 prints mapped");
     process.exit(1);
   }
+
+  // Promo card: rows come from Cardmarket promo products, no own-set product.
+  const promoHtml = readFileSync("fixtures/limitless/P-135.html", "utf8");
+  const promoRows = parsePrintsTable(promoHtml);
+  console.log("promo rows:", JSON.stringify(promoRows, null, 2));
+  const promoPrints = ["P-135", "P-135_p1"];
+  const promoPacks = new Map(promoPrints.map((p) => [p, [PROMO_PACK]]));
+  const promo = mapRowsToPrints(promoRows, promoPrints, promoPacks);
+  for (const [id, row] of promo.mapped) {
+    console.log(`${id} -> eur ${row.eur}, usd ${row.usd} (${row.slug}, marker "${row.marker}")`);
+  }
+  const promoBase = promo.mapped.get("P-135");
+  const promoAlt = promo.mapped.get("P-135_p1");
+  if (!promoBase || promoBase.slug !== "promos" || promoBase.marker !== "") {
+    console.error("FAIL: expected P-135 base from the Promos product");
+    process.exit(1);
+  }
+  if (!promoAlt || promoAlt.slug !== "specialtournamentspromos" || promoAlt.marker !== "fa") {
+    console.error("FAIL: expected P-135_p1 from Special-Tournaments-Promos (fa)");
+    process.exit(1);
+  }
+
   console.log("fixture test ok");
 }
 
@@ -311,7 +367,7 @@ async function main() {
       ? new Set(process.argv[onlyArg + 1].split(","))
       : null;
 
-  const { printsByBase, packNameByPrint } = loadCatalog();
+  const { printsByBase, packNamesByPrint } = loadCatalog();
   const baseIds = [...printsByBase.keys()].filter((id) => !only || only.has(id));
   console.log(`pricing ${baseIds.length} base cards...`);
 
@@ -339,13 +395,20 @@ async function main() {
           const { mapped, unmapped } = mapRowsToPrints(
             rows,
             printsByBase.get(baseId),
-            packNameByPrint,
+            packNamesByPrint,
           );
           for (const [id, row] of mapped) {
             pricesByPrint.set(id, { eur: row.eur, usd: row.usd });
           }
           for (const row of unmapped) {
-            unmappedRows.push({ baseId, eurHref: row.eurHref, eur: row.eur, usd: row.usd });
+            unmappedRows.push({
+              baseId,
+              marker: row.marker,
+              slug: row.slug,
+              eurHref: row.eurHref,
+              eur: row.eur,
+              usd: row.usd,
+            });
           }
         }
       }
