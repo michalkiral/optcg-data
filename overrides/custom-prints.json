@@ -8,6 +8,14 @@
       "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP09-100_c1.png",
       "note": "2nd anniversary",
       "addedAt": "2026-06-12"
+    },
+    {
+      "id": "OP13-040_c1",
+      "parent": "OP13-040",
+      "name": "I Know You're Strong... So I'll Go All Out from the Very Start!!!",
+      "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP13-040_c1.webp",
+      "note": "3rd Anniversary! Treasure Campaign Pack",
+      "addedAt": "2026-06-12"
     }
   ]
 }
