@@ -24,6 +24,14 @@
       "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP11-033_c1.png",
       "note": "Release Event",
       "addedAt": "2026-06-12"
+    },
+    {
+      "id": "ST12-003_c1",
+      "parent": "ST12-003",
+      "name": "Dracule Mihawk",
+      "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/ST12-003_c1.webp",
+      "note": "Illustration box promo",
+      "addedAt": "2026-06-12"
     }
   ]
 }
