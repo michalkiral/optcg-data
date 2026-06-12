@@ -1,4 +1,13 @@
 {
   "comment": "Hand-curated printings missing from Bandai's cardlist (e.g. release-stamp versions sold on Cardmarket). Merged into the catalog by scripts/transform.mjs on every scrape. Managed by the portfolio admin console; safe to edit by hand. Each print: id = <parentBaseId>_c<N>, parent = an existing catalog id whose data is cloned, name/image override the clone.",
-  "prints": []
+  "prints": [
+    {
+      "id": "OP09-100_c1",
+      "parent": "OP09-100",
+      "name": "Karasu",
+      "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP09-100_c1.png",
+      "note": "2nd anniversary",
+      "addedAt": "2026-06-12"
+    }
+  ]
 }
