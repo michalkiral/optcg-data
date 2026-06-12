@@ -16,6 +16,14 @@
       "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP13-040_c1.webp",
       "note": "3rd Anniversary! Treasure Campaign Pack",
       "addedAt": "2026-06-12"
+    },
+    {
+      "id": "OP11-033_c1",
+      "parent": "OP11-033",
+      "name": "Bird Neptunian",
+      "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP11-033_c1.png",
+      "note": "Release Event",
+      "addedAt": "2026-06-12"
     }
   ]
 }
