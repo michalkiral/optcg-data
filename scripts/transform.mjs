@@ -103,7 +103,12 @@ function main() {
     Array.isArray(parsedPacks) ? parsedPacks : Object.values(parsedPacks)
   ).sort((a, b) => setCodeFor(a).localeCompare(setCodeFor(b), "en", { numeric: true }));
 
-  rmSync(OUT_DIR, { recursive: true, force: true });
+  // Remove only what this script owns — data/prices/ belongs to the daily
+  // prices pipeline and must survive the weekly catalog rebuild.
+  rmSync(join(OUT_DIR, "cards"), { recursive: true, force: true });
+  rmSync(join(OUT_DIR, "index"), { recursive: true, force: true });
+  rmSync(join(OUT_DIR, "packs.json"), { force: true });
+  rmSync(join(OUT_DIR, "manifest.json"), { force: true });
   mkdirSync(join(OUT_DIR, "cards"), { recursive: true });
   mkdirSync(join(OUT_DIR, "index"), { recursive: true });
 
