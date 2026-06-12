@@ -624,7 +624,7 @@
     "types": [
       "East Blue"
     ],
-    "effect": "If your Leader has the &lt;Slash&gt; attribute and you have 6 or more rested DON!! cards, this Character cannot be rested by your opponent's effects.<br>[Blocker]",
+    "effect": "If your Leader has the <Slash> attribute and you have 6 or more rested DON!! cards, this Character cannot be rested by your opponent's effects.<br>[Blocker]",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-021.png?260529"
   },
@@ -770,7 +770,7 @@
       "East Blue",
       "Frost Moon Village"
     ],
-    "effect": "If your &lt;Slash&gt; attribute Character with a cost of 5 or less other than this Character would be K.O.'d by your opponent's effect, you may rest this Character instead.<br>[Blocker]",
+    "effect": "If your <Slash> attribute Character with a cost of 5 or less other than this Character would be K.O.'d by your opponent's effect, you may rest this Character instead.<br>[Blocker]",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-027.png?260529"
   },
@@ -794,7 +794,7 @@
       "Land of Wano",
       "Kouzuki Clan"
     ],
-    "effect": "[Activate: Main] You may rest 1 of your DON!! cards and this Character: If your Leader is [Roronoa Zoro], look at 5 cards from the top of your deck; reveal up to 1 &lt;Slash&gt; attribute card or green Event and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "effect": "[Activate: Main] You may rest 1 of your DON!! cards and this Character: If your Leader is [Roronoa Zoro], look at 5 cards from the top of your deck; reveal up to 1 <Slash> attribute card or green Event and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-028.png?260529"
   },
@@ -988,7 +988,7 @@
       "Muggy Kingdom",
       "Thriller Bark Pirates"
     ],
-    "effect": "[On Play] If your Leader has the &lt;Slash&gt; attribute, look at 5 cards from the top of your deck; reveal up to 1 &lt;Slash&gt; attribute card or green Event and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "effect": "[On Play] If your Leader has the <Slash> attribute, look at 5 cards from the top of your deck; reveal up to 1 <Slash> attribute card or green Event and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-034.png?260529"
   },
@@ -1012,7 +1012,7 @@
       "Muggy Kingdom",
       "Thriller Bark Pirates"
     ],
-    "effect": "[On Play] If your Leader has the &lt;Slash&gt; attribute, look at 5 cards from the top of your deck; reveal up to 1 &lt;Slash&gt; attribute card or green Event and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "effect": "[On Play] If your Leader has the <Slash> attribute, look at 5 cards from the top of your deck; reveal up to 1 <Slash> attribute card or green Event and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-034_p1.png?260529"
   },
@@ -1060,7 +1060,7 @@
       "Supernovas",
       "Straw Hat Crew"
     ],
-    "effect": "This card in your hand cannot be played by effects.<br>If your Leader has the &lt;Slash&gt; attribute, this Character cannot be K.O.'d in battle by &lt;Slash&gt; attribute cards and gains +1000 power.",
+    "effect": "This card in your hand cannot be played by effects.<br>If your Leader has the <Slash> attribute, this Character cannot be K.O.'d in battle by <Slash> attribute cards and gains +1000 power.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-036.png?260529"
   },
@@ -1574,7 +1574,7 @@
   {
     "id": "OP12-055",
     "set": "OP-12",
-    "name": "Mohji &amp; Cabaji",
+    "name": "Mohji & Cabaji",
     "rarity": "Uncommon",
     "category": "Character",
     "colors": [

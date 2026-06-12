@@ -378,7 +378,7 @@
   {
     "id": "EB04-023",
     "set": "OP14-EB04",
-    "name": "Chaka &amp; Pell",
+    "name": "Chaka & Pell",
     "rarity": "Rare",
     "category": "Character",
     "colors": [
@@ -798,7 +798,7 @@
   {
     "id": "EB04-038",
     "set": "OP14-EB04",
-    "name": "Rosinante &amp; Law",
+    "name": "Rosinante & Law",
     "rarity": "SuperRare",
     "category": "Character",
     "colors": [
@@ -823,7 +823,7 @@
   {
     "id": "EB04-038_p1",
     "set": "OP14-EB04",
-    "name": "Rosinante &amp; Law",
+    "name": "Rosinante & Law",
     "rarity": "SuperRare",
     "category": "Character",
     "colors": [
@@ -1086,7 +1086,7 @@
   {
     "id": "OP14-006",
     "set": "OP14-EB04",
-    "name": "Shachi &amp; Penguin",
+    "name": "Shachi & Penguin",
     "rarity": "Common",
     "category": "Character",
     "colors": [
@@ -1510,7 +1510,7 @@
     "types": [
       "The Seven Warlords of the Sea"
     ],
-    "effect": "If your opponent's Leader has the &lt;Slash&gt; attribute, this Leader gains +1000 power.<br>[Activate: Main] [Once Per Turn] You may rest 1 of your cards: If there is a Character with a cost of 5 or more, set up to 3 of your DON!! cards as active. Then, you cannot play Character cards during this turn.",
+    "effect": "If your opponent's Leader has the <Slash> attribute, this Leader gains +1000 power.<br>[Activate: Main] [Once Per Turn] You may rest 1 of your cards: If there is a Character with a cost of 5 or more, set up to 3 of your DON!! cards as active. Then, you cannot play Character cards during this turn.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-020.png?260529"
   },
@@ -1533,7 +1533,7 @@
     "types": [
       "The Seven Warlords of the Sea"
     ],
-    "effect": "If your opponent's Leader has the &lt;Slash&gt; attribute, this Leader gains +1000 power.<br>[Activate: Main] [Once Per Turn] You may rest 1 of your cards: If there is a Character with a cost of 5 or more, set up to 3 of your DON!! cards as active. Then, you cannot play Character cards during this turn.",
+    "effect": "If your opponent's Leader has the <Slash> attribute, this Leader gains +1000 power.<br>[Activate: Main] [Once Per Turn] You may rest 1 of your cards: If there is a Character with a cost of 5 or more, set up to 3 of your DON!! cards as active. Then, you cannot play Character cards during this turn.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-020_p1.png?260529"
   },
@@ -1780,7 +1780,7 @@
   {
     "id": "OP14-030",
     "set": "OP14-EB04",
-    "name": "Chaka &amp; Pell",
+    "name": "Chaka & Pell",
     "rarity": "Common",
     "category": "Character",
     "colors": [
@@ -4416,7 +4416,7 @@
   {
     "id": "EB01-003_p5",
     "set": "OP14-EB04",
-    "name": "Kid &amp; Killer",
+    "name": "Kid & Killer",
     "rarity": "Special",
     "category": "Character",
     "colors": [

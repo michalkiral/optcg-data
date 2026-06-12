@@ -2,7 +2,7 @@
   {
     "id": "EB01-003_p2",
     "set": "PROMOTION-CARD",
-    "name": "Kid &amp; Killer",
+    "name": "Kid & Killer",
     "rarity": "Rare",
     "category": "Character",
     "colors": [
@@ -27,7 +27,7 @@
   {
     "id": "EB01-003_p3",
     "set": "PROMOTION-CARD",
-    "name": "Kid &amp; Killer",
+    "name": "Kid & Killer",
     "rarity": "Rare",
     "category": "Character",
     "colors": [
@@ -52,7 +52,7 @@
   {
     "id": "EB01-003_p4",
     "set": "PROMOTION-CARD",
-    "name": "Kid &amp; Killer",
+    "name": "Kid & Killer",
     "rarity": "Rare",
     "category": "Character",
     "colors": [
@@ -4660,7 +4660,7 @@
     "types": [
       "Navy"
     ],
-    "effect": "[DON!! x1] This Character cannot be K.O.'d in battle by Characters without the &lt;Special&gt; attribute.",
+    "effect": "[DON!! x1] This Character cannot be K.O.'d in battle by Characters without the <Special> attribute.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-025.png?260529"
   },
@@ -5267,7 +5267,7 @@
     "types": [
       "The Seven Warlords of the Sea"
     ],
-    "effect": "[DON!! x1] This Character cannot be K.O.'d in battle by &lt;Slash&gt; attribute cards.",
+    "effect": "[DON!! x1] This Character cannot be K.O.'d in battle by <Slash> attribute cards.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-052.png?260529"
   },
@@ -5313,7 +5313,7 @@
     "types": [
       "Navy"
     ],
-    "effect": "[DON!! x1] This Character cannot be K.O.'d in battle by &lt;Strike&gt; attribute cards.",
+    "effect": "[DON!! x1] This Character cannot be K.O.'d in battle by <Strike> attribute cards.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-054.png?260529"
   },
@@ -5478,7 +5478,7 @@
   {
     "id": "P-062",
     "set": "PROMOTION-CARD",
-    "name": "Hody &amp; Hyouzou",
+    "name": "Hody & Hyouzou",
     "rarity": "Promo",
     "category": "Character",
     "colors": [
@@ -8113,7 +8113,7 @@
   {
     "id": "ST10-008_p1",
     "set": "PROMOTION-CARD",
-    "name": "Shachi &amp; Penguin",
+    "name": "Shachi & Penguin",
     "rarity": "Common",
     "category": "Character",
     "colors": [
@@ -8136,7 +8136,7 @@
   {
     "id": "ST10-008_p2",
     "set": "PROMOTION-CARD",
-    "name": "Shachi &amp; Penguin",
+    "name": "Shachi & Penguin",
     "rarity": "Common",
     "category": "Character",
     "colors": [

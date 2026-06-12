@@ -417,7 +417,7 @@
       "East Blue",
       "Frost Moon Village"
     ],
-    "effect": "[Activate: Main] You may rest this Character: Give up to 2 rested DON!! cards to your &lt;Slash&gt; attribute Leader.",
+    "effect": "[Activate: Main] You may rest this Character: Give up to 2 rested DON!! cards to your <Slash> attribute Leader.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB03-014.png?260529"
   },

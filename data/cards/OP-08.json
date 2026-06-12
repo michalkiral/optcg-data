@@ -3180,7 +3180,7 @@
       "Egghead",
       "Seraphim"
     ],
-    "effect": "[DON!! x1] If you have less Life cards than your opponent, this Character cannot be K.O.'d in battle by &lt;Slash&gt; attribute cards and gains +2000 power.",
+    "effect": "[DON!! x1] If you have less Life cards than your opponent, this Character cannot be K.O.'d in battle by <Slash> attribute cards and gains +2000 power.",
     "trigger": "[Trigger] You may trash 1 card from your hand: If you have 2 or less Life cards, play this card.",
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-114.png?260529"
   },
@@ -3322,7 +3322,7 @@
   {
     "id": "OP08-119",
     "set": "OP-08",
-    "name": "Kaido &amp; Linlin",
+    "name": "Kaido & Linlin",
     "rarity": "SecretRare",
     "category": "Character",
     "colors": [
@@ -3348,7 +3348,7 @@
   {
     "id": "OP08-119_p1",
     "set": "OP-08",
-    "name": "Kaido &amp; Linlin",
+    "name": "Kaido & Linlin",
     "rarity": "SecretRare",
     "category": "Character",
     "colors": [

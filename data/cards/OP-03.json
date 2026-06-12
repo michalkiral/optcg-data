@@ -204,7 +204,7 @@
     "types": [
       "Buggy Pirates"
     ],
-    "effect": "This Character cannot be K.O.'d in battle by &lt;Slash&gt; attribute cards.<br>[On Play] Look at 5 cards from the top of your deck; reveal up to 1 red Event and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "effect": "This Character cannot be K.O.'d in battle by <Slash> attribute cards.<br>[On Play] Look at 5 cards from the top of your deck; reveal up to 1 red Event and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-008.png?260529"
   },
@@ -1442,7 +1442,7 @@
   {
     "id": "OP03-053",
     "set": "OP-03",
-    "name": "Yosaku &amp; Johnny",
+    "name": "Yosaku & Johnny",
     "rarity": "Common",
     "category": "Character",
     "colors": [
@@ -1648,7 +1648,7 @@
   {
     "id": "OP03-061",
     "set": "OP-03",
-    "name": "Kiwi &amp; Mozu",
+    "name": "Kiwi & Mozu",
     "rarity": "Common",
     "category": "Character",
     "colors": [
@@ -1744,7 +1744,7 @@
   {
     "id": "OP03-065",
     "set": "OP-03",
-    "name": "Chimney &amp; Gonbe",
+    "name": "Chimney & Gonbe",
     "rarity": "Common",
     "category": "Character",
     "colors": [

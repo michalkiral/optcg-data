@@ -2,7 +2,7 @@
   {
     "id": "ST12-001",
     "set": "ST-12",
-    "name": "Roronoa Zoro &amp; Sanji",
+    "name": "Roronoa Zoro & Sanji",
     "rarity": "Leader",
     "category": "Leader",
     "colors": [
@@ -67,7 +67,7 @@
       "The Seven Warlords of the Sea",
       "Muggy Kingdom"
     ],
-    "effect": "[On Play] If you have 2 or less Characters, play up to 1 {Muggy Kingdom} type or &lt;Slash&gt; attribute Character card with a cost of 4 or less other than [Dracule Mihawk] from your hand rested.",
+    "effect": "[On Play] If you have 2 or less Characters, play up to 1 {Muggy Kingdom} type or <Slash> attribute Character card with a cost of 4 or less other than [Dracule Mihawk] from your hand rested.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST12-003.png?260529"
   },
@@ -122,7 +122,7 @@
   {
     "id": "ST12-006",
     "set": "ST-12",
-    "name": "Yosaku &amp; Johnny",
+    "name": "Yosaku & Johnny",
     "rarity": "Common",
     "category": "Character",
     "colors": [
@@ -161,7 +161,7 @@
     "types": [
       "East Blue"
     ],
-    "effect": "[On Play] ➁ (You may rest the specified number of DON!! cards in your cost area.): If your opponent has 3 or more Life cards, set up to 1 of your &lt;Slash&gt; attribute Characters with a cost of 4 or less as active.",
+    "effect": "[On Play] ➁ (You may rest the specified number of DON!! cards in your cost area.): If your opponent has 3 or more Life cards, set up to 1 of your <Slash> attribute Characters with a cost of 4 or less as active.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST12-007.png?260529"
   },
@@ -330,7 +330,7 @@
   {
     "id": "ST12-015",
     "set": "ST-12",
-    "name": "Patty &amp; Carne",
+    "name": "Patty & Carne",
     "rarity": "Common",
     "category": "Character",
     "colors": [

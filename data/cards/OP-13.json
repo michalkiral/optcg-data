@@ -269,7 +269,7 @@
   {
     "id": "OP13-007",
     "set": "OP-13",
-    "name": "Ace &amp; Sabo &amp; Luffy",
+    "name": "Ace & Sabo & Luffy",
     "rarity": "SuperRare",
     "category": "Character",
     "colors": [
@@ -292,7 +292,7 @@
   {
     "id": "OP13-007_p1",
     "set": "OP-13",
-    "name": "Ace &amp; Sabo &amp; Luffy",
+    "name": "Ace & Sabo & Luffy",
     "rarity": "SuperRare",
     "category": "Character",
     "colors": [
@@ -763,7 +763,7 @@
       "FILM",
       "Navy"
     ],
-    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On Play] If your Leader has the {FILM} type or the &lt;Strike&gt; attribute, set up to 1 of your DON!! cards as active.",
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On Play] If your Leader has the {FILM} type or the <Strike> attribute, set up to 1 of your DON!! cards as active.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-025.png?260529"
   },

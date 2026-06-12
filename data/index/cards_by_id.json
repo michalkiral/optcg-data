@@ -76,7 +76,7 @@
   "EB01-003": {
     "id": "EB01-003",
     "set": "EB-01",
-    "name": "Kid &amp; Killer",
+    "name": "Kid & Killer",
     "rarity": "Rare",
     "category": "Character",
     "colors": [
@@ -101,7 +101,7 @@
   "EB01-003_p1": {
     "id": "EB01-003_p1",
     "set": "EB-01",
-    "name": "Kid &amp; Killer",
+    "name": "Kid & Killer",
     "rarity": "Rare",
     "category": "Character",
     "colors": [
@@ -2912,7 +2912,7 @@
   "EB02-035": {
     "id": "EB02-035",
     "set": "EB-02",
-    "name": "Sanji &amp; Pudding",
+    "name": "Sanji & Pudding",
     "rarity": "SuperRare",
     "category": "Character",
     "colors": [
@@ -2937,7 +2937,7 @@
   "EB02-035_p1": {
     "id": "EB02-035_p1",
     "set": "EB-02",
-    "name": "Sanji &amp; Pudding",
+    "name": "Sanji & Pudding",
     "rarity": "SuperRare",
     "category": "Character",
     "colors": [
@@ -4731,7 +4731,7 @@
       "East Blue",
       "Frost Moon Village"
     ],
-    "effect": "[Activate: Main] You may rest this Character: Give up to 2 rested DON!! cards to your &lt;Slash&gt; attribute Leader.",
+    "effect": "[Activate: Main] You may rest this Character: Give up to 2 rested DON!! cards to your <Slash> attribute Leader.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB03-014.png?260529"
   },
@@ -13806,7 +13806,7 @@
     "types": [
       "Buggy Pirates"
     ],
-    "effect": "This Character cannot be K.O.'d in battle by &lt;Slash&gt; attribute cards.<br>[On Play] Look at 5 cards from the top of your deck; reveal up to 1 red Event and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "effect": "This Character cannot be K.O.'d in battle by <Slash> attribute cards.<br>[On Play] Look at 5 cards from the top of your deck; reveal up to 1 red Event and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-008.png?260529"
   },
@@ -15044,7 +15044,7 @@
   "OP03-053": {
     "id": "OP03-053",
     "set": "OP-03",
-    "name": "Yosaku &amp; Johnny",
+    "name": "Yosaku & Johnny",
     "rarity": "Common",
     "category": "Character",
     "colors": [
@@ -15250,7 +15250,7 @@
   "OP03-061": {
     "id": "OP03-061",
     "set": "OP-03",
-    "name": "Kiwi &amp; Mozu",
+    "name": "Kiwi & Mozu",
     "rarity": "Common",
     "category": "Character",
     "colors": [
@@ -15346,7 +15346,7 @@
   "OP03-065": {
     "id": "OP03-065",
     "set": "OP-03",
-    "name": "Chimney &amp; Gonbe",
+    "name": "Chimney & Gonbe",
     "rarity": "Common",
     "category": "Character",
     "colors": [
@@ -19215,7 +19215,7 @@
   "OP04-073": {
     "id": "OP04-073",
     "set": "OP-04",
-    "name": "Mr.13 &amp; Ms.Friday",
+    "name": "Mr.13 & Ms.Friday",
     "rarity": "Common",
     "category": "Character",
     "colors": [
@@ -19326,7 +19326,7 @@
   "OP04-078": {
     "id": "OP04-078",
     "set": "OP-04",
-    "name": "Oimo &amp; Kashii",
+    "name": "Oimo & Kashii",
     "rarity": "Common",
     "category": "Character",
     "colors": [
@@ -27584,7 +27584,7 @@
     "types": [
       "Buggy Pirates"
     ],
-    "effect": "This Character cannot be K.O.'d in battle by &lt;Slash&gt; attribute cards.<br>[On Play] Look at 5 cards from the top of your deck; reveal up to 1 red Event and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "effect": "This Character cannot be K.O.'d in battle by <Slash> attribute cards.<br>[On Play] Look at 5 cards from the top of your deck; reveal up to 1 red Event and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-008_p1.png?260529"
   },
@@ -27942,7 +27942,7 @@
   "OP07-009": {
     "id": "OP07-009",
     "set": "OP-07",
-    "name": "Dogura &amp; Magura",
+    "name": "Dogura & Magura",
     "rarity": "Common",
     "category": "Character",
     "colors": [
@@ -34402,7 +34402,7 @@
       "Egghead",
       "Seraphim"
     ],
-    "effect": "[DON!! x1] If you have less Life cards than your opponent, this Character cannot be K.O.'d in battle by &lt;Slash&gt; attribute cards and gains +2000 power.",
+    "effect": "[DON!! x1] If you have less Life cards than your opponent, this Character cannot be K.O.'d in battle by <Slash> attribute cards and gains +2000 power.",
     "trigger": "[Trigger] You may trash 1 card from your hand: If you have 2 or less Life cards, play this card.",
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-114.png?260529"
   },
@@ -34544,7 +34544,7 @@
   "OP08-119": {
     "id": "OP08-119",
     "set": "OP-08",
-    "name": "Kaido &amp; Linlin",
+    "name": "Kaido & Linlin",
     "rarity": "SecretRare",
     "category": "Character",
     "colors": [
@@ -34570,7 +34570,7 @@
   "OP08-119_p1": {
     "id": "OP08-119_p1",
     "set": "OP-08",
-    "name": "Kaido &amp; Linlin",
+    "name": "Kaido & Linlin",
     "rarity": "SecretRare",
     "category": "Character",
     "colors": [
@@ -34830,7 +34830,7 @@
   "OP09-003": {
     "id": "OP09-003",
     "set": "OP-09",
-    "name": "Shachi &amp; Penguin",
+    "name": "Shachi & Penguin",
     "rarity": "Common",
     "category": "Character",
     "colors": [
@@ -41512,7 +41512,7 @@
   "OP10-110": {
     "id": "OP10-110",
     "set": "OP-10",
-    "name": "Heat &amp; Wire",
+    "name": "Heat & Wire",
     "rarity": "Common",
     "category": "Character",
     "colors": [
@@ -46279,7 +46279,7 @@
     "types": [
       "East Blue"
     ],
-    "effect": "If your Leader has the &lt;Slash&gt; attribute and you have 6 or more rested DON!! cards, this Character cannot be rested by your opponent's effects.<br>[Blocker]",
+    "effect": "If your Leader has the <Slash> attribute and you have 6 or more rested DON!! cards, this Character cannot be rested by your opponent's effects.<br>[Blocker]",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-021.png?260529"
   },
@@ -46425,7 +46425,7 @@
       "East Blue",
       "Frost Moon Village"
     ],
-    "effect": "If your &lt;Slash&gt; attribute Character with a cost of 5 or less other than this Character would be K.O.'d by your opponent's effect, you may rest this Character instead.<br>[Blocker]",
+    "effect": "If your <Slash> attribute Character with a cost of 5 or less other than this Character would be K.O.'d by your opponent's effect, you may rest this Character instead.<br>[Blocker]",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-027.png?260529"
   },
@@ -46449,7 +46449,7 @@
       "Land of Wano",
       "Kouzuki Clan"
     ],
-    "effect": "[Activate: Main] You may rest 1 of your DON!! cards and this Character: If your Leader is [Roronoa Zoro], look at 5 cards from the top of your deck; reveal up to 1 &lt;Slash&gt; attribute card or green Event and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "effect": "[Activate: Main] You may rest 1 of your DON!! cards and this Character: If your Leader is [Roronoa Zoro], look at 5 cards from the top of your deck; reveal up to 1 <Slash> attribute card or green Event and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-028.png?260529"
   },
@@ -46643,7 +46643,7 @@
       "Muggy Kingdom",
       "Thriller Bark Pirates"
     ],
-    "effect": "[On Play] If your Leader has the &lt;Slash&gt; attribute, look at 5 cards from the top of your deck; reveal up to 1 &lt;Slash&gt; attribute card or green Event and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "effect": "[On Play] If your Leader has the <Slash> attribute, look at 5 cards from the top of your deck; reveal up to 1 <Slash> attribute card or green Event and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-034.png?260529"
   },
@@ -46667,7 +46667,7 @@
       "Muggy Kingdom",
       "Thriller Bark Pirates"
     ],
-    "effect": "[On Play] If your Leader has the &lt;Slash&gt; attribute, look at 5 cards from the top of your deck; reveal up to 1 &lt;Slash&gt; attribute card or green Event and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "effect": "[On Play] If your Leader has the <Slash> attribute, look at 5 cards from the top of your deck; reveal up to 1 <Slash> attribute card or green Event and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-034_p1.png?260529"
   },
@@ -46715,7 +46715,7 @@
       "Supernovas",
       "Straw Hat Crew"
     ],
-    "effect": "This card in your hand cannot be played by effects.<br>If your Leader has the &lt;Slash&gt; attribute, this Character cannot be K.O.'d in battle by &lt;Slash&gt; attribute cards and gains +1000 power.",
+    "effect": "This card in your hand cannot be played by effects.<br>If your Leader has the <Slash> attribute, this Character cannot be K.O.'d in battle by <Slash> attribute cards and gains +1000 power.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-036.png?260529"
   },
@@ -47229,7 +47229,7 @@
   "OP12-055": {
     "id": "OP12-055",
     "set": "OP-12",
-    "name": "Mohji &amp; Cabaji",
+    "name": "Mohji & Cabaji",
     "rarity": "Uncommon",
     "category": "Character",
     "colors": [
@@ -49557,7 +49557,7 @@
   "OP13-007": {
     "id": "OP13-007",
     "set": "OP-13",
-    "name": "Ace &amp; Sabo &amp; Luffy",
+    "name": "Ace & Sabo & Luffy",
     "rarity": "SuperRare",
     "category": "Character",
     "colors": [
@@ -49580,7 +49580,7 @@
   "OP13-007_p1": {
     "id": "OP13-007_p1",
     "set": "OP-13",
-    "name": "Ace &amp; Sabo &amp; Luffy",
+    "name": "Ace & Sabo & Luffy",
     "rarity": "SuperRare",
     "category": "Character",
     "colors": [
@@ -50051,7 +50051,7 @@
       "FILM",
       "Navy"
     ],
-    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On Play] If your Leader has the {FILM} type or the &lt;Strike&gt; attribute, set up to 1 of your DON!! cards as active.",
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On Play] If your Leader has the {FILM} type or the <Strike> attribute, set up to 1 of your DON!! cards as active.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-025.png?260529"
   },
@@ -54860,7 +54860,7 @@
   "OP16-051": {
     "id": "OP16-051",
     "set": "OP-16",
-    "name": "Mohji &amp; Cabaji",
+    "name": "Mohji & Cabaji",
     "rarity": "Common",
     "category": "Character",
     "colors": [
@@ -57404,7 +57404,7 @@
   "EB04-023": {
     "id": "EB04-023",
     "set": "OP14-EB04",
-    "name": "Chaka &amp; Pell",
+    "name": "Chaka & Pell",
     "rarity": "Rare",
     "category": "Character",
     "colors": [
@@ -57824,7 +57824,7 @@
   "EB04-038": {
     "id": "EB04-038",
     "set": "OP14-EB04",
-    "name": "Rosinante &amp; Law",
+    "name": "Rosinante & Law",
     "rarity": "SuperRare",
     "category": "Character",
     "colors": [
@@ -57849,7 +57849,7 @@
   "EB04-038_p1": {
     "id": "EB04-038_p1",
     "set": "OP14-EB04",
-    "name": "Rosinante &amp; Law",
+    "name": "Rosinante & Law",
     "rarity": "SuperRare",
     "category": "Character",
     "colors": [
@@ -58112,7 +58112,7 @@
   "OP14-006": {
     "id": "OP14-006",
     "set": "OP14-EB04",
-    "name": "Shachi &amp; Penguin",
+    "name": "Shachi & Penguin",
     "rarity": "Common",
     "category": "Character",
     "colors": [
@@ -58536,7 +58536,7 @@
     "types": [
       "The Seven Warlords of the Sea"
     ],
-    "effect": "If your opponent's Leader has the &lt;Slash&gt; attribute, this Leader gains +1000 power.<br>[Activate: Main] [Once Per Turn] You may rest 1 of your cards: If there is a Character with a cost of 5 or more, set up to 3 of your DON!! cards as active. Then, you cannot play Character cards during this turn.",
+    "effect": "If your opponent's Leader has the <Slash> attribute, this Leader gains +1000 power.<br>[Activate: Main] [Once Per Turn] You may rest 1 of your cards: If there is a Character with a cost of 5 or more, set up to 3 of your DON!! cards as active. Then, you cannot play Character cards during this turn.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-020.png?260529"
   },
@@ -58559,7 +58559,7 @@
     "types": [
       "The Seven Warlords of the Sea"
     ],
-    "effect": "If your opponent's Leader has the &lt;Slash&gt; attribute, this Leader gains +1000 power.<br>[Activate: Main] [Once Per Turn] You may rest 1 of your cards: If there is a Character with a cost of 5 or more, set up to 3 of your DON!! cards as active. Then, you cannot play Character cards during this turn.",
+    "effect": "If your opponent's Leader has the <Slash> attribute, this Leader gains +1000 power.<br>[Activate: Main] [Once Per Turn] You may rest 1 of your cards: If there is a Character with a cost of 5 or more, set up to 3 of your DON!! cards as active. Then, you cannot play Character cards during this turn.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-020_p1.png?260529"
   },
@@ -58806,7 +58806,7 @@
   "OP14-030": {
     "id": "OP14-030",
     "set": "OP14-EB04",
-    "name": "Chaka &amp; Pell",
+    "name": "Chaka & Pell",
     "rarity": "Common",
     "category": "Character",
     "colors": [
@@ -61442,7 +61442,7 @@
   "EB01-003_p5": {
     "id": "EB01-003_p5",
     "set": "OP14-EB04",
-    "name": "Kid &amp; Killer",
+    "name": "Kid & Killer",
     "rarity": "Special",
     "category": "Character",
     "colors": [
@@ -61801,7 +61801,7 @@
   "EB04-003": {
     "id": "EB04-003",
     "set": "OP15-EB04",
-    "name": "Smoker &amp; Tashigi",
+    "name": "Smoker & Tashigi",
     "rarity": "Rare",
     "category": "Character",
     "colors": [
@@ -65288,7 +65288,7 @@
     "types": [
       "Rolling Pirates"
     ],
-    "effect": "[Activate: Main] You may trash this Character: If you have 15 or more cards in your trash, up to 1 of your [Monkey.D.Luffy] Characters gains [Rush: Character] and the &lt;Slash&gt; attribute during this turn.",
+    "effect": "[Activate: Main] You may trash this Character: If you have 15 or more cards in your trash, up to 1 of your [Monkey.D.Luffy] Characters gains [Rush: Character] and the <Slash> attribute during this turn.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP15-093.png?260529"
   },
@@ -66113,7 +66113,7 @@
   "EB04-003_p1": {
     "id": "EB04-003_p1",
     "set": "OP15-EB04",
-    "name": "Smoker &amp; Tashigi",
+    "name": "Smoker & Tashigi",
     "rarity": "Special",
     "category": "Character",
     "colors": [
@@ -70479,7 +70479,7 @@
       "Supernovas",
       "Straw Hat Crew"
     ],
-    "effect": "[DON!! x2] This Character cannot be K.O.'d in battle by &lt;Strike&gt; attribute Characters.<br>[Activate: Main] [Once Per Turn] Give this Character up to 2 rested DON!! cards.",
+    "effect": "[DON!! x2] This Character cannot be K.O.'d in battle by <Strike> attribute Characters.<br>[Activate: Main] [Once Per Turn] Give this Character up to 2 rested DON!! cards.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-024_p3.png?260529"
   },
@@ -70503,7 +70503,7 @@
       "Supernovas",
       "Straw Hat Crew"
     ],
-    "effect": "[DON!! x2] This Character cannot be K.O.'d in battle by &lt;Strike&gt; attribute Characters.<br>[Activate: Main] [Once Per Turn] Give this Character up to 2 rested DON!! cards.",
+    "effect": "[DON!! x2] This Character cannot be K.O.'d in battle by <Strike> attribute Characters.<br>[Activate: Main] [Once Per Turn] Give this Character up to 2 rested DON!! cards.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-024_r1.png?260529"
   },
@@ -78272,7 +78272,7 @@
     "types": [
       "Buggy Pirates"
     ],
-    "effect": "This Character cannot be K.O.'d in battle by &lt;Slash&gt; attribute cards.<br>[On Play] Look at 5 cards from the top of your deck; reveal up to 1 red Event and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "effect": "This Character cannot be K.O.'d in battle by <Slash> attribute cards.<br>[On Play] Look at 5 cards from the top of your deck; reveal up to 1 red Event and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-008_p2.png?260529"
   },
@@ -78295,7 +78295,7 @@
     "types": [
       "Buggy Pirates"
     ],
-    "effect": "This Character cannot be K.O.'d in battle by &lt;Slash&gt; attribute cards.<br>[On Play] Look at 5 cards from the top of your deck; reveal up to 1 red Event and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "effect": "This Character cannot be K.O.'d in battle by <Slash> attribute cards.<br>[On Play] Look at 5 cards from the top of your deck; reveal up to 1 red Event and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-008_r1.png?260529"
   },
@@ -83511,7 +83511,7 @@
   "ST10-008_p3": {
     "id": "ST10-008_p3",
     "set": "PRB-02",
-    "name": "Shachi &amp; Penguin",
+    "name": "Shachi & Penguin",
     "rarity": "Common",
     "category": "Character",
     "colors": [
@@ -83534,7 +83534,7 @@
   "ST10-008_r1": {
     "id": "ST10-008_r1",
     "set": "PRB-02",
-    "name": "Shachi &amp; Penguin",
+    "name": "Shachi & Penguin",
     "rarity": "Common",
     "category": "Character",
     "colors": [
@@ -84965,7 +84965,7 @@
   "EB01-003_p2": {
     "id": "EB01-003_p2",
     "set": "PROMOTION-CARD",
-    "name": "Kid &amp; Killer",
+    "name": "Kid & Killer",
     "rarity": "Rare",
     "category": "Character",
     "colors": [
@@ -84990,7 +84990,7 @@
   "EB01-003_p3": {
     "id": "EB01-003_p3",
     "set": "PROMOTION-CARD",
-    "name": "Kid &amp; Killer",
+    "name": "Kid & Killer",
     "rarity": "Rare",
     "category": "Character",
     "colors": [
@@ -85015,7 +85015,7 @@
   "EB01-003_p4": {
     "id": "EB01-003_p4",
     "set": "PROMOTION-CARD",
-    "name": "Kid &amp; Killer",
+    "name": "Kid & Killer",
     "rarity": "Rare",
     "category": "Character",
     "colors": [
@@ -89600,7 +89600,7 @@
     "types": [
       "Navy"
     ],
-    "effect": "[DON!! x1] This Character cannot be K.O.'d in battle by Characters without the &lt;Special&gt; attribute.",
+    "effect": "[DON!! x1] This Character cannot be K.O.'d in battle by Characters without the <Special> attribute.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-025.png?260529"
   },
@@ -90207,7 +90207,7 @@
     "types": [
       "The Seven Warlords of the Sea"
     ],
-    "effect": "[DON!! x1] This Character cannot be K.O.'d in battle by &lt;Slash&gt; attribute cards.",
+    "effect": "[DON!! x1] This Character cannot be K.O.'d in battle by <Slash> attribute cards.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-052.png?260529"
   },
@@ -90253,7 +90253,7 @@
     "types": [
       "Navy"
     ],
-    "effect": "[DON!! x1] This Character cannot be K.O.'d in battle by &lt;Strike&gt; attribute cards.",
+    "effect": "[DON!! x1] This Character cannot be K.O.'d in battle by <Strike> attribute cards.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-054.png?260529"
   },
@@ -90418,7 +90418,7 @@
   "P-062": {
     "id": "P-062",
     "set": "PROMOTION-CARD",
-    "name": "Hody &amp; Hyouzou",
+    "name": "Hody & Hyouzou",
     "rarity": "Promo",
     "category": "Character",
     "colors": [
@@ -93053,7 +93053,7 @@
   "ST10-008_p1": {
     "id": "ST10-008_p1",
     "set": "PROMOTION-CARD",
-    "name": "Shachi &amp; Penguin",
+    "name": "Shachi & Penguin",
     "rarity": "Common",
     "category": "Character",
     "colors": [
@@ -93076,7 +93076,7 @@
   "ST10-008_p2": {
     "id": "ST10-008_p2",
     "set": "PROMOTION-CARD",
-    "name": "Shachi &amp; Penguin",
+    "name": "Shachi & Penguin",
     "rarity": "Common",
     "category": "Character",
     "colors": [
@@ -97174,7 +97174,7 @@
   "ST10-008": {
     "id": "ST10-008",
     "set": "ST-10",
-    "name": "Shachi &amp; Penguin",
+    "name": "Shachi & Penguin",
     "rarity": "Common",
     "category": "Character",
     "colors": [
@@ -97756,7 +97756,7 @@
   "ST12-001": {
     "id": "ST12-001",
     "set": "ST-12",
-    "name": "Roronoa Zoro &amp; Sanji",
+    "name": "Roronoa Zoro & Sanji",
     "rarity": "Leader",
     "category": "Leader",
     "colors": [
@@ -97821,7 +97821,7 @@
       "The Seven Warlords of the Sea",
       "Muggy Kingdom"
     ],
-    "effect": "[On Play] If you have 2 or less Characters, play up to 1 {Muggy Kingdom} type or &lt;Slash&gt; attribute Character card with a cost of 4 or less other than [Dracule Mihawk] from your hand rested.",
+    "effect": "[On Play] If you have 2 or less Characters, play up to 1 {Muggy Kingdom} type or <Slash> attribute Character card with a cost of 4 or less other than [Dracule Mihawk] from your hand rested.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST12-003.png?260529"
   },
@@ -97876,7 +97876,7 @@
   "ST12-006": {
     "id": "ST12-006",
     "set": "ST-12",
-    "name": "Yosaku &amp; Johnny",
+    "name": "Yosaku & Johnny",
     "rarity": "Common",
     "category": "Character",
     "colors": [
@@ -97915,7 +97915,7 @@
     "types": [
       "East Blue"
     ],
-    "effect": "[On Play] ➁ (You may rest the specified number of DON!! cards in your cost area.): If your opponent has 3 or more Life cards, set up to 1 of your &lt;Slash&gt; attribute Characters with a cost of 4 or less as active.",
+    "effect": "[On Play] ➁ (You may rest the specified number of DON!! cards in your cost area.): If your opponent has 3 or more Life cards, set up to 1 of your <Slash> attribute Characters with a cost of 4 or less as active.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST12-007.png?260529"
   },
@@ -98084,7 +98084,7 @@
   "ST12-015": {
     "id": "ST12-015",
     "set": "ST-12",
-    "name": "Patty &amp; Carne",
+    "name": "Patty & Carne",
     "rarity": "Common",
     "category": "Character",
     "colors": [
@@ -102189,7 +102189,7 @@
   "ST22-001": {
     "id": "ST22-001",
     "set": "ST-22",
-    "name": "Ace &amp; Newgate",
+    "name": "Ace & Newgate",
     "rarity": "Leader",
     "category": "Leader",
     "colors": [
@@ -102213,7 +102213,7 @@
   "ST22-001_p1": {
     "id": "ST22-001_p1",
     "set": "ST-22",
-    "name": "Ace &amp; Newgate",
+    "name": "Ace & Newgate",
     "rarity": "Leader",
     "category": "Leader",
     "colors": [
@@ -103518,7 +103518,7 @@
   "ST24-002": {
     "id": "ST24-002",
     "set": "ST-24",
-    "name": "Kid &amp; Killer",
+    "name": "Kid & Killer",
     "rarity": "SuperRare",
     "category": "Character",
     "colors": [
@@ -103567,7 +103567,7 @@
   "ST24-004": {
     "id": "ST24-004",
     "set": "ST-24",
-    "name": "Law &amp; Bepo",
+    "name": "Law & Bepo",
     "rarity": "SuperRare",
     "category": "Character",
     "colors": [
@@ -103898,7 +103898,7 @@
   "ST25-003": {
     "id": "ST25-003",
     "set": "ST-25",
-    "name": "Crocodile &amp; Mihawk",
+    "name": "Crocodile & Mihawk",
     "rarity": "SuperRare",
     "category": "Character",
     "colors": [
@@ -105770,7 +105770,7 @@
   "ST30-001": {
     "id": "ST30-001",
     "set": "ST-30",
-    "name": "Luffy &amp; Ace",
+    "name": "Luffy & Ace",
     "rarity": "Leader",
     "category": "Leader",
     "colors": [
@@ -105797,7 +105797,7 @@
   "ST30-001_p1": {
     "id": "ST30-001_p1",
     "set": "ST-30",
-    "name": "Luffy &amp; Ace",
+    "name": "Luffy & Ace",
     "rarity": "Leader",
     "category": "Leader",
     "colors": [
@@ -106568,5 +106568,28 @@
     "effect": "[Main] Look at 5 cards from the top of your deck; reveal up to 1 Character card with 6000 power and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
     "trigger": "[Trigger] Activate this card's [Main] effect.",
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST30-017_p1.png?260529"
+  },
+  "OP09-100_c1": {
+    "id": "OP09-100_c1",
+    "set": "OP-09",
+    "name": "Karasu",
+    "rarity": "Uncommon",
+    "category": "Character",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 3,
+    "power": 4000,
+    "counter": 1000,
+    "block": 3,
+    "attributes": [
+      "Special"
+    ],
+    "types": [
+      "Revolutionary Army"
+    ],
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+    "trigger": "[Trigger] If your Leader has the {Revolutionary Army} type and you and your opponent have a total of 5 or less Life cards, play this card.",
+    "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP09-100_c1.png"
   }
 }
