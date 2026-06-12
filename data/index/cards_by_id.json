@@ -106591,5 +106591,27 @@
     "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
     "trigger": "[Trigger] If your Leader has the {Revolutionary Army} type and you and your opponent have a total of 5 or less Life cards, play this card.",
     "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP09-100_c1.png"
+  },
+  "OP13-040_c1": {
+    "id": "OP13-040_c1",
+    "set": "OP-13",
+    "name": "I Know You're Strong... So I'll Go All Out from the Very Start!!!",
+    "rarity": "Rare",
+    "category": "Event",
+    "colors": [
+      "Green"
+    ],
+    "cost": 1,
+    "power": null,
+    "counter": null,
+    "block": 4,
+    "attributes": [],
+    "types": [
+      "Supernovas",
+      "Straw Hat Crew"
+    ],
+    "effect": "[Main] You may rest 2 of your DON!! cards: Up to 2 of your opponent's rested Characters with a cost of 7 or less will not become active in your opponent's next Refresh Phase.<br>[Counter] Your Leader gains +3000 power during this battle.",
+    "trigger": null,
+    "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP13-040_c1.webp"
   }
 }
