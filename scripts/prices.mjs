@@ -35,12 +35,13 @@ const readJson = (p, fallback) => {
 const writeJson = (p, v) => writeFileSync(p, `${JSON.stringify(v)}\n`, "utf8");
 
 // Print suffixes: _p<N> = alternate art (a numbered Version on Limitless),
-// _r<N> = reprint in another product (a versionless product row on Limitless).
-const basePrintId = (id) => id.replace(/_[pr]\d+$/, "");
+// _r<N> = reprint in another product (a versionless product row on Limitless),
+// _c<N> = hand-curated custom print from overrides (never priced by Limitless).
+const basePrintId = (id) => id.replace(/_[prc]\d+$/, "");
 const printOrder = (id) => {
-  const m = id.match(/_([pr])(\d+)$/);
+  const m = id.match(/_([prc])(\d+)$/);
   if (!m) return 0;
-  return (m[1] === "r" ? 100 : 0) + Number(m[2]);
+  return (m[1] === "c" ? 200 : m[1] === "r" ? 100 : 0) + Number(m[2]);
 };
 
 // --- Parsing (pure; exported shape used by --test-fixture) ---

@@ -20,6 +20,10 @@ function arg(name, fallback) {
 
 const RAW_DIR = arg("raw", process.env.RAW_DIR ?? "raw");
 const OUT_DIR = arg("out", process.env.OUT_DIR ?? "data");
+const OVERRIDES_PATH = arg(
+  "overrides",
+  process.env.OVERRIDES_PATH ?? "overrides/custom-prints.json",
+);
 const VEGAPULL_VERSION = process.env.VEGAPULL_VERSION ?? "unknown";
 const GENERATED_AT = process.env.GENERATED_AT ?? "";
 
@@ -133,6 +137,45 @@ function main() {
       cardCount: cards.length,
     });
     totalCards += cards.length;
+  }
+
+  // Merge hand-curated custom prints (overrides/custom-prints.json) — cards
+  // Bandai's cardlist does not know (release-stamp versions etc.). They clone
+  // their parent's data and live in the parent's set file, so they survive
+  // every weekly regeneration.
+  if (existsSync(OVERRIDES_PATH)) {
+    const { prints = [] } = readJson(OVERRIDES_PATH);
+    const bySet = new Map();
+    for (const entry of prints) {
+      const parent = byId[entry.parent];
+      if (!parent) {
+        console.warn(`warn: custom print ${entry.id} skipped — parent ${entry.parent} not found`);
+        continue;
+      }
+      if (byId[entry.id]) {
+        console.warn(`warn: custom print ${entry.id} skipped — id already exists`);
+        continue;
+      }
+      const card = {
+        ...parent,
+        id: entry.id,
+        name: entry.name ?? parent.name,
+        image: entry.image ?? parent.image,
+      };
+      byId[card.id] = card;
+      if (!bySet.has(card.set)) bySet.set(card.set, []);
+      bySet.get(card.set).push(card);
+    }
+    for (const [setCode, customCards] of bySet) {
+      const setPath = join(OUT_DIR, "cards", `${setCode}.json`);
+      const cards = readJson(setPath);
+      cards.push(...customCards);
+      writeJson(setPath, cards);
+      const pack = packsOut.find((p) => p.code === setCode);
+      if (pack) pack.cardCount += customCards.length;
+      totalCards += customCards.length;
+      console.log(`merged ${customCards.length} custom print(s) into ${setCode}`);
+    }
   }
 
   writeJson(join(OUT_DIR, "packs.json"), packsOut);
