@@ -32,6 +32,14 @@
       "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/ST12-003_c1.webp",
       "note": "Illustration box promo",
       "addedAt": "2026-06-12"
+    },
+    {
+      "id": "OP15-042_c1",
+      "parent": "OP15-042",
+      "name": "Kyros",
+      "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP15-042_c1.png",
+      "note": "Dash pack",
+      "addedAt": "2026-06-12"
     }
   ]
 }
