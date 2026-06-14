@@ -327,6 +327,15 @@
       "note": "Championship Pack",
       "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Special-Tournaments-Promos/MonkeyDGarp-ST06-012",
       "addedAt": "2026-06-14"
+    },
+    {
+      "id": "OP09-001_p3",
+      "parent": "OP09-001",
+      "name": "Shanks",
+      "set": "OTHER-PRODUCT-CARD",
+      "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP09-001_p3.png",
+      "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Unnumbered-Promos/Shanks-OP09-001-V2",
+      "addedAt": "2026-06-14"
     }
   ]
 }
