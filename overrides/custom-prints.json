@@ -757,6 +757,15 @@
       "note": "Special Tournament",
       "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Special-Tournaments-Promos/Dracule-Mihawk-ST03-005",
       "addedAt": "2026-06-14"
+    },
+    {
+      "id": "OP05-114_c1",
+      "parent": "OP05-114",
+      "name": "El Thor",
+      "set": "OTHER-PRODUCT-CARD",
+      "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP05-114_c1.png",
+      "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Unnumbered-Promos/Perona-OP09-034-V1",
+      "addedAt": "2026-06-14"
     }
   ]
 }
