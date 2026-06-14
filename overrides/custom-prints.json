@@ -649,6 +649,14 @@
       "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/P-084_p1.png",
       "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Special-Tournaments-Promos/Buggy-P-084",
       "addedAt": "2026-06-14"
+    },
+    {
+      "id": "P-008_p1",
+      "parent": "P-008",
+      "name": "Yamato",
+      "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/P-008_p1.png",
+      "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Promos/Yamato-P-008-V2",
+      "addedAt": "2026-06-14"
     }
   ]
 }
