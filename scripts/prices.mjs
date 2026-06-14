@@ -143,6 +143,24 @@ const namesMatch = (a, b) => a !== null && b !== null && (a.includes(b) || b.inc
 const namesMatchAny = (slug, names) => names.some((name) => namesMatch(slug, name));
 
 /**
+ * The pack code a Cardmarket product slug belongs to — its printing SET, which
+ * Limitless and Bandai agree on (unlike the global _pN filename order). Returns
+ * null when the slug matches no pack, or matches more than one (ambiguous —
+ * never guess). This is the set signal that guards version-page resolution.
+ */
+function packForSlug(slug, packNamesByCode) {
+  if (!slug) return null;
+  let found = null;
+  for (const [code, names] of packNamesByCode) {
+    if (namesMatchAny(slug, names)) {
+      if (found !== null && found !== code) return null; // ambiguous
+      found = code;
+    }
+  }
+  return found;
+}
+
+/**
  * Maps the BASE print for one card: the own-set row without a variant marker
  * (for PROMOTION-CARD cards, rows from the Cardmarket promo products play
  * that role). That is the only assignment a single page makes unambiguous.
@@ -151,7 +169,13 @@ const namesMatchAny = (slug, names) => names.some((name) => namesMatch(slug, nam
  * product-name guessing used to misprice variants (e.g. a manga-art row glued
  * onto a plain reprint id), so it is gone.
  */
-export function mapRowsToPrints(rows, prints, packNamesByPrint = new Map()) {
+export function mapRowsToPrints(
+  rows,
+  prints,
+  packNamesByPrint = new Map(),
+  setByPrint = new Map(),
+  packNamesByCode = new Map(),
+) {
   const mapped = new Map();
   let pool = [...rows];
 
@@ -169,6 +193,27 @@ export function mapRowsToPrints(rows, prints, packNamesByPrint = new Map()) {
   if (ownPlain.length === 1) {
     mapped.set(base, ownPlain[0]);
     pool = pool.filter((r) => r !== ownPlain[0]);
+  }
+
+  // Cross-set match: a printing that is the ONLY one of this card in its set can
+  // be mapped to its Cardmarket product by set alone — the print's physical
+  // location, which both sources agree on. This places reprints (OP-09, PRB-01…)
+  // exactly without trusting Limitless's global _pN order, so cross-set
+  // transpositions can't happen and no version page is fetched. Same-set
+  // siblings (alt arts in one booster) stay for version-page resolution.
+  const nonBase = prints.filter((id) => id !== base);
+  const soleInSet = (id) => {
+    const s = setByPrint.get(id);
+    return s ? nonBase.filter((other) => setByPrint.get(other) === s).length === 1 : false;
+  };
+  for (const id of nonBase) {
+    if (mapped.has(id) || !soleInSet(id)) continue;
+    const set = setByPrint.get(id);
+    const matches = pool.filter((row) => packForSlug(row.slug, packNamesByCode) === set);
+    if (matches.length === 1) {
+      mapped.set(id, matches[0]);
+      pool = pool.filter((r) => r !== matches[0]);
+    }
   }
 
   return { mapped, unmapped: pool };
@@ -293,17 +338,19 @@ function loadCatalog() {
 
   const printsByBase = new Map();
   const packNamesByPrint = new Map();
+  const setByPrint = new Map();
   for (const [id, card] of Object.entries(index)) {
     const base = basePrintId(id);
     if (!printsByBase.has(base)) printsByBase.set(base, []);
     printsByBase.get(base).push(id);
+    setByPrint.set(id, card.set);
     const packNames = packNamesByCode.get(card.set);
     if (packNames) packNamesByPrint.set(id, packNames);
   }
   for (const prints of printsByBase.values()) {
     prints.sort((a, b) => printOrder(a) - printOrder(b));
   }
-  return { printsByBase, packNamesByPrint };
+  return { printsByBase, packNamesByPrint, setByPrint, packNamesByCode };
 }
 
 function runFixtureTest() {
@@ -353,6 +400,49 @@ function runFixtureTest() {
     process.exit(1);
   }
 
+  // Set-based mapping: a print alone in its set maps to its Cardmarket product
+  // by set, regardless of how Limitless numbers it (the OP05-119 swap case).
+  const setPrints = ["OP05-119", "OP05-119_p6", "OP05-119_p7"];
+  const setByPrint = new Map([
+    ["OP05-119", "OP-05"],
+    ["OP05-119_p6", "OP-09"],
+    ["OP05-119_p7", "OP-11"],
+  ]);
+  const namesByCode = new Map([
+    ["OP-05", [normalizeName("Awakening of the New Era")]],
+    ["OP-09", [normalizeName("Emperors in the New World")]],
+    ["OP-11", [normalizeName("A Fist of Divine Speed")]],
+  ]);
+  const namesByPrint = new Map(setPrints.map((p) => [p, namesByCode.get(setByPrint.get(p))]));
+  const mk = (slug, eur, v) => ({
+    marker: "",
+    slug: normalizeName(slug),
+    eur,
+    usd: eur,
+    eurHref: slug,
+    v,
+    cacheKey: slug,
+  });
+  const setRows = [
+    mk("Awakening of the New Era", 8, null),
+    mk("Emperors in the New World", 490, 3),
+    mk("A Fist of Divine Speed", 2500, 5),
+  ];
+  const setMap = mapRowsToPrints(setRows, setPrints, namesByPrint, setByPrint, namesByCode);
+  if (setMap.mapped.get("OP05-119_p6")?.eur !== 490) {
+    console.error("FAIL: OP-09 product should map to _p6 by set");
+    process.exit(1);
+  }
+  if (setMap.mapped.get("OP05-119_p7")?.eur !== 2500) {
+    console.error("FAIL: OP-11 product should map to _p7 by set");
+    process.exit(1);
+  }
+  if (packForSlug(normalizeName("A Fist of Divine Speed"), namesByCode) !== "OP-11") {
+    console.error("FAIL: packForSlug should resolve the product to its pack code");
+    process.exit(1);
+  }
+  console.log("set-mapping ok");
+
   console.log("fixture test ok");
 }
 
@@ -368,7 +458,7 @@ async function main() {
       ? new Set(process.argv[onlyArg + 1].split(","))
       : null;
 
-  const { printsByBase, packNamesByPrint } = loadCatalog();
+  const { printsByBase, packNamesByPrint, setByPrint, packNamesByCode } = loadCatalog();
   const baseIds = [...printsByBase.keys()].filter((id) => !only || only.has(id));
   console.log(`pricing ${baseIds.length} base cards...`);
 
@@ -395,8 +485,11 @@ async function main() {
   // our OP02-013_p5) — and claims promo rows that have no version link. Seeded
   // LAST so a pin always wins, and never creates a card (the id already exists).
   const priceMap = readJson("overrides/price-map.json", { map: {} }).map ?? {};
+  const pinnedUrls = new Set();
   for (const [url, id] of Object.entries(priceMap)) {
-    printmap[url.split("?")[0]] = id;
+    const key = url.split("?")[0];
+    printmap[key] = id;
+    pinnedUrls.add(key); // authoritative — exempt from the set guardrail below
   }
 
   const pricesByPrint = new Map();
@@ -424,7 +517,13 @@ async function main() {
           failedPages.push({ baseId, status: "no-prints-table" });
         } else {
           const prints = printsByBase.get(baseId);
-          const { mapped, unmapped } = mapRowsToPrints(rows, prints, packNamesByPrint);
+          const { mapped, unmapped } = mapRowsToPrints(
+            rows,
+            prints,
+            packNamesByPrint,
+            setByPrint,
+            packNamesByCode,
+          );
           for (const [id, row] of mapped) {
             pricesByPrint.set(id, { eur: row.eur, usd: row.usd });
           }
@@ -447,6 +546,7 @@ async function main() {
           };
           for (const row of unmapped.filter((r) => r.v === null)) report(row);
           for (const row of versioned) {
+            const pinned = !!row.cacheKey && pinnedUrls.has(row.cacheKey);
             let printId = row.cacheKey ? printmap[row.cacheKey] : undefined;
             if (printId !== undefined && !prints.includes(printId)) {
               delete printmap[row.cacheKey]; // catalog changed under the cache
@@ -462,13 +562,25 @@ async function main() {
                 continue;
               }
               printId = parseVersionPrintId(vp.html, baseId);
-              if (printId !== null && prints.includes(printId) && row.cacheKey) {
-                printmap[row.cacheKey] = printId;
+            }
+            // SET guardrail: a version-page id must sit in the SET its Cardmarket
+            // product names, else it is a Limitless/Bandai numbering transposition
+            // (its _p6 is our _p7). Reject it — surfaced for manual pinning instead
+            // of silently mispriced. Manual pins are authoritative and exempt.
+            if (!pinned && printId && prints.includes(printId)) {
+              const rowPack = packForSlug(row.slug, packNamesByCode);
+              if (rowPack && setByPrint.get(printId) !== rowPack) {
+                if (row.cacheKey) delete printmap[row.cacheKey];
+                report(row, printId);
+                continue;
               }
             }
             if (printId === null || !prints.includes(printId)) {
               report(row, printId);
               continue;
+            }
+            if (!pinned && row.cacheKey) {
+              printmap[row.cacheKey] = printId; // cache the verified auto-resolution
             }
             if (pricesByPrint.has(printId)) {
               conflicts.push({ baseId, printId, eurHref: row.eurHref, eur: row.eur });
