@@ -457,6 +457,16 @@
       "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP09-001_p4.png",
       "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Unnumbered-Promos/Shanks-OP09-001-V1",
       "addedAt": "2026-06-14"
+    },
+    {
+      "id": "OP06-025_p3",
+      "parent": "OP06-025",
+      "name": "Camie",
+      "set": "PROMOTION-CARD",
+      "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP06-025_p3.png",
+      "note": "Special Tournament",
+      "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Special-Tournaments-Promos/Camie-OP06-025-V3",
+      "addedAt": "2026-06-14"
     }
   ]
 }
