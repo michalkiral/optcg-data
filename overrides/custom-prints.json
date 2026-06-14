@@ -872,6 +872,15 @@
       "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/ST13-002_p3.png",
       "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Unnumbered-Promos/PortgasDAce-ST13-002-V1",
       "addedAt": "2026-06-14"
+    },
+    {
+      "id": "OP09-051_p6",
+      "parent": "OP09-051",
+      "name": "Buggy",
+      "set": "PROMOTION-CARD",
+      "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP09-051_p6.png",
+      "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Unnumbered-Promos/Buggy-OP09-051",
+      "addedAt": "2026-06-14"
     }
   ]
 }
