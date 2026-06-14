@@ -250,6 +250,16 @@
       "note": "Special Tournament",
       "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Special-Tournaments-Promos/Marco-OP02-018",
       "addedAt": "2026-06-14"
+    },
+    {
+      "id": "OP13-120_p5",
+      "parent": "OP13-120",
+      "name": "Sabo",
+      "set": "PROMOTION-CARD",
+      "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP13-120_p5.png",
+      "note": "Treasure Cup",
+      "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Special-Tournaments-Promos/Sabo-OP13-120-V1",
+      "addedAt": "2026-06-14"
     }
   ]
 }
