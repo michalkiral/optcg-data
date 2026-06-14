@@ -542,6 +542,15 @@
       "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP05-119_c1.png",
       "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Unnumbered-Promos/MonkeyDLuffy-OP05-119",
       "addedAt": "2026-06-14"
+    },
+    {
+      "id": "ST13-003_p4",
+      "parent": "ST13-003",
+      "name": "Monkey.D.Luffy",
+      "set": "PROMOTION-CARD",
+      "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/ST13-003_p4.png",
+      "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Unnumbered-Promos/MonkeyDLuffy-ST13-003-V1",
+      "addedAt": "2026-06-14"
     }
   ]
 }
