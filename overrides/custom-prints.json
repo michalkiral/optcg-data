@@ -863,6 +863,15 @@
       "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/ST13-001_p3.png",
       "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Unnumbered-Promos/Sabo-ST13-001-V1",
       "addedAt": "2026-06-14"
+    },
+    {
+      "id": "ST13-002_p3",
+      "parent": "ST13-002",
+      "name": "Portgas.D.Ace",
+      "set": "PROMOTION-CARD",
+      "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/ST13-002_p3.png",
+      "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Unnumbered-Promos/PortgasDAce-ST13-002-V1",
+      "addedAt": "2026-06-14"
     }
   ]
 }
