@@ -81,6 +81,15 @@
       "note": "Special Tournament",
       "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Special-Tournaments-Promos/Boa-Hancock-OP14-112-V1",
       "addedAt": "2026-06-14"
+    },
+    {
+      "id": "OP01-094_p2",
+      "parent": "OP01-094",
+      "name": "Kaido",
+      "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP01-094_p2.png",
+      "note": "Special Tournament",
+      "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Special-Tournaments-Promos/Kaido-OP01-094",
+      "addedAt": "2026-06-14"
     }
   ]
 }
