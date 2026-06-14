@@ -784,6 +784,15 @@
       "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP04-095_c1.png",
       "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Unnumbered-Promos/Barrier-OP04-095",
       "addedAt": "2026-06-14"
+    },
+    {
+      "id": "OP10-111_p2",
+      "parent": "OP10-111",
+      "name": "Monkey.D.Luffy",
+      "set": "PROMOTION-CARD",
+      "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP10-111_p2.png",
+      "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Unnumbered-Promos/MonkeyDLuffy-OP10-111-V1",
+      "addedAt": "2026-06-14"
     }
   ]
 }
