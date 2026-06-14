@@ -614,6 +614,14 @@
       "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP10-111_p3.png",
       "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Unnumbered-Promos/MonkeyDLuffy-OP10-111",
       "addedAt": "2026-06-14"
+    },
+    {
+      "id": "P-025_p1",
+      "parent": "P-025",
+      "name": "Smoker",
+      "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/P-025_p1.png",
+      "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Promos/Smoker-P-025-V2",
+      "addedAt": "2026-06-14"
     }
   ]
 }
