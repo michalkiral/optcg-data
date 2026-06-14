@@ -747,6 +747,16 @@
       "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/EB04-061_p2.png",
       "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Special-Tournaments-Promos/MonkeyDLuffy-EB04-061-V1",
       "addedAt": "2026-06-14"
+    },
+    {
+      "id": "ST03-005_p3",
+      "parent": "ST03-005",
+      "name": "Dracule Mihawk",
+      "set": "PROMOTION-CARD",
+      "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/ST03-005_p3.png",
+      "note": "Special Tournament",
+      "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Special-Tournaments-Promos/Dracule-Mihawk-ST03-005",
+      "addedAt": "2026-06-14"
     }
   ]
 }
