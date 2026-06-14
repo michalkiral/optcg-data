@@ -505,6 +505,15 @@
       "note": "Special Tournament",
       "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Special-Tournaments-Promos/Gedatsu-OP05-102-V1",
       "addedAt": "2026-06-14"
+    },
+    {
+      "id": "OP09-042_p3",
+      "parent": "OP09-042",
+      "name": "Buggy",
+      "set": "PROMOTION-CARD",
+      "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP09-042_p3.png",
+      "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Unnumbered-Promos/Buggy-OP09-042",
+      "addedAt": "2026-06-14"
     }
   ]
 }
