@@ -269,6 +269,16 @@
       "note": "Special Tournament",
       "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Special-Tournaments-Promos/Drum-Kingdom-OP08-020-V3",
       "addedAt": "2026-06-14"
+    },
+    {
+      "id": "ST01-009_p2",
+      "parent": "ST01-009",
+      "name": "Nefeltari Vivi",
+      "set": "PROMOTION-CARD",
+      "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/ST01-009_p2.png",
+      "note": "Pre release Winner",
+      "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Unnumbered-Promos/Nefeltari-Vivi-ST01-009-V2",
+      "addedAt": "2026-06-14"
     }
   ]
 }
