@@ -106683,5 +106683,28 @@
     "effect": "[On Play] You may trash 1 card from your hand: If your Leader is [Rebecca], this Character gains [Rush] during this turn.<br>[On K.O.] Add this Character card from your trash to your hand.",
     "trigger": null,
     "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP15-042_c1.png"
+  },
+  "OP09-002_c1": {
+    "id": "OP09-002_c1",
+    "set": "OP-09",
+    "name": "Uta",
+    "rarity": "Rare",
+    "category": "Character",
+    "colors": [
+      "Red"
+    ],
+    "cost": 1,
+    "power": 2000,
+    "counter": 1000,
+    "block": 3,
+    "attributes": [
+      "Special"
+    ],
+    "types": [
+      "FILM"
+    ],
+    "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Red-Haired Pirates} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": null,
+    "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP09-002_c1.png"
   }
 }
