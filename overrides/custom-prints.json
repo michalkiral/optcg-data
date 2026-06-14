@@ -933,6 +933,15 @@
       "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP05-098_c1.webp",
       "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Unnumbered-Promos/Enel-OP05-098",
       "addedAt": "2026-06-14"
+    },
+    {
+      "id": "P-009_p2",
+      "parent": "P-009",
+      "name": "Trafalgar Law",
+      "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/P-009_p2.png",
+      "note": "Special Tournament",
+      "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Special-Tournaments-Promos/Trafalgar-Law-P-009",
+      "addedAt": "2026-06-14"
     }
   ]
 }
