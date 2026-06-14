@@ -533,6 +533,15 @@
       "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP09-081_p3.png",
       "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Unnumbered-Promos/MarshallDTeach-OP09-081",
       "addedAt": "2026-06-14"
+    },
+    {
+      "id": "OP05-119_c1",
+      "parent": "OP05-119",
+      "name": "Monkey.D.Luffy",
+      "set": "PROMOTION-CARD",
+      "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP05-119_c1.png",
+      "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Unnumbered-Promos/MonkeyDLuffy-OP05-119",
+      "addedAt": "2026-06-14"
     }
   ]
 }
