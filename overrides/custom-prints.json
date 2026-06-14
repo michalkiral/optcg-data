@@ -820,6 +820,15 @@
       "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP12-031_p3.png",
       "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Special-Tournaments-Promos/Tashigi-OP12-031-V2",
       "addedAt": "2026-06-14"
+    },
+    {
+      "id": "ST10-006_c1",
+      "parent": "ST10-006",
+      "name": "Monkey.D.Luffy",
+      "set": "PROMOTION-CARD",
+      "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/ST10-006_c1.png",
+      "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Unnumbered-Promos/MonkeyDLuffy-ST10-006-V1",
+      "addedAt": "2026-06-14"
     }
   ]
 }
