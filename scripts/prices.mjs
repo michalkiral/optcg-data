@@ -69,6 +69,15 @@ const PACK_ALIASES = {
   "OP-07": ["500 Years into the Future"], // Bandai: "500 YEARS IN THE FUTURE"
   "OP15-EB04": ["Adventure on Kamis Island"], // Bandai: "BOOSTER PACK" (placeholder)
   "OP-16": ["OP16"], // Cardmarket has no English name yet, product is just "OP16"
+  // Starter decks: Cardmarket prefixes "Starter Deck" and drops Bandai's colour
+  // word / joining words, so the base row never matched its own pack by name and
+  // every base print went unpriced. Aliases are the exact Cardmarket product.
+  "ST-12": ["Starter Deck Zoro Sanji"], // Bandai: "Zoro and Sanji"
+  "ST-15": ["Starter Deck Edward Newgate"], // Bandai: "Red Edward.Newgate"
+  "ST-17": ["Starter Deck Donquixote Doflamingo"], // Bandai: "Blue Donquixote Doflamingo"
+  "ST-19": ["Starter Deck Smoker"], // Bandai: "Black Smoker"
+  "ST-20": ["Starter Deck Charlotte Katakuri"], // Bandai: "Yellow Charlotte Katakuri"
+  "ST-24": ["Starter Deck Green Jewlery Bonney"], // Bandai: "GREEN Jewelry Bonney" (CM typo)
 };
 
 // Cardmarket products that hold PROMOTION-CARD prints. On a promo card's page
@@ -376,6 +385,18 @@ async function main() {
   const customPrints = readJson("overrides/custom-prints.json", { prints: [] }).prints ?? [];
   for (const entry of customPrints) {
     if (entry.priceUrl) printmap[entry.priceUrl.split("?")[0]] = entry.id;
+  }
+
+  // Manual price pins (overrides/price-map.json): Cardmarket product URL → an
+  // EXISTING catalog id. Authoritative over version-page resolution, so it fixes
+  // cases the image-URL trick gets wrong — chiefly Limitless/Bandai parallel-art
+  // numbering disagreements (Limitless reads the image filename's _pN, which can
+  // differ from the cardlist _pN vegapull pulled; e.g. Limitless OP02-013_p4 is
+  // our OP02-013_p5) — and claims promo rows that have no version link. Seeded
+  // LAST so a pin always wins, and never creates a card (the id already exists).
+  const priceMap = readJson("overrides/price-map.json", { map: {} }).map ?? {};
+  for (const [url, id] of Object.entries(priceMap)) {
+    printmap[url.split("?")[0]] = id;
   }
 
   const pricesByPrint = new Map();
