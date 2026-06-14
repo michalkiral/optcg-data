@@ -657,6 +657,15 @@
       "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/P-008_p1.png",
       "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Promos/Yamato-P-008-V2",
       "addedAt": "2026-06-14"
+    },
+    {
+      "id": "P-041_c1",
+      "parent": "P-041",
+      "name": "Monkey.D.Luffy",
+      "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/P-041_c1.png",
+      "note": "Special Tournament",
+      "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Special-Tournaments-Promos/MonkeyDLuffy-P-041",
+      "addedAt": "2026-06-14"
     }
   ]
 }
