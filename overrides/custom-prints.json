@@ -420,6 +420,15 @@
       "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP08-020_p1.png",
       "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Special-Tournaments-Promos/Drum-Kingdom-OP08-020-V1",
       "addedAt": "2026-06-14"
+    },
+    {
+      "id": "P-061_p1",
+      "parent": "P-061",
+      "name": "Monkey.D.Luffy",
+      "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/P-061_p1.png",
+      "note": "Championship Pack",
+      "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Special-Tournaments-Promos/MonkeyDLuffy-P-061",
+      "addedAt": "2026-06-14"
     }
   ]
 }
