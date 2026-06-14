@@ -71,7 +71,8 @@
       "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP01-120_p3.png",
       "note": "SERIAL",
       "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Special-Tournaments-Promos/Shanks-OP01-120",
-      "addedAt": "2026-06-14"
+      "addedAt": "2026-06-14",
+      "set": "PROMOTION-CARD"
     },
     {
       "id": "OP14-112_p3",
