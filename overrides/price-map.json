@@ -1,4 +1,5 @@
 {
-  "comment": "Manual price pins: Cardmarket product URL (no query string) -> existing catalog id. Authoritative over version-page resolution; used to fix Limitless/Bandai parallel-art numbering disagreements and to claim promo rows with no version link. Curated from the admin console's Unmapped prices list.",
-  "map": {}
+  "map": {
+    "https://www.cardmarket.com/en/OnePiece/Products/Singles/Premium-Bandai-Products/PortgasDAce-OP02-013": "OP02-013_p5"
+  }
 }

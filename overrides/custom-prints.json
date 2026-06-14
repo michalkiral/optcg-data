@@ -7,15 +7,53 @@
       "name": "Karasu",
       "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP09-100_c1.png",
       "note": "2nd anniversary",
-      "addedAt": "2026-06-12"
+      "addedAt": "2026-06-12",
+      "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Promos-Emperors-in-the-New-World/Karasu-OP09-100"
     },
     {
-      "id": "OP13-040_c1",
+      "id": "OP11-033_c1",
+      "parent": "OP11-033",
+      "name": "Bird Neptunian",
+      "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP11-033_c1.png",
+      "note": "Release Event",
+      "addedAt": "2026-06-12",
+      "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Promos-A-Fist-of-Divine-Speed/Bird-Neptunian-OP11-033"
+    },
+    {
+      "id": "OP15-042_c1",
+      "parent": "OP15-042",
+      "name": "Kyros",
+      "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP15-042_c1.png",
+      "note": "Dash pack",
+      "addedAt": "2026-06-12",
+      "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Unnumbered-Promos/Kyros-OP15-042"
+    },
+    {
+      "id": "OP09-002_c1",
+      "parent": "OP09-002",
+      "name": "Uta",
+      "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP09-002_c1.png",
+      "note": "Beginners Deck Party",
+      "addedAt": "2026-06-14",
+      "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Unnumbered-Promos/Uta-OP09-002-V1"
+    },
+    {
+      "id": "ST12-003_p2",
+      "parent": "ST12-003",
+      "name": "Dracule Mihawk",
+      "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/ST12-003_p2.webp",
+      "note": "Illustration Box",
+      "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Unnumbered-Promos/Dracule-Mihawk-ST12-003-V3",
+      "addedAt": "2026-06-14"
+    },
+    {
+      "id": "OP13-040_p1",
       "parent": "OP13-040",
       "name": "I Know You're Strong... So I'll Go All Out from the Very Start!!!",
-      "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP13-040_c1.webp",
-      "note": "3rd Anniversary! Treasure Campaign Pack",
-      "addedAt": "2026-06-12"
+      "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP13-040_p1.webp",
+      "note": "Treasure Campaign",
+      "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Unnumbered-Promos/I-Know-Youre-Strong-So-Ill-Go-All-Out-from-the-Very-Start-OP13-040-V1",
+      "addedAt": "2026-06-14"
     }
   ]
 }

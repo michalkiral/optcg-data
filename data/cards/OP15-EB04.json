@@ -4600,5 +4600,28 @@
     "effect": "[On Play]/[When Attacking] DON!! −2 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If your Leader is multicolored and your opponent has 5 or more DON!! cards on their field, your {Straw Hat Crew} type Leader's base power becomes 7000 until the end of your opponent's next End Phase.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST26-005_p1.png?260529"
+  },
+  {
+    "id": "OP15-042_c1",
+    "set": "OP15-EB04",
+    "name": "Kyros",
+    "rarity": "Rare",
+    "category": "Character",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 3,
+    "power": 5000,
+    "counter": null,
+    "block": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "types": [
+      "Dressrosa"
+    ],
+    "effect": "[On Play] You may trash 1 card from your hand: If your Leader is [Rebecca], this Character gains [Rush] during this turn.<br>[On K.O.] Add this Character card from your trash to your hand.",
+    "trigger": null,
+    "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP15-042_c1.png"
   }
 ]

@@ -3643,5 +3643,28 @@
     "effect": "[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Play up to 1 purple {Straw Hat Crew} type Character card with a cost of 5 or less from your hand.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST18-005_p1.png?260529"
+  },
+  {
+    "id": "OP11-033_c1",
+    "set": "OP-11",
+    "name": "Bird Neptunian",
+    "rarity": "Uncommon",
+    "category": "Character",
+    "colors": [
+      "Green"
+    ],
+    "cost": 6,
+    "power": 7000,
+    "counter": 2000,
+    "block": 3,
+    "attributes": [
+      "Strike"
+    ],
+    "types": [
+      "Neptunian"
+    ],
+    "effect": "-",
+    "trigger": null,
+    "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP11-033_c1.png"
   }
 ]
