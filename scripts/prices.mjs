@@ -533,7 +533,7 @@ async function main() {
           // never shadows the priced one.
           const versioned = unmapped.filter((row) => row.v !== null);
           versioned.sort((a, b) => (a.eur === null ? 1 : 0) - (b.eur === null ? 1 : 0));
-          const report = (row, resolved = null) => {
+          const report = (row, resolved = null, conflict = false) => {
             unmappedRows.push({
               baseId,
               marker: row.marker,
@@ -542,6 +542,7 @@ async function main() {
               eur: row.eur,
               usd: row.usd,
               resolved,
+              ...(conflict ? { conflict: true } : {}),
             });
           };
           for (const row of unmapped.filter((r) => r.v === null)) report(row);
@@ -583,7 +584,11 @@ async function main() {
               printmap[row.cacheKey] = printId; // cache the verified auto-resolution
             }
             if (pricesByPrint.has(printId)) {
+              // Two products resolve to one print. Keep the first; surface the
+              // displaced one as a claimable unmapped row so a wrong winner can
+              // be re-pointed (the admin's "swap" path), not silently dropped.
               conflicts.push({ baseId, printId, eurHref: row.eurHref, eur: row.eur });
+              report(row, printId, true);
               continue;
             }
             pricesByPrint.set(printId, { eur: row.eur, usd: row.usd });
