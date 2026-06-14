@@ -951,6 +951,15 @@
       "note": "Special Tournament",
       "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Special-Tournaments-Promos/Trafalgar-Law-P-017",
       "addedAt": "2026-06-14"
+    },
+    {
+      "id": "ST13-001_p2",
+      "parent": "ST13-001",
+      "name": "Sabo",
+      "set": "PROMOTION-CARD",
+      "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/ST13-001_p2.png",
+      "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Unnumbered-Promos/Sabo-ST13-001-V2",
+      "addedAt": "2026-06-14"
     }
   ]
 }
