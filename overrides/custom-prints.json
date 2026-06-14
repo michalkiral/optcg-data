@@ -211,6 +211,16 @@
       "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/PRB02-005_p2.png",
       "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Unnumbered-Promos/MonkeyDLuffy-PRB02-005-V1",
       "addedAt": "2026-06-14"
+    },
+    {
+      "id": "OP02-098_p2",
+      "parent": "OP02-098",
+      "name": "Koby",
+      "set": "PROMOTION-CARD",
+      "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP02-098_p2.png",
+      "note": "Treasure Cup",
+      "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Special-Tournaments-Promos/Koby-OP02-098-V7",
+      "addedAt": "2026-06-14"
     }
   ]
 }
