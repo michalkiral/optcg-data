@@ -702,6 +702,15 @@
       "note": "Special Tournament",
       "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Special-Tournaments-Promos/Yamato-P-046-V1",
       "addedAt": "2026-06-14"
+    },
+    {
+      "id": "OP10-057_p1",
+      "parent": "OP10-057",
+      "name": "Leo",
+      "set": "PROMOTION-CARD",
+      "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP10-057_p1.png",
+      "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Unnumbered-Promos/Leo-OP10-057",
+      "addedAt": "2026-06-14"
     }
   ]
 }
