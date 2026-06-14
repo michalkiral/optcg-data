@@ -429,6 +429,15 @@
       "note": "Championship Pack",
       "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Special-Tournaments-Promos/MonkeyDLuffy-P-061",
       "addedAt": "2026-06-14"
+    },
+    {
+      "id": "P-007_p1",
+      "parent": "P-007",
+      "name": "Monkey.D.Luffy",
+      "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/P-007_p1.png",
+      "note": "Special Tournament",
+      "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Promos/MonkeyDLuffy-P-007-V2",
+      "addedAt": "2026-06-14"
     }
   ]
 }
