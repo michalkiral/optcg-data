@@ -317,6 +317,16 @@
       "note": "Release Event",
       "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Promos/MonkeyDLuffy-P-036-V3",
       "addedAt": "2026-06-14"
+    },
+    {
+      "id": "ST06-012_p1",
+      "parent": "ST06-012",
+      "name": "Monkey.D.Garp",
+      "set": "PROMOTION-CARD",
+      "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/ST06-012_p1.png",
+      "note": "Championship Pack",
+      "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Special-Tournaments-Promos/MonkeyDGarp-ST06-012",
+      "addedAt": "2026-06-14"
     }
   ]
 }
