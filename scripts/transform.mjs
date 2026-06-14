@@ -141,8 +141,8 @@ function main() {
 
   // Merge hand-curated custom prints (overrides/custom-prints.json) — cards
   // Bandai's cardlist does not know (release-stamp versions etc.). They clone
-  // their parent's data and live in the parent's set file, so they survive
-  // every weekly regeneration.
+  // their parent's data and live in their set file (the parent's by default, or
+  // entry.set when the print belongs to another product), surviving regeneration.
   if (existsSync(OVERRIDES_PATH)) {
     const { prints = [] } = readJson(OVERRIDES_PATH);
     const bySet = new Map();
@@ -160,6 +160,7 @@ function main() {
         ...parent,
         id: entry.id,
         name: entry.name ?? parent.name,
+        set: entry.set ?? parent.set,
         image: entry.image ?? parent.image,
       };
       byId[card.id] = card;
@@ -169,6 +170,10 @@ function main() {
     for (const [setCode, customCards] of bySet) {
       const setPath = join(OUT_DIR, "cards", `${setCode}.json`);
       const cards = readJson(setPath);
+      if (!cards) {
+        console.warn(`warn: custom print(s) for unknown set ${setCode} skipped`);
+        continue;
+      }
       cards.push(...customCards);
       writeJson(setPath, cards);
       const pack = packsOut.find((p) => p.code === setCode);
