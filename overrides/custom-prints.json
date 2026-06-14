@@ -561,6 +561,15 @@
       "note": "Special Tournament",
       "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Special-Tournaments-Promos/Basil-Hawkins-ST02-010-V1",
       "addedAt": "2026-06-14"
+    },
+    {
+      "id": "P-007_p2",
+      "parent": "P-007",
+      "name": "Monkey.D.Luffy",
+      "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/P-007_p2.png",
+      "note": "Special Tournament",
+      "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Special-Tournaments-Promos/MonkeyDLuffy-P-007",
+      "addedAt": "2026-06-14"
     }
   ]
 }
