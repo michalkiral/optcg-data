@@ -524,6 +524,15 @@
       "note": "Special Tournament",
       "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Special-Tournaments-Promos/PortgasDAce-OP13-119-V1",
       "addedAt": "2026-06-14"
+    },
+    {
+      "id": "OP09-081_p3",
+      "parent": "OP09-081",
+      "name": "Marshall.D.Teach",
+      "set": "PROMOTION-CARD",
+      "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP09-081_p3.png",
+      "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Unnumbered-Promos/MarshallDTeach-OP09-081",
+      "addedAt": "2026-06-14"
     }
   ]
 }
