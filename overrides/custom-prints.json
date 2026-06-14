@@ -898,6 +898,15 @@
       "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/P-010_p2.png",
       "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Special-Tournaments-Promos/Kaido-P-010",
       "addedAt": "2026-06-14"
+    },
+    {
+      "id": "OP10-113_p1",
+      "parent": "OP10-113",
+      "name": "Roronoa Zoro",
+      "set": "PROMOTION-CARD",
+      "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP10-113_p1.png",
+      "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Unnumbered-Promos/Roronoa-Zoro-OP10-113-V1",
+      "addedAt": "2026-06-14"
     }
   ]
 }
