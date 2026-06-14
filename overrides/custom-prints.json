@@ -63,6 +63,15 @@
       "note": "SERIAL",
       "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Special-Tournaments-Promos/MonkeyDLuffy-ST01-001",
       "addedAt": "2026-06-14"
+    },
+    {
+      "id": "OP01-120_p3",
+      "parent": "OP01-120",
+      "name": "Shanks",
+      "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP01-120_p3.png",
+      "note": "SERIAL",
+      "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Special-Tournaments-Promos/Shanks-OP01-120",
+      "addedAt": "2026-06-14"
     }
   ]
 }
