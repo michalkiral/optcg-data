@@ -383,6 +383,16 @@
       "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/P-041_p2.png",
       "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Promos/MonkeyDLuffy-P-041-V2",
       "addedAt": "2026-06-14"
+    },
+    {
+      "id": "OP02-008_p2",
+      "parent": "OP02-008",
+      "name": "Jozu",
+      "set": "PROMOTION-CARD",
+      "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP02-008_p2.png",
+      "note": "Special Tournament",
+      "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Special-Tournaments-Promos/Jozu-OP02-008-V2",
+      "addedAt": "2026-06-14"
     }
   ]
 }
