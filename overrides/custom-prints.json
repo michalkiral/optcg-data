@@ -365,6 +365,16 @@
       "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP07-038_p3.png",
       "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Unnumbered-Promos/Boa-Hancock-OP07-038",
       "addedAt": "2026-06-14"
+    },
+    {
+      "id": "OP01-077_p2",
+      "parent": "OP01-077",
+      "name": "Perona",
+      "set": "PROMOTION-CARD",
+      "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP01-077_p2.png",
+      "note": "Special Tournament",
+      "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Special-Tournaments-Promos/Perona-OP01-077-V1",
+      "addedAt": "2026-06-14"
     }
   ]
 }
