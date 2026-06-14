@@ -693,6 +693,15 @@
       "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP09-004_p7.png",
       "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Unnumbered-Promos/Shanks-OP09-004",
       "addedAt": "2026-06-14"
+    },
+    {
+      "id": "P-046_p1",
+      "parent": "P-046",
+      "name": "Yamato",
+      "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/P-046_p1.png",
+      "note": "Special Tournament",
+      "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Special-Tournaments-Promos/Yamato-P-046-V1",
+      "addedAt": "2026-06-14"
     }
   ]
 }
