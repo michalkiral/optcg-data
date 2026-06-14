@@ -3610,5 +3610,76 @@
     "effect": "Also treat this card's name as [Kouzuki Oden] according to the rules.<br>[Double Attack] (This card deals 2 damage.)<br>[Banish] (When this card deals damage, the target card is trashed without activating its Trigger.)",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-121_p1.png?260529"
+  },
+  {
+    "id": "OP01-120_p3",
+    "set": "OP-01",
+    "name": "Shanks",
+    "rarity": "SecretRare",
+    "category": "Character",
+    "colors": [
+      "Red"
+    ],
+    "cost": 9,
+    "power": 10000,
+    "counter": null,
+    "block": 1,
+    "attributes": [
+      "Slash"
+    ],
+    "types": [
+      "The Four Emperors",
+      "Red-Haired Pirates"
+    ],
+    "effect": "[Rush] (This card can attack on the turn in which it is played.)<br>[When Attacking] Your opponent cannot activate a [Blocker] Character that has 2000 or less power during this battle.",
+    "trigger": null,
+    "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP01-120_p3.png"
+  },
+  {
+    "id": "OP01-094_p2",
+    "set": "OP-01",
+    "name": "Kaido",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 10,
+    "power": 12000,
+    "counter": null,
+    "block": 1,
+    "attributes": [
+      "Strike"
+    ],
+    "types": [
+      "The Four Emperors",
+      "Animal Kingdom Pirates"
+    ],
+    "effect": "[On Play] DON!! −6 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If your Leader has the {Animal Kingdom Pirates} type, K.O. all Characters other than this Character.",
+    "trigger": null,
+    "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP01-094_p2.png"
+  },
+  {
+    "id": "OP01-121_p3",
+    "set": "OP-01",
+    "name": "Yamato",
+    "rarity": "SecretRare",
+    "category": "Character",
+    "colors": [
+      "Green"
+    ],
+    "cost": 5,
+    "power": 5000,
+    "counter": 1000,
+    "block": 1,
+    "attributes": [
+      "Strike"
+    ],
+    "types": [
+      "Land of Wano"
+    ],
+    "effect": "Also treat this card's name as [Kouzuki Oden] according to the rules.<br>[Double Attack] (This card deals 2 damage.)<br>[Banish] (When this card deals damage, the target card is trashed without activating its Trigger.)",
+    "trigger": null,
+    "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP01-121_p3.png"
   }
 ]

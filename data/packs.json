@@ -21,13 +21,13 @@
     "code": "OP-01",
     "name": "ROMANCE DAWN",
     "vegapullId": "569101",
-    "cardCount": 154
+    "cardCount": 157
   },
   {
     "code": "OP-02",
     "name": "PARAMOUNT WAR",
     "vegapullId": "569102",
-    "cardCount": 154
+    "cardCount": 157
   },
   {
     "code": "OP-03",
@@ -93,7 +93,7 @@
     "code": "OP-13",
     "name": "CARRYING ON HIS WILL",
     "vegapullId": "569113",
-    "cardCount": 176
+    "cardCount": 177
   },
   {
     "code": "OP-16",
@@ -105,7 +105,7 @@
     "code": "OP14-EB04",
     "name": "THE AZURE SEA’S SEVEN",
     "vegapullId": "569114",
-    "cardCount": 199
+    "cardCount": 201
   },
   {
     "code": "OP15-EB04",
@@ -135,13 +135,13 @@
     "code": "PROMOTION-CARD",
     "name": "Promotion card",
     "vegapullId": "569901",
-    "cardCount": 365
+    "cardCount": 366
   },
   {
     "code": "ST-01",
     "name": "Straw Hat Crew",
     "vegapullId": "569001",
-    "cardCount": 17
+    "cardCount": 18
   },
   {
     "code": "ST-02",
@@ -177,7 +177,7 @@
     "code": "ST-07",
     "name": "Big Mom Pirates",
     "vegapullId": "569007",
-    "cardCount": 17
+    "cardCount": 18
   },
   {
     "code": "ST-08",
@@ -261,7 +261,7 @@
     "code": "ST-21",
     "name": "GEAR5",
     "vegapullId": "569021",
-    "cardCount": 32
+    "cardCount": 33
   },
   {
     "code": "ST-22",

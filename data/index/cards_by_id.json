@@ -106706,5 +106706,312 @@
     "effect": "[Main] You may rest 2 of your DON!! cards: Up to 2 of your opponent's rested Characters with a cost of 7 or less will not become active in your opponent's next Refresh Phase.<br>[Counter] Your Leader gains +3000 power during this battle.",
     "trigger": null,
     "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP13-040_p1.webp"
+  },
+  "ST01-001_p1": {
+    "id": "ST01-001_p1",
+    "set": "ST-01",
+    "name": "Monkey.D.Luffy",
+    "rarity": "Leader",
+    "category": "Leader",
+    "colors": [
+      "Red"
+    ],
+    "cost": 5,
+    "power": 5000,
+    "counter": null,
+    "block": 1,
+    "attributes": [
+      "Strike"
+    ],
+    "types": [
+      "Supernovas",
+      "Straw Hat Crew"
+    ],
+    "effect": "[Activate: Main] [Once Per Turn] Give this Leader or 1 of your Characters up to 1 rested DON!! card.",
+    "trigger": null,
+    "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/ST01-001_p1.png"
+  },
+  "OP01-120_p3": {
+    "id": "OP01-120_p3",
+    "set": "OP-01",
+    "name": "Shanks",
+    "rarity": "SecretRare",
+    "category": "Character",
+    "colors": [
+      "Red"
+    ],
+    "cost": 9,
+    "power": 10000,
+    "counter": null,
+    "block": 1,
+    "attributes": [
+      "Slash"
+    ],
+    "types": [
+      "The Four Emperors",
+      "Red-Haired Pirates"
+    ],
+    "effect": "[Rush] (This card can attack on the turn in which it is played.)<br>[When Attacking] Your opponent cannot activate a [Blocker] Character that has 2000 or less power during this battle.",
+    "trigger": null,
+    "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP01-120_p3.png"
+  },
+  "OP14-112_p3": {
+    "id": "OP14-112_p3",
+    "set": "OP14-EB04",
+    "name": "Boa Hancock",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 9,
+    "power": 10000,
+    "counter": null,
+    "block": 4,
+    "attributes": [
+      "Special"
+    ],
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Kuja Pirates"
+    ],
+    "effect": "[On Play] If your Leader has the {The Seven Warlords of the Sea} type, add up to 1 card from the top of your deck to the top of your Life cards. Then, add up to 1 card from the top of your opponent's Life cards to the owner's hand.",
+    "trigger": "[Trigger] Play up to 1 Character card with 6000 power or less and a [Trigger] from your hand.",
+    "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP14-112_p3.png"
+  },
+  "OP01-094_p2": {
+    "id": "OP01-094_p2",
+    "set": "OP-01",
+    "name": "Kaido",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 10,
+    "power": 12000,
+    "counter": null,
+    "block": 1,
+    "attributes": [
+      "Strike"
+    ],
+    "types": [
+      "The Four Emperors",
+      "Animal Kingdom Pirates"
+    ],
+    "effect": "[On Play] DON!! −6 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If your Leader has the {Animal Kingdom Pirates} type, K.O. all Characters other than this Character.",
+    "trigger": null,
+    "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP01-094_p2.png"
+  },
+  "OP02-004_p3": {
+    "id": "OP02-004_p3",
+    "set": "OP-02",
+    "name": "Edward.Newgate",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "colors": [
+      "Red"
+    ],
+    "cost": 9,
+    "power": 10000,
+    "counter": null,
+    "block": 1,
+    "attributes": [
+      "Special"
+    ],
+    "types": [
+      "The Four Emperors",
+      "Whitebeard Pirates"
+    ],
+    "effect": "[On Play] Up to 1 of your Leader gains +2000 power until the start of your next turn. Then, you cannot add Life cards to your hand using your own effects during this turn.<br>[DON!! x2] [When Attacking] K.O. up to 1 of your opponent's Characters with 3000 power or less.",
+    "trigger": null,
+    "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP02-004_p3.png"
+  },
+  "ST21-014_p2": {
+    "id": "ST21-014_p2",
+    "set": "ST-21",
+    "name": "Monkey.D.Luffy",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "colors": [
+      "Red"
+    ],
+    "cost": 5,
+    "power": 6000,
+    "counter": null,
+    "block": 3,
+    "attributes": [
+      "Strike"
+    ],
+    "types": [
+      "The Four Emperors",
+      "Straw Hat Crew"
+    ],
+    "effect": "[Rush] (This card can attack on the turn in which it is played.)<br>[When Attacking] Give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
+    "trigger": null,
+    "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/ST21-014_p2.png"
+  },
+  "OP02-096_p2": {
+    "id": "OP02-096_p2",
+    "set": "OP-02",
+    "name": "Kuzan",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "colors": [
+      "Black"
+    ],
+    "cost": 4,
+    "power": 5000,
+    "counter": null,
+    "block": 1,
+    "attributes": [
+      "Special"
+    ],
+    "types": [
+      "Navy"
+    ],
+    "effect": "[On Play] Draw 1 card.<br>[When Attacking] Give up to 1 of your opponent's Characters −4 cost during this turn.",
+    "trigger": null,
+    "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP02-096_p2.png"
+  },
+  "OP01-121_p3": {
+    "id": "OP01-121_p3",
+    "set": "OP-01",
+    "name": "Yamato",
+    "rarity": "SecretRare",
+    "category": "Character",
+    "colors": [
+      "Green"
+    ],
+    "cost": 5,
+    "power": 5000,
+    "counter": 1000,
+    "block": 1,
+    "attributes": [
+      "Strike"
+    ],
+    "types": [
+      "Land of Wano"
+    ],
+    "effect": "Also treat this card's name as [Kouzuki Oden] according to the rules.<br>[Double Attack] (This card deals 2 damage.)<br>[Banish] (When this card deals damage, the target card is trashed without activating its Trigger.)",
+    "trigger": null,
+    "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP01-121_p3.png"
+  },
+  "OP14-120_p2": {
+    "id": "OP14-120_p2",
+    "set": "OP14-EB04",
+    "name": "Crocodile",
+    "rarity": "SecretRare",
+    "category": "Character",
+    "colors": [
+      "Black"
+    ],
+    "cost": 8,
+    "power": 10000,
+    "counter": null,
+    "block": 4,
+    "attributes": [
+      "Special"
+    ],
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Baroque Works"
+    ],
+    "effect": "[On Play] Up to 1 of your opponent's Characters with a cost of 9 or less cannot attack until the end of your opponent's next End Phase. Then, if your opponent has a Character with a cost of 0 or with a cost of 8 or more, draw 1 card.<br>[On K.O.] You may trash 1 card from your hand: Play this Character card from your trash.",
+    "trigger": null,
+    "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP14-120_p2.png"
+  },
+  "ST07-010_p1": {
+    "id": "ST07-010_p1",
+    "set": "ST-07",
+    "name": "Charlotte Linlin",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 7,
+    "power": 8000,
+    "counter": null,
+    "block": 1,
+    "attributes": [
+      "Special"
+    ],
+    "types": [
+      "The Four Emperors",
+      "Big Mom Pirates"
+    ],
+    "effect": "[On Play] Your opponent chooses one:<br>- Trash 1 card from the top of your opponent's Life cards.<br>- Add 1 card from the top of your deck to the top of your Life cards.",
+    "trigger": null,
+    "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/ST07-010_p1.png"
+  },
+  "OP02-114_p2": {
+    "id": "OP02-114_p2",
+    "set": "OP-02",
+    "name": "Borsalino",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "colors": [
+      "Black"
+    ],
+    "cost": 4,
+    "power": 5000,
+    "counter": 1000,
+    "block": 1,
+    "attributes": [
+      "Special"
+    ],
+    "types": [
+      "Navy"
+    ],
+    "effect": "[Opponent's Turn] This Character gains +1000 power and cannot be K.O.'d by effects.<br>[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+    "trigger": null,
+    "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP02-114_p2.png"
+  },
+  "OP13-016_p2": {
+    "id": "OP13-016_p2",
+    "set": "OP-13",
+    "name": "Monkey.D.Garp",
+    "rarity": "Rare",
+    "category": "Character",
+    "colors": [
+      "Red"
+    ],
+    "cost": 1,
+    "power": 2000,
+    "counter": 1000,
+    "block": 4,
+    "attributes": [
+      "Strike"
+    ],
+    "types": [
+      "Navy"
+    ],
+    "effect": "[On Play] If your Leader is [Sabo], [Portgas.D.Ace] or [Monkey.D.Luffy], look at 4 cards from the top of your deck; reveal up to 1 card with a cost of 3 or more and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": null,
+    "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP13-016_p2.png"
+  },
+  "OP01-077_p3": {
+    "id": "OP01-077_p3",
+    "set": "PROMOTION-CARD",
+    "name": "Perona",
+    "rarity": "Uncommon",
+    "category": "Character",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 1,
+    "power": 2000,
+    "counter": 1000,
+    "block": 1,
+    "attributes": [
+      "Special"
+    ],
+    "types": [
+      "Thriller Bark Pirates"
+    ],
+    "effect": "[On Play] Look at 5 cards from the top of your deck and place them at the top or bottom of the deck in any order.",
+    "trigger": null,
+    "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP01-077_p3.png"
   }
 }

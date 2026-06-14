@@ -390,5 +390,29 @@
     "effect": "[Activate: Main] You may rest this Stage and add 1 card from the top or bottom of your Life cards to your hand: Add up to 1 of your Characters with a cost of 3 to the top of the owner's Life cards face-up.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-017.png?260529"
+  },
+  {
+    "id": "ST07-010_p1",
+    "set": "ST-07",
+    "name": "Charlotte Linlin",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 7,
+    "power": 8000,
+    "counter": null,
+    "block": 1,
+    "attributes": [
+      "Special"
+    ],
+    "types": [
+      "The Four Emperors",
+      "Big Mom Pirates"
+    ],
+    "effect": "[On Play] Your opponent chooses one:<br>- Trash 1 card from the top of your opponent's Life cards.<br>- Add 1 card from the top of your deck to the top of your Life cards.",
+    "trigger": null,
+    "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/ST07-010_p1.png"
   }
 ]
