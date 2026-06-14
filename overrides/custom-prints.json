@@ -793,6 +793,15 @@
       "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP10-111_p2.png",
       "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Unnumbered-Promos/MonkeyDLuffy-OP10-111-V1",
       "addedAt": "2026-06-14"
+    },
+    {
+      "id": "OP07-113_p3",
+      "parent": "OP07-113",
+      "name": "Roronoa Zoro",
+      "set": "PROMOTION-CARD",
+      "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP07-113_p3.png",
+      "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Unnumbered-Promos/Roronoa-Zoro-OP07-113-V3",
+      "addedAt": "2026-06-14"
     }
   ]
 }
