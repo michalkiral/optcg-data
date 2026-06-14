@@ -738,6 +738,15 @@
       "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/P-027_p1.webp",
       "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Special-Tournaments-Promos/General-Franky-P-027",
       "addedAt": "2026-06-14"
+    },
+    {
+      "id": "EB04-061_p2",
+      "parent": "EB04-061",
+      "name": "Monkey.D.Luffy",
+      "set": "PROMOTION-CARD",
+      "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/EB04-061_p2.png",
+      "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Special-Tournaments-Promos/MonkeyDLuffy-EB04-061-V1",
+      "addedAt": "2026-06-14"
     }
   ]
 }
