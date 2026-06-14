@@ -162,6 +162,16 @@
       "note": "Special Tournament",
       "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Special-Tournaments-Promos/MonkeyDGarp-OP13-016-V1",
       "addedAt": "2026-06-14"
+    },
+    {
+      "id": "OP01-077_p3",
+      "parent": "OP01-077",
+      "name": "Perona",
+      "set": "PROMOTION-CARD",
+      "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP01-077_p3.png",
+      "note": "Special Tournament",
+      "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Special-Tournaments-Promos/Perona-OP01-077-V3",
+      "addedAt": "2026-06-14"
     }
   ]
 }
