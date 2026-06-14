@@ -631,6 +631,15 @@
       "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP05-062_p1.png",
       "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Unnumbered-Promos/O-Nami-OP05-062-V1",
       "addedAt": "2026-06-14"
+    },
+    {
+      "id": "OP09-093_p6",
+      "parent": "OP09-093",
+      "name": "Marshall.D.Teach",
+      "set": "PROMOTION-CARD",
+      "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP09-093_p6.png",
+      "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Unnumbered-Promos/MarshallDTeach-OP09-093",
+      "addedAt": "2026-06-14"
     }
   ]
 }
