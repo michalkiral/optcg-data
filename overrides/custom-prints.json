@@ -393,6 +393,15 @@
       "note": "Special Tournament",
       "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Special-Tournaments-Promos/Jozu-OP02-008-V2",
       "addedAt": "2026-06-14"
+    },
+    {
+      "id": "OP08-105_p2",
+      "parent": "OP08-105",
+      "name": "Jewelry Bonney",
+      "set": "OTHER-PRODUCT-CARD",
+      "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP08-105_p2.png",
+      "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Unnumbered-Promos/Jewelry-Bonney-OP08-105-V1",
+      "addedAt": "2026-06-14"
     }
   ]
 }
