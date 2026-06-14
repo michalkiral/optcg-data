@@ -640,6 +640,15 @@
       "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP09-093_p6.png",
       "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Unnumbered-Promos/MarshallDTeach-OP09-093",
       "addedAt": "2026-06-14"
+    },
+    {
+      "id": "P-084_p1",
+      "parent": "P-084",
+      "name": "Buggy",
+      "set": "PROMOTION-CARD",
+      "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/P-084_p1.png",
+      "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Special-Tournaments-Promos/Buggy-P-084",
+      "addedAt": "2026-06-14"
     }
   ]
 }
