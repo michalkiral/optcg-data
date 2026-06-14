@@ -54,6 +54,15 @@
       "note": "Treasure Campaign",
       "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Unnumbered-Promos/I-Know-Youre-Strong-So-Ill-Go-All-Out-from-the-Very-Start-OP13-040-V1",
       "addedAt": "2026-06-14"
+    },
+    {
+      "id": "ST01-001_p1",
+      "parent": "ST01-001",
+      "name": "Monkey.D.Luffy",
+      "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/ST01-001_p1.png",
+      "note": "SERIAL",
+      "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Special-Tournaments-Promos/MonkeyDLuffy-ST01-001",
+      "addedAt": "2026-06-14"
     }
   ]
 }
