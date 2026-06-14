@@ -942,6 +942,15 @@
       "note": "Special Tournament",
       "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Special-Tournaments-Promos/Trafalgar-Law-P-009",
       "addedAt": "2026-06-14"
+    },
+    {
+      "id": "P-017_p3",
+      "parent": "P-017",
+      "name": "Trafalgar Law",
+      "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/P-017_p3.png",
+      "note": "Special Tournament",
+      "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Special-Tournaments-Promos/Trafalgar-Law-P-017",
+      "addedAt": "2026-06-14"
     }
   ]
 }
