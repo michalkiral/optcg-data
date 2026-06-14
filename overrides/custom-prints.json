@@ -907,6 +907,15 @@
       "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP10-113_p1.png",
       "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Unnumbered-Promos/Roronoa-Zoro-OP10-113-V1",
       "addedAt": "2026-06-14"
+    },
+    {
+      "id": "ST17-004_p1",
+      "parent": "ST17-004",
+      "name": "Boa Hancock",
+      "set": "PROMOTION-CARD",
+      "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/ST17-004_p1.png",
+      "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Unnumbered-Promos/Boa-Hancock-ST17-004-V3",
+      "addedAt": "2026-06-14"
     }
   ]
 }
