@@ -202,6 +202,15 @@
       "note": "Special Tournament",
       "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Special-Tournaments-Promos/Roronoa-Zoro-OP01-025",
       "addedAt": "2026-06-14"
+    },
+    {
+      "id": "PRB02-005_p2",
+      "parent": "PRB02-005",
+      "name": "Monkey.D.Luffy",
+      "set": "OTHER-PRODUCT-CARD",
+      "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/PRB02-005_p2.png",
+      "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Unnumbered-Promos/MonkeyDLuffy-PRB02-005-V1",
+      "addedAt": "2026-06-14"
     }
   ]
 }
