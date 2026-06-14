@@ -99,6 +99,15 @@
       "note": "Special Tournament",
       "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Special-Tournaments-Promos/EdwardNewgate-OP02-004",
       "addedAt": "2026-06-14"
+    },
+    {
+      "id": "ST21-014_p2",
+      "parent": "ST21-014",
+      "name": "Monkey.D.Luffy",
+      "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/ST21-014_p2.png",
+      "note": "SERIAL",
+      "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Unnumbered-Promos/MonkeyDLuffy-ST21-014-V1",
+      "addedAt": "2026-06-14"
     }
   ]
 }
