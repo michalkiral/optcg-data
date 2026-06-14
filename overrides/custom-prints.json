@@ -978,6 +978,16 @@
       "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP11-073_p2.png",
       "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Unnumbered-Promos/Charlotte-Linlin-OP11-073",
       "addedAt": "2026-06-14"
+    },
+    {
+      "id": "OP04-100_p2",
+      "parent": "OP04-100",
+      "name": "Capone\"Gang\"Bege",
+      "set": "PROMOTION-CARD",
+      "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP04-100_p2.png",
+      "note": "Special Tournament",
+      "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Special-Tournaments-Promos/CaponeGangBege-OP04-100-V1",
+      "addedAt": "2026-06-14"
     }
   ]
 }
