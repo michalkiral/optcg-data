@@ -336,6 +336,16 @@
       "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP09-001_p3.png",
       "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Unnumbered-Promos/Shanks-OP09-001-V2",
       "addedAt": "2026-06-14"
+    },
+    {
+      "id": "OP06-092_p2",
+      "parent": "OP06-092",
+      "name": "Brook",
+      "set": "PROMOTION-CARD",
+      "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP06-092_p2.png",
+      "note": "Special Tournament",
+      "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Special-Tournaments-Promos/Brook-OP06-092-V3",
+      "addedAt": "2026-06-14"
     }
   ]
 }
