@@ -308,6 +308,15 @@
       "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Special-Tournaments-Promos/Brook-OP06-092-V1",
       "addedAt": "2026-06-14",
       "set": "PROMOTION-CARD"
+    },
+    {
+      "id": "P-036_p1",
+      "parent": "P-036",
+      "name": "Monkey.D.Luffy",
+      "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/P-036_p1.png",
+      "note": "Release Event",
+      "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Promos/MonkeyDLuffy-P-036-V3",
+      "addedAt": "2026-06-14"
     }
   ]
 }
