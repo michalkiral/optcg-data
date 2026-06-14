@@ -730,6 +730,14 @@
       "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP09-034_c1.png",
       "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Unnumbered-Promos/Perona-OP09-034-V1",
       "addedAt": "2026-06-14"
+    },
+    {
+      "id": "P-027_p1",
+      "parent": "P-027",
+      "name": "General Franky",
+      "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/P-027_p1.webp",
+      "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Special-Tournaments-Promos/General-Franky-P-027",
+      "addedAt": "2026-06-14"
     }
   ]
 }
