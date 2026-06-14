@@ -387,6 +387,18 @@ async function main() {
     if (entry.priceUrl) printmap[entry.priceUrl.split("?")[0]] = entry.id;
   }
 
+  // Manual price pins (overrides/price-map.json): Cardmarket product URL → an
+  // EXISTING catalog id. Authoritative over version-page resolution, so it fixes
+  // cases the image-URL trick gets wrong — chiefly Limitless/Bandai parallel-art
+  // numbering disagreements (Limitless reads the image filename's _pN, which can
+  // differ from the cardlist _pN vegapull pulled; e.g. Limitless OP02-013_p4 is
+  // our OP02-013_p5) — and claims promo rows that have no version link. Seeded
+  // LAST so a pin always wins, and never creates a card (the id already exists).
+  const priceMap = readJson("overrides/price-map.json", { map: {} }).map ?? {};
+  for (const [url, id] of Object.entries(priceMap)) {
+    printmap[url.split("?")[0]] = id;
+  }
+
   const pricesByPrint = new Map();
   const failedPages = [];
   const missingPages = []; // 404 — Limitless does not have the card; expected

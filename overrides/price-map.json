@@ -1,0 +1,4 @@
+{
+  "comment": "Manual price pins: Cardmarket product URL (no query string) -> existing catalog id. Authoritative over version-page resolution; used to fix Limitless/Bandai parallel-art numbering disagreements and to claim promo rows with no version link. Curated from the admin console's Unmapped prices list.",
+  "map": {}
+}
