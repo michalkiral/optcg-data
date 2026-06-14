@@ -514,6 +514,16 @@
       "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP09-042_p3.png",
       "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Unnumbered-Promos/Buggy-OP09-042",
       "addedAt": "2026-06-14"
+    },
+    {
+      "id": "OP13-119_p6",
+      "parent": "OP13-119",
+      "name": "Portgas.D.Ace",
+      "set": "PROMOTION-CARD",
+      "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP13-119_p6.png",
+      "note": "Special Tournament",
+      "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Special-Tournaments-Promos/PortgasDAce-OP13-119-V1",
+      "addedAt": "2026-06-14"
     }
   ]
 }
