@@ -90,6 +90,15 @@
       "note": "Special Tournament",
       "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Special-Tournaments-Promos/Kaido-OP01-094",
       "addedAt": "2026-06-14"
+    },
+    {
+      "id": "OP02-004_p3",
+      "parent": "OP02-004",
+      "name": "Edward.Newgate",
+      "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP02-004_p3.png",
+      "note": "Special Tournament",
+      "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Special-Tournaments-Promos/EdwardNewgate-OP02-004",
+      "addedAt": "2026-06-14"
     }
   ]
 }
