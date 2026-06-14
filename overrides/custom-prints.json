@@ -684,6 +684,15 @@
       "note": "Special Tournament",
       "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Promos/Trafalgar-Law-P-009-V2",
       "addedAt": "2026-06-14"
+    },
+    {
+      "id": "OP09-004_p7",
+      "parent": "OP09-004",
+      "name": "Shanks",
+      "set": "PROMOTION-CARD",
+      "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP09-004_p7.png",
+      "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Unnumbered-Promos/Shanks-OP09-004",
+      "addedAt": "2026-06-14"
     }
   ]
 }
