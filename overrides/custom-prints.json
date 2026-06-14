@@ -20,14 +20,6 @@
       "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Promos-A-Fist-of-Divine-Speed/Bird-Neptunian-OP11-033"
     },
     {
-      "id": "ST12-003_c1",
-      "parent": "ST12-003",
-      "name": "Dracule Mihawk",
-      "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/ST12-003_c1.webp",
-      "note": "Illustration box promo",
-      "addedAt": "2026-06-12"
-    },
-    {
       "id": "OP15-042_c1",
       "parent": "OP15-042",
       "name": "Kyros",
