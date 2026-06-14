@@ -916,6 +916,14 @@
       "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/ST17-004_p1.png",
       "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Unnumbered-Promos/Boa-Hancock-ST17-004-V3",
       "addedAt": "2026-06-14"
+    },
+    {
+      "id": "P-010_p1",
+      "parent": "P-010",
+      "name": "Kaido",
+      "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/P-010_p1.png",
+      "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Promos/Kaido-P-010-V2",
+      "addedAt": "2026-06-14"
     }
   ]
 }
