@@ -837,6 +837,14 @@
       "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/P-008_p2.png",
       "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Special-Tournaments-Promos/Yamato-P-008",
       "addedAt": "2026-06-14"
+    },
+    {
+      "id": "P-032_p1",
+      "parent": "P-032",
+      "name": "Sengoku",
+      "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/P-032_p1.webp",
+      "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Special-Tournaments-Promos/Sengoku-P-032",
+      "addedAt": "2026-06-14"
     }
   ]
 }
