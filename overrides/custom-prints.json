@@ -811,6 +811,15 @@
       "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP05-060_c1.webp",
       "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Unnumbered-Promos/MonkeyDLuffy-OP05-060-V2",
       "addedAt": "2026-06-14"
+    },
+    {
+      "id": "OP12-031_p3",
+      "parent": "OP12-031",
+      "name": "Tashigi",
+      "set": "PROMOTION-CARD",
+      "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP12-031_p3.png",
+      "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Special-Tournaments-Promos/Tashigi-OP12-031-V2",
+      "addedAt": "2026-06-14"
     }
   ]
 }
