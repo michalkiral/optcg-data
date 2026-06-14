@@ -230,6 +230,16 @@
       "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP09-061_p3.png",
       "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Unnumbered-Promos/MonkeyDLuffy-OP09-061",
       "addedAt": "2026-06-14"
+    },
+    {
+      "id": "OP01-039_p2",
+      "parent": "OP01-039",
+      "name": "Killer",
+      "set": "PROMOTION-CARD",
+      "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP01-039_p2.png",
+      "note": "Special Tournament",
+      "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Special-Tournaments-Promos/Killer-OP01-039-V1",
+      "addedAt": "2026-06-14"
     }
   ]
 }
