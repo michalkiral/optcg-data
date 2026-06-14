@@ -135,6 +135,15 @@
       "note": "Special Tournament",
       "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Special-Tournaments-Promos/Crocodile-OP14-120-V1",
       "addedAt": "2026-06-14"
+    },
+    {
+      "id": "ST07-010_p1",
+      "parent": "ST07-010",
+      "name": "Charlotte Linlin",
+      "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/ST07-010_p1.png",
+      "note": "Special Tournament",
+      "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Special-Tournaments-Promos/Charlotte-Linlin-ST07-010",
+      "addedAt": "2026-06-14"
     }
   ]
 }
