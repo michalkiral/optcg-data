@@ -579,6 +579,14 @@
       "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP05-093_p3.png",
       "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Unnumbered-Promos/Rob-Lucci-OP05-093-V1",
       "addedAt": "2026-06-14"
+    },
+    {
+      "id": "P-041_p3",
+      "parent": "P-041",
+      "name": "Monkey.D.Luffy",
+      "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/P-041_p3.png",
+      "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/One-Piece-Products/MonkeyDLuffy-P-041-V2",
+      "addedAt": "2026-06-14"
     }
   ]
 }
