@@ -845,6 +845,15 @@
       "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/P-032_p1.webp",
       "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Special-Tournaments-Promos/Sengoku-P-032",
       "addedAt": "2026-06-14"
+    },
+    {
+      "id": "OP08-067_p3",
+      "parent": "OP08-067",
+      "name": "Charlotte Pudding",
+      "set": "PROMOTION-CARD",
+      "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP08-067_p3.png",
+      "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Special-Tournaments-Promos/Charlotte-Pudding-OP08-067-V2",
+      "addedAt": "2026-06-14"
     }
   ]
 }
