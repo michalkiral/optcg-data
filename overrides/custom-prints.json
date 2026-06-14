@@ -182,6 +182,16 @@
       "note": "Special tournament",
       "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Special-Tournaments-Promos/MonkeyDLuffy-OP07-109",
       "addedAt": "2026-06-14"
+    },
+    {
+      "id": "OP02-099_c1",
+      "parent": "OP02-099",
+      "name": "Sakazuki",
+      "set": "PROMOTION-CARD",
+      "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP02-099_c1.png",
+      "note": "Special Tournament",
+      "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Special-Tournaments-Promos/Sakazuki-OP02-099",
+      "addedAt": "2026-06-14"
     }
   ]
 }
