@@ -356,6 +356,15 @@
       "note": "Special Tournament",
       "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Special-Tournaments-Promos/Sanji-OP07-064-V3",
       "addedAt": "2026-06-14"
+    },
+    {
+      "id": "OP07-038_p3",
+      "parent": "OP07-038",
+      "name": "Boa Hancock",
+      "set": "PROMOTION-CARD",
+      "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP07-038_p3.png",
+      "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Unnumbered-Promos/Boa-Hancock-OP07-038",
+      "addedAt": "2026-06-14"
     }
   ]
 }
