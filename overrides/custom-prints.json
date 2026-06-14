@@ -50,6 +50,15 @@
       "note": "Beginners Deck Party",
       "addedAt": "2026-06-14",
       "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Unnumbered-Promos/Uta-OP09-002-V1"
+    },
+    {
+      "id": "ST12-003_p2",
+      "parent": "ST12-003",
+      "name": "Dracule Mihawk",
+      "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/ST12-003_p2.webp",
+      "note": "Illustration Box",
+      "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Unnumbered-Promos/Dracule-Mihawk-ST12-003-V3",
+      "addedAt": "2026-06-14"
     }
   ]
 }
