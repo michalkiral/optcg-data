@@ -240,6 +240,16 @@
       "note": "Special Tournament",
       "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Special-Tournaments-Promos/Killer-OP01-039-V1",
       "addedAt": "2026-06-14"
+    },
+    {
+      "id": "OP02-018_p3",
+      "parent": "OP02-018",
+      "name": "Marco",
+      "set": "PROMOTION-CARD",
+      "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP02-018_p3.png",
+      "note": "Special Tournament",
+      "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Special-Tournaments-Promos/Marco-OP02-018",
+      "addedAt": "2026-06-14"
     }
   ]
 }
