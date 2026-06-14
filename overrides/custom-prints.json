@@ -570,6 +570,15 @@
       "note": "Special Tournament",
       "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Special-Tournaments-Promos/MonkeyDLuffy-P-007",
       "addedAt": "2026-06-14"
+    },
+    {
+      "id": "OP05-093_p3",
+      "parent": "OP05-093",
+      "name": "Rob Lucci",
+      "set": "OTHER-PRODUCT-CARD",
+      "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP05-093_p3.png",
+      "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Unnumbered-Promos/Rob-Lucci-OP05-093-V1",
+      "addedAt": "2026-06-14"
     }
   ]
 }
