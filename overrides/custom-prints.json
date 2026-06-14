@@ -438,6 +438,16 @@
       "note": "Special Tournament",
       "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Promos/MonkeyDLuffy-P-007-V2",
       "addedAt": "2026-06-14"
+    },
+    {
+      "id": "OP05-102_p3",
+      "parent": "OP05-102",
+      "name": "Gedatsu",
+      "set": "PROMOTION-CARD",
+      "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP05-102_p3.png",
+      "note": "Special Tournament",
+      "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Special-Tournaments-Promos/Gedatsu-OP05-102-V3",
+      "addedAt": "2026-06-14"
     }
   ]
 }
