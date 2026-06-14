@@ -477,6 +477,15 @@
       "note": "Special Tournament",
       "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Special-Tournaments-Promos/Camie-OP06-025-V1",
       "addedAt": "2026-06-14"
+    },
+    {
+      "id": "P-006_p1",
+      "parent": "P-006",
+      "name": "Monkey.D.Luffy",
+      "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/P-006_p1.png",
+      "note": "Special Tournament",
+      "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Promos/MonkeyDLuffy-P-006-V2",
+      "addedAt": "2026-06-14"
     }
   ]
 }
