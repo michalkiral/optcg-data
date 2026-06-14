@@ -746,29 +746,5 @@
     "effect": "[Main] Give up to 1 of your opponent's Characters −5000 power during this turn. Then, if you have a Character with 6000 power or more, K.O. up to 1 of your opponent's Characters with 2000 power or less.",
     "trigger": "[Trigger] Activate this card's [Main] effect.",
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST21-017.png?260529"
-  },
-  {
-    "id": "ST21-014_p2",
-    "set": "ST-21",
-    "name": "Monkey.D.Luffy",
-    "rarity": "SuperRare",
-    "category": "Character",
-    "colors": [
-      "Red"
-    ],
-    "cost": 5,
-    "power": 6000,
-    "counter": null,
-    "block": 3,
-    "attributes": [
-      "Strike"
-    ],
-    "types": [
-      "The Four Emperors",
-      "Straw Hat Crew"
-    ],
-    "effect": "[Rush] (This card can attack on the turn in which it is played.)<br>[When Attacking] Give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
-    "trigger": null,
-    "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/ST21-014_p2.png"
   }
 ]

@@ -389,29 +389,5 @@
     "effect": "[Activate: Main] You may rest this Stage: Up to 1 {Straw Hat Crew} type Leader or Character card on your field gains +1000 power during this turn.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-017.png?260529"
-  },
-  {
-    "id": "ST01-001_p1",
-    "set": "ST-01",
-    "name": "Monkey.D.Luffy",
-    "rarity": "Leader",
-    "category": "Leader",
-    "colors": [
-      "Red"
-    ],
-    "cost": 5,
-    "power": 5000,
-    "counter": null,
-    "block": 1,
-    "attributes": [
-      "Strike"
-    ],
-    "types": [
-      "Supernovas",
-      "Straw Hat Crew"
-    ],
-    "effect": "[Activate: Main] [Once Per Turn] Give this Leader or 1 of your Characters up to 1 rested DON!! card.",
-    "trigger": null,
-    "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/ST01-001_p1.png"
   }
 ]

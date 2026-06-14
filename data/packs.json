@@ -21,13 +21,13 @@
     "code": "OP-01",
     "name": "ROMANCE DAWN",
     "vegapullId": "569101",
-    "cardCount": 157
+    "cardCount": 154
   },
   {
     "code": "OP-02",
     "name": "PARAMOUNT WAR",
     "vegapullId": "569102",
-    "cardCount": 157
+    "cardCount": 154
   },
   {
     "code": "OP-03",
@@ -69,7 +69,7 @@
     "code": "OP-09",
     "name": "EMPERORS IN THE NEW WORLD",
     "vegapullId": "569109",
-    "cardCount": 161
+    "cardCount": 159
   },
   {
     "code": "OP-10",
@@ -81,7 +81,7 @@
     "code": "OP-11",
     "name": "A FIST OF DIVINE SPEED",
     "vegapullId": "569111",
-    "cardCount": 157
+    "cardCount": 156
   },
   {
     "code": "OP-12",
@@ -93,7 +93,7 @@
     "code": "OP-13",
     "name": "CARRYING ON HIS WILL",
     "vegapullId": "569113",
-    "cardCount": 177
+    "cardCount": 175
   },
   {
     "code": "OP-16",
@@ -105,19 +105,19 @@
     "code": "OP14-EB04",
     "name": "THE AZURE SEA’S SEVEN",
     "vegapullId": "569114",
-    "cardCount": 201
+    "cardCount": 199
   },
   {
     "code": "OP15-EB04",
     "name": "BOOSTER PACK",
     "vegapullId": "569115",
-    "cardCount": 197
+    "cardCount": 196
   },
   {
     "code": "OTHER-PRODUCT-CARD",
     "name": "Other Product Card",
     "vegapullId": "569801",
-    "cardCount": 173
+    "cardCount": 185
   },
   {
     "code": "PRB-01",
@@ -135,13 +135,13 @@
     "code": "PROMOTION-CARD",
     "name": "Promotion card",
     "vegapullId": "569901",
-    "cardCount": 366
+    "cardCount": 457
   },
   {
     "code": "ST-01",
     "name": "Straw Hat Crew",
     "vegapullId": "569001",
-    "cardCount": 18
+    "cardCount": 17
   },
   {
     "code": "ST-02",
@@ -177,7 +177,7 @@
     "code": "ST-07",
     "name": "Big Mom Pirates",
     "vegapullId": "569007",
-    "cardCount": 18
+    "cardCount": 17
   },
   {
     "code": "ST-08",
@@ -207,7 +207,7 @@
     "code": "ST-12",
     "name": "Zoro and Sanji",
     "vegapullId": "569012",
-    "cardCount": 18
+    "cardCount": 17
   },
   {
     "code": "ST-13",
@@ -261,7 +261,7 @@
     "code": "ST-21",
     "name": "GEAR5",
     "vegapullId": "569021",
-    "cardCount": 33
+    "cardCount": 32
   },
   {
     "code": "ST-22",
