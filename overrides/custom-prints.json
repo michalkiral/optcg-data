@@ -988,6 +988,16 @@
       "note": "Special Tournament",
       "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Special-Tournaments-Promos/CaponeGangBege-OP04-100-V1",
       "addedAt": "2026-06-14"
+    },
+    {
+      "id": "OP01-114_p1",
+      "parent": "OP01-114",
+      "name": "X.Drake",
+      "set": "PROMOTION-CARD",
+      "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP01-114_p1.png",
+      "note": "Special Tournament",
+      "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Special-Tournaments-Promos/XDrake-OP01-114-V1",
+      "addedAt": "2026-06-14"
     }
   ]
 }
