@@ -587,6 +587,15 @@
       "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/P-041_p3.png",
       "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/One-Piece-Products/MonkeyDLuffy-P-041-V2",
       "addedAt": "2026-06-14"
+    },
+    {
+      "id": "P-006_p2",
+      "parent": "P-006",
+      "name": "Monkey.D.Luffy",
+      "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/P-006_p2.png",
+      "note": "Special Tournament",
+      "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Special-Tournaments-Promos/MonkeyDLuffy-P-006",
+      "addedAt": "2026-06-14"
     }
   ]
 }
