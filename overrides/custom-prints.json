@@ -402,6 +402,15 @@
       "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP08-105_p2.png",
       "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Unnumbered-Promos/Jewelry-Bonney-OP08-105-V1",
       "addedAt": "2026-06-14"
+    },
+    {
+      "id": "P-042_p1",
+      "parent": "P-042",
+      "name": "Roronoa Zoro",
+      "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/P-042_p1.png",
+      "note": "Special Tournament",
+      "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Special-Tournaments-Promos/Roronoa-Zoro-P-042-V1",
+      "addedAt": "2026-06-14"
     }
   ]
 }
