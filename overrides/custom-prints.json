@@ -924,6 +924,15 @@
       "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/P-010_p1.png",
       "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Promos/Kaido-P-010-V2",
       "addedAt": "2026-06-14"
+    },
+    {
+      "id": "OP05-098_c1",
+      "parent": "OP05-098",
+      "name": "Enel",
+      "set": "PROMOTION-CARD",
+      "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP05-098_c1.webp",
+      "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Unnumbered-Promos/Enel-OP05-098",
+      "addedAt": "2026-06-14"
     }
   ]
 }
