@@ -108,6 +108,15 @@
       "note": "SERIAL",
       "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Unnumbered-Promos/MonkeyDLuffy-ST21-014-V1",
       "addedAt": "2026-06-14"
+    },
+    {
+      "id": "OP02-096_p2",
+      "parent": "OP02-096",
+      "name": "Kuzan",
+      "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP02-096_p2.png",
+      "note": "Special Tournament",
+      "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Special-Tournaments-Promos/Kuzan-OP02-096",
+      "addedAt": "2026-06-14"
     }
   ]
 }
