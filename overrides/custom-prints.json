@@ -596,6 +596,15 @@
       "note": "Special Tournament",
       "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Special-Tournaments-Promos/MonkeyDLuffy-P-006",
       "addedAt": "2026-06-14"
+    },
+    {
+      "id": "P-034_p1",
+      "parent": "P-034",
+      "name": "Sanji",
+      "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/P-034_p1.webp",
+      "note": "Special Tournament",
+      "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Special-Tournaments-Promos/Sanji-P-034",
+      "addedAt": "2026-06-14"
     }
   ]
 }
