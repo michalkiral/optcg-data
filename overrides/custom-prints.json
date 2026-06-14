@@ -551,6 +551,16 @@
       "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/ST13-003_p4.png",
       "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Unnumbered-Promos/MonkeyDLuffy-ST13-003-V1",
       "addedAt": "2026-06-14"
+    },
+    {
+      "id": "ST02-010_p1",
+      "parent": "ST02-010",
+      "name": "Basil Hawkins",
+      "set": "PROMOTION-CARD",
+      "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/ST02-010_p1.png",
+      "note": "Special Tournament",
+      "priceUrl": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Special-Tournaments-Promos/Basil-Hawkins-ST02-010-V1",
+      "addedAt": "2026-06-14"
     }
   ]
 }
