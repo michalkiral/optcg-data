@@ -109020,5 +109020,77 @@
     "effect": "[On K.O.] Place up to 1 Character with a cost of 3 or less at the bottom of the owner's deck.",
     "trigger": null,
     "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/P-030_p1.webp"
+  },
+  "OP11-073_p2": {
+    "id": "OP11-073_p2",
+    "set": "PROMOTION-CARD",
+    "name": "Charlotte Linlin",
+    "rarity": "Rare",
+    "category": "Character",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 10,
+    "power": 12000,
+    "counter": null,
+    "block": 3,
+    "attributes": [
+      "Special"
+    ],
+    "types": [
+      "The Four Emperors",
+      "Big Mom Pirates"
+    ],
+    "effect": "If your Leader has the {Big Mom Pirates} type, this Character gains [Rush].<br>[On Your Opponent's Attack] [Once Per Turn] DON!! −5: Choose a cost and reveal 1 card from the top of your opponent's deck. If the revealed card has the chosen cost, up to 1 of your Leader gains +2000 power during this turn.",
+    "trigger": null,
+    "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP11-073_p2.png"
+  },
+  "OP04-100_p2": {
+    "id": "OP04-100_p2",
+    "set": "PROMOTION-CARD",
+    "name": "Capone\"Gang\"Bege",
+    "rarity": "Rare",
+    "category": "Character",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 3,
+    "power": 3000,
+    "counter": 2000,
+    "block": 1,
+    "attributes": [
+      "Ranged"
+    ],
+    "types": [
+      "Firetank Pirates"
+    ],
+    "effect": "-",
+    "trigger": "[Trigger] Up to 1 of your opponent's Leader or Character cards cannot attack during this turn.",
+    "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP04-100_p2.png"
+  },
+  "OP01-114_p1": {
+    "id": "OP01-114_p1",
+    "set": "PROMOTION-CARD",
+    "name": "X.Drake",
+    "rarity": "Rare",
+    "category": "Character",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 5,
+    "power": 5000,
+    "counter": 2000,
+    "block": 1,
+    "attributes": [
+      "Slash"
+    ],
+    "types": [
+      "Navy",
+      "Drake Pirates",
+      "Animal Kingdom Pirates"
+    ],
+    "effect": "[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Your opponent trashes 1 card from their hand.",
+    "trigger": null,
+    "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP01-114_p1.png"
   }
 }
