@@ -20,7 +20,7 @@
     ],
     "effect": "[Activate: Main] [Once Per Turn] Up to 1 of your [Monkey.D.Luffy] Characters or up to 1 of your Characters with a type including \"Whitebeard Pirates\", with 8000 power or more, gains [Rush] during this turn.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-001.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-001.png?260616"
   },
   {
     "id": "OP16-001_p1",
@@ -43,7 +43,7 @@
     ],
     "effect": "[Activate: Main] [Once Per Turn] Up to 1 of your [Monkey.D.Luffy] Characters or up to 1 of your Characters with a type including \"Whitebeard Pirates\", with 8000 power or more, gains [Rush] during this turn.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-001_p1.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-001_p1.png?260616"
   },
   {
     "id": "OP16-002",
@@ -67,7 +67,7 @@
     ],
     "effect": "[On Play] You may reveal 1 Character card with 8000 power from your hand: Draw 1 card.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-002.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-002.png?260616"
   },
   {
     "id": "OP16-003",
@@ -91,7 +91,7 @@
     ],
     "effect": "[Your Turn] Your Leader gains [Double Attack] and +2000 power.<br>[On Play] You may reveal 2 Character cards with 8000 power from your hand: Give up to 1 of your opponent's Characters −6000 power during this turn.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-003.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-003.png?260616"
   },
   {
     "id": "OP16-003_p1",
@@ -115,7 +115,7 @@
     ],
     "effect": "[Your Turn] Your Leader gains [Double Attack] and +2000 power.<br>[On Play] You may reveal 2 Character cards with 8000 power from your hand: Give up to 1 of your opponent's Characters −6000 power during this turn.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-003_p1.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-003_p1.png?260616"
   },
   {
     "id": "OP16-004",
@@ -138,7 +138,7 @@
     ],
     "effect": "-",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-004.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-004.png?260616"
   },
   {
     "id": "OP16-005",
@@ -161,7 +161,7 @@
     ],
     "effect": "If you have a Character with 8000 power or more and a type including \"Whitebeard Pirates\", give this card in your hand −3 cost.<br>[Blocker]",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-005.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-005.png?260616"
   },
   {
     "id": "OP16-006",
@@ -185,7 +185,7 @@
     ],
     "effect": "[On Play] You may rest 2 of your DON!! cards: K.O. up to 1 of your opponent's Characters with 4000 power or less.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-006.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-006.png?260616"
   },
   {
     "id": "OP16-007",
@@ -208,7 +208,7 @@
     ],
     "effect": "[Blocker]<br>[On Play] You may reveal 1 Character card with 8000 power from your hand: Give up to 1 of your opponent's Characters −1000 power during this turn.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-007.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-007.png?260616"
   },
   {
     "id": "OP16-008",
@@ -231,7 +231,7 @@
     ],
     "effect": "[On Play] You may trash 1 of your Characters with 10000 base power: K.O. up to 1 of your opponent's Characters with 8000 power or less.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-008.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-008.png?260616"
   },
   {
     "id": "OP16-009",
@@ -254,7 +254,7 @@
     ],
     "effect": "[On Play] You may trash 1 Character card with 8000 power from your hand: This Character gains [Rush] and +2000 power until the end of your opponent's next End Phase.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-009.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-009.png?260616"
   },
   {
     "id": "OP16-010",
@@ -278,7 +278,7 @@
     ],
     "effect": "[On Play] You may reveal 1 Character card with 8000 power from your hand: K.O. up to 1 of your opponent's Characters with 2000 base power or less.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-010.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-010.png?260616"
   },
   {
     "id": "OP16-011",
@@ -301,7 +301,7 @@
     ],
     "effect": "[On Play] You may reveal 1 Character card with 8000 power from your hand: Draw 1 card.<br>[DON!! x1] [When Attacking] K.O. up to 2 of your opponent's Characters with 2000 base power or less.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-011.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-011.png?260616"
   },
   {
     "id": "OP16-011_p1",
@@ -324,7 +324,7 @@
     ],
     "effect": "[On Play] You may reveal 1 Character card with 8000 power from your hand: Draw 1 card.<br>[DON!! x1] [When Attacking] K.O. up to 2 of your opponent's Characters with 2000 base power or less.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-011_p1.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-011_p1.png?260616"
   },
   {
     "id": "OP16-012",
@@ -347,7 +347,7 @@
     ],
     "effect": "[Blocker]<br>[On Play] You may rest 1 of your DON!! cards: If your Leader has the {Red-Haired Pirates} type and you have 10 DON!! cards on your field, play up to 1 [Shanks] from your hand.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-012.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-012.png?260616"
   },
   {
     "id": "OP16-013",
@@ -370,7 +370,7 @@
     ],
     "effect": "[On K.O.] K.O. up to 1 of your opponent's Characters with 8000 base power or less.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-013.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-013.png?260616"
   },
   {
     "id": "OP16-014",
@@ -393,7 +393,7 @@
     ],
     "effect": "If one of your Characters would be removed from the field by your opponent's effect, you may K.O. this Character instead.<br>[On K.O.] You may trash 1 Character card with 8000 power from your hand: Play this Character card from your trash.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-014.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-014.png?260616"
   },
   {
     "id": "OP16-014_p1",
@@ -416,7 +416,7 @@
     ],
     "effect": "If one of your Characters would be removed from the field by your opponent's effect, you may K.O. this Character instead.<br>[On K.O.] You may trash 1 Character card with 8000 power from your hand: Play this Character card from your trash.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-014_p1.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-014_p1.png?260616"
   },
   {
     "id": "OP16-015",
@@ -440,7 +440,7 @@
     ],
     "effect": "If your Leader's card name includes \"Ace\" and you have 6 or more DON!! cards on your field, give this card in your hand −2 cost.<br>[On Your Opponent's Attack] You may trash 1 Character card with 8000 power from your hand: Your Leader and this Character's base power becomes 7000 during this turn.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-015.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-015.png?260616"
   },
   {
     "id": "OP16-015_p1",
@@ -464,7 +464,7 @@
     ],
     "effect": "If your Leader's card name includes \"Ace\" and you have 6 or more DON!! cards on your field, give this card in your hand −2 cost.<br>[On Your Opponent's Attack] You may trash 1 Character card with 8000 power from your hand: Your Leader and this Character's base power becomes 7000 during this turn.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-015_p1.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-015_p1.png?260616"
   },
   {
     "id": "OP16-016",
@@ -487,7 +487,7 @@
     ],
     "effect": "-",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-016.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-016.png?260616"
   },
   {
     "id": "OP16-017",
@@ -511,7 +511,7 @@
     ],
     "effect": "If you have no Characters with a type including \"Whitebeard Pirates\" and a cost of 8 or more, give this Character −4000 power.<br>[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-017.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-017.png?260616"
   },
   {
     "id": "OP16-018",
@@ -534,7 +534,7 @@
     ],
     "effect": "[Once Per Turn] If your {Red-Haired Pirates} type Character would be K.O.'d, you may trash 1 Character card with 6000 power or more from your hand instead.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-018.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-018.png?260616"
   },
   {
     "id": "OP16-019",
@@ -555,7 +555,7 @@
     ],
     "effect": "[Main] Play up to 2 Character cards with a type including \"Whitebeard Pirates\" and 8000 power from your hand.",
     "trigger": "[Trigger] Your Leader gains +1000 power during this turn.",
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-019.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-019.png?260616"
   },
   {
     "id": "OP16-020",
@@ -577,7 +577,7 @@
     ],
     "effect": "[Main] You may rest 1 of your DON!! cards and reveal 1 Character card with 8000 power from your hand: Draw 1 card.<br>[Counter] You may trash 1 card from your hand: Up to 1 of your Leader or Character cards gains +3000 power during this battle.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-020.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-020.png?260616"
   },
   {
     "id": "OP16-021",
@@ -598,7 +598,7 @@
     ],
     "effect": "[On Play] If your Leader has the {Whitebeard Pirates} type, look at 3 cards from the top of your deck and add up to 1 card to your hand. Then, place the rest at the bottom of your deck in any order.<br>[Activate: Main] You may trash this Stage: Give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-021.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-021.png?260616"
   },
   {
     "id": "OP16-021_p1",
@@ -619,7 +619,7 @@
     ],
     "effect": "[On Play] If your Leader has the {Whitebeard Pirates} type, look at 3 cards from the top of your deck and add up to 1 card to your hand. Then, place the rest at the bottom of your deck in any order.<br>[Activate: Main] You may trash this Stage: Give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-021_p1.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-021_p1.png?260616"
   },
   {
     "id": "OP16-022",
@@ -644,7 +644,7 @@
     ],
     "effect": "[Activate: Main] [Once Per Turn] If the only Characters on your field are {Impel Down} type Characters, set up to 2 of your DON!! cards as active.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-022.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-022.png?260616"
   },
   {
     "id": "OP16-022_p1",
@@ -669,7 +669,7 @@
     ],
     "effect": "[Activate: Main] [Once Per Turn] If the only Characters on your field are {Impel Down} type Characters, set up to 2 of your DON!! cards as active.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-022_p1.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-022_p1.png?260616"
   },
   {
     "id": "OP16-023",
@@ -694,7 +694,7 @@
     ],
     "effect": "-",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-023.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-023.png?260616"
   },
   {
     "id": "OP16-024",
@@ -718,7 +718,7 @@
     ],
     "effect": "When this Character is K.O.'d by your opponent's effect, rest up to 1 of your opponent's Characters.<br>[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-024.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-024.png?260616"
   },
   {
     "id": "OP16-025",
@@ -741,7 +741,7 @@
     ],
     "effect": "[When Attacking] If you have [Antlerkov], play up to 1 Character card with a cost of 2 or less from your hand.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-025.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-025.png?260616"
   },
   {
     "id": "OP16-026",
@@ -765,7 +765,7 @@
     ],
     "effect": "[On Play] Look at 3 cards from the top of your deck; reveal up to 1 {Impel Down} type card, add it to your hand and place the rest at the bottom of your deck in any order. Then, play up to 1 Character card with a cost of 2 or less from your hand.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-026.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-026.png?260616"
   },
   {
     "id": "OP16-026_p1",
@@ -789,7 +789,7 @@
     ],
     "effect": "[On Play] Look at 3 cards from the top of your deck; reveal up to 1 {Impel Down} type card, add it to your hand and place the rest at the bottom of your deck in any order. Then, play up to 1 Character card with a cost of 2 or less from your hand.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-026_p1.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-026_p1.png?260616"
   },
   {
     "id": "OP16-027",
@@ -814,7 +814,7 @@
     ],
     "effect": "[DON!! x1] This Character gains +2000 power.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-027.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-027.png?260616"
   },
   {
     "id": "OP16-028",
@@ -837,7 +837,7 @@
     ],
     "effect": "-",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-028.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-028.png?260616"
   },
   {
     "id": "OP16-029",
@@ -860,7 +860,7 @@
     ],
     "effect": "[When Attacking] If you have [Bunkov], play up to 1 Character card with a cost of 2 or less from your hand.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-029.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-029.png?260616"
   },
   {
     "id": "OP16-030",
@@ -884,7 +884,7 @@
     ],
     "effect": "[On Play] Up to 1 of your opponent's rested Characters will not become active in your opponent's next Refresh Phase.<br>[End of Your Turn] Set all of your green Characters with a cost of 5 or less as active.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-030.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-030.png?260616"
   },
   {
     "id": "OP16-031",
@@ -908,7 +908,7 @@
     ],
     "effect": "[On K.O.] Play up to 1 [Prisoner of Impel Down] card from your hand.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-031.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-031.png?260616"
   },
   {
     "id": "OP16-032",
@@ -933,7 +933,7 @@
     ],
     "effect": "[Unblockable] (This card cannot be blocked.)<br>[On Play] Up to 1 of your opponent's Characters other than [Monkey.D.Luffy] cannot be rested until the end of your opponent's next End Phase.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-032.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-032.png?260616"
   },
   {
     "id": "OP16-032_p1",
@@ -958,7 +958,7 @@
     ],
     "effect": "[Unblockable] (This card cannot be blocked.)<br>[On Play] Up to 1 of your opponent's Characters other than [Monkey.D.Luffy] cannot be rested until the end of your opponent's next End Phase.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-032_p1.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-032_p1.png?260616"
   },
   {
     "id": "OP16-033",
@@ -982,7 +982,7 @@
     ],
     "effect": "If this Character would be K.O.'d, you may rest 2 of your cards instead.<br>[Unblockable] (This card cannot be blocked.)",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-033.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-033.png?260616"
   },
   {
     "id": "OP16-034",
@@ -1006,7 +1006,7 @@
     ],
     "effect": "[DON!! x1] [Your Turn] This Character gains +1000 power for each of your Characters with a different card name.<br>[On Play] Look at 3 cards from the top of your deck; reveal up to 1 {Impel Down} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-034.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-034.png?260616"
   },
   {
     "id": "OP16-034_p1",
@@ -1030,7 +1030,7 @@
     ],
     "effect": "[DON!! x1] [Your Turn] This Character gains +1000 power for each of your Characters with a different card name.<br>[On Play] Look at 3 cards from the top of your deck; reveal up to 1 {Impel Down} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-034_p1.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-034_p1.png?260616"
   },
   {
     "id": "OP16-035",
@@ -1053,7 +1053,7 @@
     ],
     "effect": "[On Play] Rest up to 1 of your opponent's cards. Then, you may trash 1 card from your hand. If you do, give up to 3 rested DON!! cards to your Leader.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-035.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-035.png?260616"
   },
   {
     "id": "OP16-036",
@@ -1077,7 +1077,7 @@
     ],
     "effect": "[On Play] Rest up to 1 of your opponent's Characters with a cost of 4 or less.<br>[When Attacking] This Character's base power becomes the same as your opponent's Leader during this turn.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-036.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-036.png?260616"
   },
   {
     "id": "OP16-037",
@@ -1101,7 +1101,7 @@
     ],
     "effect": "[On Play] If your Leader has the {Impel Down} type, rest up to 1 of your opponent's Characters with a cost of 5 or less.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-037.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-037.png?260616"
   },
   {
     "id": "OP16-038",
@@ -1123,7 +1123,7 @@
     ],
     "effect": "[Main] You may rest 6 of your DON!! cards: If you have 5 {Impel Down} type Characters with different card names, set your Leader and all of your Characters as active.<br>[Counter] Your Leader gains +3000 power during this battle.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-038.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-038.png?260616"
   },
   {
     "id": "OP16-039",
@@ -1145,7 +1145,7 @@
     ],
     "effect": "[Main] Up to 1 of your [Monkey.D.Luffy] cards gains [Double Attack] during this turn. Then, if your Leader has the {Impel Down} type, rest up to 2 of your opponent's Characters with a cost of 3 or less.",
     "trigger": "[Trigger] Rest your opponent's Leader.",
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-039.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-039.png?260616"
   },
   {
     "id": "OP16-040",
@@ -1167,7 +1167,7 @@
     ],
     "effect": "[Main] If you have [Monkey.D.Luffy] and [Mr.3(Galdino)], up to 1 of your opponent's rested Characters with a cost of 6 or less will not become active in your opponent's next Refresh Phase.<br>[Counter] Your Leader gains +3000 power during this battle.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-040.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-040.png?260616"
   },
   {
     "id": "OP16-041",
@@ -1191,7 +1191,7 @@
     ],
     "effect": "[DON!! x1] [Once Per Turn] This effect can be activated when your {Impel Down} type Character card is removed from the field. Play up to 1 [Prisoner of Impel Down] card from your hand.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-041.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-041.png?260616"
   },
   {
     "id": "OP16-041_p1",
@@ -1215,7 +1215,7 @@
     ],
     "effect": "[DON!! x1] [Once Per Turn] This effect can be activated when your {Impel Down} type Character card is removed from the field. Play up to 1 [Prisoner of Impel Down] card from your hand.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-041_p1.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-041_p1.png?260616"
   },
   {
     "id": "OP16-042",
@@ -1238,7 +1238,7 @@
     ],
     "effect": "Under the rules of this game, you may have any number of this card in your deck.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-042.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-042.png?260616"
   },
   {
     "id": "OP16-043",
@@ -1262,7 +1262,7 @@
     ],
     "effect": "[Blocker]<br>[On K.O.] You may rest 1 of your {Dressrosa} type Leader or Stage cards: Return up to 1 of your opponent's Characters with a cost of 5 or less to the owner's hand.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-043.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-043.png?260616"
   },
   {
     "id": "OP16-044",
@@ -1286,7 +1286,7 @@
     ],
     "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-044.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-044.png?260616"
   },
   {
     "id": "OP16-045",
@@ -1310,7 +1310,7 @@
     ],
     "effect": "[Blocker]<br>[On Play] You may return 1 of your Characters with a cost of 2 or more to the owner's hand: Play up to 1 {Impel Down} type Character card with a cost of 2 or less from your hand.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-045.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-045.png?260616"
   },
   {
     "id": "OP16-046",
@@ -1335,7 +1335,7 @@
     ],
     "effect": "-",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-046.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-046.png?260616"
   },
   {
     "id": "OP16-047",
@@ -1359,7 +1359,7 @@
     ],
     "effect": "[Activate: Main] You may rest this Character: If your opponent has 8 or more cards in their hand, they place 2 cards from their hand at the bottom of their deck in any order.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-047.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-047.png?260616"
   },
   {
     "id": "OP16-048",
@@ -1383,7 +1383,7 @@
     ],
     "effect": "[On Play] If your Leader has the {Impel Down} type, draw 1 card and play up to 1 [Prisoner of Impel Down] card from your hand.<br>[Once Per Turn] This effect can be activated when your opponent attacks. Up to 1 of your [Prisoner of Impel Down] cards gains [Blocker] during this turn.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-048.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-048.png?260616"
   },
   {
     "id": "OP16-048_p1",
@@ -1407,7 +1407,7 @@
     ],
     "effect": "[On Play] If your Leader has the {Impel Down} type, draw 1 card and play up to 1 [Prisoner of Impel Down] card from your hand.<br>[Once Per Turn] This effect can be activated when your opponent attacks. Up to 1 of your [Prisoner of Impel Down] cards gains [Blocker] during this turn.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-048_p1.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-048_p1.png?260616"
   },
   {
     "id": "OP16-049",
@@ -1431,7 +1431,7 @@
     ],
     "effect": "[Activate: Main] You may rest this Character: Draw 1 card.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-049.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-049.png?260616"
   },
   {
     "id": "OP16-050",
@@ -1454,7 +1454,7 @@
     ],
     "effect": "[Blocker]<br>[On Play] You may return 1 of your Characters with a cost of 2 or more to the owner's hand: Draw 2 cards and trash 1 card from your hand.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-050.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-050.png?260616"
   },
   {
     "id": "OP16-051",
@@ -1478,7 +1478,7 @@
     ],
     "effect": "[On Play] If you have 5 or less cards in your hand, draw 2 cards.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-051.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-051.png?260616"
   },
   {
     "id": "OP16-052",
@@ -1502,7 +1502,7 @@
     ],
     "effect": "[Activate: Main] [Once Per Turn] Give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-052.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-052.png?260616"
   },
   {
     "id": "OP16-053",
@@ -1527,7 +1527,7 @@
     ],
     "effect": "[When Attacking] If you have 6 or less cards in your hand, draw 1 card.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-053.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-053.png?260616"
   },
   {
     "id": "OP16-054",
@@ -1551,7 +1551,7 @@
     ],
     "effect": "[DON!! x1] [Your Turn] If you have 5 or more cards in your hand, this Character gains +3000 power.<br>[On Play] Draw 1 card.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-054.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-054.png?260616"
   },
   {
     "id": "OP16-055",
@@ -1575,7 +1575,7 @@
     ],
     "effect": "[On Play] Draw 1 card.<br>[DON!! x1] [When Attacking] This Character's base power becomes the same as your opponent's Leader's power during this turn.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-055.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-055.png?260616"
   },
   {
     "id": "OP16-055_p1",
@@ -1599,7 +1599,7 @@
     ],
     "effect": "[On Play] Draw 1 card.<br>[DON!! x1] [When Attacking] This Character's base power becomes the same as your opponent's Leader's power during this turn.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-055_p1.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-055_p1.png?260616"
   },
   {
     "id": "OP16-056",
@@ -1623,7 +1623,7 @@
     ],
     "effect": "[Activate: Main] You may trash this Character: Draw 2 cards, and up to 1 of your opponent's Characters with a cost of 9 or less cannot attack until the end of your opponent's next End Phase.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-056.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-056.png?260616"
   },
   {
     "id": "OP16-056_p1",
@@ -1647,7 +1647,7 @@
     ],
     "effect": "[Activate: Main] You may trash this Character: Draw 2 cards, and up to 1 of your opponent's Characters with a cost of 9 or less cannot attack until the end of your opponent's next End Phase.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-056_p1.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-056_p1.png?260616"
   },
   {
     "id": "OP16-057",
@@ -1668,7 +1668,7 @@
     ],
     "effect": "[Counter] If you have 2 or more [Prisoner of Impel Down] cards, up to 1 of your Leader or Character cards gains +4000 power during this battle.",
     "trigger": "[Trigger] Draw 2 cards and trash 1 card from your hand.",
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-057.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-057.png?260616"
   },
   {
     "id": "OP16-058",
@@ -1689,7 +1689,7 @@
     ],
     "effect": "[Main] If you have 10 DON!! cards on your field, all of your [Prisoner of Impel Down] cards' base power becomes 7000 during this turn.<br>[Counter] Up to 1 of your [Buggy] gains +4000 power during this battle.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-058.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-058.png?260616"
   },
   {
     "id": "OP16-059",
@@ -1711,7 +1711,7 @@
     ],
     "effect": "[Main] You may rest 7 of your DON!! cards: Look at 5 cards from the top of your deck; play up to 2 {Impel Down} type Character cards with 6000 power or less. Then, place the rest at the bottom of your deck in any order.<br>[Counter] Your Leader gains +3000 power during this battle.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-059.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-059.png?260616"
   },
   {
     "id": "OP16-060",
@@ -1734,7 +1734,7 @@
     ],
     "effect": "[Activate: Main] You may return 8 of your active DON!! cards to your DON!! deck: Play up to 3 {Admiral} type Character cards with different card names from your hand.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-060.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-060.png?260616"
   },
   {
     "id": "OP16-060_p1",
@@ -1757,7 +1757,7 @@
     ],
     "effect": "[Activate: Main] You may return 8 of your active DON!! cards to your DON!! deck: Play up to 3 {Admiral} type Character cards with different card names from your hand.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-060_p1.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-060_p1.png?260616"
   },
   {
     "id": "OP16-061",
@@ -1780,7 +1780,7 @@
     ],
     "effect": "-",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-061.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-061.png?260616"
   },
   {
     "id": "OP16-062",
@@ -1803,7 +1803,7 @@
     ],
     "effect": "-",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-062.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-062.png?260616"
   },
   {
     "id": "OP16-063",
@@ -1827,7 +1827,7 @@
     ],
     "effect": "[On Play] Add up to 2 DON!! cards from your DON!! deck and rest them.<br>[Activate: Main] [Once Per Turn] DON!! −1: Up to 1 of your opponent's Characters cannot activate [Blocker] during this turn.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-063.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-063.png?260616"
   },
   {
     "id": "OP16-063_p1",
@@ -1851,7 +1851,7 @@
     ],
     "effect": "[On Play] Add up to 2 DON!! cards from your DON!! deck and rest them.<br>[Activate: Main] [Once Per Turn] DON!! −1: Up to 1 of your opponent's Characters cannot activate [Blocker] during this turn.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-063_p1.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-063_p1.png?260616"
   },
   {
     "id": "OP16-063_p2",
@@ -1875,7 +1875,7 @@
     ],
     "effect": "[On Play] Add up to 2 DON!! cards from your DON!! deck and rest them.<br>[Activate: Main] [Once Per Turn] DON!! −1: Up to 1 of your opponent's Characters cannot activate [Blocker] during this turn.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-063_p2.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-063_p2.png?260616"
   },
   {
     "id": "OP16-064",
@@ -1898,7 +1898,7 @@
     ],
     "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Navy} type card other than [Koby] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-064.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-064.png?260616"
   },
   {
     "id": "OP16-065",
@@ -1922,7 +1922,7 @@
     ],
     "effect": "[On Play] DON!! −1: Give up to 1 of your opponent's Characters −6000 power until the end of your opponent's next End Phase.<br>[Activate: Main] [Once Per Turn] You may rest 1 of your DON!! cards: If your Leader has the {Navy} type, add up to 2 DON!! cards from your DON!! deck and set them as active.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-065.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-065.png?260616"
   },
   {
     "id": "OP16-065_p1",
@@ -1946,7 +1946,7 @@
     ],
     "effect": "[On Play] DON!! −1: Give up to 1 of your opponent's Characters −6000 power until the end of your opponent's next End Phase.<br>[Activate: Main] [Once Per Turn] You may rest 1 of your DON!! cards: If your Leader has the {Navy} type, add up to 2 DON!! cards from your DON!! deck and set them as active.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-065_p1.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-065_p1.png?260616"
   },
   {
     "id": "OP16-065_p2",
@@ -1970,7 +1970,7 @@
     ],
     "effect": "[On Play] DON!! −1: Give up to 1 of your opponent's Characters −6000 power until the end of your opponent's next End Phase.<br>[Activate: Main] [Once Per Turn] You may rest 1 of your DON!! cards: If your Leader has the {Navy} type, add up to 2 DON!! cards from your DON!! deck and set them as active.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-065_p2.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-065_p2.png?260616"
   },
   {
     "id": "OP16-066",
@@ -1993,7 +1993,7 @@
     ],
     "effect": "[On Play] If your Leader has the {Navy} type, add up to 2 DON!! cards from your DON!! deck and rest them. Then, draw 2 cards and trash 2 cards from your hand.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-066.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-066.png?260616"
   },
   {
     "id": "OP16-067",
@@ -2016,7 +2016,7 @@
     ],
     "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Navy} type card, add it to your hand and place the rest at the bottom of your deck in any order. Then, trash 1 card from your hand.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-067.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-067.png?260616"
   },
   {
     "id": "OP16-068",
@@ -2039,7 +2039,7 @@
     ],
     "effect": "[On Play] Add up to 1 DON!! card from your DON!! deck and set it as active.<br>[When Attacking] If your Leader has the {Donquixote Pirates} type, this Character gains +3000 power during this turn.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-068.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-068.png?260616"
   },
   {
     "id": "OP16-069",
@@ -2062,7 +2062,7 @@
     ],
     "effect": "[On Play]/[When Attacking] Add up to 1 DON!! card from your DON!! deck and set it as active.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-069.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-069.png?260616"
   },
   {
     "id": "OP16-070",
@@ -2086,7 +2086,7 @@
     ],
     "effect": "[Blocker]<br>[On Play] You may rest 2 of your DON!! cards: If your Leader has the {Navy} type, add up to 1 DON!! card from your DON!! deck and rest it.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-070.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-070.png?260616"
   },
   {
     "id": "OP16-071",
@@ -2109,7 +2109,7 @@
     ],
     "effect": "[On Play] You may trash 1 card from your hand: Add up to 1 DON!! card from your DON!! deck and rest it.<br>[On K.O.] Add up to 1 DON!! card from your DON!! deck and rest it.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-071.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-071.png?260616"
   },
   {
     "id": "OP16-072",
@@ -2132,7 +2132,7 @@
     ],
     "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Impel Down} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-072.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-072.png?260616"
   },
   {
     "id": "OP16-073",
@@ -2156,7 +2156,7 @@
     ],
     "effect": "[On Play] Add up to 1 DON!! card from your DON!! deck and set it as active, and add up to 1 additional DON!! card and rest it.<br>[End of Your Turn] DON!! −2: Set this Character as active. Then, this Character gains [Blocker] until the end of your opponent's next End Phase.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-073.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-073.png?260616"
   },
   {
     "id": "OP16-073_p1",
@@ -2180,7 +2180,7 @@
     ],
     "effect": "[On Play] Add up to 1 DON!! card from your DON!! deck and set it as active, and add up to 1 additional DON!! card and rest it.<br>[End of Your Turn] DON!! −2: Set this Character as active. Then, this Character gains [Blocker] until the end of your opponent's next End Phase.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-073_p1.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-073_p1.png?260616"
   },
   {
     "id": "OP16-073_p2",
@@ -2204,7 +2204,7 @@
     ],
     "effect": "[On Play] Add up to 1 DON!! card from your DON!! deck and set it as active, and add up to 1 additional DON!! card and rest it.<br>[End of Your Turn] DON!! −2: Set this Character as active. Then, this Character gains [Blocker] until the end of your opponent's next End Phase.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-073_p2.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-073_p2.png?260616"
   },
   {
     "id": "OP16-074",
@@ -2227,7 +2227,7 @@
     ],
     "effect": "[On Play] If your Leader has the {Impel Down} type, your opponent returns 1 DON!! card from their field to their DON!! deck.<br>[On K.O.] Your opponent returns 4 DON!! cards from their field to their DON!! deck.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-074.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-074.png?260616"
   },
   {
     "id": "OP16-075",
@@ -2250,7 +2250,7 @@
     ],
     "effect": "[On Play] If your Leader has the {Navy} type, add up to 1 DON!! card from your DON!! deck and set it as active, and add up to 1 additional DON!! card and rest it.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-075.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-075.png?260616"
   },
   {
     "id": "OP16-076",
@@ -2272,7 +2272,7 @@
     ],
     "effect": "[Main] You may rest 3 of your DON!! cards: Up to 3 of your {Admiral} type Characters gain +2000 power during this turn.<br>[Counter] If you have an {Admiral} type Character, up to 1 of your Leader or Character cards gains +4000 power during this battle.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-076.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-076.png?260616"
   },
   {
     "id": "OP16-077",
@@ -2293,7 +2293,7 @@
     ],
     "effect": "[Main] Look at 5 cards from the top of your deck; reveal up to 2 {Navy} type cards, add them to your hand and place the rest at the bottom of your deck in any order. Then, trash 1 card from your hand.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-077.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-077.png?260616"
   },
   {
     "id": "OP16-078",
@@ -2314,7 +2314,7 @@
     ],
     "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Navy} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.<br>[Activate: Main] DON!! −1, You may rest this Stage: Draw 1 card and trash 1 card from your hand.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-078.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-078.png?260616"
   },
   {
     "id": "OP16-079",
@@ -2337,7 +2337,7 @@
     ],
     "effect": "When a {Land of Wano} type Character card is played from your trash, that Character gains [Rush] during this turn.<br>(This card can attack on the turn in which it is played.)",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-079.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-079.png?260616"
   },
   {
     "id": "OP16-079_p1",
@@ -2360,7 +2360,7 @@
     ],
     "effect": "When a {Land of Wano} type Character card is played from your trash, that Character gains [Rush] during this turn.<br>(This card can attack on the turn in which it is played.)",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-079_p1.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-079_p1.png?260616"
   },
   {
     "id": "OP16-080",
@@ -2385,7 +2385,7 @@
     ],
     "effect": "[Opponent's Turn] All of your Characters gain +1 cost.<br>[On Your Opponent's Attack] [Once Per Turn] You may trash 1 card with a [Trigger] from your hand: Change the target of that attack to this Leader or to one of your {Blackbeard Pirates} type Character cards.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-080.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-080.png?260616"
   },
   {
     "id": "OP16-080_p1",
@@ -2410,7 +2410,7 @@
     ],
     "effect": "[Opponent's Turn] All of your Characters gain +1 cost.<br>[On Your Opponent's Attack] [Once Per Turn] You may trash 1 card with a [Trigger] from your hand: Change the target of that attack to this Leader or to one of your {Blackbeard Pirates} type Character cards.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-080_p1.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-080_p1.png?260616"
   },
   {
     "id": "OP16-081",
@@ -2433,7 +2433,7 @@
     ],
     "effect": "[Activate: Main] You may rest this Character: If you have a Character with a cost of 8 or more, give up to 1 of your opponent's Characters −2000 power during this turn.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-081.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-081.png?260616"
   },
   {
     "id": "OP16-082",
@@ -2457,7 +2457,7 @@
     ],
     "effect": "This Character gains +3 cost.<br>[On Play] If your Leader has the {Land of Wano} type, look at 5 cards from the top of your deck; reveal up to 1 {Land of Wano} type card and add it to your hand. Then, trash the rest.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-082.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-082.png?260616"
   },
   {
     "id": "OP16-082_p1",
@@ -2481,7 +2481,7 @@
     ],
     "effect": "This Character gains +3 cost.<br>[On Play] If your Leader has the {Land of Wano} type, look at 5 cards from the top of your deck; reveal up to 1 {Land of Wano} type card and add it to your hand. Then, trash the rest.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-082_p1.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-082_p1.png?260616"
   },
   {
     "id": "OP16-083",
@@ -2505,7 +2505,7 @@
     ],
     "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On Play] You may trash 1 Character card with a cost of 8 or more from your hand: Draw 2 cards.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-083.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-083.png?260616"
   },
   {
     "id": "OP16-084",
@@ -2529,7 +2529,7 @@
     ],
     "effect": "[Activate: Main] You may trash this Character with a cost of 20 or more: If you have 9 or more DON!! cards on your field, play up to 1 [Kouzuki Momonosuke] with a cost of 9 from your trash.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-084.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-084.png?260616"
   },
   {
     "id": "OP16-085",
@@ -2553,7 +2553,7 @@
     ],
     "effect": "[Blocker]<br>[On Play] Play up to 1 {Land of Wano} type Character card with a cost of 6 or less other than [Kouzuki Momonosuke] from your trash.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-085.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-085.png?260616"
   },
   {
     "id": "OP16-085_p1",
@@ -2577,7 +2577,7 @@
     ],
     "effect": "[Blocker]<br>[On Play] Play up to 1 {Land of Wano} type Character card with a cost of 6 or less other than [Kouzuki Momonosuke] from your trash.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-085_p1.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-085_p1.png?260616"
   },
   {
     "id": "OP16-086",
@@ -2601,7 +2601,7 @@
     ],
     "effect": "-",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-086.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-086.png?260616"
   },
   {
     "id": "OP16-087",
@@ -2624,7 +2624,7 @@
     ],
     "effect": "[On Play] You may trash this Character: If your Leader has the {Land of Wano} type, draw 1 card and up to 1 of your [Kouzuki Momonosuke] gains +20 cost during this turn.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-087.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-087.png?260616"
   },
   {
     "id": "OP16-088",
@@ -2647,7 +2647,7 @@
     ],
     "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-088.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-088.png?260616"
   },
   {
     "id": "OP16-089",
@@ -2670,7 +2670,7 @@
     ],
     "effect": "[Rush: Character] (This card can attack Characters on the turn in which it is played.)<br>[On Play] Draw 2 cards and trash 2 cards from your hand. Then, give up to 1 of your opponent's Characters −4 cost during this turn.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-089.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-089.png?260616"
   },
   {
     "id": "OP16-090",
@@ -2695,7 +2695,7 @@
     ],
     "effect": "[On Play] Draw 2 cards and trash 2 cards from your hand. Then, K.O. up to 1 of your opponent's Characters with a cost of 1 or less.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-090.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-090.png?260616"
   },
   {
     "id": "OP16-091",
@@ -2719,7 +2719,7 @@
     ],
     "effect": "[On Play] If your Leader has the {Land of Wano} type, look at 4 cards from the top of your deck; reveal up to 1 {Land of Wano} type card other than [Nami] and add it to your hand. Then, trash the rest.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-091.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-091.png?260616"
   },
   {
     "id": "OP16-092",
@@ -2743,7 +2743,7 @@
     ],
     "effect": "[On Play] You may trash 1 Character card with a cost of 8 or more from your hand: Draw 2 cards.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-092.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-092.png?260616"
   },
   {
     "id": "OP16-093",
@@ -2767,7 +2767,7 @@
     ],
     "effect": "[On Play] Draw 2 cards and trash 2 cards from your hand. Then, give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-093.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-093.png?260616"
   },
   {
     "id": "OP16-094",
@@ -2791,7 +2791,7 @@
     ],
     "effect": "[On K.O.] Your opponent trashes 2 cards from their hand.<br>[Activate: Main] [Once Per Turn] Give up to 1 rested DON!! card to 1 of your {Land of Wano} type Leader or Character cards.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-094.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-094.png?260616"
   },
   {
     "id": "OP16-095",
@@ -2815,7 +2815,7 @@
     ],
     "effect": "[On Play] Up to 1 of your black {Land of Wano} type Characters gains [Unblockable] during this turn.<br>(This card cannot be blocked.)",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-095.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-095.png?260616"
   },
   {
     "id": "OP16-096",
@@ -2838,7 +2838,7 @@
     ],
     "effect": "[Unblockable] (This card cannot be blocked.)<br>[On K.O.] Play up to 1 [Yamato] with a cost of 6 or less from your trash.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-096.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-096.png?260616"
   },
   {
     "id": "OP16-097",
@@ -2861,7 +2861,7 @@
     ],
     "effect": "[On Play] Add up to 1 {Land of Wano} type Character card with a cost of 6 or less from your trash to your hand. Then, play up to 1 Character card with a cost of 2 or less from your hand.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-097.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-097.png?260616"
   },
   {
     "id": "OP16-098",
@@ -2884,7 +2884,7 @@
     ],
     "effect": "[On Play] Draw 1 card and trash 1 card from your hand.<br>[Activate: Main] You may trash this Character: Play up to 1 black [Yamato] with a cost of 8 from your trash.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-098.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-098.png?260616"
   },
   {
     "id": "OP16-098_p1",
@@ -2907,7 +2907,7 @@
     ],
     "effect": "[On Play] Draw 1 card and trash 1 card from your hand.<br>[Activate: Main] You may trash this Character: Play up to 1 black [Yamato] with a cost of 8 from your trash.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-098_p1.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-098_p1.png?260616"
   },
   {
     "id": "OP16-099",
@@ -2928,7 +2928,7 @@
     ],
     "effect": "[Main] You may rest 6 of your DON!! cards: Trash 5 cards from the top of your deck. Then, play up to 1 {Land of Wano} type Character card with a cost of 6 or less from your trash.<br>[Counter] Your Leader gains +3000 power during this battle.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-099.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-099.png?260616"
   },
   {
     "id": "OP16-100",
@@ -2949,7 +2949,7 @@
     ],
     "effect": "[Main] You may rest 2 of your DON!! cards: If your opponent's Character has been K.O.'d during this turn, set your Leader [Yamato] as active.<br>[Counter] Your Leader gains +3000 power during this battle.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-100.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-100.png?260616"
   },
   {
     "id": "OP16-101",
@@ -2970,7 +2970,7 @@
     ],
     "effect": "[Main] Up to 1 of your Leader or Character cards gains +3000 power during this turn. Then, if you have 10 or more cards in your trash, K.O. up to 1 of your opponent's Characters with a cost of 2 or less.",
     "trigger": "[Trigger] Add up to 1 [Yamato] from your trash to your hand.",
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-101.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-101.png?260616"
   },
   {
     "id": "OP16-102",
@@ -2994,7 +2994,7 @@
     ],
     "effect": "[On K.O.] Draw 1 card, then play up to 1 [Fullalead] from your hand or trash.",
     "trigger": "[Trigger] Activate this card's [On K.O.] effect.",
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-102.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-102.png?260616"
   },
   {
     "id": "OP16-103",
@@ -3017,7 +3017,7 @@
     ],
     "effect": "[Opponent's Turn] [On K.O.] If your Leader has the {Blackbeard Pirates} type, draw 1 card and give up to 1 of your opponent's Leader or Character cards −3000 power during this turn.",
     "trigger": "[Trigger] Activate this card's [On K.O.] effect.",
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-103.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-103.png?260616"
   },
   {
     "id": "OP16-104",
@@ -3041,7 +3041,7 @@
     ],
     "effect": "[When Attacking] Select up to 1 of your opponent's Characters. This Character's base power becomes the same as the selected Character's power during this turn.",
     "trigger": "[Trigger] Draw 1 card and play up to 1 {Blackbeard Pirates} type Character with a cost of 1 from your trash.",
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-104.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-104.png?260616"
   },
   {
     "id": "OP16-105",
@@ -3065,7 +3065,7 @@
     ],
     "effect": "-",
     "trigger": "[Trigger] If you have 1 or less Life cards, play up to 1 [Absalom], up to 1 [Dr. Hogback], and up to 1 [Perona], with a cost of 4 or less from your trash.",
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-105.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-105.png?260616"
   },
   {
     "id": "OP16-106",
@@ -3090,7 +3090,7 @@
     ],
     "effect": "[On K.O.] If your Leader has the {Blackbeard Pirates} type, draw 1 card, then up to 1 of your Leader or Character cards' base power becomes 7000 during this turn.",
     "trigger": "[Trigger] Activate this card's [On K.O.] effect.",
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-106.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-106.png?260616"
   },
   {
     "id": "OP16-107",
@@ -3113,7 +3113,7 @@
     ],
     "effect": "[On K.O.] Add up to 1 card from the top of your opponent's Life cards to the owner's hand.",
     "trigger": "[Trigger] You may trash 1 card from your hand: Play this card.",
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-107.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-107.png?260616"
   },
   {
     "id": "OP16-108",
@@ -3137,7 +3137,7 @@
     ],
     "effect": "[On Play] You may trash 1 card from your hand: Add up to 1 {Blackbeard Pirates} type card with a cost of 6 or less from your trash to the top of your Life cards face-up.",
     "trigger": "[Trigger] Draw 2 cards.",
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-108.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-108.png?260616"
   },
   {
     "id": "OP16-108_p1",
@@ -3161,7 +3161,7 @@
     ],
     "effect": "[On Play] You may trash 1 card from your hand: Add up to 1 {Blackbeard Pirates} type card with a cost of 6 or less from your trash to the top of your Life cards face-up.",
     "trigger": "[Trigger] Draw 2 cards.",
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-108_p1.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-108_p1.png?260616"
   },
   {
     "id": "OP16-109",
@@ -3184,7 +3184,7 @@
     ],
     "effect": "[On K.O.] If your Leader has the {Blackbeard Pirates} type, draw 1 card and K.O. up to 2 of your opponent's Characters with a cost of 1 or less.",
     "trigger": "[Trigger] Activate this card's [On K.O.] effect.",
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-109.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-109.png?260616"
   },
   {
     "id": "OP16-110",
@@ -3208,7 +3208,7 @@
     ],
     "effect": "[On K.O.] Draw 1 card and rest up to 1 of your opponent's Characters with a cost of 6 or less.",
     "trigger": "[Trigger] Activate this card's [On K.O.] effect.",
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-110.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-110.png?260616"
   },
   {
     "id": "OP16-111",
@@ -3231,7 +3231,7 @@
     ],
     "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
     "trigger": "[Trigger] If you have 2 or less Life cards, play this card.",
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-111.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-111.png?260616"
   },
   {
     "id": "OP16-112",
@@ -3254,7 +3254,7 @@
     ],
     "effect": "-",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-112.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-112.png?260616"
   },
   {
     "id": "OP16-113",
@@ -3277,7 +3277,7 @@
     ],
     "effect": "If you have 2 or less Life cards, this Character gains [Blocker].",
     "trigger": "[Trigger] If your Leader has the {Kuja Pirates} type, play this card.",
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-113.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-113.png?260616"
   },
   {
     "id": "OP16-114",
@@ -3300,7 +3300,7 @@
     ],
     "effect": "[On K.O.] K.O. up to 1 of your opponent's Characters with a cost of 4 or less.",
     "trigger": "[Trigger] Activate this card's [On K.O.] effect.",
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-114.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-114.png?260616"
   },
   {
     "id": "OP16-115",
@@ -3322,7 +3322,7 @@
     ],
     "effect": "[Main] If your Leader has the {Blackbeard Pirates} type, add up to 1 card with a [Trigger] other than [Black Vortex] from your trash to your hand.",
     "trigger": "[Trigger] Negate the effect of up to 1 of your opponent's Leader or Character cards during this turn.",
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-115.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-115.png?260616"
   },
   {
     "id": "OP16-116",
@@ -3344,7 +3344,7 @@
     ],
     "effect": "[Main] If you have 10 DON!! cards on your field, play up to 1 [Marshall.D.Teach] from your hand. Then, add up to 1 card from the top of your opponent's Life cards to the owner's hand.",
     "trigger": "[Trigger] Draw 2 cards and trash 1 card from your hand.",
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-116.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-116.png?260616"
   },
   {
     "id": "OP16-116_p1",
@@ -3366,7 +3366,7 @@
     ],
     "effect": "[Main] If you have 10 DON!! cards on your field, play up to 1 [Marshall.D.Teach] from your hand. Then, add up to 1 card from the top of your opponent's Life cards to the owner's hand.",
     "trigger": "[Trigger] Draw 2 cards and trash 1 card from your hand.",
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-116_p1.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-116_p1.png?260616"
   },
   {
     "id": "OP16-117",
@@ -3388,7 +3388,7 @@
     ],
     "effect": "[Main] You may trash 1 card with a [Trigger] from your hand: Negate the effects of up to 1 of your opponent's Characters with a cost of 8 or less during this turn.",
     "trigger": "[Trigger] Add up to 1 {Blackbeard Pirates} type card from your trash to your hand.",
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-117.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-117.png?260616"
   },
   {
     "id": "OP16-118",
@@ -3411,7 +3411,7 @@
     ],
     "effect": "The counter of all of your Character cards with 8000 power in your hand becomes +2000.<br>[On Play]/[On K.O.] Look at 5 cards from the top of your deck; reveal up to 1 [Monkey.D.Luffy] or up to 1 card with a type including \"Whitebeard Pirates\" and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-118.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-118.png?260616"
   },
   {
     "id": "OP16-118_p1",
@@ -3434,7 +3434,7 @@
     ],
     "effect": "The counter of all of your Character cards with 8000 power in your hand becomes +2000.<br>[On Play]/[On K.O.] Look at 5 cards from the top of your deck; reveal up to 1 [Monkey.D.Luffy] or up to 1 card with a type including \"Whitebeard Pirates\" and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-118_p1.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-118_p1.png?260616"
   },
   {
     "id": "OP16-119",
@@ -3458,7 +3458,7 @@
     ],
     "effect": "[On Play] Look at 3 cards from the top of your deck; add up to 1 card to the top of your Life cards. Then, place the rest at the bottom of your deck in any order.",
     "trigger": "[Trigger] Negate the effect of up to 1 of your opponent's Characters during this turn. Then, K.O. up to 1 of your opponent's Characters with a cost of 5 or less.",
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-119.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-119.png?260616"
   },
   {
     "id": "OP16-119_p1",
@@ -3482,7 +3482,7 @@
     ],
     "effect": "[On Play] Look at 3 cards from the top of your deck; add up to 1 card to the top of your Life cards. Then, place the rest at the bottom of your deck in any order.",
     "trigger": "[Trigger] Negate the effect of up to 1 of your opponent's Characters during this turn. Then, K.O. up to 1 of your opponent's Characters with a cost of 5 or less.",
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-119_p1.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP16-119_p1.png?260616"
   },
   {
     "id": "EB04-054_p1",
@@ -3506,7 +3506,7 @@
     ],
     "effect": "[On Play] If you have 2 or less Life cards, add up to 1 card from the top of your deck to the top of your Life cards.<br>[On K.O.] Add up to 1 card from the top of your opponent's Life cards to the owner's hand.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-054_p1.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-054_p1.png?260616"
   },
   {
     "id": "OP10-045_p2",
@@ -3530,7 +3530,7 @@
     ],
     "effect": "[When Attacking] [Once Per Turn] Draw 2 cards and trash 1 card from your hand.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP10-045_p2.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP10-045_p2.png?260616"
   },
   {
     "id": "OP11-067_p3",
@@ -3553,7 +3553,7 @@
     ],
     "effect": "[Blocker]<br>[End of Your Turn] Set up to 2 of your {Big Mom Pirates} type Characters with a cost of 3 or more as active. Then, add up to 1 DON!! card from your DON!! deck and rest it.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-067_p3.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-067_p3.png?260616"
   },
   {
     "id": "OP14-029_p1",
@@ -3576,7 +3576,7 @@
     ],
     "effect": "[Opponent's Turn] If this Character would be removed from the field by your opponent's effect, you may rest 1 of your cards instead.<br>[Activate: Main] [Once Per Turn] You may rest 2 of your cards: This Character gains +2000 power until the end of your opponent's next End Phase.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-029_p1.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-029_p1.png?260616"
   },
   {
     "id": "OP14-084_p2",
@@ -3599,7 +3599,7 @@
     ],
     "effect": "[On Play] If your Leader's type includes \"Baroque Works\", play up to 1 Character card with a type including \"Baroque Works\" and a cost of 4 or less and up to 1 Character card with a type including \"Baroque Works\" and a cost of 1 from your trash.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-084_p2.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-084_p2.png?260616"
   },
   {
     "id": "ST15-005_p5",
@@ -3622,6 +3622,6 @@
     ],
     "effect": "If your Leader's type includes \"Whitebeard Pirates\", this Character gains [Rush].<br>(This card can attack on the turn in which it is played.)<br>[Once Per Turn] If this Character would be removed from the field by your opponent's effect, you may give this Character −2000 power during this turn instead.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST15-005_p5.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST15-005_p5.png?260616"
   }
 ]

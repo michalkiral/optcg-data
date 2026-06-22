@@ -22,7 +22,7 @@
     ],
     "effect": "[When Attacking] If you have 2 or less Life cards, draw 1 card and trash 1 card from your hand.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-001.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-001.png?260616"
   },
   {
     "id": "ST29-001_p1",
@@ -47,7 +47,7 @@
     ],
     "effect": "[When Attacking] If you have 2 or less Life cards, draw 1 card and trash 1 card from your hand.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-001_p1.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-001_p1.png?260616"
   },
   {
     "id": "ST29-002",
@@ -71,7 +71,7 @@
     ],
     "effect": "[On Play]/[When Attacking] Rest up to 1 of your opponent's Characters with a cost equal to or less than the number of your opponent's Life cards.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-002.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-002.png?260616"
   },
   {
     "id": "ST29-002_p1",
@@ -95,7 +95,7 @@
     ],
     "effect": "[On Play]/[When Attacking] Rest up to 1 of your opponent's Characters with a cost equal to or less than the number of your opponent's Life cards.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-002_p1.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-002_p1.png?260616"
   },
   {
     "id": "ST29-003",
@@ -119,7 +119,7 @@
     ],
     "effect": "If the number of your Life cards is equal to or less than the number of your opponent's Life cards, this Character gains +1000 power.",
     "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with a cost of 3 or less.",
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-003.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-003.png?260616"
   },
   {
     "id": "ST29-003_p1",
@@ -143,7 +143,7 @@
     ],
     "effect": "If the number of your Life cards is equal to or less than the number of your opponent's Life cards, this Character gains +1000 power.",
     "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with a cost of 3 or less.",
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-003_p1.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-003_p1.png?260616"
   },
   {
     "id": "ST29-004",
@@ -167,7 +167,7 @@
     ],
     "effect": "[On Play] Look at 4 cards from the top of your deck; reveal up to 1 {Straw Hat Crew} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
     "trigger": "[Trigger] You may trash 1 card from your hand: Play this card.",
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-004.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-004.png?260616"
   },
   {
     "id": "ST29-004_p1",
@@ -191,7 +191,7 @@
     ],
     "effect": "[On Play] Look at 4 cards from the top of your deck; reveal up to 1 {Straw Hat Crew} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
     "trigger": "[Trigger] You may trash 1 card from your hand: Play this card.",
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-004_p1.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-004_p1.png?260616"
   },
   {
     "id": "ST29-005",
@@ -216,7 +216,7 @@
     ],
     "effect": "-",
     "trigger": "[Trigger] If your Leader is [Monkey.D.Luffy], play this card.",
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-005.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-005.png?260616"
   },
   {
     "id": "ST29-005_p1",
@@ -241,7 +241,7 @@
     ],
     "effect": "-",
     "trigger": "[Trigger] If your Leader is [Monkey.D.Luffy], play this card.",
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-005_p1.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-005_p1.png?260616"
   },
   {
     "id": "ST29-006",
@@ -264,7 +264,7 @@
     ],
     "effect": "-",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-006.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-006.png?260616"
   },
   {
     "id": "ST29-006_p1",
@@ -287,7 +287,7 @@
     ],
     "effect": "-",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-006_p1.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-006_p1.png?260616"
   },
   {
     "id": "ST29-007",
@@ -312,7 +312,7 @@
     ],
     "effect": "[On K.O.] You may add 1 card from the top or bottom of your Life cards to your hand: Add up to 1 card from your hand to the top of your Life cards.",
     "trigger": "[Trigger] Up to 1 of your [Monkey.D.Luffy] cards gains +2000 power during this turn.",
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-007.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-007.png?260616"
   },
   {
     "id": "ST29-007_p1",
@@ -337,7 +337,7 @@
     ],
     "effect": "[On K.O.] You may add 1 card from the top or bottom of your Life cards to your hand: Add up to 1 card from your hand to the top of your Life cards.",
     "trigger": "[Trigger] Up to 1 of your [Monkey.D.Luffy] cards gains +2000 power during this turn.",
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-007_p1.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-007_p1.png?260616"
   },
   {
     "id": "ST29-008",
@@ -361,7 +361,7 @@
     ],
     "effect": "If your {Egghead} type Character would be K.O.'d by your opponent's effect, you may turn 1 card from the top of your Life cards face-up instead.",
     "trigger": "[Trigger] If your Leader is [Monkey.D.Luffy], play this card.",
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-008.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-008.png?260616"
   },
   {
     "id": "ST29-008_p1",
@@ -385,7 +385,7 @@
     ],
     "effect": "If your {Egghead} type Character would be K.O.'d by your opponent's effect, you may turn 1 card from the top of your Life cards face-up instead.",
     "trigger": "[Trigger] If your Leader is [Monkey.D.Luffy], play this card.",
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-008_p1.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-008_p1.png?260616"
   },
   {
     "id": "ST29-009",
@@ -409,7 +409,7 @@
     ],
     "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
     "trigger": "[Trigger] If your Leader is [Monkey.D.Luffy], play this card.",
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-009.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-009.png?260616"
   },
   {
     "id": "ST29-009_p1",
@@ -433,7 +433,7 @@
     ],
     "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
     "trigger": "[Trigger] If your Leader is [Monkey.D.Luffy], play this card.",
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-009_p1.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-009_p1.png?260616"
   },
   {
     "id": "ST29-010",
@@ -457,7 +457,7 @@
     ],
     "effect": "-",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-010.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-010.png?260616"
   },
   {
     "id": "ST29-010_p1",
@@ -481,7 +481,7 @@
     ],
     "effect": "-",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-010_p1.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-010_p1.png?260616"
   },
   {
     "id": "ST29-011",
@@ -505,7 +505,7 @@
     ],
     "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-011.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-011.png?260616"
   },
   {
     "id": "ST29-011_p1",
@@ -529,7 +529,7 @@
     ],
     "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-011_p1.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-011_p1.png?260616"
   },
   {
     "id": "ST29-012",
@@ -554,7 +554,7 @@
     ],
     "effect": "[Activate: Main] [Once Per Turn] Give up to 1 rested DON!! card to 1 of your [Monkey.D.Luffy] cards.",
     "trigger": "[Trigger] Play this card.",
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-012.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-012.png?260616"
   },
   {
     "id": "ST29-012_p1",
@@ -579,7 +579,7 @@
     ],
     "effect": "[Activate: Main] [Once Per Turn] Give up to 1 rested DON!! card to 1 of your [Monkey.D.Luffy] cards.",
     "trigger": "[Trigger] Play this card.",
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-012_p1.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-012_p1.png?260616"
   },
   {
     "id": "ST29-013",
@@ -603,7 +603,7 @@
     ],
     "effect": "-",
     "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with a cost equal to or less than the total of your and your opponent's Life cards.",
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-013.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-013.png?260616"
   },
   {
     "id": "ST29-013_p1",
@@ -627,7 +627,7 @@
     ],
     "effect": "-",
     "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with a cost equal to or less than the total of your and your opponent's Life cards.",
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-013_p1.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-013_p1.png?260616"
   },
   {
     "id": "ST29-014",
@@ -651,7 +651,7 @@
     ],
     "effect": "[Rush: Character] (This card can attack Characters on the turn in which it is played.)<br>[Activate: Main] [Once Per Turn] You may trash 1 card with a [Trigger] from your hand: Draw 1 card and give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-014.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-014.png?260616"
   },
   {
     "id": "ST29-014_p1",
@@ -675,7 +675,7 @@
     ],
     "effect": "[Rush: Character] (This card can attack Characters on the turn in which it is played.)<br>[Activate: Main] [Once Per Turn] You may trash 1 card with a [Trigger] from your hand: Draw 1 card and give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-014_p1.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-014_p1.png?260616"
   },
   {
     "id": "ST29-015",
@@ -697,7 +697,7 @@
     ],
     "effect": "[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle. Then, if you have 1 or less Life cards, give up to 1 of your opponent's Leader or Character cards −2000 power during this turn.",
     "trigger": "[Trigger] Draw 1 card.",
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-015.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-015.png?260616"
   },
   {
     "id": "ST29-016",
@@ -720,7 +720,7 @@
     ],
     "effect": "[Main] Your [Monkey.D.Luffy] Leader gains [Unblockable] during this turn.<br>(This card cannot be blocked.)<br>[Counter] Your Leader gains +3000 power during this battle.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-016.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-016.png?260616"
   },
   {
     "id": "ST29-017",
@@ -742,6 +742,6 @@
     ],
     "effect": "[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, if you have 2 or less Life cards, K.O. up to 1 of your opponent's Characters with a cost of 3 or less.",
     "trigger": "[Trigger] Draw 2 cards and trash 1 card from your hand.",
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-017.png?260529"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-017.png?260616"
   }
 ]
