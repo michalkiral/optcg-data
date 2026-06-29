@@ -21,7 +21,7 @@
     ],
     "effect": "[Activate: Main] [Once Per Turn]  ③ (You may rest the specified number of DON!! cards in your cost area.) You may trash 1 card from your hand: Set this Leader as active.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-001.png?260616"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-001.png?260626"
   },
   {
     "id": "ST02-002",
@@ -44,7 +44,7 @@
     ],
     "effect": "-",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-002.png?260616"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-002.png?260626"
   },
   {
     "id": "ST02-003",
@@ -68,7 +68,7 @@
     ],
     "effect": "[DON!! x1] If you have 3 or more Characters, this card gains +2000 power.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-003.png?260616"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-003.png?260626"
   },
   {
     "id": "ST02-004",
@@ -92,7 +92,7 @@
     ],
     "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-004.png?260616"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-004.png?260626"
   },
   {
     "id": "ST02-005",
@@ -116,7 +116,7 @@
     ],
     "effect": "[On Play] K.O. up to 1 of your opponent's rested Characters with a cost of 3 or less.",
     "trigger": "[Trigger] Play this card.",
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-005.png?260616"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-005.png?260626"
   },
   {
     "id": "ST02-006",
@@ -139,7 +139,7 @@
     ],
     "effect": "-",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-006.png?260616"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-006.png?260626"
   },
   {
     "id": "ST02-007",
@@ -163,7 +163,7 @@
     ],
     "effect": "[Activate: Main] ➀ (You may rest the specified number of DON!! cards in your cost area.) You may rest this Character: Look at 5 cards from the top of your deck; reveal up to 1 {Supernovas} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-007.png?260616"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-007.png?260626"
   },
   {
     "id": "ST02-008",
@@ -187,7 +187,7 @@
     ],
     "effect": "[DON!! x1] [When Attacking] Rest up to 1 of your opponent's DON!! cards.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-008.png?260616"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-008.png?260626"
   },
   {
     "id": "ST02-009",
@@ -211,7 +211,7 @@
     ],
     "effect": "[On Play] Set up to 1 of your {Supernovas} or {Heart Pirates} type rested Characters with a cost of 5 or less as active.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-009.png?260616"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-009.png?260626"
   },
   {
     "id": "ST02-010",
@@ -235,7 +235,7 @@
     ],
     "effect": "[DON!! x1] [Once Per Turn] [Your Turn] If this Character battles your opponent's Character, set this card as active.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-010.png?260616"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-010.png?260626"
   },
   {
     "id": "ST02-011",
@@ -258,7 +258,7 @@
     ],
     "effect": "-",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-011.png?260616"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-011.png?260626"
   },
   {
     "id": "ST02-012",
@@ -282,7 +282,7 @@
     ],
     "effect": "-",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-012.png?260616"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-012.png?260626"
   },
   {
     "id": "ST02-013",
@@ -306,7 +306,7 @@
     ],
     "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[DON!! x1] [End of Your Turn] Set this Character as active.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-013.png?260616"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-013.png?260626"
   },
   {
     "id": "ST02-014",
@@ -331,7 +331,7 @@
     ],
     "effect": "[DON!! x1] [Your Turn] If this Character is rested, your {Supernovas} or {Navy} type Leaders and Characters gain +1000 power.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-014.png?260616"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-014.png?260626"
   },
   {
     "id": "ST02-015",
@@ -353,7 +353,7 @@
     ],
     "effect": "[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle. Then, set up to 1 of your DON!! cards as active.",
     "trigger": "[Trigger] Set up to 2 of your DON!! cards as active.",
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-015.png?260616"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-015.png?260626"
   },
   {
     "id": "ST02-016",
@@ -375,7 +375,7 @@
     ],
     "effect": "[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, set up to 1 of your DON!! cards as active.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-016.png?260616"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-016.png?260626"
   },
   {
     "id": "ST02-017",
@@ -397,6 +397,6 @@
     ],
     "effect": "[Main] Rest up to 1 of your opponent's Characters.",
     "trigger": "[Trigger] Play up to 1 {Supernovas} type card with a cost of 2 or less from your hand.",
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-017.png?260616"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-017.png?260626"
   }
 ]

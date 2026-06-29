@@ -20,7 +20,7 @@
     ],
     "effect": "[Your Turn] When a Character is K.O.'d, give up to 1 rested DON!! card to this Leader.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST08-001.png?260616"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST08-001.png?260626"
   },
   {
     "id": "ST08-002",
@@ -43,7 +43,7 @@
     ],
     "effect": "This Character cannot be K.O.'d in battle by Leaders.<br>[Activate: Main] You may rest this Character: Give up to 1 of your opponent's Characters −2 cost during this turn.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST08-002.png?260616"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST08-002.png?260626"
   },
   {
     "id": "ST08-003",
@@ -66,7 +66,7 @@
     ],
     "effect": "-",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST08-003.png?260616"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST08-003.png?260626"
   },
   {
     "id": "ST08-004",
@@ -89,7 +89,7 @@
     ],
     "effect": "[Activate: Main] You may rest this Character: K.O. up to 1 of your opponent's Characters with a cost of 2 or less.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST08-004.png?260616"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST08-004.png?260626"
   },
   {
     "id": "ST08-005",
@@ -112,7 +112,7 @@
     ],
     "effect": "[On Play] You may trash 1 card from your hand: K.O. all Characters with a cost of 1 or less.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST08-005.png?260616"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST08-005.png?260626"
   },
   {
     "id": "ST08-006",
@@ -135,7 +135,7 @@
     ],
     "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On Play] Give up to 1 of your opponent's Characters −4 cost during this turn.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST08-006.png?260616"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST08-006.png?260626"
   },
   {
     "id": "ST08-007",
@@ -158,7 +158,7 @@
     ],
     "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
     "trigger": "[Trigger] Play this card.",
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST08-007.png?260616"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST08-007.png?260626"
   },
   {
     "id": "ST08-008",
@@ -181,7 +181,7 @@
     ],
     "effect": "[On Play] Give up to 1 of your opponent's Characters −2 cost during this turn.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST08-008.png?260616"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST08-008.png?260626"
   },
   {
     "id": "ST08-009",
@@ -204,7 +204,7 @@
     ],
     "effect": "[On Play] If there is a Character with a cost of 0, draw 1 card.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST08-009.png?260616"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST08-009.png?260626"
   },
   {
     "id": "ST08-010",
@@ -227,7 +227,7 @@
     ],
     "effect": "-",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST08-010.png?260616"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST08-010.png?260626"
   },
   {
     "id": "ST08-011",
@@ -250,7 +250,7 @@
     ],
     "effect": "-",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST08-011.png?260616"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST08-011.png?260626"
   },
   {
     "id": "ST08-012",
@@ -273,7 +273,7 @@
     ],
     "effect": "-",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST08-012.png?260616"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST08-012.png?260626"
   },
   {
     "id": "ST08-013",
@@ -296,7 +296,7 @@
     ],
     "effect": "[DON!! x1] At the end of a battle in which this Character battles your opponent's Character, you may K.O. the opponent’s Character you battled with. If you do, K.O. this Character.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST08-013.png?260616"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST08-013.png?260626"
   },
   {
     "id": "ST08-014",
@@ -317,7 +317,7 @@
     ],
     "effect": "[Main] You may add 1 card from the top of your Life cards to your hand: Give up to 1 of your opponent's Characters −7 cost during this turn.",
     "trigger": "[Trigger] Add up to 1 black Character card with a cost of 2 or less from your trash to your hand.",
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST08-014.png?260616"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST08-014.png?260626"
   },
   {
     "id": "ST08-015",
@@ -338,6 +338,6 @@
     ],
     "effect": "[Main] K.O. up to 1 of your opponent's Characters with a cost of 2 or less.",
     "trigger": "[Trigger] Draw 1 card.",
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST08-015.png?260616"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST08-015.png?260626"
   }
 ]
