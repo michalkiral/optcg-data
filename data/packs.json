@@ -117,7 +117,7 @@
     "code": "OTHER-PRODUCT-CARD",
     "name": "Other Product Card",
     "vegapullId": "569801",
-    "cardCount": 185
+    "cardCount": 189
   },
   {
     "code": "PRB-01",
@@ -135,7 +135,7 @@
     "code": "PROMOTION-CARD",
     "name": "Promotion card",
     "vegapullId": "569901",
-    "cardCount": 460
+    "cardCount": 467
   },
   {
     "code": "ST-01",
@@ -316,5 +316,41 @@
     "name": "Luffy & Ace",
     "vegapullId": "569030",
     "cardCount": 34
+  },
+  {
+    "code": "ST-31",
+    "name": "RED Monkey.D.Luffy",
+    "vegapullId": "569031",
+    "cardCount": 15
+  },
+  {
+    "code": "ST-32",
+    "name": "GREEN Roronoa Zoro",
+    "vegapullId": "569032",
+    "cardCount": 15
+  },
+  {
+    "code": "ST-33",
+    "name": "BLUE Kuzan",
+    "vegapullId": "569033",
+    "cardCount": 15
+  },
+  {
+    "code": "ST-34",
+    "name": "PURPLE Charlotte Katakuri",
+    "vegapullId": "569034",
+    "cardCount": 15
+  },
+  {
+    "code": "ST-35",
+    "name": "RED/BLACK Sabo",
+    "vegapullId": "569035",
+    "cardCount": 15
+  },
+  {
+    "code": "ST-36",
+    "name": "YELLOW Eustass\"Captain\"Kid",
+    "vegapullId": "569036",
+    "cardCount": 15
   }
 ]
