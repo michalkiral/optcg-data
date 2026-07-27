@@ -42,7 +42,7 @@
       "Fish-Man",
       "Straw Hat Crew"
     ],
-    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[Opponent's Turn] If you have 10 DON!! cards on your field, this Character gains +1000 power.",
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [Opponent's Turn] If you have 10 DON!! cards on your field, this Character gains +1000 power.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-066_r2.png?260715"
   },
@@ -65,7 +65,7 @@
     "types": [
       "Straw Hat Crew"
     ],
-    "effect": "[DON!! x1] If you have 8 or more DON!! cards on your field, this Character gains [Rush].<br>(This card can attack on the turn in which it is played.)",
+    "effect": "[DON!! x1] If you have 8 or more DON!! cards on your field, this Character gains [Rush]. (This card can attack on the turn in which it is played.)",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-070_r2.png?260715"
   },
@@ -90,7 +90,7 @@
       "The Four Emperors",
       "Straw Hat Crew"
     ],
-    "effect": "[DON!! x1] All of your Characters gain +1 cost.<br>[Your Turn] [Once Per Turn] When 2 or more DON!! cards on your field are returned to your DON!! deck, add up to 1 DON!! card from your DON!! deck and set it as active, and add up to 1 additional DON!! card and rest it.",
+    "effect": "[DON!! x1] All of your Characters gain +1 cost. [Your Turn] [Once Per Turn] When 2 or more DON!! cards on your field are returned to your DON!! deck, add up to 1 DON!! card from your DON!! deck and set it as active, and add up to 1 additional DON!! card and rest it.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-061_p2.png?260715"
   },
@@ -249,7 +249,7 @@
     "types": [
       "Straw Hat Crew"
     ],
-    "effect": "If you have a [San-Gorou] or [Sanji] Character with 7000 base power or more, give this card in your hand −5 cost.<br>[On Play] Return all of your [San-Gorou] and [Sanji] Characters to the owner's hand.",
+    "effect": "If you have a [San-Gorou] or [Sanji] Character with 7000 base power or more, give this card in your hand −5 cost. [On Play] Return all of your [San-Gorou] and [Sanji] Characters to the owner's hand.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST26-001.png?260715"
   },
@@ -273,7 +273,7 @@
       "Animal",
       "Straw Hat Crew"
     ],
-    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On Play] DON!! −2 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Rest up to 1 of your opponent's DON!! cards or Characters with a cost of 1 or less.",
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] DON!! −2 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Rest up to 1 of your opponent's DON!! cards or Characters with a cost of 1 or less.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST26-002.png?260715"
   },

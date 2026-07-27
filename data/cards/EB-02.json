@@ -20,7 +20,7 @@
       "Land of Wano",
       "Kouzuki Clan"
     ],
-    "effect": "All of your {Land of Wano} type Character cards without a Counter have a +1000 Counter, according to the rules.<br>[DON!! x1] [When Attacking] If you have a {Land of Wano} type Character with a cost of 5 or more, this Leader gains +1000 power until the start of your next turn.",
+    "effect": "All of your {Land of Wano} type Character cards without a Counter have a +1000 Counter, according to the rules. [DON!! x1] [When Attacking] If you have a {Land of Wano} type Character with a cost of 5 or more, this Leader gains +1000 power until the start of your next turn.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-001_p2.png?260715"
   },
@@ -141,7 +141,7 @@
       "Drum Kingdom",
       "Straw Hat Crew"
     ],
-    "effect": "[DON!! x2] [Opponent's Turn] This Character gains +2000 power.<br>[On Play] If your Leader has the {Straw Hat Crew} type, give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
+    "effect": "[DON!! x2] [Opponent's Turn] This Character gains +2000 power. [On Play] If your Leader has the {Straw Hat Crew} type, give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB02-003.png?260715"
   },
@@ -166,7 +166,7 @@
       "Drum Kingdom",
       "Straw Hat Crew"
     ],
-    "effect": "[DON!! x2] [Opponent's Turn] This Character gains +2000 power.<br>[On Play] If your Leader has the {Straw Hat Crew} type, give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
+    "effect": "[DON!! x2] [Opponent's Turn] This Character gains +2000 power. [On Play] If your Leader has the {Straw Hat Crew} type, give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB02-003_p1.png?260715"
   },
@@ -212,7 +212,7 @@
     "types": [
       "Fake Straw Hat Crew"
     ],
-    "effect": "[Your Turn] This Character gains +2000 power.<br>[Opponent's Turn] Give this Character −2000 power.",
+    "effect": "[Your Turn] This Character gains +2000 power. [Opponent's Turn] Give this Character −2000 power.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB02-005.png?260715"
   },
@@ -562,7 +562,7 @@
       "Animal",
       "Straw Hat Crew"
     ],
-    "effect": "Also treat this card's name as [Tony Tony.Chopper] according to the rules.<br>[On Play] Play up to 1 {Animal} type Character card with a cost of 3 or less from your hand.",
+    "effect": "Also treat this card's name as [Tony Tony.Chopper] according to the rules. [On Play] Play up to 1 {Animal} type Character card with a cost of 3 or less from your hand.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB02-016.png?260715"
   },
@@ -658,7 +658,7 @@
       "East Blue",
       "Straw Hat Crew"
     ],
-    "effect": "If your opponent has 2 or more Characters, this Character can attack Characters on the turn in which it is played.<br>[On Play] If your Leader has the {Straw Hat Crew} type, rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+    "effect": "If your opponent has 2 or more Characters, this Character can attack Characters on the turn in which it is played. [On Play] If your Leader has the {Straw Hat Crew} type, rest up to 1 of your opponent's Characters with a cost of 4 or less.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB02-019.png?260715"
   },
@@ -796,7 +796,7 @@
     "types": [
       "Sniper Island"
     ],
-    "effect": "Also treat this card's name as [Usopp] according to the rules.<br>[On Play] Draw 2 cards and place 2 cards from your hand at the bottom of your deck in any order. Then, return up to 1 Character with a cost of 1 or less to the owner's hand.",
+    "effect": "Also treat this card's name as [Usopp] according to the rules. [On Play] Draw 2 cards and place 2 cards from your hand at the bottom of your deck in any order. Then, return up to 1 Character with a cost of 1 or less to the owner's hand.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB02-024.png?260715"
   },
@@ -1076,7 +1076,7 @@
       "Big Mom Pirates",
       "Straw Hat Crew"
     ],
-    "effect": "[Your Turn] [Once Per Turn] When 2 or more DON!! cards on your field are returned to your DON!! deck, add up to 1 DON!! card from your DON!! deck and set it as active.<br>[On Play] If the number of DON!! cards on your field is equal to or less than the number on your opponent's field, draw 1 card.",
+    "effect": "[Your Turn] [Once Per Turn] When 2 or more DON!! cards on your field are returned to your DON!! deck, add up to 1 DON!! card from your DON!! deck and set it as active. [On Play] If the number of DON!! cards on your field is equal to or less than the number on your opponent's field, draw 1 card.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB02-035.png?260715"
   },
@@ -1101,7 +1101,7 @@
       "Big Mom Pirates",
       "Straw Hat Crew"
     ],
-    "effect": "[Your Turn] [Once Per Turn] When 2 or more DON!! cards on your field are returned to your DON!! deck, add up to 1 DON!! card from your DON!! deck and set it as active.<br>[On Play] If the number of DON!! cards on your field is equal to or less than the number on your opponent's field, draw 1 card.",
+    "effect": "[Your Turn] [Once Per Turn] When 2 or more DON!! cards on your field are returned to your DON!! deck, add up to 1 DON!! card from your DON!! deck and set it as active. [On Play] If the number of DON!! cards on your field is equal to or less than the number on your opponent's field, draw 1 card.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB02-035_p1.png?260715"
   },
@@ -1124,7 +1124,7 @@
     "types": [
       "Straw Hat Crew"
     ],
-    "effect": "[Blocker]<br>[On K.O.] DON!! −1: Look at 3 cards from the top of your deck; reveal up to 1 {Straw Hat Crew} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "effect": "[Blocker] [On K.O.] DON!! −1: Look at 3 cards from the top of your deck; reveal up to 1 {Straw Hat Crew} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB02-036.png?260715"
   },
@@ -1147,7 +1147,7 @@
     "types": [
       "Straw Hat Crew"
     ],
-    "effect": "[Blocker]<br>[On K.O.] DON!! −1: Look at 3 cards from the top of your deck; reveal up to 1 {Straw Hat Crew} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "effect": "[Blocker] [On K.O.] DON!! −1: Look at 3 cards from the top of your deck; reveal up to 1 {Straw Hat Crew} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB02-036_p1.png?260715"
   },
@@ -1258,7 +1258,7 @@
     "types": [
       "Straw Hat Crew"
     ],
-    "effect": "[On Play] If your Leader has the {Straw Hat Crew} type, draw 1 card.<br>[Activate: Main] You may rest this Stage: If the number of DON!! cards on your field is equal to or less than the number on your opponent's field, up to 1 of your {Straw Hat Crew} type Characters gains +2 cost until the end of your opponent's next turn.",
+    "effect": "[On Play] If your Leader has the {Straw Hat Crew} type, draw 1 card. [Activate: Main] You may rest this Stage: If the number of DON!! cards on your field is equal to or less than the number on your opponent's field, up to 1 of your {Straw Hat Crew} type Characters gains +2 cost until the end of your opponent's next turn.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB02-041.png?260715"
   },
@@ -1327,7 +1327,7 @@
     "types": [
       "Navy"
     ],
-    "effect": "[Blocker]<br>[On Play] Play up to 1 black {Navy} type Character card with a cost of 4 or less from your trash rested.",
+    "effect": "[Blocker] [On Play] Play up to 1 black {Navy} type Character card with a cost of 4 or less from your trash rested.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB02-044.png?260715"
   },
@@ -1350,7 +1350,7 @@
     "types": [
       "Navy"
     ],
-    "effect": "[Blocker]<br>[On Play] Play up to 1 black {Navy} type Character card with a cost of 4 or less from your trash rested.",
+    "effect": "[Blocker] [On Play] Play up to 1 black {Navy} type Character card with a cost of 4 or less from your trash rested.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB02-044_p1.png?260715"
   },
@@ -1375,7 +1375,7 @@
       "Supernovas",
       "Heart Pirates"
     ],
-    "effect": "[Blocker]<br>[On Play] You may place 2 cards from your trash at the bottom of your deck in any order: Choose one:<br>• Draw 1 card.<br>• If your opponent has 5 or more cards in their hand, your opponent trashes 1 card from their hand.",
+    "effect": "[Blocker] [On Play] You may place 2 cards from your trash at the bottom of your deck in any order: Choose one: • Draw 1 card. • If your opponent has 5 or more cards in their hand, your opponent trashes 1 card from their hand.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB02-045.png?260715"
   },
@@ -1400,7 +1400,7 @@
       "Supernovas",
       "Heart Pirates"
     ],
-    "effect": "[Blocker]<br>[On Play] You may place 2 cards from your trash at the bottom of your deck in any order: Choose one:<br>• Draw 1 card.<br>• If your opponent has 5 or more cards in their hand, your opponent trashes 1 card from their hand.",
+    "effect": "[Blocker] [On Play] You may place 2 cards from your trash at the bottom of your deck in any order: Choose one: • Draw 1 card. • If your opponent has 5 or more cards in their hand, your opponent trashes 1 card from their hand.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB02-045_p1.png?260715"
   },
@@ -1469,7 +1469,7 @@
     "types": [
       "Straw Hat Crew"
     ],
-    "effect": "[On Play] Add up to 1 [Laboon] from your trash to your hand.<br>[On K.O.] Play up to 1 [Laboon] with a cost of 4 or less from your hand.",
+    "effect": "[On Play] Add up to 1 [Laboon] from your trash to your hand. [On K.O.] Play up to 1 [Laboon] with a cost of 4 or less from your hand.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB02-048.png?260715"
   },
@@ -1492,7 +1492,7 @@
     "types": [
       "Straw Hat Crew"
     ],
-    "effect": "[On Play] Add up to 1 [Laboon] from your trash to your hand.<br>[On K.O.] Play up to 1 [Laboon] with a cost of 4 or less from your hand.",
+    "effect": "[On Play] Add up to 1 [Laboon] from your trash to your hand. [On K.O.] Play up to 1 [Laboon] with a cost of 4 or less from your hand.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB02-048_p1.png?260715"
   },
@@ -1515,7 +1515,7 @@
     "types": [
       "Navy"
     ],
-    "effect": "[On Play] Give up to 2 rested DON!! cards to 1 of your Leader.<br>[Activate: Main] You may rest this Character: If your Leader is [Monkey.D.Garp], K.O. up to 1 of your opponent's Characters with a cost of 1 or less.",
+    "effect": "[On Play] Give up to 2 rested DON!! cards to 1 of your Leader. [Activate: Main] You may rest this Character: If your Leader is [Monkey.D.Garp], K.O. up to 1 of your opponent's Characters with a cost of 1 or less.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB02-049.png?260715"
   },
@@ -1557,7 +1557,7 @@
     "types": [
       "Former Rumbar Pirates"
     ],
-    "effect": "[Main] Choose one:<br>• K.O. up to 1 of your opponent's Characters with a cost of 2 or less.<br>• Give up to 1 of your opponent's Characters −4 cost during this turn.",
+    "effect": "[Main] Choose one: • K.O. up to 1 of your opponent's Characters with a cost of 2 or less. • Give up to 1 of your opponent's Characters −4 cost during this turn.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB02-051.png?260715"
   },
@@ -1580,7 +1580,7 @@
     "types": [
       "Sky Island"
     ],
-    "effect": "If your Leader has the {Sky Island} type, this Character gains [Rush].<br>[When Attacking] You may trash 1 card from your hand: If you have 1 or less Life cards, add up to 1 card from the top of your deck to the top of your Life cards. Then, this Character gains +1000 power during this turn.",
+    "effect": "If your Leader has the {Sky Island} type, this Character gains [Rush]. [When Attacking] You may trash 1 card from your hand: If you have 1 or less Life cards, add up to 1 card from the top of your deck to the top of your Life cards. Then, this Character gains +1000 power during this turn.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB02-052.png?260715"
   },
@@ -1603,7 +1603,7 @@
     "types": [
       "Sky Island"
     ],
-    "effect": "If your Leader has the {Sky Island} type, this Character gains [Rush].<br>[When Attacking] You may trash 1 card from your hand: If you have 1 or less Life cards, add up to 1 card from the top of your deck to the top of your Life cards. Then, this Character gains +1000 power during this turn.",
+    "effect": "If your Leader has the {Sky Island} type, this Character gains [Rush]. [When Attacking] You may trash 1 card from your hand: If you have 1 or less Life cards, add up to 1 card from the top of your deck to the top of your Life cards. Then, this Character gains +1000 power during this turn.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB02-052_p1.png?260715"
   },
@@ -1650,7 +1650,7 @@
       "East Blue",
       "Straw Hat Crew"
     ],
-    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On Play] If you have 2 or less Life cards, draw 2 cards and trash 1 card from your hand.",
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] If you have 2 or less Life cards, draw 2 cards and trash 1 card from your hand.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB02-054.png?260715"
   },
@@ -1674,7 +1674,7 @@
       "East Blue",
       "Straw Hat Crew"
     ],
-    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On Play] If you have 2 or less Life cards, draw 2 cards and trash 1 card from your hand.",
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] If you have 2 or less Life cards, draw 2 cards and trash 1 card from your hand.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB02-054_p1.png?260715"
   },
@@ -1722,7 +1722,7 @@
       "Scientist",
       "Egghead"
     ],
-    "effect": "[Blocker]<br>[On Play] Look at 5 cards from the top of your deck; play up to 1 {Scientist} type Character card with a cost of 5 or less other than [Vegapunk]. Then, place the rest at the bottom of your deck in any order and if your opponent has 2 or less Characters, trash 1 card from your hand.",
+    "effect": "[Blocker] [On Play] Look at 5 cards from the top of your deck; play up to 1 {Scientist} type Character card with a cost of 5 or less other than [Vegapunk]. Then, place the rest at the bottom of your deck in any order and if your opponent has 2 or less Characters, trash 1 card from your hand.",
     "trigger": "[Trigger] Draw 1 card.",
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB02-056.png?260715"
   },
@@ -1746,7 +1746,7 @@
       "Scientist",
       "Egghead"
     ],
-    "effect": "[Blocker]<br>[On Play] Look at 5 cards from the top of your deck; play up to 1 {Scientist} type Character card with a cost of 5 or less other than [Vegapunk]. Then, place the rest at the bottom of your deck in any order and if your opponent has 2 or less Characters, trash 1 card from your hand.",
+    "effect": "[Blocker] [On Play] Look at 5 cards from the top of your deck; play up to 1 {Scientist} type Character card with a cost of 5 or less other than [Vegapunk]. Then, place the rest at the bottom of your deck in any order and if your opponent has 2 or less Characters, trash 1 card from your hand.",
     "trigger": "[Trigger] Draw 1 card.",
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB02-056_p1.png?260715"
   },
@@ -1856,7 +1856,7 @@
       "Water Seven",
       "Straw Hat Crew"
     ],
-    "effect": "If your Leader is multicolored and your opponent has 5 or more DON!! cards on their field, this Character gains [Rush].<br>[When Attacking] [Once Per Turn] You may return 2 of your active DON!! cards to your DON!! deck: Set this Character as active. Then, add 1 card from the top of your Life cards to your hand.",
+    "effect": "If your Leader is multicolored and your opponent has 5 or more DON!! cards on their field, this Character gains [Rush]. [When Attacking] [Once Per Turn] You may return 2 of your active DON!! cards to your DON!! deck: Set this Character as active. Then, add 1 card from the top of your Life cards to your hand.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB02-061.png?260715"
   },
@@ -1880,7 +1880,7 @@
       "Water Seven",
       "Straw Hat Crew"
     ],
-    "effect": "If your Leader is multicolored and your opponent has 5 or more DON!! cards on their field, this Character gains [Rush].<br>[When Attacking] [Once Per Turn] You may return 2 of your active DON!! cards to your DON!! deck: Set this Character as active. Then, add 1 card from the top of your Life cards to your hand.",
+    "effect": "If your Leader is multicolored and your opponent has 5 or more DON!! cards on their field, this Character gains [Rush]. [When Attacking] [Once Per Turn] You may return 2 of your active DON!! cards to your DON!! deck: Set this Character as active. Then, add 1 card from the top of your Life cards to your hand.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB02-061_p1.png?260715"
   },
@@ -1904,7 +1904,7 @@
       "Water Seven",
       "Straw Hat Crew"
     ],
-    "effect": "If your Leader is multicolored and your opponent has 5 or more DON!! cards on their field, this Character gains [Rush].<br>[When Attacking] [Once Per Turn] You may return 2 of your active DON!! cards to your DON!! deck: Set this Character as active. Then, add 1 card from the top of your Life cards to your hand.",
+    "effect": "If your Leader is multicolored and your opponent has 5 or more DON!! cards on their field, this Character gains [Rush]. [When Attacking] [Once Per Turn] You may return 2 of your active DON!! cards to your DON!! deck: Set this Character as active. Then, add 1 card from the top of your Life cards to your hand.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB02-061_p2.png?260715"
   },
@@ -1977,7 +1977,7 @@
       "Navy",
       "Donquixote Pirates"
     ],
-    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[End of Your Turn] If you have 6 or less cards in your hand, set this Leader as active.",
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [End of Your Turn] If you have 6 or less cards in your hand, set this Leader as active.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-022_p2.png?260715"
   },
@@ -2095,7 +2095,7 @@
     "types": [
       "Thriller Bark Pirates"
     ],
-    "effect": "[Activate: Main] [Once Per Turn] Choose one:<br>• Rest up to 1 of your opponent's Characters with a cost of 4 or less.<br>• Give up to 1 of your opponent's Characters −1 cost during this turn.",
+    "effect": "[Activate: Main] [Once Per Turn] Choose one: • Rest up to 1 of your opponent's Characters with a cost of 4 or less. • Give up to 1 of your opponent's Characters −1 cost during this turn.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP06-021_p2.png?260715"
   },
@@ -2119,7 +2119,7 @@
     "types": [
       "Land of Wano"
     ],
-    "effect": "[Double Attack] (This card deals 2 damage.)<br>[Activate: Main] [Once Per Turn] If your opponent has 3 or less Life cards, give up to 2 rested DON!! cards to 1 of your Characters.",
+    "effect": "[Double Attack] (This card deals 2 damage.) [Activate: Main] [Once Per Turn] If your opponent has 3 or less Life cards, give up to 2 rested DON!! cards to 1 of your Characters.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP06-022_p2.png?260715"
   },
@@ -2309,7 +2309,7 @@
       "Scientist",
       "Egghead"
     ],
-    "effect": "This Leader cannot attack.<br>[Activate: Main] [Once Per Turn] You may rest 1 of your DON!! cards: Select up to 1 {Egghead} type card with a cost of 5 or less from your hand and play it or add it to the top of your Life cards face-up.",
+    "effect": "This Leader cannot attack. [Activate: Main] [Once Per Turn] You may rest 1 of your DON!! cards: Select up to 1 {Egghead} type card with a cost of 5 or less from your hand and play it or add it to the top of your Life cards face-up.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP07-097_p2.png?260715"
   },
@@ -2406,7 +2406,7 @@
     "types": [
       "Animal Kingdom Pirates"
     ],
-    "effect": "[Activate: Main] [Once Per Turn] DON!! −2 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Choose one:<br>• If you have 5 or less cards in your hand, draw 1 card.<br>• Give up to 1 of your opponent's Characters −2 cost during this turn.",
+    "effect": "[Activate: Main] [Once Per Turn] DON!! −2 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Choose one: • If you have 5 or less cards in your hand, draw 1 card. • Give up to 1 of your opponent's Characters −2 cost during this turn.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-057_p2.png?260715"
   },

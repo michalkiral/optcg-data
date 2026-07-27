@@ -19,7 +19,7 @@
       "Egghead",
       "Navy"
     ],
-    "effect": "[On Play] Place up to 1 of your opponent's Characters with a cost of 1 or less at the bottom of the owner's deck.<br>[When Attacking] Draw 1 card and trash 1 card from your hand.",
+    "effect": "[On Play] Place up to 1 of your opponent's Characters with a cost of 1 or less at the bottom of the owner's deck. [When Attacking] Draw 1 card and trash 1 card from your hand.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-026_r1.png?260715"
   },
@@ -86,7 +86,7 @@
     "types": [
       "Navy"
     ],
-    "effect": "If you have 5 or more cards in your hand, this Character gains +1 cost.<br>[On Play] You may trash 1 card from your hand: Up to 1 of your opponent's Characters cannot attack until the end of your opponent's next End Phase.",
+    "effect": "If you have 5 or more cards in your hand, this Character gains +1 cost. [On Play] You may trash 1 card from your hand: Up to 1 of your opponent's Characters cannot attack until the end of your opponent's next End Phase.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-043_r1.png?260715"
   },
@@ -133,7 +133,7 @@
       "FILM",
       "Navy"
     ],
-    "effect": "[On Play] Trash 2 cards from your hand.<br>[Activate: Main] You may trash this Character: Return up to 1 Character with a cost of 5 or less to the owner's hand.",
+    "effect": "[On Play] Trash 2 cards from your hand. [Activate: Main] You may trash this Character: Return up to 1 Character with a cost of 5 or less to the owner's hand.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-046_r1.png?260715"
   },
@@ -248,7 +248,7 @@
     "types": [
       "Navy"
     ],
-    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On Play] You may trash 1 card from your hand: Draw 1 card.",
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] You may trash 1 card from your hand: Draw 1 card.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST33-001.png?260715"
   },
@@ -271,7 +271,7 @@
     "types": [
       "Navy"
     ],
-    "effect": "[When Attacking] You may trash 1 card from your hand: If your opponent has 6 or more cards in their hand, your opponent trashes 1 card from their hand.<br>[On K.O.] Play up to 1 {Navy} type Character card with a cost of 4 or less from your hand.",
+    "effect": "[When Attacking] You may trash 1 card from your hand: If your opponent has 6 or more cards in their hand, your opponent trashes 1 card from their hand. [On K.O.] Play up to 1 {Navy} type Character card with a cost of 4 or less from your hand.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST33-002.png?260715"
   },
@@ -317,7 +317,7 @@
     "types": [
       "Navy"
     ],
-    "effect": "During the turn in which a card in your hand is trashed by an effect, give this card in your hand −3 cost.<br>[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+    "effect": "During the turn in which a card in your hand is trashed by an effect, give this card in your hand −3 cost. [Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST33-004.png?260715"
   },

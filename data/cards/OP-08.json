@@ -286,7 +286,7 @@
     "types": [
       "Drum Kingdom"
     ],
-    "effect": "[On Play] Give up to 1 of your opponent's Characters −1000 power during this turn.<br>[DON!! x1] [Activate: Main] [Once Per Turn] You may add 1 card from the top of your Life cards to your hand: This Character gains [Rush] during this turn.<br>(This card can attack on the turn in which it is played.)",
+    "effect": "[On Play] Give up to 1 of your opponent's Characters −1000 power during this turn. [DON!! x1] [Activate: Main] [Once Per Turn] You may add 1 card from the top of your Life cards to your hand: This Character gains [Rush] during this turn. (This card can attack on the turn in which it is played.)",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-008.png?260715"
   },
@@ -405,7 +405,7 @@
       "Animal",
       "Drum Kingdom"
     ],
-    "effect": "[DON!! x2] This Character gains [Rush].<br>(This card can attack on the turn in which it is played.)",
+    "effect": "[DON!! x2] This Character gains [Rush]. (This card can attack on the turn in which it is played.)",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-013.png?260715"
   },
@@ -815,7 +815,7 @@
       "Minks",
       "The Akazaya Nine"
     ],
-    "effect": "[On Play] If your opponent has 7 or more rested cards, this Character gains [Rush] during this turn.<br>(This card can attack on the turn in which it is played.)",
+    "effect": "[On Play] If your opponent has 7 or more rested cards, this Character gains [Rush] during this turn. (This card can attack on the turn in which it is played.)",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-028.png?260715"
   },
@@ -862,7 +862,7 @@
     "types": [
       "Minks"
     ],
-    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On K.O.] Choose one:<br>• Rest up to 1 of your opponent's DON!! cards.<br>• K.O. up to 1 of your opponent's rested Characters with a cost of 6 or less.",
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On K.O.] Choose one: • Rest up to 1 of your opponent's DON!! cards. • K.O. up to 1 of your opponent's rested Characters with a cost of 6 or less.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-030.png?260715"
   },
@@ -885,7 +885,7 @@
     "types": [
       "Minks"
     ],
-    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On K.O.] Choose one:<br>• Rest up to 1 of your opponent's DON!! cards.<br>• K.O. up to 1 of your opponent's rested Characters with a cost of 6 or less.",
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On K.O.] Choose one: • Rest up to 1 of your opponent's DON!! cards. • K.O. up to 1 of your opponent's rested Characters with a cost of 6 or less.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-030_p1.png?260715"
   },
@@ -1085,7 +1085,7 @@
     "types": [
       "Animal"
     ],
-    "effect": "[Activate: Main] You may rest this Stage: If your Leader has the {Minks} type, set up to 1 of your DON!! cards as active.<br>[End of Your Turn] Set up to 1 of your {Minks} type Characters as active.",
+    "effect": "[Activate: Main] You may rest this Stage: If your Leader has the {Minks} type, set up to 1 of your DON!! cards as active. [End of Your Turn] Set up to 1 of your {Minks} type Characters as active.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-039.png?260715"
   },
@@ -1340,7 +1340,7 @@
     "types": [
       "Whitebeard Pirates"
     ],
-    "effect": "[On Play] Reveal 1 card from the top of your deck and place it at the top or bottom of your deck. If the revealed card's type includes \"Whitebeard Pirates\", this Character gains [Rush] during this turn.<br>(This card can attack on the turn in which it is played.)",
+    "effect": "[On Play] Reveal 1 card from the top of your deck and place it at the top or bottom of your deck. If the revealed card's type includes \"Whitebeard Pirates\", this Character gains [Rush] during this turn. (This card can attack on the turn in which it is played.)",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-049.png?260715"
   },
@@ -1364,7 +1364,7 @@
       "Fish-Man",
       "Whitebeard Pirates"
     ],
-    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On Play] Draw 2 cards and place 2 cards from your hand at the top or bottom of your deck in any order.",
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] Draw 2 cards and place 2 cards from your hand at the top or bottom of your deck in any order.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-050.png?260715"
   },
@@ -1541,7 +1541,7 @@
     "types": [
       "Animal Kingdom Pirates"
     ],
-    "effect": "[Activate: Main] [Once Per Turn] DON!! −2 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Choose one:<br>• If you have 5 or less cards in your hand, draw 1 card.<br>• Give up to 1 of your opponent's Characters −2 cost during this turn.",
+    "effect": "[Activate: Main] [Once Per Turn] DON!! −2 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Choose one: • If you have 5 or less cards in your hand, draw 1 card. • Give up to 1 of your opponent's Characters −2 cost during this turn.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-057.png?260715"
   },
@@ -1565,7 +1565,7 @@
     "types": [
       "Animal Kingdom Pirates"
     ],
-    "effect": "[Activate: Main] [Once Per Turn] DON!! −2 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Choose one:<br>• If you have 5 or less cards in your hand, draw 1 card.<br>• Give up to 1 of your opponent's Characters −2 cost during this turn.",
+    "effect": "[Activate: Main] [Once Per Turn] DON!! −2 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Choose one: • If you have 5 or less cards in your hand, draw 1 card. • Give up to 1 of your opponent's Characters −2 cost during this turn.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-057_p1.png?260715"
   },
@@ -1660,7 +1660,7 @@
     "types": [
       "Animal Kingdom Pirates"
     ],
-    "effect": "[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If your opponent has 5 or more DON!! cards on their field, this Character gains [Rush] during this turn.<br>(This card can attack on the turn in which it is played.)",
+    "effect": "[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If your opponent has 5 or more DON!! cards on their field, this Character gains [Rush] during this turn. (This card can attack on the turn in which it is played.)",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-060.png?260715"
   },
@@ -1798,7 +1798,7 @@
     "types": [
       "Big Mom Pirates"
     ],
-    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On K.O.] Add up to 1 DON!! card from your DON!! deck and rest it.",
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On K.O.] Add up to 1 DON!! card from your DON!! deck and rest it.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-066.png?260715"
   },
@@ -1938,7 +1938,7 @@
     "types": [
       "Big Mom Pirates"
     ],
-    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On K.O.] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Play up to 1 [Viscount Hiyoko] with a cost of 5 or less from your hand.",
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On K.O.] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Play up to 1 [Viscount Hiyoko] with a cost of 5 or less from your hand.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-070.png?260715"
   },
@@ -1984,7 +1984,7 @@
     "types": [
       "Big Mom Pirates"
     ],
-    "effect": "Under the rules of this game, you may have any number of this card in your deck.<br>[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+    "effect": "Under the rules of this game, you may have any number of this card in your deck. [Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-072.png?260715"
   },
@@ -2329,7 +2329,7 @@
     "types": [
       "Animal Kingdom Pirates"
     ],
-    "effect": "This Character gains +4 cost.<br>[Activate: Main] You may rest this Character: Draw 1 card and trash 1 card from your hand. Then, K.O. up to 1 of your opponent's Characters with a cost of 3 or less.",
+    "effect": "This Character gains +4 cost. [Activate: Main] You may rest this Character: Draw 1 card and trash 1 card from your hand. Then, K.O. up to 1 of your opponent's Characters with a cost of 3 or less.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-084.png?260715"
   },
@@ -2352,7 +2352,7 @@
     "types": [
       "Animal Kingdom Pirates"
     ],
-    "effect": "This Character gains +4 cost.<br>[Activate: Main] You may rest this Character: Draw 1 card and trash 1 card from your hand. Then, K.O. up to 1 of your opponent's Characters with a cost of 3 or less.",
+    "effect": "This Character gains +4 cost. [Activate: Main] You may rest this Character: Draw 1 card and trash 1 card from your hand. Then, K.O. up to 1 of your opponent's Characters with a cost of 3 or less.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-084_p1.png?260715"
   },
@@ -2424,7 +2424,7 @@
       "Animal Kingdom Pirates",
       "On-Air Pirates"
     ],
-    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[Activate: Main] [Once Per Turn] Give up to 1 of your opponent's Characters −1 cost during this turn.",
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [Activate: Main] [Once Per Turn] Give up to 1 of your opponent's Characters −1 cost during this turn.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-087.png?260715"
   },
@@ -3390,7 +3390,7 @@
     "types": [
       "Whitebeard Pirates"
     ],
-    "effect": "[On Play] Give up to 2 of your opponent's Characters −3000 power during this turn. Then, if your Leader's type includes \"Whitebeard Pirates\", this Character gains [Rush] during this turn.<br>(This card can attack on the turn in which it is played.)",
+    "effect": "[On Play] Give up to 2 of your opponent's Characters −3000 power during this turn. Then, if your Leader's type includes \"Whitebeard Pirates\", this Character gains [Rush] during this turn. (This card can attack on the turn in which it is played.)",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-013_p3.png?260715"
   },
@@ -3484,7 +3484,7 @@
     "types": [
       "Animal Kingdom Pirates"
     ],
-    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Draw 2 cards and trash 1 card from your hand.",
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Draw 2 cards and trash 1 card from your hand.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-005_p1.png?260715"
   },

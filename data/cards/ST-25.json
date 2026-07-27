@@ -229,7 +229,7 @@
       "The Four Emperors",
       "Cross Guild"
     ],
-    "effect": "This Character cannot attack.<br>If your Leader is [Buggy], all Characters with a cost of 3 or 4 cannot attack.<br>[On Play] Play up to 1 {Cross Guild} type Character card with a cost of 6 or less from your hand.",
+    "effect": "This Character cannot attack. If your Leader is [Buggy], all Characters with a cost of 3 or 4 cannot attack. [On Play] Play up to 1 {Cross Guild} type Character card with a cost of 6 or less from your hand.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-084.png?260715"
   },
@@ -252,7 +252,7 @@
     "types": [
       "Cross Guild"
     ],
-    "effect": "If you have 2 or more Characters with a base cost of 5 or more, this Character gains +1 cost.<br>[On Play] If your Leader is [Buggy], draw 3 cards and trash 2 cards from your hand.",
+    "effect": "If you have 2 or more Characters with a base cost of 5 or more, this Character gains +1 cost. [On Play] If your Leader is [Buggy], draw 3 cards and trash 2 cards from your hand.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST25-001.png?260715"
   },
@@ -275,7 +275,7 @@
     "types": [
       "Cross Guild"
     ],
-    "effect": "If you have 2 or more Characters with a base cost of 5 or more, this Character gains [Blocker] and +1 cost.<br>(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[Opponent's Turn] This Character gains +5000 power.",
+    "effect": "If you have 2 or more Characters with a base cost of 5 or more, this Character gains [Blocker] and +1 cost. (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [Opponent's Turn] This Character gains +5000 power.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST25-002.png?260715"
   },
@@ -300,7 +300,7 @@
       "Cross Guild",
       "Former Baroque Works"
     ],
-    "effect": "[On Play] Draw 2 cards and trash 1 card from your hand. Then, play up to 1 {Cross Guild} type Character card with a cost of 4 or less from your hand.<br>[Once Per Turn] If your {Cross Guild} type Character would be removed from the field by your opponent's effect, you may trash 1 card from your hand instead.",
+    "effect": "[On Play] Draw 2 cards and trash 1 card from your hand. Then, play up to 1 {Cross Guild} type Character card with a cost of 4 or less from your hand. [Once Per Turn] If your {Cross Guild} type Character would be removed from the field by your opponent's effect, you may trash 1 card from your hand instead.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST25-003.png?260715"
   },
@@ -347,7 +347,7 @@
     "types": [
       "Cross Guild"
     ],
-    "effect": "If you have 2 or more Characters with a base cost of 5 or more, this Character gains [Blocker] and +1 cost.<br>(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On K.O.] If your Leader is [Buggy] and you have 3 or less cards in your hand, draw 1 card.",
+    "effect": "If you have 2 or more Characters with a base cost of 5 or more, this Character gains [Blocker] and +1 cost. (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On K.O.] If your Leader is [Buggy] and you have 3 or less cards in your hand, draw 1 card.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST25-005.png?260715"
   }

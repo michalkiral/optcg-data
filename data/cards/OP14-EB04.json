@@ -18,7 +18,7 @@
     "types": [
       "Neptunian"
     ],
-    "effect": "[Rush: Character] (This card can attack Characters on the turn in which it is played.)<br>[On Play] Draw a card for each of your {Neptunian} type Characters. Then, trash the same number of cards from your hand.<br>",
+    "effect": "[Rush: Character] (This card can attack Characters on the turn in which it is played.) [On Play] Draw a card for each of your {Neptunian} type Characters. Then, trash the same number of cards from your hand.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-011.png?260715"
   },
@@ -136,7 +136,7 @@
       "Land of Wano",
       "Kouzuki Clan"
     ],
-    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[Activate: Main] [Once Per Turn] Give up to 1 rested DON!! card to your {Land of Wano} type Leader.",
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [Activate: Main] [Once Per Turn] Give up to 1 rested DON!! card to your {Land of Wano} type Leader.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-014.png?260715"
   },
@@ -161,7 +161,7 @@
       "Fish-Man Island",
       "The Sun Pirates"
     ],
-    "effect": "[Blocker]<br>[On K.O.] You may rest 1 of your cards: If your Leader has the {Fish-Man} or {Merfolk} type, play up to 1 green Character card with a cost of 6 or less from your hand.",
+    "effect": "[Blocker] [On K.O.] You may rest 1 of your cards: If your Leader has the {Fish-Man} or {Merfolk} type, play up to 1 green Character card with a cost of 6 or less from your hand.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-015.png?260715"
   },
@@ -184,7 +184,7 @@
     "types": [
       "Neptunian"
     ],
-    "effect": "[Activate: Main] Set up to 1 of your DON!! cards as active. Then, you cannot set DON!! cards as active using Character effects during this turn.<br>[When Attacking] If you have 3 or more {Neptunian} type Characters, rest up to 1 of your opponent's Characters with a cost of 8 or less.",
+    "effect": "[Activate: Main] Set up to 1 of your DON!! cards as active. Then, you cannot set DON!! cards as active using Character effects during this turn. [When Attacking] If you have 3 or more {Neptunian} type Characters, rest up to 1 of your opponent's Characters with a cost of 8 or less.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-016.png?260715"
   },
@@ -208,7 +208,7 @@
       "Minks",
       "Big Mom Pirates"
     ],
-    "effect": "[Your Turn] If you have 3 or more {Minks} type Characters, give all of your opponent's Characters −1 cost.<br>[On Play] If your Leader has the {Minks} type, play up to 1 {Minks} type Character card with a cost of 5 or less from your hand.",
+    "effect": "[Your Turn] If you have 3 or more {Minks} type Characters, give all of your opponent's Characters −1 cost. [On Play] If your Leader has the {Minks} type, play up to 1 {Minks} type Character card with a cost of 5 or less from your hand.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-017.png?260715"
   },
@@ -277,7 +277,7 @@
     "types": [
       "Minks"
     ],
-    "effect": "[Main] You may rest 1 of your cards: If your Leader has the {Minks} type, give up to 1 of your opponent's Characters −3 cost during this turn.<br>[Counter] Up to 1 of your {Minks} type Leader or Character cards gains +3000 power during this battle.",
+    "effect": "[Main] You may rest 1 of your cards: If your Leader has the {Minks} type, give up to 1 of your opponent's Characters −3 cost during this turn. [Counter] Up to 1 of your {Minks} type Leader or Character cards gains +3000 power during this battle.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-019.png?260715"
   },
@@ -323,7 +323,7 @@
     "types": [
       "Alabasta"
     ],
-    "effect": "[On Play] If your Leader is [Nefeltari Vivi], draw 2 cards and trash 1 card from your hand.<br>[Activate: Main] [Once Per Turn] You may trash 1 card from your hand: Give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
+    "effect": "[On Play] If your Leader is [Nefeltari Vivi], draw 2 cards and trash 1 card from your hand. [Activate: Main] [Once Per Turn] You may trash 1 card from your hand: Give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-021.png?260715"
   },
@@ -347,7 +347,7 @@
       "Dressrosa",
       "Navy"
     ],
-    "effect": "[On Play] You may trash 2 cards from your hand: If your opponent has 6 or more cards in their hand, your opponent places 2 cards from their hand at the bottom of their deck in any order.<br>[DON!! x1] [When Attacking] You may trash 1 card from your hand: Give up to 1 of your opponent's Characters −2000 power during this turn.",
+    "effect": "[On Play] You may trash 2 cards from your hand: If your opponent has 6 or more cards in their hand, your opponent places 2 cards from their hand at the bottom of their deck in any order. [DON!! x1] [When Attacking] You may trash 1 card from your hand: Give up to 1 of your opponent's Characters −2000 power during this turn.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-022.png?260715"
   },
@@ -371,7 +371,7 @@
       "Dressrosa",
       "Navy"
     ],
-    "effect": "[On Play] You may trash 2 cards from your hand: If your opponent has 6 or more cards in their hand, your opponent places 2 cards from their hand at the bottom of their deck in any order.<br>[DON!! x1] [When Attacking] You may trash 1 card from your hand: Give up to 1 of your opponent's Characters −2000 power during this turn.",
+    "effect": "[On Play] You may trash 2 cards from your hand: If your opponent has 6 or more cards in their hand, your opponent places 2 cards from their hand at the bottom of their deck in any order. [DON!! x1] [When Attacking] You may trash 1 card from your hand: Give up to 1 of your opponent's Characters −2000 power during this turn.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-022_p1.png?260715"
   },
@@ -394,7 +394,7 @@
     "types": [
       "Alabasta"
     ],
-    "effect": "[Double Attack] (This card deals 2 damage.)<br>[On Play] You may give your active Leader −5000 power during this turn: Draw 2 cards.",
+    "effect": "[Double Attack] (This card deals 2 damage.) [On Play] You may give your active Leader −5000 power during this turn: Draw 2 cards.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-023.png?260715"
   },
@@ -417,7 +417,7 @@
     "types": [
       "Alabasta"
     ],
-    "effect": "[Activate: Main] You may rest this Character and trash 1 card from your hand: Up to 1 of your {Alabasta} type Characters gains [Unblockable] during this turn.<br>(This card cannot be blocked.)",
+    "effect": "[Activate: Main] You may rest this Character and trash 1 card from your hand: Up to 1 of your {Alabasta} type Characters gains [Unblockable] during this turn. (This card cannot be blocked.)",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-024.png?260715"
   },
@@ -487,7 +487,7 @@
       "Egghead",
       "Navy"
     ],
-    "effect": "[On Play] Place up to 1 of your opponent's Characters with a cost of 1 or less at the bottom of the owner's deck.<br>[When Attacking] Draw 1 card and trash 1 card from your hand.",
+    "effect": "[On Play] Place up to 1 of your opponent's Characters with a cost of 1 or less at the bottom of the owner's deck. [When Attacking] Draw 1 card and trash 1 card from your hand.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-026.png?260715"
   },
@@ -554,7 +554,7 @@
       "Punk Hazard",
       "Straw Hat Crew"
     ],
-    "effect": "[Main] If your Leader is [Sanji], look at 3 cards from the top of your deck; reveal up to 1 [Sanji] or Event card and add it to your hand. Then, trash the rest.<br>[Counter] You may trash 1 card from your hand: Up to 1 of your [Sanji] cards gains +4000 power during this battle.",
+    "effect": "[Main] If your Leader is [Sanji], look at 3 cards from the top of your deck; reveal up to 1 [Sanji] or Event card and add it to your hand. Then, trash the rest. [Counter] You may trash 1 card from your hand: Up to 1 of your [Sanji] cards gains +4000 power during this battle.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-029.png?260715"
   },
@@ -578,7 +578,7 @@
       "The Four Emperors",
       "Animal Kingdom Pirates"
     ],
-    "effect": "If this Character would be K.O.'d, you may return 1 DON!! card from your field to your DON!! deck instead.<br>[On Play] DON!! −2: If your Leader has the {Animal Kingdom Pirates} type, this Character gains [Rush] during this turn. Then, rest up to 1 of your opponent's Characters with a cost of 7 or less.",
+    "effect": "If this Character would be K.O.'d, you may return 1 DON!! card from your field to your DON!! deck instead. [On Play] DON!! −2: If your Leader has the {Animal Kingdom Pirates} type, this Character gains [Rush] during this turn. Then, rest up to 1 of your opponent's Characters with a cost of 7 or less.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-030.png?260715"
   },
@@ -602,7 +602,7 @@
       "Lunarian",
       "Animal Kingdom Pirates"
     ],
-    "effect": "If this Character would be K.O.'d, you may return 1 DON!! card from your field to your DON!! deck instead.<br>[Activate: Main] [Once Per Turn] If your Leader has the {Animal Kingdom Pirates} type and you have no other [King] Characters, add up to 1 DON!! card from your DON!! deck and set it as active, and add up to 1 additional DON!! card and rest it.",
+    "effect": "If this Character would be K.O.'d, you may return 1 DON!! card from your field to your DON!! deck instead. [Activate: Main] [Once Per Turn] If your Leader has the {Animal Kingdom Pirates} type and you have no other [King] Characters, add up to 1 DON!! card from your DON!! deck and set it as active, and add up to 1 additional DON!! card and rest it.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-031.png?260715"
   },
@@ -626,7 +626,7 @@
       "Lunarian",
       "Animal Kingdom Pirates"
     ],
-    "effect": "If this Character would be K.O.'d, you may return 1 DON!! card from your field to your DON!! deck instead.<br>[Activate: Main] [Once Per Turn] If your Leader has the {Animal Kingdom Pirates} type and you have no other [King] Characters, add up to 1 DON!! card from your DON!! deck and set it as active, and add up to 1 additional DON!! card and rest it.",
+    "effect": "If this Character would be K.O.'d, you may return 1 DON!! card from your field to your DON!! deck instead. [Activate: Main] [Once Per Turn] If your Leader has the {Animal Kingdom Pirates} type and you have no other [King] Characters, add up to 1 DON!! card from your DON!! deck and set it as active, and add up to 1 additional DON!! card and rest it.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-031_p1.png?260715"
   },
@@ -649,7 +649,7 @@
     "types": [
       "Animal Kingdom Pirates"
     ],
-    "effect": "[On Play] You may trash 1 {Animal Kingdom Pirates} type card from your hand: Draw 2 cards.<br>[Activate: Main] [Once Per Turn] You may rest 2 of your DON!! cards: If your Leader has the {Animal Kingdom Pirates} type, add up to 1 DON!! card from your DON!! deck and rest it.",
+    "effect": "[On Play] You may trash 1 {Animal Kingdom Pirates} type card from your hand: Draw 2 cards. [Activate: Main] [Once Per Turn] You may rest 2 of your DON!! cards: If your Leader has the {Animal Kingdom Pirates} type, add up to 1 DON!! card from your DON!! deck and rest it.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-032.png?260715"
   },
@@ -697,7 +697,7 @@
     "types": [
       "Big Mom Pirates"
     ],
-    "effect": "[Blocker]<br>[On Your Opponent's Attack] [Once Per Turn] You may trash 1 card from your hand: If you have 4 or more Events in your trash, up to 1 of your Leader or Character cards gains +2000 power during this battle.",
+    "effect": "[Blocker] [On Your Opponent's Attack] [Once Per Turn] You may trash 1 card from your hand: If you have 4 or more Events in your trash, up to 1 of your Leader or Character cards gains +2000 power during this battle.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-034.png?260715"
   },
@@ -722,7 +722,7 @@
       "Supernovas",
       "Kid Pirates"
     ],
-    "effect": "[Blocker]<br>[Your Turn] [Once Per Turn] When a DON!! card on your field is returned to your DON!! deck, if your Leader has the {Kid Pirates} type, add up to 1 DON!! card from your DON!! deck and rest it.",
+    "effect": "[Blocker] [Your Turn] [Once Per Turn] When a DON!! card on your field is returned to your DON!! deck, if your Leader has the {Kid Pirates} type, add up to 1 DON!! card from your DON!! deck and rest it.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-035.png?260715"
   },
@@ -745,7 +745,7 @@
     "types": [
       "Foxy Pirates"
     ],
-    "effect": "[On Play] DON!! −1: If your Leader has the {Foxy Pirates} type, draw 2 cards and trash 1 card from your hand. Then, rest up to 1 of your opponent's Characters with a cost of 9 or less.<br>[Activate: Main] [Once Per Turn] Add up to 1 DON!! card from your DON!! deck and rest it.",
+    "effect": "[On Play] DON!! −1: If your Leader has the {Foxy Pirates} type, draw 2 cards and trash 1 card from your hand. Then, rest up to 1 of your opponent's Characters with a cost of 9 or less. [Activate: Main] [Once Per Turn] Add up to 1 DON!! card from your DON!! deck and rest it.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-036.png?260715"
   },
@@ -768,7 +768,7 @@
     "types": [
       "Foxy Pirates"
     ],
-    "effect": "[On Play] DON!! −1: If your Leader has the {Foxy Pirates} type, draw 2 cards and trash 1 card from your hand. Then, rest up to 1 of your opponent's Characters with a cost of 9 or less.<br>[Activate: Main] [Once Per Turn] Add up to 1 DON!! card from your DON!! deck and rest it.",
+    "effect": "[On Play] DON!! −1: If your Leader has the {Foxy Pirates} type, draw 2 cards and trash 1 card from your hand. Then, rest up to 1 of your opponent's Characters with a cost of 9 or less. [Activate: Main] [Once Per Turn] Add up to 1 DON!! card from your DON!! deck and rest it.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-036_p1.png?260715"
   },
@@ -816,7 +816,7 @@
       "Navy",
       "Donquixote Pirates"
     ],
-    "effect": "Under the rules of this game, also treat this card's name as [Trafalgar Law] and [Donquixote Rosinante].<br>[Blocker]<br>[On Play] If the number of DON!! cards on your field is equal to or less than the number on your opponent's field, draw 1 card. Then, add up to 1 DON!! card from your DON!! deck and set it as active.",
+    "effect": "Under the rules of this game, also treat this card's name as [Trafalgar Law] and [Donquixote Rosinante]. [Blocker] [On Play] If the number of DON!! cards on your field is equal to or less than the number on your opponent's field, draw 1 card. Then, add up to 1 DON!! card from your DON!! deck and set it as active.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-038.png?260715"
   },
@@ -841,7 +841,7 @@
       "Navy",
       "Donquixote Pirates"
     ],
-    "effect": "Under the rules of this game, also treat this card's name as [Trafalgar Law] and [Donquixote Rosinante].<br>[Blocker]<br>[On Play] If the number of DON!! cards on your field is equal to or less than the number on your opponent's field, draw 1 card. Then, add up to 1 DON!! card from your DON!! deck and set it as active.",
+    "effect": "Under the rules of this game, also treat this card's name as [Trafalgar Law] and [Donquixote Rosinante]. [Blocker] [On Play] If the number of DON!! cards on your field is equal to or less than the number on your opponent's field, draw 1 card. Then, add up to 1 DON!! card from your DON!! deck and set it as active.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-038_p1.png?260715"
   },
@@ -865,7 +865,7 @@
       "Supernovas",
       "Kid Pirates"
     ],
-    "effect": "[On Play] Add up to 1 DON!! card from your DON!! deck and set it as active.<br>[Activate: Main] You may trash this Character: Play up to 1 {Kid Pirates} type Character card with a cost of 5 or less from your hand.",
+    "effect": "[On Play] Add up to 1 DON!! card from your DON!! deck and set it as active. [Activate: Main] You may trash this Character: Play up to 1 {Kid Pirates} type Character card with a cost of 5 or less from your hand.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-039.png?260715"
   },
@@ -887,7 +887,7 @@
       "The Four Emperors",
       "Animal Kingdom Pirates"
     ],
-    "effect": "[Main] You may rest 6 of your DON!! cards: Up to 1 of your [Kaido] cards gains +3000 power during this turn. Then, rest up to 1 of your opponent's Characters.<br>[Counter] DON!! −1: Your Leader gains +4000 power during this battle.",
+    "effect": "[Main] You may rest 6 of your DON!! cards: Up to 1 of your [Kaido] cards gains +3000 power during this turn. Then, rest up to 1 of your opponent's Characters. [Counter] DON!! −1: Your Leader gains +4000 power during this battle.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-040.png?260715"
   },
@@ -1055,7 +1055,7 @@
       "Supernovas",
       "Beautiful Pirates"
     ],
-    "effect": "If this Character has 5000 power or more, this Character gains [Rush].<br>(This card can attack on the turn in which it is played.)",
+    "effect": "If this Character has 5000 power or more, this Character gains [Rush]. (This card can attack on the turn in which it is played.)",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-004.png?260715"
   },
@@ -1175,7 +1175,7 @@
       "Supernovas",
       "Heart Pirates"
     ],
-    "effect": "[Rush]<br>[On Your Opponent's Attack] [Once Per Turn] You may trash 2 cards from your hand: Select your Leader and 1 Character. Swap the base power of the selected cards with each other during this battle.",
+    "effect": "[Rush] [On Your Opponent's Attack] [Once Per Turn] You may trash 2 cards from your hand: Select your Leader and 1 Character. Swap the base power of the selected cards with each other during this battle.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-009.png?260715"
   },
@@ -1200,7 +1200,7 @@
       "Supernovas",
       "Heart Pirates"
     ],
-    "effect": "[Rush]<br>[On Your Opponent's Attack] [Once Per Turn] You may trash 2 cards from your hand: Select your Leader and 1 Character. Swap the base power of the selected cards with each other during this battle.",
+    "effect": "[Rush] [On Your Opponent's Attack] [Once Per Turn] You may trash 2 cards from your hand: Select your Leader and 1 Character. Swap the base power of the selected cards with each other during this battle.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-009_p1.png?260715"
   },
@@ -1249,7 +1249,7 @@
       "Supernovas",
       "Barto Club"
     ],
-    "effect": "[DON!! x2] This Character gains [Blocker].<br>(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+    "effect": "[DON!! x2] This Character gains [Blocker]. (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-011.png?260715"
   },
@@ -1297,7 +1297,7 @@
       "Supernovas",
       "Straw Hat Crew"
     ],
-    "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Supernovas} type card other than [Monkey.D.Luffy] and add it to your hand. Then, place the rest at the bottom of your deck in any order.<br>[When Attacking] Give up to 1 of your opponent's Characters −1000 power during this turn.",
+    "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Supernovas} type card other than [Monkey.D.Luffy] and add it to your hand. Then, place the rest at the bottom of your deck in any order. [When Attacking] Give up to 1 of your opponent's Characters −1000 power during this turn.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-013.png?260715"
   },
@@ -1321,7 +1321,7 @@
       "Supernovas",
       "Straw Hat Crew"
     ],
-    "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Supernovas} type card other than [Monkey.D.Luffy] and add it to your hand. Then, place the rest at the bottom of your deck in any order.<br>[When Attacking] Give up to 1 of your opponent's Characters −1000 power during this turn.",
+    "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Supernovas} type card other than [Monkey.D.Luffy] and add it to your hand. Then, place the rest at the bottom of your deck in any order. [When Attacking] Give up to 1 of your opponent's Characters −1000 power during this turn.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-013_p1.png?260715"
   },
@@ -1345,7 +1345,7 @@
       "Supernovas",
       "Kid Pirates"
     ],
-    "effect": "[Blocker]<br>[On Play] If your Leader has the {Supernovas} type, play up to 1 red Character card with 2000 power or less from your hand.",
+    "effect": "[Blocker] [On Play] If your Leader has the {Supernovas} type, play up to 1 red Character card with 2000 power or less from your hand.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-014.png?260715"
   },
@@ -1369,7 +1369,7 @@
       "Supernovas",
       "Straw Hat Crew"
     ],
-    "effect": "[Rush] (This card can attack on the turn in which it is played.)<br>[When Attacking] Give up to 1 of your opponent's Characters −1000 power during this turn.",
+    "effect": "[Rush] (This card can attack on the turn in which it is played.) [When Attacking] Give up to 1 of your opponent's Characters −1000 power during this turn.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-015.png?260715"
   },
@@ -1393,7 +1393,7 @@
       "Supernovas",
       "Straw Hat Crew"
     ],
-    "effect": "[Rush] (This card can attack on the turn in which it is played.)<br>[When Attacking] Give up to 1 of your opponent's Characters −1000 power during this turn.",
+    "effect": "[Rush] (This card can attack on the turn in which it is played.) [When Attacking] Give up to 1 of your opponent's Characters −1000 power during this turn.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-015_p1.png?260715"
   },
@@ -1418,7 +1418,7 @@
       "Navy",
       "Drake Pirates"
     ],
-    "effect": "[Opponent's Turn] [Once Per Turn] If your {Supernovas} type Character would be removed from the field by your opponent's effect, you may give your Leader −2000 power during this turn instead.<br>[DON!! x1] [When Attacking] Give up to 1 of your opponent's Characters −2000 power during this turn.",
+    "effect": "[Opponent's Turn] [Once Per Turn] If your {Supernovas} type Character would be removed from the field by your opponent's effect, you may give your Leader −2000 power during this turn instead. [DON!! x1] [When Attacking] Give up to 1 of your opponent's Characters −2000 power during this turn.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-016.png?260715"
   },
@@ -1510,7 +1510,7 @@
     "types": [
       "The Seven Warlords of the Sea"
     ],
-    "effect": "If your opponent's Leader has the <Slash> attribute, this Leader gains +1000 power.<br>[Activate: Main] [Once Per Turn] You may rest 1 of your cards: If there is a Character with a cost of 5 or more, set up to 3 of your DON!! cards as active. Then, you cannot play Character cards during this turn.",
+    "effect": "If your opponent's Leader has the <Slash> attribute, this Leader gains +1000 power. [Activate: Main] [Once Per Turn] You may rest 1 of your cards: If there is a Character with a cost of 5 or more, set up to 3 of your DON!! cards as active. Then, you cannot play Character cards during this turn.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-020.png?260715"
   },
@@ -1533,7 +1533,7 @@
     "types": [
       "The Seven Warlords of the Sea"
     ],
-    "effect": "If your opponent's Leader has the <Slash> attribute, this Leader gains +1000 power.<br>[Activate: Main] [Once Per Turn] You may rest 1 of your cards: If there is a Character with a cost of 5 or more, set up to 3 of your DON!! cards as active. Then, you cannot play Character cards during this turn.",
+    "effect": "If your opponent's Leader has the <Slash> attribute, this Leader gains +1000 power. [Activate: Main] [Once Per Turn] You may rest 1 of your cards: If there is a Character with a cost of 5 or more, set up to 3 of your DON!! cards as active. Then, you cannot play Character cards during this turn.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-020_p1.png?260715"
   },
@@ -1629,7 +1629,7 @@
       "Land of Wano",
       "The Akazaya Nine"
     ],
-    "effect": "[On Play] Set up to 3 of your DON!! cards as active. Then, you cannot play Character cards during this turn.<br>[On K.O.] Rest up to 1 of your opponent's cards.",
+    "effect": "[On Play] Set up to 3 of your DON!! cards as active. Then, you cannot play Character cards during this turn. [On K.O.] Rest up to 1 of your opponent's cards.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-024.png?260715"
   },
@@ -1702,7 +1702,7 @@
       "The Four Emperors",
       "Red-Haired Pirates"
     ],
-    "effect": "[Your Turn] When this Character becomes rested, rest up to 1 of your opponent's Characters with 7000 base power or less.<br>[Opponent's Turn] If this Character is rested, give all of your opponent's Characters −1000 power.",
+    "effect": "[Your Turn] When this Character becomes rested, rest up to 1 of your opponent's Characters with 7000 base power or less. [Opponent's Turn] If this Character is rested, give all of your opponent's Characters −1000 power.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-027.png?260715"
   },
@@ -1727,7 +1727,7 @@
       "The Four Emperors",
       "Red-Haired Pirates"
     ],
-    "effect": "[Your Turn] When this Character becomes rested, rest up to 1 of your opponent's Characters with 7000 base power or less.<br>[Opponent's Turn] If this Character is rested, give all of your opponent's Characters −1000 power.",
+    "effect": "[Your Turn] When this Character becomes rested, rest up to 1 of your opponent's Characters with 7000 base power or less. [Opponent's Turn] If this Character is rested, give all of your opponent's Characters −1000 power.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-027_p1.png?260715"
   },
@@ -1773,7 +1773,7 @@
     "types": [
       "Navy"
     ],
-    "effect": "[Opponent's Turn] If this Character would be removed from the field by your opponent's effect, you may rest 1 of your cards instead.<br>[Activate: Main] [Once Per Turn] You may rest 2 of your cards: This Character gains +2000 power until the end of your opponent's next End Phase.",
+    "effect": "[Opponent's Turn] If this Character would be removed from the field by your opponent's effect, you may rest 1 of your cards instead. [Activate: Main] [Once Per Turn] You may rest 2 of your cards: This Character gains +2000 power until the end of your opponent's next End Phase.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-029.png?260715"
   },
@@ -1820,7 +1820,7 @@
       "FILM",
       "Straw Hat Crew"
     ],
-    "effect": "[Blocker]<br>[On Play] Rest up to 2 of your opponent's Characters with a cost of 8 or less. Then, set up to 5 of your DON!! cards as active at the end of this turn.",
+    "effect": "[Blocker] [On Play] Rest up to 2 of your opponent's Characters with a cost of 8 or less. Then, set up to 5 of your DON!! cards as active at the end of this turn.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-031.png?260715"
   },
@@ -1844,7 +1844,7 @@
       "FILM",
       "Straw Hat Crew"
     ],
-    "effect": "[Blocker]<br>[On Play] Rest up to 2 of your opponent's Characters with a cost of 8 or less. Then, set up to 5 of your DON!! cards as active at the end of this turn.",
+    "effect": "[Blocker] [On Play] Rest up to 2 of your opponent's Characters with a cost of 8 or less. Then, set up to 5 of your DON!! cards as active at the end of this turn.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-031_p1.png?260715"
   },
@@ -1892,7 +1892,7 @@
       "Muggy Kingdom",
       "Thriller Bark Pirates"
     ],
-    "effect": "[On Play] Up to 2 of your opponent's Characters with a cost of 5 or less cannot be rested until the end of your opponent's next End Phase.<br>[On K.O.] You may rest 1 of your cards: Play up to 1 green Character card with a cost of 5 or less from your hand.",
+    "effect": "[On Play] Up to 2 of your opponent's Characters with a cost of 5 or less cannot be rested until the end of your opponent's next End Phase. [On K.O.] You may rest 1 of your cards: Play up to 1 green Character card with a cost of 5 or less from your hand.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-033.png?260715"
   },
@@ -1916,7 +1916,7 @@
       "Muggy Kingdom",
       "Thriller Bark Pirates"
     ],
-    "effect": "[On Play] Up to 2 of your opponent's Characters with a cost of 5 or less cannot be rested until the end of your opponent's next End Phase.<br>[On K.O.] You may rest 1 of your cards: Play up to 1 green Character card with a cost of 5 or less from your hand.",
+    "effect": "[On Play] Up to 2 of your opponent's Characters with a cost of 5 or less cannot be rested until the end of your opponent's next End Phase. [On K.O.] You may rest 1 of your cards: Play up to 1 green Character card with a cost of 5 or less from your hand.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-033_p1.png?260715"
   },
@@ -1941,7 +1941,7 @@
       "Supernovas",
       "Straw Hat Crew"
     ],
-    "effect": "[Your Turn] All of your green {Straw Hat Crew} type Characters with a base cost of 4 or more gain +1000 power.<br>[Once Per Turn] If your {Straw Hat Crew} type Character would be K.O.'d by your opponent's effect, you may rest 1 of your Characters instead.",
+    "effect": "[Your Turn] All of your green {Straw Hat Crew} type Characters with a base cost of 4 or more gain +1000 power. [Once Per Turn] If your {Straw Hat Crew} type Character would be K.O.'d by your opponent's effect, you may rest 1 of your Characters instead.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-034.png?260715"
   },
@@ -2008,7 +2008,7 @@
       "East Blue",
       "The Seven Warlords of the Sea"
     ],
-    "effect": "[Main] You may rest 3 of your cards: K.O. up to 1 of your opponent's rested Characters with 7000 base power or less.<br>[Counter] Your Leader gains +3000 power during this battle.",
+    "effect": "[Main] You may rest 3 of your cards: K.O. up to 1 of your opponent's rested Characters with 7000 base power or less. [Counter] Your Leader gains +3000 power during this battle.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-037.png?260715"
   },
@@ -2029,7 +2029,7 @@
     "types": [
       "The Seven Warlords of the Sea"
     ],
-    "effect": "[Main] You may rest 2 of your cards: Draw 1 card and rest up to 1 of your opponent's Characters with 7000 base power or less.<br>[Counter] Your Leader gains +3000 power during this battle.",
+    "effect": "[Main] You may rest 2 of your cards: Draw 1 card and rest up to 1 of your opponent's Characters with 7000 base power or less. [Counter] Your Leader gains +3000 power during this battle.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-038.png?260715"
   },
@@ -2051,7 +2051,7 @@
       "East Blue",
       "The Seven Warlords of the Sea"
     ],
-    "effect": "[On Play] If your Leader is [Dracule Mihawk], draw 1 card.<br>[End of Your Turn] If your Leader is [Dracule Mihawk], set up to 1 of your DON!! cards as active.",
+    "effect": "[On Play] If your Leader is [Dracule Mihawk], draw 1 card. [End of Your Turn] If your Leader is [Dracule Mihawk], set up to 1 of your DON!! cards as active.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-039.png?260715"
   },
@@ -2126,7 +2126,7 @@
       "The Seven Warlords of the Sea",
       "Kuja Pirates"
     ],
-    "effect": "[Opponent's Turn] When you play a Character, draw 1 card.<br>[DON!! x1] [Once Per Turn] When one of your {Amazon Lily} or {Kuja Pirates} type Characters with 5000 base power or more is K.O.'d, add up to 1 card from the top of your opponent's Life cards to the owner's hand.",
+    "effect": "[Opponent's Turn] When you play a Character, draw 1 card. [DON!! x1] [Once Per Turn] When one of your {Amazon Lily} or {Kuja Pirates} type Characters with 5000 base power or more is K.O.'d, add up to 1 card from the top of your opponent's Life cards to the owner's hand.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-041.png?260715"
   },
@@ -2151,7 +2151,7 @@
       "The Seven Warlords of the Sea",
       "Kuja Pirates"
     ],
-    "effect": "[Opponent's Turn] When you play a Character, draw 1 card.<br>[DON!! x1] [Once Per Turn] When one of your {Amazon Lily} or {Kuja Pirates} type Characters with 5000 base power or more is K.O.'d, add up to 1 card from the top of your opponent's Life cards to the owner's hand.",
+    "effect": "[Opponent's Turn] When you play a Character, draw 1 card. [DON!! x1] [Once Per Turn] When one of your {Amazon Lily} or {Kuja Pirates} type Characters with 5000 base power or more is K.O.'d, add up to 1 card from the top of your opponent's Life cards to the owner's hand.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-041_p1.png?260715"
   },
@@ -2223,7 +2223,7 @@
       "Merfolk",
       "The Sun Pirates"
     ],
-    "effect": "[On Play] Play up to 1 {Fish-Man} or {Merfolk} type Character card with a cost of 3 or less from your hand.<br>[On K.O.] Draw 1 card.",
+    "effect": "[On Play] Play up to 1 {Fish-Man} or {Merfolk} type Character card with a cost of 3 or less from your hand. [On K.O.] Draw 1 card.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-043.png?260715"
   },
@@ -2247,7 +2247,7 @@
       "The Four Emperors",
       "Whitebeard Pirates"
     ],
-    "effect": "[Blocker]<br>[On Play] Reveal 1 card from the top of your deck. If that card's type includes \"Whitebeard Pirates\", draw 2 cards and trash 1 card from your hand.",
+    "effect": "[Blocker] [On Play] Reveal 1 card from the top of your deck. If that card's type includes \"Whitebeard Pirates\", draw 2 cards and trash 1 card from your hand.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-044.png?260715"
   },
@@ -2271,7 +2271,7 @@
       "Fish-Man",
       "The Sun Pirates"
     ],
-    "effect": "When a card is trashed from your hand by an effect, this Character gains [Rush] during this turn.<br>(This card can attack on the turn in which it is played.)<br>[On K.O.] Draw 1 card.",
+    "effect": "When a card is trashed from your hand by an effect, this Character gains [Rush] during this turn. (This card can attack on the turn in which it is played.) [On K.O.] Draw 1 card.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-045.png?260715"
   },
@@ -2318,7 +2318,7 @@
       "Merfolk",
       "Fish-Man Island"
     ],
-    "effect": "[Blocker]<br>[On Play] Draw 1 card and play up to 1 {Fish-Man} or {Merfolk} type Character card with a cost of 3 or less from your hand.",
+    "effect": "[Blocker] [On Play] Draw 1 card and play up to 1 {Fish-Man} or {Merfolk} type Character card with a cost of 3 or less from your hand.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-047.png?260715"
   },
@@ -2366,7 +2366,7 @@
       "The Seven Warlords of the Sea",
       "The Sun Pirates"
     ],
-    "effect": "When a card is trashed from your hand by an effect, this Character gains [Rush] during this turn.<br>[On Play] You may rest 2 of your DON!! cards: Draw 2 cards and return up to 1 Character with a cost of 7 or less to the owner's hand.",
+    "effect": "When a card is trashed from your hand by an effect, this Character gains [Rush] during this turn. [On Play] You may rest 2 of your DON!! cards: Draw 2 cards and return up to 1 Character with a cost of 7 or less to the owner's hand.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-049.png?260715"
   },
@@ -2391,7 +2391,7 @@
       "The Seven Warlords of the Sea",
       "The Sun Pirates"
     ],
-    "effect": "When a card is trashed from your hand by an effect, this Character gains [Rush] during this turn.<br>[On Play] You may rest 2 of your DON!! cards: Draw 2 cards and return up to 1 Character with a cost of 7 or less to the owner's hand.",
+    "effect": "When a card is trashed from your hand by an effect, this Character gains [Rush] during this turn. [On Play] You may rest 2 of your DON!! cards: Draw 2 cards and return up to 1 Character with a cost of 7 or less to the owner's hand.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-049_p1.png?260715"
   },
@@ -2462,7 +2462,7 @@
     "types": [
       "Impel Down"
     ],
-    "effect": "[Blocker]<br>[On Play] You may trash 3 cards from your hand: Play up to 1 {Impel Down} type Character card with a cost of 6 or less from your hand.",
+    "effect": "[Blocker] [On Play] You may trash 3 cards from your hand: Play up to 1 {Impel Down} type Character card with a cost of 6 or less from your hand.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-052.png?260715"
   },
@@ -2485,7 +2485,7 @@
     "types": [
       "Whitebeard Pirates"
     ],
-    "effect": "[Blocker]<br>[Opponent's Turn] If you have 7 or less cards in your hand, this Character's base power becomes the same as your Leader's base power.",
+    "effect": "[Blocker] [Opponent's Turn] If you have 7 or less cards in your hand, this Character's base power becomes the same as your Leader's base power.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-053.png?260715"
   },
@@ -2509,7 +2509,7 @@
       "Fish-Man",
       "The Sun Pirates"
     ],
-    "effect": "[On Play] If your Leader has the {Fish-Man} type, draw 3 cards.<br>[End of Your Turn] Trash cards from your hand until you have 5 cards in your hand.",
+    "effect": "[On Play] If your Leader has the {Fish-Man} type, draw 3 cards. [End of Your Turn] Trash cards from your hand until you have 5 cards in your hand.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-054.png?260715"
   },
@@ -2557,7 +2557,7 @@
       "Fish-Man",
       "The Sun Pirates"
     ],
-    "effect": "This Character cannot attack.<br>When a card is trashed from your hand by an effect, this Character's effect is negated during this turn.",
+    "effect": "This Character cannot attack. When a card is trashed from your hand by an effect, this Character's effect is negated during this turn.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-056.png?260715"
   },
@@ -2603,7 +2603,7 @@
       "The Seven Warlords of the Sea",
       "The Sun Pirates"
     ],
-    "effect": "[Main] You may rest 3 of your DON!! cards: Play up to 1 {Fish-Man} type Character card with a cost of 3 or less from your hand. Then, return up to 1 Character with 6000 base power to the owner's hand.<br>[Counter] Draw 1 card and your Leader gains +3000 power during this battle.",
+    "effect": "[Main] You may rest 3 of your DON!! cards: Play up to 1 {Fish-Man} type Character card with a cost of 3 or less from your hand. Then, return up to 1 Character with 6000 base power to the owner's hand. [Counter] Draw 1 card and your Leader gains +3000 power during this battle.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-058.png?260715"
   },
@@ -2699,7 +2699,7 @@
       "Navy",
       "Donquixote Pirates"
     ],
-    "effect": "[Once Per Turn] If your {Donquixote Pirates} type Character would be removed from the field by your opponent's effect, you may return 1 DON!! card from your field to your DON!! deck instead.<br>[When Attacking] DON!! −1: Give up to 1 of your opponent's Characters −2000 power during this turn.",
+    "effect": "[Once Per Turn] If your {Donquixote Pirates} type Character would be removed from the field by your opponent's effect, you may return 1 DON!! card from your field to your DON!! deck instead. [When Attacking] DON!! −1: Give up to 1 of your opponent's Characters −2000 power during this turn.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-061.png?260715"
   },
@@ -2724,7 +2724,7 @@
       "Navy",
       "Donquixote Pirates"
     ],
-    "effect": "[Once Per Turn] If your {Donquixote Pirates} type Character would be removed from the field by your opponent's effect, you may return 1 DON!! card from your field to your DON!! deck instead.<br>[When Attacking] DON!! −1: Give up to 1 of your opponent's Characters −2000 power during this turn.",
+    "effect": "[Once Per Turn] If your {Donquixote Pirates} type Character would be removed from the field by your opponent's effect, you may return 1 DON!! card from your field to your DON!! deck instead. [When Attacking] DON!! −1: Give up to 1 of your opponent's Characters −2000 power during this turn.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-061_p1.png?260715"
   },
@@ -2770,7 +2770,7 @@
     "types": [
       "Donquixote Pirates"
     ],
-    "effect": "[On Play] Add up to 1 DON!! card from your DON!! deck and set it as active.<br>[On K.O.] If your opponent has 6 or more DON!! cards on their field, play up to 1 {Donquixote Pirates} type Character card with a cost of 5 or less from your hand.",
+    "effect": "[On Play] Add up to 1 DON!! card from your DON!! deck and set it as active. [On K.O.] If your opponent has 6 or more DON!! cards on their field, play up to 1 {Donquixote Pirates} type Character card with a cost of 5 or less from your hand.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-063.png?260715"
   },
@@ -2909,7 +2909,7 @@
       "The Seven Warlords of the Sea",
       "Donquixote Pirates"
     ],
-    "effect": "[On Play] DON!! −3: Choose one:<br>• If your Leader has the {Donquixote Pirates} type, K.O. up to 1 of your opponent's Characters with a cost of 8 or less.<br>• Up to 3 of your opponent's Characters with a cost of 7 or less cannot be rested until the end of your opponent's next End Phase.",
+    "effect": "[On Play] DON!! −3: Choose one: • If your Leader has the {Donquixote Pirates} type, K.O. up to 1 of your opponent's Characters with a cost of 8 or less. • Up to 3 of your opponent's Characters with a cost of 7 or less cannot be rested until the end of your opponent's next End Phase.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-069.png?260715"
   },
@@ -2933,7 +2933,7 @@
       "The Seven Warlords of the Sea",
       "Donquixote Pirates"
     ],
-    "effect": "[On Play] DON!! −3: Choose one:<br>• If your Leader has the {Donquixote Pirates} type, K.O. up to 1 of your opponent's Characters with a cost of 8 or less.<br>• Up to 3 of your opponent's Characters with a cost of 7 or less cannot be rested until the end of your opponent's next End Phase.",
+    "effect": "[On Play] DON!! −3: Choose one: • If your Leader has the {Donquixote Pirates} type, K.O. up to 1 of your opponent's Characters with a cost of 8 or less. • Up to 3 of your opponent's Characters with a cost of 7 or less cannot be rested until the end of your opponent's next End Phase.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-069_p1.png?260715"
   },
@@ -2956,7 +2956,7 @@
     "types": [
       "Donquixote Pirates"
     ],
-    "effect": "When this Character becomes rested by your opponent's Character's effect, you may return 1 DON!! card from your field to your DON!! deck. If you do, set this Character as active.<br>[Blocker]",
+    "effect": "When this Character becomes rested by your opponent's Character's effect, you may return 1 DON!! card from your field to your DON!! deck. If you do, set this Character as active. [Blocker]",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-070.png?260715"
   },
@@ -3002,7 +3002,7 @@
     "types": [
       "Donquixote Pirates"
     ],
-    "effect": "[On Play] Add up to 1 DON!! card from your DON!! deck and set it as active.<br>[On K.O.] DON!! −1: Add up to 1 card from the top of your deck to the top of your Life cards.<br>",
+    "effect": "[On Play] Add up to 1 DON!! card from your DON!! deck and set it as active. [On K.O.] DON!! −1: Add up to 1 card from the top of your deck to the top of your Life cards.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-072.png?260715"
   },
@@ -3049,7 +3049,7 @@
       "Punk Hazard",
       "Donquixote Pirates"
     ],
-    "effect": "[On Play] If your Leader has the {Donquixote Pirates} type, add up to 1 DON!! card from your DON!! deck and set it as active.<br>[On K.O.] Draw 2 cards and trash 1 card from your hand. Then, add up to 2 DON!! cards from your DON!! deck and rest them.",
+    "effect": "[On Play] If your Leader has the {Donquixote Pirates} type, add up to 1 DON!! card from your DON!! deck and set it as active. [On K.O.] Draw 2 cards and trash 1 card from your hand. Then, add up to 2 DON!! cards from your DON!! deck and rest them.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-074.png?260715"
   },
@@ -3094,7 +3094,7 @@
       "The Seven Warlords of the Sea",
       "Donquixote Pirates"
     ],
-    "effect": "[Main] You may rest 2 of your DON!! cards: If your Leader has the {Donquixote Pirates} type, add up to 1 DON!! card from your DON!! deck and rest it.<br>[Counter] Your Leader gains +3000 power during this battle.",
+    "effect": "[Main] You may rest 2 of your DON!! cards: If your Leader has the {Donquixote Pirates} type, add up to 1 DON!! card from your DON!! deck and rest it. [Counter] Your Leader gains +3000 power during this battle.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-076.png?260715"
   },
@@ -3162,7 +3162,7 @@
       "The Seven Warlords of the Sea",
       "Baroque Works"
     ],
-    "effect": "All of your opponent's Characters cannot be removed from the field by your effects.<br>[Activate: Main] [Once Per Turn] You may K.O. 1 of your Characters with a type including \"Baroque Works\": Give up to 1 of your opponent's Characters −10 cost during this turn. Then, you may trash 2 cards from the top of your deck.",
+    "effect": "All of your opponent's Characters cannot be removed from the field by your effects. [Activate: Main] [Once Per Turn] You may K.O. 1 of your Characters with a type including \"Baroque Works\": Give up to 1 of your opponent's Characters −10 cost during this turn. Then, you may trash 2 cards from the top of your deck.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-079.png?260715"
   },
@@ -3186,7 +3186,7 @@
       "The Seven Warlords of the Sea",
       "Baroque Works"
     ],
-    "effect": "All of your opponent's Characters cannot be removed from the field by your effects.<br>[Activate: Main] [Once Per Turn] You may K.O. 1 of your Characters with a type including \"Baroque Works\": Give up to 1 of your opponent's Characters −10 cost during this turn. Then, you may trash 2 cards from the top of your deck.",
+    "effect": "All of your opponent's Characters cannot be removed from the field by your effects. [Activate: Main] [Once Per Turn] You may K.O. 1 of your Characters with a type including \"Baroque Works\": Give up to 1 of your opponent's Characters −10 cost during this turn. Then, you may trash 2 cards from the top of your deck.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-079_p1.png?260715"
   },
@@ -3211,7 +3211,7 @@
       "The Seven Warlords of the Sea",
       "Thriller Bark Pirates"
     ],
-    "effect": "[Activate: Main] [Once Per Turn] You may K.O. 1 of your {Thriller Bark Pirates} type Characters: Your Leader and all of your Characters gain +1000 power during this turn.<br>[When Attacking] You may trash 3 cards from your hand: Add up to 1 card from the top of your deck to the top of your Life cards.",
+    "effect": "[Activate: Main] [Once Per Turn] You may K.O. 1 of your {Thriller Bark Pirates} type Characters: Your Leader and all of your Characters gain +1000 power during this turn. [When Attacking] You may trash 3 cards from your hand: Add up to 1 card from the top of your deck to the top of your Life cards.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-080.png?260715"
   },
@@ -3236,7 +3236,7 @@
       "The Seven Warlords of the Sea",
       "Thriller Bark Pirates"
     ],
-    "effect": "[Activate: Main] [Once Per Turn] You may K.O. 1 of your {Thriller Bark Pirates} type Characters: Your Leader and all of your Characters gain +1000 power during this turn.<br>[When Attacking] You may trash 3 cards from your hand: Add up to 1 card from the top of your deck to the top of your Life cards.",
+    "effect": "[Activate: Main] [Once Per Turn] You may K.O. 1 of your {Thriller Bark Pirates} type Characters: Your Leader and all of your Characters gain +1000 power during this turn. [When Attacking] You may trash 3 cards from your hand: Add up to 1 card from the top of your deck to the top of your Life cards.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-080_p1.png?260715"
   },
@@ -3259,7 +3259,7 @@
     "types": [
       "Thriller Bark Pirates"
     ],
-    "effect": "[On Play] Trash 3 cards from the top of your deck.<br>[On K.O.] K.O. up to 1 of your opponent's Characters with a base cost of 1.",
+    "effect": "[On Play] Trash 3 cards from the top of your deck. [On K.O.] K.O. up to 1 of your opponent's Characters with a base cost of 1.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-081.png?260715"
   },
@@ -3397,7 +3397,7 @@
     "types": [
       "Baroque Works"
     ],
-    "effect": "If you have 7 or more cards in your trash, this Character gains +1000 power, and all of your Characters with a type including \"Baroque Works\" gain +2 cost.<br>",
+    "effect": "If you have 7 or more cards in your trash, this Character gains +1000 power, and all of your Characters with a type including \"Baroque Works\" gain +2 cost.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-086.png?260715"
   },
@@ -3490,7 +3490,7 @@
     "types": [
       "Baroque Works"
     ],
-    "effect": "If there is a Character with a cost of 0 or with a cost of 8 or more, this Character can attack Characters on the turn in which it is played.<br>[On Play] Rest up to 1 of your opponent's Characters with a cost of 0.",
+    "effect": "If there is a Character with a cost of 0 or with a cost of 8 or more, this Character can attack Characters on the turn in which it is played. [On Play] Rest up to 1 of your opponent's Characters with a cost of 0.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-090.png?260715"
   },
@@ -3513,7 +3513,7 @@
     "types": [
       "Baroque Works"
     ],
-    "effect": "If there is a Character with a cost of 0 or with a cost of 8 or more, this Character can attack Characters on the turn in which it is played.<br>[On Play] Rest up to 1 of your opponent's Characters with a cost of 0.",
+    "effect": "If there is a Character with a cost of 0 or with a cost of 8 or more, this Character can attack Characters on the turn in which it is played. [On Play] Rest up to 1 of your opponent's Characters with a cost of 0.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-090_p1.png?260715"
   },
@@ -3605,7 +3605,7 @@
     "types": [
       "Baroque Works"
     ],
-    "effect": "[Blocker]<br>[On K.O.] Add up to 1 Character card with a type including \"Baroque Works\" and a cost of 8 or less from your trash to your hand.",
+    "effect": "[Blocker] [On K.O.] Add up to 1 Character card with a type including \"Baroque Works\" and a cost of 8 or less from your trash to your hand.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-093.png?260715"
   },
@@ -3628,7 +3628,7 @@
     "types": [
       "Baroque Works"
     ],
-    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On Play] If there is a Character with a cost of 0 or with a cost of 8 or more, draw 2 cards and trash 1 card from your hand.",
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] If there is a Character with a cost of 0 or with a cost of 8 or more, draw 2 cards and trash 1 card from your hand.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-094.png?260715"
   },
@@ -3673,7 +3673,7 @@
       "The Seven Warlords of the Sea",
       "Baroque Works"
     ],
-    "effect": "[Main] You may rest 2 of your DON!! cards: Negate the effect of up to 1 of your opponent's Characters with a cost of 5 or less during this turn.<br>[Counter] If you have 10 or more cards in your trash, up to 1 of your Leader or Character cards gains +4000 power during this battle.",
+    "effect": "[Main] You may rest 2 of your DON!! cards: Negate the effect of up to 1 of your opponent's Characters with a cost of 5 or less during this turn. [Counter] If you have 10 or more cards in your trash, up to 1 of your Leader or Character cards gains +4000 power during this battle.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-096.png?260715"
   },
@@ -3695,7 +3695,7 @@
       "The Seven Warlords of the Sea",
       "Baroque Works"
     ],
-    "effect": "[Main] You may rest 2 of your DON!! cards: Negate the effect of up to 1 of your opponent's Characters with a cost of 5 or less during this turn.<br>[Counter] If you have 10 or more cards in your trash, up to 1 of your Leader or Character cards gains +4000 power during this battle.",
+    "effect": "[Main] You may rest 2 of your DON!! cards: Negate the effect of up to 1 of your opponent's Characters with a cost of 5 or less during this turn. [Counter] If you have 10 or more cards in your trash, up to 1 of your Leader or Character cards gains +4000 power during this battle.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-096_p1.png?260715"
   },
@@ -3739,7 +3739,7 @@
       "Impel Down",
       "Former Baroque Works"
     ],
-    "effect": "[Main] If there is a Character with a cost of 0 or with a cost of 8 or more, all of your Characters with a type including \"Baroque Works\" gain +3 cost until the end of your opponent's next End Phase.<br>[Counter] Your Leader gains +3000 power during this battle.",
+    "effect": "[Main] If there is a Character with a cost of 0 or with a cost of 8 or more, all of your Characters with a type including \"Baroque Works\" gain +3 cost until the end of your opponent's next End Phase. [Counter] Your Leader gains +3000 power during this battle.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-098.png?260715"
   },
@@ -4315,7 +4315,7 @@
     "types": [
       "The Seven Warlords of the Sea"
     ],
-    "effect": "[Your Turn] When this Character becomes rested, up to 1 of your opponent's Characters with a cost of 9 or less cannot be rested until the end of your opponent's next End Phase.<br>[On Your Opponent's Attack] [Once Per Turn] You may trash 1 card from your hand: Up to 1 of your Leader or Character cards gains +2000 power during this battle.",
+    "effect": "[Your Turn] When this Character becomes rested, up to 1 of your opponent's Characters with a cost of 9 or less cannot be rested until the end of your opponent's next End Phase. [On Your Opponent's Attack] [Once Per Turn] You may trash 1 card from your hand: Up to 1 of your Leader or Character cards gains +2000 power during this battle.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-119.png?260715"
   },
@@ -4338,7 +4338,7 @@
     "types": [
       "The Seven Warlords of the Sea"
     ],
-    "effect": "[Your Turn] When this Character becomes rested, up to 1 of your opponent's Characters with a cost of 9 or less cannot be rested until the end of your opponent's next End Phase.<br>[On Your Opponent's Attack] [Once Per Turn] You may trash 1 card from your hand: Up to 1 of your Leader or Character cards gains +2000 power during this battle.",
+    "effect": "[Your Turn] When this Character becomes rested, up to 1 of your opponent's Characters with a cost of 9 or less cannot be rested until the end of your opponent's next End Phase. [On Your Opponent's Attack] [Once Per Turn] You may trash 1 card from your hand: Up to 1 of your Leader or Character cards gains +2000 power during this battle.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-119_p1.png?260715"
   },
@@ -4361,7 +4361,7 @@
     "types": [
       "The Seven Warlords of the Sea"
     ],
-    "effect": "[Your Turn] When this Character becomes rested, up to 1 of your opponent's Characters with a cost of 9 or less cannot be rested until the end of your opponent's next End Phase.<br>[On Your Opponent's Attack] [Once Per Turn] You may trash 1 card from your hand: Up to 1 of your Leader or Character cards gains +2000 power during this battle.",
+    "effect": "[Your Turn] When this Character becomes rested, up to 1 of your opponent's Characters with a cost of 9 or less cannot be rested until the end of your opponent's next End Phase. [On Your Opponent's Attack] [Once Per Turn] You may trash 1 card from your hand: Up to 1 of your Leader or Character cards gains +2000 power during this battle.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-119_p2.png?260715"
   },
@@ -4385,7 +4385,7 @@
       "The Seven Warlords of the Sea",
       "Baroque Works"
     ],
-    "effect": "[On Play] Up to 1 of your opponent's Characters with a cost of 9 or less cannot attack until the end of your opponent's next End Phase. Then, if your opponent has a Character with a cost of 0 or with a cost of 8 or more, draw 1 card.<br>[On K.O.] You may trash 1 card from your hand: Play this Character card from your trash.",
+    "effect": "[On Play] Up to 1 of your opponent's Characters with a cost of 9 or less cannot attack until the end of your opponent's next End Phase. Then, if your opponent has a Character with a cost of 0 or with a cost of 8 or more, draw 1 card. [On K.O.] You may trash 1 card from your hand: Play this Character card from your trash.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-120.png?260715"
   },
@@ -4409,7 +4409,7 @@
       "The Seven Warlords of the Sea",
       "Baroque Works"
     ],
-    "effect": "[On Play] Up to 1 of your opponent's Characters with a cost of 9 or less cannot attack until the end of your opponent's next End Phase. Then, if your opponent has a Character with a cost of 0 or with a cost of 8 or more, draw 1 card.<br>[On K.O.] You may trash 1 card from your hand: Play this Character card from your trash.",
+    "effect": "[On Play] Up to 1 of your opponent's Characters with a cost of 9 or less cannot attack until the end of your opponent's next End Phase. Then, if your opponent has a Character with a cost of 0 or with a cost of 8 or more, draw 1 card. [On K.O.] You may trash 1 card from your hand: Play this Character card from your trash.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-120_p1.png?260715"
   },
@@ -4434,7 +4434,7 @@
       "Supernovas",
       "Kid Pirates"
     ],
-    "effect": "[Rush] (This card can attack on the turn in which it is played.)<br>[When Attacking] If your opponent has 2 or less Life cards, this Character gains +2000 power during this turn.",
+    "effect": "[Rush] (This card can attack on the turn in which it is played.) [When Attacking] If your opponent has 2 or less Life cards, this Character gains +2000 power during this turn.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-003_p5.png?260715"
   },
@@ -4481,7 +4481,7 @@
       "Supernovas",
       "Kid Pirates"
     ],
-    "effect": "[On Play] Add up to 1 DON!! card from your DON!! deck and set it as active.<br>[Activate: Main] You may trash this Character: Play up to 1 {Kid Pirates} type Character card with a cost of 5 or less from your hand.",
+    "effect": "[On Play] Add up to 1 DON!! card from your DON!! deck and set it as active. [Activate: Main] You may trash this Character: Play up to 1 {Kid Pirates} type Character card with a cost of 5 or less from your hand.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-039_p1.png?260715"
   },
@@ -4504,7 +4504,7 @@
     "types": [
       "Thriller Bark Pirates"
     ],
-    "effect": "[On Play] If your opponent has 5 or more cards in their hand, choose one:<br>• Your opponent trashes 1 card from their hand.<br>• Give up to 1 of your opponent's Characters −3 cost during this turn.",
+    "effect": "[On Play] If your opponent has 5 or more cards in their hand, choose one: • Your opponent trashes 1 card from their hand. • Give up to 1 of your opponent's Characters −3 cost during this turn.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP06-093_p5.png?260715"
   },
@@ -4622,7 +4622,7 @@
       "Muggy Kingdom",
       "The Seven Warlords of the Sea"
     ],
-    "effect": "[Blocker]<br>[On Play] Set up to 4 of your DON!! cards as active. Then, you cannot play Character cards with a base cost of 7 or more during this turn.",
+    "effect": "[Blocker] [On Play] Set up to 4 of your DON!! cards as active. Then, you cannot play Character cards with a base cost of 7 or more during this turn.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-030_p2.png?260715"
   },
@@ -4670,7 +4670,7 @@
       "Supernovas",
       "Straw Hat Crew"
     ],
-    "effect": "[Opponent's Turn] If this Character would be rested by your opponent's Character's effect, you may rest 1 of your other Characters instead.<br>[Blocker]",
+    "effect": "[Opponent's Turn] If this Character would be rested by your opponent's Character's effect, you may rest 1 of your other Characters instead. [Blocker]",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/PRB02-006_p2.png?260715"
   }

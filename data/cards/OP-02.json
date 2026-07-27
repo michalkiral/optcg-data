@@ -138,7 +138,7 @@
       "The Four Emperors",
       "Whitebeard Pirates"
     ],
-    "effect": "[On Play] Up to 1 of your Leader gains +2000 power until the start of your next turn. Then, you cannot add Life cards to your hand using your own effects during this turn.<br>[DON!! x2] [When Attacking] K.O. up to 1 of your opponent's Characters with 3000 power or less.",
+    "effect": "[On Play] Up to 1 of your Leader gains +2000 power until the start of your next turn. Then, you cannot add Life cards to your hand using your own effects during this turn. [DON!! x2] [When Attacking] K.O. up to 1 of your opponent's Characters with 3000 power or less.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-004.png?260715"
   },
@@ -162,7 +162,7 @@
       "The Four Emperors",
       "Whitebeard Pirates"
     ],
-    "effect": "[On Play] Up to 1 of your Leader gains +2000 power until the start of your next turn. Then, you cannot add Life cards to your hand using your own effects during this turn.<br>[DON!! x2] [When Attacking] K.O. up to 1 of your opponent's Characters with 3000 power or less.",
+    "effect": "[On Play] Up to 1 of your Leader gains +2000 power until the start of your next turn. Then, you cannot add Life cards to your hand using your own effects during this turn. [DON!! x2] [When Attacking] K.O. up to 1 of your opponent's Characters with 3000 power or less.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-004_p1.png?260715"
   },
@@ -254,7 +254,7 @@
     "types": [
       "Whitebeard Pirates"
     ],
-    "effect": "[DON!! x1] If you have 2 or less Life cards and your Leader's type includes \"Whitebeard Pirates\", this Character gains [Rush].<br>(This card can attack on the turn in which it is played.)",
+    "effect": "[DON!! x1] If you have 2 or less Life cards and your Leader's type includes \"Whitebeard Pirates\", this Character gains [Rush]. (This card can attack on the turn in which it is played.)",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-008.png?260715"
   },
@@ -392,7 +392,7 @@
     "types": [
       "Whitebeard Pirates"
     ],
-    "effect": "[On Play] Give up to 2 of your opponent's Characters −3000 power during this turn. Then, if your Leader's type includes \"Whitebeard Pirates\", this Character gains [Rush] during this turn.<br>(This card can attack on the turn in which it is played.)",
+    "effect": "[On Play] Give up to 2 of your opponent's Characters −3000 power during this turn. Then, if your Leader's type includes \"Whitebeard Pirates\", this Character gains [Rush] during this turn. (This card can attack on the turn in which it is played.)",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-013.png?260715"
   },
@@ -415,7 +415,7 @@
     "types": [
       "Whitebeard Pirates"
     ],
-    "effect": "[On Play] Give up to 2 of your opponent's Characters −3000 power during this turn. Then, if your Leader's type includes \"Whitebeard Pirates\", this Character gains [Rush] during this turn.<br>(This card can attack on the turn in which it is played.)",
+    "effect": "[On Play] Give up to 2 of your opponent's Characters −3000 power during this turn. Then, if your Leader's type includes \"Whitebeard Pirates\", this Character gains [Rush] during this turn. (This card can attack on the turn in which it is played.)",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-013_p1.png?260715"
   },
@@ -438,7 +438,7 @@
     "types": [
       "Whitebeard Pirates"
     ],
-    "effect": "[On Play] Give up to 2 of your opponent's Characters −3000 power during this turn. Then, if your Leader's type includes \"Whitebeard Pirates\", this Character gains [Rush] during this turn.<br>(This card can attack on the turn in which it is played.)",
+    "effect": "[On Play] Give up to 2 of your opponent's Characters −3000 power during this turn. Then, if your Leader's type includes \"Whitebeard Pirates\", this Character gains [Rush] during this turn. (This card can attack on the turn in which it is played.)",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-013_p2.png?260715"
   },
@@ -576,7 +576,7 @@
     "types": [
       "Whitebeard Pirates"
     ],
-    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On K.O.] You may trash 1 card with a type including \"Whitebeard Pirates\" from your hand: If you have 2 or less Life cards, play this Character card from your trash rested.",
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On K.O.] You may trash 1 card with a type including \"Whitebeard Pirates\" from your hand: If you have 2 or less Life cards, play this Character card from your trash rested.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-018.png?260715"
   },
@@ -599,7 +599,7 @@
     "types": [
       "Whitebeard Pirates"
     ],
-    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On K.O.] You may trash 1 card with a type including \"Whitebeard Pirates\" from your hand: If you have 2 or less Life cards, play this Character card from your trash rested.",
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On K.O.] You may trash 1 card with a type including \"Whitebeard Pirates\" from your hand: If you have 2 or less Life cards, play this Character card from your trash rested.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-018_p1.png?260715"
   },
@@ -924,7 +924,7 @@
       "Land of Wano",
       "Kouzuki Clan"
     ],
-    "effect": "[Activate: Main] [Once Per Turn] ③ (You may rest the specified number of DON!! cards in your cost area.): Set this Character as active.<br>[On K.O.] Play up to 1 green {Land of Wano} type Character card with a cost of 3 from your deck. Then, shuffle your deck.",
+    "effect": "[Activate: Main] [Once Per Turn] ③ (You may rest the specified number of DON!! cards in your cost area.): Set this Character as active. [On K.O.] Play up to 1 green {Land of Wano} type Character card with a cost of 3 from your deck. Then, shuffle your deck.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-030.png?260715"
   },
@@ -948,7 +948,7 @@
       "Land of Wano",
       "Kouzuki Clan"
     ],
-    "effect": "[Activate: Main] [Once Per Turn] ③ (You may rest the specified number of DON!! cards in your cost area.): Set this Character as active.<br>[On K.O.] Play up to 1 green {Land of Wano} type Character card with a cost of 3 from your deck. Then, shuffle your deck.",
+    "effect": "[Activate: Main] [Once Per Turn] ③ (You may rest the specified number of DON!! cards in your cost area.): Set this Character as active. [On K.O.] Play up to 1 green {Land of Wano} type Character card with a cost of 3 from your deck. Then, shuffle your deck.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-030_p1.png?260715"
   },
@@ -972,7 +972,7 @@
       "Land of Wano",
       "Kouzuki Clan"
     ],
-    "effect": "If you have a [Kouzuki Oden] Character, this Character gains [Blocker].<br>(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+    "effect": "If you have a [Kouzuki Oden] Character, this Character gains [Blocker]. (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-031.png?260715"
   },
@@ -996,7 +996,7 @@
       "Land of Wano",
       "Kouzuki Clan"
     ],
-    "effect": "If you have a [Kouzuki Oden] Character, this Character gains [Blocker].<br>(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+    "effect": "If you have a [Kouzuki Oden] Character, this Character gains [Blocker]. (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-031_p1.png?260715"
   },
@@ -1264,7 +1264,7 @@
       "Supernovas",
       "Straw Hat Crew"
     ],
-    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On Play] Play up to 1 {FILM} or {Straw Hat Crew} type Character card with a cost of 4 or less from your hand.",
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] Play up to 1 {FILM} or {Straw Hat Crew} type Character card with a cost of 4 or less from your hand.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-041.png?260715"
   },
@@ -1289,7 +1289,7 @@
       "Supernovas",
       "Straw Hat Crew"
     ],
-    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On Play] Play up to 1 {FILM} or {Straw Hat Crew} type Character card with a cost of 4 or less from your hand.",
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] Play up to 1 {FILM} or {Straw Hat Crew} type Character card with a cost of 4 or less from your hand.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-041_p1.png?260715"
   },
@@ -1312,7 +1312,7 @@
     "types": [
       "Land of Wano"
     ],
-    "effect": "Also treat this card's name as [Kouzuki Oden] according to the rules.<br>[On Play] Rest up to 1 of your opponent's Characters with a cost of 6 or less.",
+    "effect": "Also treat this card's name as [Kouzuki Oden] according to the rules. [On Play] Rest up to 1 of your opponent's Characters with a cost of 6 or less.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-042.png?260715"
   },
@@ -1383,7 +1383,7 @@
       "Supernovas",
       "Straw Hat Crew"
     ],
-    "effect": "[Counter] Up to 1 of your Leader or Character cards gains +6000 power during this battle. Then, play up to 1 Character card with a cost of 3 or less and no base effect from your hand.<br>",
+    "effect": "[Counter] Up to 1 of your Leader or Character cards gains +6000 power during this battle. Then, play up to 1 Character card with a cost of 3 or less and no base effect from your hand.",
     "trigger": "[Trigger] Rest up to 1 of your opponent's Leader or Character cards with a cost of 5 or less.",
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-045.png?260715"
   },
@@ -1405,7 +1405,7 @@
       "FILM",
       "Straw Hat Crew"
     ],
-    "effect": "[Main] K.O. up to 1 of your opponent's rested Characters with a cost of 4 or less.<br>",
+    "effect": "[Main] K.O. up to 1 of your opponent's rested Characters with a cost of 4 or less.",
     "trigger": "[Trigger] Play up to 1 Character card with a cost of 4 or less and no base effect from your hand.",
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-046.png?260715"
   },
@@ -1520,7 +1520,7 @@
       "Impel Down",
       "Revolutionary Army"
     ],
-    "effect": "If you have 1 or less cards in your hand, this Character gains +2000 power.<br>[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+    "effect": "If you have 1 or less cards in your hand, this Character gains +2000 power. [Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-050.png?260715"
   },
@@ -1686,7 +1686,7 @@
       "The Seven Warlords of the Sea",
       "Donquixote Pirates"
     ],
-    "effect": "[On Play] Look at 3 cards from the top of your deck and place them at the top or bottom of the deck in any order.<br>[DON!! x1] [When Attacking] You may trash 1 card from your hand: Place up to 1 of your opponent's Characters with a cost of 1 or less at the bottom of the owner's deck.",
+    "effect": "[On Play] Look at 3 cards from the top of your deck and place them at the top or bottom of the deck in any order. [DON!! x1] [When Attacking] You may trash 1 card from your hand: Place up to 1 of your opponent's Characters with a cost of 1 or less at the bottom of the owner's deck.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-056.png?260715"
   },
@@ -1879,7 +1879,7 @@
       "Impel Down",
       "Straw Hat Crew"
     ],
-    "effect": "[On Play]/[When Attacking] You may trash 2 cards from your hand: Return up to 1 Character with a cost of 4 or less to the owner's hand. Then, this Character gains [Double Attack] during this turn.<br>(This card deals 2 damage.)",
+    "effect": "[On Play]/[When Attacking] You may trash 2 cards from your hand: Return up to 1 Character with a cost of 4 or less to the owner's hand. Then, this Character gains [Double Attack] during this turn. (This card deals 2 damage.)",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-062.png?260715"
   },
@@ -1903,7 +1903,7 @@
       "Impel Down",
       "Straw Hat Crew"
     ],
-    "effect": "[On Play]/[When Attacking] You may trash 2 cards from your hand: Return up to 1 Character with a cost of 4 or less to the owner's hand. Then, this Character gains [Double Attack] during this turn.<br>(This card deals 2 damage.)",
+    "effect": "[On Play]/[When Attacking] You may trash 2 cards from your hand: Return up to 1 Character with a cost of 4 or less to the owner's hand. Then, this Character gains [Double Attack] during this turn. (This card deals 2 damage.)",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-062_p1.png?260715"
   },
@@ -1975,7 +1975,7 @@
       "Impel Down",
       "Former Baroque Works"
     ],
-    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[End of Your Turn] You may trash 1 card from your hand: Set this Character as active.",
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [End of Your Turn] You may trash 1 card from your hand: Set this Character as active.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-065.png?260715"
   },
@@ -2248,7 +2248,7 @@
     "types": [
       "Impel Down"
     ],
-    "effect": "Your [Blugori] gains [Blocker].<br>(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+    "effect": "Your [Blugori] gains [Blocker]. (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-074.png?260715"
   },
@@ -2507,7 +2507,7 @@
     "types": [
       "Impel Down"
     ],
-    "effect": "[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Your opponent returns 1 DON!! card from their field to their DON!! deck.<br>[Opponent's Turn] When this Character is K.O.'d, your opponent returns 2 DON!! cards from their field to their DON!! deck.",
+    "effect": "[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Your opponent returns 1 DON!! card from their field to their DON!! deck. [Opponent's Turn] When this Character is K.O.'d, your opponent returns 2 DON!! cards from their field to their DON!! deck.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-085.png?260715"
   },
@@ -2530,7 +2530,7 @@
     "types": [
       "Impel Down"
     ],
-    "effect": "[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Your opponent returns 1 DON!! card from their field to their DON!! deck.<br>[Opponent's Turn] When this Character is K.O.'d, your opponent returns 2 DON!! cards from their field to their DON!! deck.",
+    "effect": "[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Your opponent returns 1 DON!! card from their field to their DON!! deck. [Opponent's Turn] When this Character is K.O.'d, your opponent returns 2 DON!! cards from their field to their DON!! deck.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-085_p1.png?260715"
   },
@@ -2554,7 +2554,7 @@
       "Impel Down",
       "Jailer Beast"
     ],
-    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On K.O.] If your Leader has the {Impel Down} type, add up to 1 DON!! card from your DON!! deck and rest it.",
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On K.O.] If your Leader has the {Impel Down} type, add up to 1 DON!! card from your DON!! deck and rest it.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-086.png?260715"
   },
@@ -2578,7 +2578,7 @@
       "Impel Down",
       "Jailer Beast"
     ],
-    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On K.O.] If your Leader has the {Impel Down} type, add up to 1 DON!! card from your DON!! deck and rest it.",
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On K.O.] If your Leader has the {Impel Down} type, add up to 1 DON!! card from your DON!! deck and rest it.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-086_p1.png?260715"
   },
@@ -2602,7 +2602,7 @@
       "Impel Down",
       "Jailer Beast"
     ],
-    "effect": "[Double Attack] (This card deals 2 damage.)<br>[On K.O.] If your Leader has the {Impel Down} type, add up to 1 DON!! card from your DON!! deck and rest it.",
+    "effect": "[Double Attack] (This card deals 2 damage.) [On K.O.] If your Leader has the {Impel Down} type, add up to 1 DON!! card from your DON!! deck and rest it.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-087.png?260715"
   },
@@ -2802,7 +2802,7 @@
     "types": [
       "Navy"
     ],
-    "effect": "If there is a Character with a cost of 0, this Character gains [Banish].<br>(When this card deals damage, the target card is trashed without activating its Trigger.)",
+    "effect": "If there is a Character with a cost of 0, this Character gains [Banish]. (When this card deals damage, the target card is trashed without activating its Trigger.)",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-095.png?260715"
   },
@@ -2825,7 +2825,7 @@
     "types": [
       "Navy"
     ],
-    "effect": "[On Play] Draw 1 card.<br>[When Attacking] Give up to 1 of your opponent's Characters −4 cost during this turn.",
+    "effect": "[On Play] Draw 1 card. [When Attacking] Give up to 1 of your opponent's Characters −4 cost during this turn.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-096.png?260715"
   },
@@ -2848,7 +2848,7 @@
     "types": [
       "Navy"
     ],
-    "effect": "[On Play] Draw 1 card.<br>[When Attacking] Give up to 1 of your opponent's Characters −4 cost during this turn.",
+    "effect": "[On Play] Draw 1 card. [When Attacking] Give up to 1 of your opponent's Characters −4 cost during this turn.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-096_p1.png?260715"
   },
@@ -3009,7 +3009,7 @@
     "types": [
       "Navy"
     ],
-    "effect": "This Character cannot be K.O.'d by effects.<br>[When Attacking] If there is a Character with a cost of 0, this Character gains +2000 power during this battle.",
+    "effect": "This Character cannot be K.O.'d by effects. [When Attacking] If there is a Character with a cost of 0, this Character gains +2000 power during this battle.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-102.png?260715"
   },
@@ -3242,7 +3242,7 @@
     "types": [
       "Navy"
     ],
-    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On Block] Select up to 1 of your opponent's Characters with a cost of 6 or less. The selected Character cannot attack during this turn.",
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Block] Select up to 1 of your opponent's Characters with a cost of 6 or less. The selected Character cannot attack during this turn.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-110.png?260715"
   },
@@ -3334,7 +3334,7 @@
     "types": [
       "Navy"
     ],
-    "effect": "[Opponent's Turn] This Character gains +1000 power and cannot be K.O.'d by effects.<br>[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+    "effect": "[Opponent's Turn] This Character gains +1000 power and cannot be K.O.'d by effects. [Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-114.png?260715"
   },
@@ -3357,7 +3357,7 @@
     "types": [
       "Navy"
     ],
-    "effect": "[Opponent's Turn] This Character gains +1000 power and cannot be K.O.'d by effects.<br>[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+    "effect": "[Opponent's Turn] This Character gains +1000 power and cannot be K.O.'d by effects. [Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-114_p1.png?260715"
   },
@@ -3558,7 +3558,7 @@
     "types": [
       "Former Navy"
     ],
-    "effect": "[Your Turn] Give all of your opponent's Characters −5 cost.<br>[On Play] K.O. up to 1 of your opponent's Characters with a cost of 0.",
+    "effect": "[Your Turn] Give all of your opponent's Characters −5 cost. [On Play] K.O. up to 1 of your opponent's Characters with a cost of 0.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-121.png?260715"
   },
@@ -3581,7 +3581,7 @@
     "types": [
       "Former Navy"
     ],
-    "effect": "[Your Turn] Give all of your opponent's Characters −5 cost.<br>[On Play] K.O. up to 1 of your opponent's Characters with a cost of 0.",
+    "effect": "[Your Turn] Give all of your opponent's Characters −5 cost. [On Play] K.O. up to 1 of your opponent's Characters with a cost of 0.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-121_p1.png?260715"
   }

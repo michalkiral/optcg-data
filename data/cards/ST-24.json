@@ -67,7 +67,7 @@
       "Supernovas",
       "Fallen Monk Pirates"
     ],
-    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[End of Your Turn] Set up to 1 of your DON!! cards as active.",
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [End of Your Turn] Set up to 1 of your DON!! cards as active.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP07-021_r1.png?260715"
   },
@@ -91,7 +91,7 @@
       "Supernovas",
       "Caribou Pirates"
     ],
-    "effect": "If you have 6 or more rested DON!! cards, this Character gains +1000 power.<br>[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+    "effect": "If you have 6 or more rested DON!! cards, this Character gains +1000 power. [Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP07-023_r1.png?260715"
   },
@@ -139,7 +139,7 @@
       "Supernovas",
       "Barto Club"
     ],
-    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[Your Turn] [Once Per Turn] If a Character is rested by your effect, draw 1 card and trash 1 card from your hand.",
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [Your Turn] [Once Per Turn] If a Character is rested by your effect, draw 1 card and trash 1 card from your hand.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP07-031_r1.png?260715"
   },
@@ -255,7 +255,7 @@
       "Supernovas",
       "Firetank Pirates"
     ],
-    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On Play] If you have 6 or more rested cards, draw 1 card and trash 1 card from your hand.",
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] If you have 6 or more rested cards, draw 1 card and trash 1 card from your hand.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST24-001.png?260715"
   },
@@ -280,7 +280,7 @@
       "Supernovas",
       "Kid Pirates"
     ],
-    "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Supernovas} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.<br>[On Your Opponent's Attack] You may trash this Character: Set up to 1 of your DON!! cards as active.",
+    "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Supernovas} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order. [On Your Opponent's Attack] You may trash this Character: Set up to 1 of your DON!! cards as active.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST24-002.png?260715"
   },

@@ -19,7 +19,7 @@
       "Supernovas",
       "Kid Pirates"
     ],
-    "effect": "[End of Your Turn] You may turn 1 card from the top of your Life cards face-up: Set up to 1 of your {Supernovas} type Characters with a cost of 3 to 8 as active. That Character gains [Blocker] until the end of your opponent's next turn.<br>",
+    "effect": "[End of Your Turn] You may turn 1 card from the top of your Life cards face-up: Set up to 1 of your {Supernovas} type Characters with a cost of 3 to 8 as active. That Character gains [Blocker] until the end of your opponent's next turn.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP10-099_p2.png?260715"
   },
@@ -115,7 +115,7 @@
       "Supernovas",
       "Straw Hat Crew"
     ],
-    "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Supernovas} type card other than [Monkey.D.Luffy] and add it to your hand. Then, place the rest at the bottom of your deck in any order.<br>",
+    "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Supernovas} type card other than [Monkey.D.Luffy] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP10-111_r1.png?260715"
   },
@@ -235,7 +235,7 @@
       "Heart Pirates"
     ],
     "effect": "-",
-    "trigger": "[Trigger] If your Leader has the {Supernovas} type and you and your opponent have a total of 5 or less Life cards, play this card.<br>",
+    "trigger": "[Trigger] If your Leader has the {Supernovas} type and you and your opponent have a total of 5 or less Life cards, play this card.",
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-088_r2.png?260715"
   },
   {
@@ -356,7 +356,7 @@
       "Supernovas",
       "Kid Pirates"
     ],
-    "effect": "[On Your Opponent's Attack] [Once Per Turn] You may turn 1 card from the top or bottom of your Life cards face-down: Change the target of the attack to your [Eustass\"Captain\"Kid] with 5000 base power or more.<br>[Activate: Main] [Once Per Turn] You may turn 1 card from the top or bottom of your Life cards face-up: Give up to 1 rested DON!! card to your Leader.",
+    "effect": "[On Your Opponent's Attack] [Once Per Turn] You may turn 1 card from the top or bottom of your Life cards face-down: Change the target of the attack to your [Eustass\"Captain\"Kid] with 5000 base power or more. [Activate: Main] [Once Per Turn] You may turn 1 card from the top or bottom of your Life cards face-up: Give up to 1 rested DON!! card to your Leader.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST36-005.png?260715"
   }

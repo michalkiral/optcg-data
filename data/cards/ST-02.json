@@ -19,7 +19,7 @@
       "Supernovas",
       "Kid Pirates"
     ],
-    "effect": "[Activate: Main] [Once Per Turn]  ③ (You may rest the specified number of DON!! cards in your cost area.) You may trash 1 card from your hand: Set this Leader as active.",
+    "effect": "[Activate: Main] [Once Per Turn] ③ (You may rest the specified number of DON!! cards in your cost area.) You may trash 1 card from your hand: Set this Leader as active.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-001.png?260715"
   },
@@ -304,7 +304,7 @@
       "Supernovas",
       "Kid Pirates"
     ],
-    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[DON!! x1] [End of Your Turn] Set this Character as active.",
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [DON!! x1] [End of Your Turn] Set this Character as active.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-013.png?260715"
   },

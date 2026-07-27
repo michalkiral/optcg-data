@@ -136,7 +136,7 @@
       "The Four Emperors",
       "Red-Haired Pirates"
     ],
-    "effect": "Give all of your opponent's Characters −1000 power.<br>[Rush] (This card can attack on the turn in which it is played.)",
+    "effect": "Give all of your opponent's Characters −1000 power. [Rush] (This card can attack on the turn in which it is played.)",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-004.png?260715"
   },
@@ -160,7 +160,7 @@
       "The Four Emperors",
       "Red-Haired Pirates"
     ],
-    "effect": "Give all of your opponent's Characters −1000 power.<br>[Rush] (This card can attack on the turn in which it is played.)",
+    "effect": "Give all of your opponent's Characters −1000 power. [Rush] (This card can attack on the turn in which it is played.)",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-004_p1.png?260715"
   },
@@ -184,7 +184,7 @@
       "The Four Emperors",
       "Red-Haired Pirates"
     ],
-    "effect": "Give all of your opponent's Characters −1000 power.<br>[Rush] (This card can attack on the turn in which it is played.)",
+    "effect": "Give all of your opponent's Characters −1000 power. [Rush] (This card can attack on the turn in which it is played.)",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-004_p2.png?260715"
   },
@@ -207,7 +207,7 @@
     "types": [
       "Roger Pirates"
     ],
-    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On Play] If your opponent has 2 or more Characters with a base power of 5000 or more, draw 2 cards and trash 1 card from your hand.",
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] If your opponent has 2 or more Characters with a base power of 5000 or more, draw 2 cards and trash 1 card from your hand.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-005.png?260715"
   },
@@ -253,7 +253,7 @@
     "types": [
       "Kid Pirates"
     ],
-    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On Play] Up to 1 of your Leader with 4000 power or less gains +1000 power during this turn.",
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] Up to 1 of your Leader with 4000 power or less gains +1000 power during this turn.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-007.png?260715"
   },
@@ -345,7 +345,7 @@
     "types": [
       "Red-Haired Pirates"
     ],
-    "effect": "[On Play] Play up to 1 [Monster] from your hand.<br>[DON!! x1] [When Attacking] This Character gains +2000 power during this turn.",
+    "effect": "[On Play] Play up to 1 [Monster] from your hand. [DON!! x1] [When Attacking] This Character gains +2000 power during this turn.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-010.png?260715"
   },
@@ -415,7 +415,7 @@
     "types": [
       "Red-Haired Pirates"
     ],
-    "effect": "[On Play] Up to 1 of your Leader gains +1000 power until the end of your opponent's next turn.<br>[DON!! x1] [When Attacking] Give up to 1 of your opponent's Characters −1000 power during this turn.",
+    "effect": "[On Play] Up to 1 of your Leader gains +1000 power until the end of your opponent's next turn. [DON!! x1] [When Attacking] Give up to 1 of your opponent's Characters −1000 power during this turn.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-013.png?260715"
   },
@@ -461,7 +461,7 @@
     "types": [
       "Red-Haired Pirates"
     ],
-    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On K.O.] If your Leader has the {Red-Haired Pirates} type, K.O. up to 1 of your opponent's Characters with a base power of 6000 or less.",
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On K.O.] If your Leader has the {Red-Haired Pirates} type, K.O. up to 1 of your opponent's Characters with a base power of 6000 or less.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-015.png?260715"
   },
@@ -616,7 +616,7 @@
     "types": [
       "ODYSSEY"
     ],
-    "effect": "Your Character cards are played rested.<br>[Activate: Main] [Once Per Turn] You may rest 3 of your DON!! cards: Add up to 1 DON!! card from your DON!! deck and rest it, and play up to 1 {ODYSSEY} type Character card with a cost of 5 or less from your hand.",
+    "effect": "Your Character cards are played rested. [Activate: Main] [Once Per Turn] You may rest 3 of your DON!! cards: Add up to 1 DON!! card from your DON!! deck and rest it, and play up to 1 {ODYSSEY} type Character card with a cost of 5 or less from your hand.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-022.png?260715"
   },
@@ -640,7 +640,7 @@
     "types": [
       "ODYSSEY"
     ],
-    "effect": "Your Character cards are played rested.<br>[Activate: Main] [Once Per Turn] You may rest 3 of your DON!! cards: Add up to 1 DON!! card from your DON!! deck and rest it, and play up to 1 {ODYSSEY} type Character card with a cost of 5 or less from your hand.",
+    "effect": "Your Character cards are played rested. [Activate: Main] [Once Per Turn] You may rest 3 of your DON!! cards: Add up to 1 DON!! card from your DON!! deck and rest it, and play up to 1 {ODYSSEY} type Character card with a cost of 5 or less from your hand.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-022_p1.png?260715"
   },
@@ -663,7 +663,7 @@
     "types": [
       "ODYSSEY"
     ],
-    "effect": "[On Play] If your Leader has the {ODYSSEY} type, set up to 3 of your DON!! cards as active.<br>[On Your Opponent's Attack] [Once Per Turn] You may rest 1 of your DON!! cards: Up to 1 of your Leader or Character cards gains +2000 power during this battle.",
+    "effect": "[On Play] If your Leader has the {ODYSSEY} type, set up to 3 of your DON!! cards as active. [On Your Opponent's Attack] [Once Per Turn] You may rest 1 of your DON!! cards: Up to 1 of your Leader or Character cards gains +2000 power during this battle.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-023.png?260715"
   },
@@ -686,7 +686,7 @@
     "types": [
       "ODYSSEY"
     ],
-    "effect": "[On Play] If your Leader has the {ODYSSEY} type, set up to 3 of your DON!! cards as active.<br>[On Your Opponent's Attack] [Once Per Turn] You may rest 1 of your DON!! cards: Up to 1 of your Leader or Character cards gains +2000 power during this battle.",
+    "effect": "[On Play] If your Leader has the {ODYSSEY} type, set up to 3 of your DON!! cards as active. [On Your Opponent's Attack] [Once Per Turn] You may rest 1 of your DON!! cards: Up to 1 of your Leader or Character cards gains +2000 power during this battle.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-023_p1.png?260715"
   },
@@ -882,7 +882,7 @@
       "The Seven Warlords of the Sea",
       "Donquixote Pirates"
     ],
-    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[End of Your Turn] If you have 2 or more rested Characters, set this Character as active.",
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [End of Your Turn] If you have 2 or more rested Characters, set this Character as active.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-031.png?260715"
   },
@@ -907,7 +907,7 @@
       "Navy",
       "Donquixote Pirates"
     ],
-    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On Your Opponent's Attack] [Once Per Turn] Set this Character as active.",
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Your Opponent's Attack] [Once Per Turn] Set this Character as active.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-032.png?260715"
   },
@@ -1051,7 +1051,7 @@
     "types": [
       "ODYSSEY"
     ],
-    "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {ODYSSEY} type card other than [Lim] and add it to your hand. Then, place the rest at the bottom of your deck in any order.<br>[End of Your Turn] If you have 3 or more rested Characters, set this Character as active.",
+    "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {ODYSSEY} type card other than [Lim] and add it to your hand. Then, place the rest at the bottom of your deck in any order. [End of Your Turn] If you have 3 or more rested Characters, set this Character as active.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-037.png?260715"
   },
@@ -1074,7 +1074,7 @@
     "types": [
       "ODYSSEY"
     ],
-    "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {ODYSSEY} type card other than [Lim] and add it to your hand. Then, place the rest at the bottom of your deck in any order.<br>[End of Your Turn] If you have 3 or more rested Characters, set this Character as active.",
+    "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {ODYSSEY} type card other than [Lim] and add it to your hand. Then, place the rest at the bottom of your deck in any order. [End of Your Turn] If you have 3 or more rested Characters, set this Character as active.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-037_p1.png?260715"
   },
@@ -1356,7 +1356,7 @@
       "Land of Wano",
       "Whitebeard Pirates"
     ],
-    "effect": "[Double Attack] (This card deals 2 damage.)<br>[On K.O.] Draw 2 cards and trash 1 card from your hand.",
+    "effect": "[Double Attack] (This card deals 2 damage.) [On K.O.] Draw 2 cards and trash 1 card from your hand.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-047.png?260715"
   },
@@ -1379,7 +1379,7 @@
     "types": [
       "Cross Guild"
     ],
-    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On Play] Draw 2 cards and trash 1 card from your hand.",
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] Draw 2 cards and trash 1 card from your hand.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-048.png?260715"
   },
@@ -1402,7 +1402,7 @@
     "types": [
       "Cross Guild"
     ],
-    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On Play] Draw 2 cards and trash 1 card from your hand.",
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] Draw 2 cards and trash 1 card from your hand.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-048_p1.png?260715"
   },
@@ -1770,7 +1770,7 @@
       "The Four Emperors",
       "Straw Hat Crew"
     ],
-    "effect": "[DON!! x1] All of your Characters gain +1 cost.<br>[Your Turn] [Once Per Turn] When 2 or more DON!! cards on your field are returned to your DON!! deck, add up to 1 DON!! card from your DON!! deck and set it as active, and add up to 1 additional DON!! card and rest it.",
+    "effect": "[DON!! x1] All of your Characters gain +1 cost. [Your Turn] [Once Per Turn] When 2 or more DON!! cards on your field are returned to your DON!! deck, add up to 1 DON!! card from your DON!! deck and set it as active, and add up to 1 additional DON!! card and rest it.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-061.png?260715"
   },
@@ -1795,7 +1795,7 @@
       "The Four Emperors",
       "Straw Hat Crew"
     ],
-    "effect": "[DON!! x1] All of your Characters gain +1 cost.<br>[Your Turn] [Once Per Turn] When 2 or more DON!! cards on your field are returned to your DON!! deck, add up to 1 DON!! card from your DON!! deck and set it as active, and add up to 1 additional DON!! card and rest it.",
+    "effect": "[DON!! x1] All of your Characters gain +1 cost. [Your Turn] [Once Per Turn] When 2 or more DON!! cards on your field are returned to your DON!! deck, add up to 1 DON!! card from your DON!! deck and set it as active, and add up to 1 additional DON!! card and rest it.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-061_p1.png?260715"
   },
@@ -1819,7 +1819,7 @@
     "types": [
       "Straw Hat Crew"
     ],
-    "effect": "[Banish] (When this card deals damage, the target card is trashed without activating its Trigger.)<br>[When Attacking] You may trash 1 card with a [Trigger] from your hand: Add up to 1 DON!! card from your DON!! deck and rest it.",
+    "effect": "[Banish] (When this card deals damage, the target card is trashed without activating its Trigger.) [When Attacking] You may trash 1 card with a [Trigger] from your hand: Add up to 1 DON!! card from your DON!! deck and rest it.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-062.png?260715"
   },
@@ -1843,7 +1843,7 @@
     "types": [
       "Straw Hat Crew"
     ],
-    "effect": "[Banish] (When this card deals damage, the target card is trashed without activating its Trigger.)<br>[When Attacking] You may trash 1 card with a [Trigger] from your hand: Add up to 1 DON!! card from your DON!! deck and rest it.",
+    "effect": "[Banish] (When this card deals damage, the target card is trashed without activating its Trigger.) [When Attacking] You may trash 1 card with a [Trigger] from your hand: Add up to 1 DON!! card from your DON!! deck and rest it.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-062_p1.png?260715"
   },
@@ -2121,7 +2121,7 @@
     "types": [
       "Straw Hat Crew"
     ],
-    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On Play] DON!! −2, You may trash 1 card from your hand: Draw 2 cards.",
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] DON!! −2, You may trash 1 card from your hand: Draw 2 cards.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-072.png?260715"
   },
@@ -2144,7 +2144,7 @@
     "types": [
       "Straw Hat Crew"
     ],
-    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On Play] DON!! −2, You may trash 1 card from your hand: Draw 2 cards.",
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] DON!! −2, You may trash 1 card from your hand: Draw 2 cards.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-072_p1.png?260715"
   },
@@ -2348,7 +2348,7 @@
       "The Four Emperors",
       "Blackbeard Pirates"
     ],
-    "effect": "Your [On Play] effects are negated.<br>[Activate: Main] You may trash 1 card from your hand: Your opponent's [On Play] effects are negated until the end of your opponent's next turn.",
+    "effect": "Your [On Play] effects are negated. [Activate: Main] You may trash 1 card from your hand: Your opponent's [On Play] effects are negated until the end of your opponent's next turn.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-081.png?260715"
   },
@@ -2372,7 +2372,7 @@
       "The Four Emperors",
       "Blackbeard Pirates"
     ],
-    "effect": "Your [On Play] effects are negated.<br>[Activate: Main] You may trash 1 card from your hand: Your opponent's [On Play] effects are negated until the end of your opponent's next turn.",
+    "effect": "Your [On Play] effects are negated. [Activate: Main] You may trash 1 card from your hand: Your opponent's [On Play] effects are negated until the end of your opponent's next turn.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-081_p1.png?260715"
   },
@@ -2418,7 +2418,7 @@
     "types": [
       "Blackbeard Pirates"
     ],
-    "effect": "[Activate: Main] You may rest this Character: If your Leader has the {Blackbeard Pirates} type, give up to 1 of your opponent's Characters −3 cost during this turn.<br>[On K.O.] Draw 1 card.",
+    "effect": "[Activate: Main] You may rest this Character: If your Leader has the {Blackbeard Pirates} type, give up to 1 of your opponent's Characters −3 cost during this turn. [On K.O.] Draw 1 card.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-083.png?260715"
   },
@@ -2487,7 +2487,7 @@
     "types": [
       "Blackbeard Pirates"
     ],
-    "effect": "This Character cannot be K.O.'d by your opponent's effects.<br>If your Leader has the {Blackbeard Pirates} type, this Character gains +1000 power for every 4 cards in your trash.",
+    "effect": "This Character cannot be K.O.'d by your opponent's effects. If your Leader has the {Blackbeard Pirates} type, this Character gains +1000 power for every 4 cards in your trash.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-086.png?260715"
   },
@@ -2580,7 +2580,7 @@
     "types": [
       "Blackbeard Pirates"
     ],
-    "effect": "[Activate: Main] You may rest this Character: If your Leader has the {Blackbeard Pirates} type, K.O. up to 1 of your opponent's Characters with a cost of 1 or less.<br>[On K.O.] Draw 1 card.",
+    "effect": "[Activate: Main] You may rest this Character: If your Leader has the {Blackbeard Pirates} type, K.O. up to 1 of your opponent's Characters with a cost of 1 or less. [On K.O.] Draw 1 card.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-090.png?260715"
   },
@@ -2650,7 +2650,7 @@
       "The Four Emperors",
       "Blackbeard Pirates"
     ],
-    "effect": "[Blocker]<br>[Activate: Main] [Once Per Turn] If your Leader has the {Blackbeard Pirates} type and this Character was played on this turn, negate the effect of up to 1 of your opponent's Leader during this turn. Then, negate the effect of up to 1 of your opponent's Characters and that Character cannot attack until the end of your opponent's next turn.",
+    "effect": "[Blocker] [Activate: Main] [Once Per Turn] If your Leader has the {Blackbeard Pirates} type and this Character was played on this turn, negate the effect of up to 1 of your opponent's Leader during this turn. Then, negate the effect of up to 1 of your opponent's Characters and that Character cannot attack until the end of your opponent's next turn.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-093.png?260715"
   },
@@ -2674,7 +2674,7 @@
       "The Four Emperors",
       "Blackbeard Pirates"
     ],
-    "effect": "[Blocker]<br>[Activate: Main] [Once Per Turn] If your Leader has the {Blackbeard Pirates} type and this Character was played on this turn, negate the effect of up to 1 of your opponent's Leader during this turn. Then, negate the effect of up to 1 of your opponent's Characters and that Character cannot attack until the end of your opponent's next turn.",
+    "effect": "[Blocker] [Activate: Main] [Once Per Turn] If your Leader has the {Blackbeard Pirates} type and this Character was played on this turn, negate the effect of up to 1 of your opponent's Leader during this turn. Then, negate the effect of up to 1 of your opponent's Characters and that Character cannot attack until the end of your opponent's next turn.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-093_p1.png?260715"
   },
@@ -2698,7 +2698,7 @@
       "The Four Emperors",
       "Blackbeard Pirates"
     ],
-    "effect": "[Blocker]<br>[Activate: Main] [Once Per Turn] If your Leader has the {Blackbeard Pirates} type and this Character was played on this turn, negate the effect of up to 1 of your opponent's Leader during this turn. Then, negate the effect of up to 1 of your opponent's Characters and that Character cannot attack until the end of your opponent's next turn.",
+    "effect": "[Blocker] [Activate: Main] [Once Per Turn] If your Leader has the {Blackbeard Pirates} type and this Character was played on this turn, negate the effect of up to 1 of your opponent's Leader during this turn. Then, negate the effect of up to 1 of your opponent's Characters and that Character cannot attack until the end of your opponent's next turn.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-093_p2.png?260715"
   },
@@ -2921,7 +2921,7 @@
     "types": [
       "Revolutionary Army"
     ],
-    "effect": "[Blocker]<br>[On Play] You may add 1 card from the top or bottom of your Life cards to your hand: Play up to 1 {Revolutionary Army} type Character card with a cost of 4 or less from your hand. If you do, draw 1 card.",
+    "effect": "[Blocker] [On Play] You may add 1 card from the top or bottom of your Life cards to your hand: Play up to 1 {Revolutionary Army} type Character card with a cost of 4 or less from your hand. If you do, draw 1 card.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-103.png?260715"
   },
@@ -2944,7 +2944,7 @@
     "types": [
       "Revolutionary Army"
     ],
-    "effect": "[Blocker]<br>[On Play] You may add 1 card from the top or bottom of your Life cards to your hand: Play up to 1 {Revolutionary Army} type Character card with a cost of 4 or less from your hand. If you do, draw 1 card.",
+    "effect": "[Blocker] [On Play] You may add 1 card from the top or bottom of your Life cards to your hand: Play up to 1 {Revolutionary Army} type Character card with a cost of 4 or less from your hand. If you do, draw 1 card.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-103_p1.png?260715"
   },
@@ -3315,7 +3315,7 @@
       "King of the Pirates",
       "Roger Pirates"
     ],
-    "effect": "[Rush] (This card can attack on the turn in which it is played.)<br>When your opponent activates [Blocker], if either you or your opponent has 0 Life cards, you win the game.",
+    "effect": "[Rush] (This card can attack on the turn in which it is played.) When your opponent activates [Blocker], if either you or your opponent has 0 Life cards, you win the game.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-118.png?260715"
   },
@@ -3339,7 +3339,7 @@
       "King of the Pirates",
       "Roger Pirates"
     ],
-    "effect": "[Rush] (This card can attack on the turn in which it is played.)<br>When your opponent activates [Blocker], if either you or your opponent has 0 Life cards, you win the game.",
+    "effect": "[Rush] (This card can attack on the turn in which it is played.) When your opponent activates [Blocker], if either you or your opponent has 0 Life cards, you win the game.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-118_p1.png?260715"
   },
@@ -3363,7 +3363,7 @@
       "King of the Pirates",
       "Roger Pirates"
     ],
-    "effect": "[Rush] (This card can attack on the turn in which it is played.)<br>When your opponent activates [Blocker], if either you or your opponent has 0 Life cards, you win the game.",
+    "effect": "[Rush] (This card can attack on the turn in which it is played.) When your opponent activates [Blocker], if either you or your opponent has 0 Life cards, you win the game.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-118_p2.png?260715"
   },
@@ -3479,7 +3479,7 @@
       "Navy",
       "Donquixote Pirates"
     ],
-    "effect": "[Opponent's Turn] If this Character is rested, your active Characters with a base cost of 5 cannot be K.O.'d by effects.<br>[On Play] You may rest this Character: Play up to 1 green Character card with a cost of 5 from your hand.",
+    "effect": "[Opponent's Turn] If this Character is rested, your active Characters with a base cost of 5 cannot be K.O.'d by effects. [On Play] You may rest this Character: Play up to 1 green Character card with a cost of 5 from your hand.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-119_p2.png?260715"
   },
@@ -3549,7 +3549,7 @@
       "The Four Emperors",
       "Straw Hat Crew"
     ],
-    "effect": "[On Play] DON!! −10: Place all of your Characters except this Character at the bottom of your deck in any order. Then, take an extra turn after this one.<br>[Activate: Main] [Once Per Turn] You may rest 1 of your DON!! cards: Add up to 1 DON!! card from your DON!! deck and set it as active.",
+    "effect": "[On Play] DON!! −10: Place all of your Characters except this Character at the bottom of your deck in any order. Then, take an extra turn after this one. [Activate: Main] [Once Per Turn] You may rest 1 of your DON!! cards: Add up to 1 DON!! card from your DON!! deck and set it as active.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-119_p6.png?260715"
   },
@@ -3572,7 +3572,7 @@
     "types": [
       "Revolutionary Army"
     ],
-    "effect": "[Rush] (This card can attack on the turn in which it is played.)<br>[On Play] Give up to 2 rested DON!! cards to your Leader or 1 of your Characters.",
+    "effect": "[Rush] (This card can attack on the turn in which it is played.) [On Play] Give up to 2 rested DON!! cards to your Leader or 1 of your Characters.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP07-015_p2.png?260715"
   },
@@ -3644,7 +3644,7 @@
       "The Four Emperors",
       "Red-Haired Pirates"
     ],
-    "effect": "Give all of your opponent's Characters −1000 power.<br>[Rush] (This card can attack on the turn in which it is played.)",
+    "effect": "Give all of your opponent's Characters −1000 power. [Rush] (This card can attack on the turn in which it is played.)",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-004_p3.png?260715"
   },
@@ -3692,7 +3692,7 @@
       "The Four Emperors",
       "Blackbeard Pirates"
     ],
-    "effect": "[Blocker]<br>[Activate: Main] [Once Per Turn] If your Leader has the {Blackbeard Pirates} type and this Character was played on this turn, negate the effect of up to 1 of your opponent's Leader during this turn. Then, negate the effect of up to 1 of your opponent's Characters and that Character cannot attack until the end of your opponent's next turn.",
+    "effect": "[Blocker] [Activate: Main] [Once Per Turn] If your Leader has the {Blackbeard Pirates} type and this Character was played on this turn, negate the effect of up to 1 of your opponent's Leader during this turn. Then, negate the effect of up to 1 of your opponent's Characters and that Character cannot attack until the end of your opponent's next turn.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-093_p3.png?260715"
   }

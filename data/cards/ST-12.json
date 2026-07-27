@@ -138,7 +138,7 @@
     "types": [
       "East Blue"
     ],
-    "effect": "[DON!! x1] [When Attacking] Choose one:<br>• Rest up to 1 of your opponent's Characters with a cost of 2 or less.<br>• K.O. up to 1 of your opponent's rested Characters with a cost of 2 or less.",
+    "effect": "[DON!! x1] [When Attacking] Choose one: • Rest up to 1 of your opponent's Characters with a cost of 2 or less. • K.O. up to 1 of your opponent's rested Characters with a cost of 2 or less.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST12-006.png?260715"
   },
@@ -231,7 +231,7 @@
       "Impel Down",
       "Revolutionary Army"
     ],
-    "effect": "[On Play] Reveal 1 card from the top of your deck and play up to 1 Character card with a cost of 2. Then, place the rest at the top or bottom of your deck.<br>[When Attacking] [Once Per Turn] Draw 1 card if you have 6 or less cards in your hand.",
+    "effect": "[On Play] Reveal 1 card from the top of your deck and play up to 1 Character card with a cost of 2. Then, place the rest at the top or bottom of your deck. [When Attacking] [Once Per Turn] Draw 1 card if you have 6 or less cards in your hand.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST12-010.png?260715"
   },
@@ -300,7 +300,7 @@
     "types": [
       "East Blue"
     ],
-    "effect": "[On Play] Look at 3 cards from the top of your deck and place them at the top or bottom of the deck in any order.<br>[When Attacking] Reveal 1 card from the top of your deck and play up to 1 Character card with a cost of 2 rested. Then, place the rest at the top or bottom of your deck.",
+    "effect": "[On Play] Look at 3 cards from the top of your deck and place them at the top or bottom of the deck in any order. [When Attacking] Reveal 1 card from the top of your deck and play up to 1 Character card with a cost of 2 rested. Then, place the rest at the top or bottom of your deck.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST12-013.png?260715"
   },
@@ -323,7 +323,7 @@
     "types": [
       "The Flying Fish Riders"
     ],
-    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On Play] Look at 3 cards from the top of your deck and place them at the top or bottom of the deck in any order.",
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] Look at 3 cards from the top of your deck and place them at the top or bottom of the deck in any order.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST12-014.png?260715"
   },

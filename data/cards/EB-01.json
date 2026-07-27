@@ -20,7 +20,7 @@
       "Land of Wano",
       "Kouzuki Clan"
     ],
-    "effect": "All of your {Land of Wano} type Character cards without a Counter have a +1000 Counter, according to the rules.<br>[DON!! x1] [When Attacking] If you have a {Land of Wano} type Character with a cost of 5 or more, this Leader gains +1000 power until the start of your next turn.",
+    "effect": "All of your {Land of Wano} type Character cards without a Counter have a +1000 Counter, according to the rules. [DON!! x1] [When Attacking] If you have a {Land of Wano} type Character with a cost of 5 or more, this Leader gains +1000 power until the start of your next turn.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-001.png?260715"
   },
@@ -45,7 +45,7 @@
       "Land of Wano",
       "Kouzuki Clan"
     ],
-    "effect": "All of your {Land of Wano} type Character cards without a Counter have a +1000 Counter, according to the rules.<br>[DON!! x1] [When Attacking] If you have a {Land of Wano} type Character with a cost of 5 or more, this Leader gains +1000 power until the start of your next turn.",
+    "effect": "All of your {Land of Wano} type Character cards without a Counter have a +1000 Counter, according to the rules. [DON!! x1] [When Attacking] If you have a {Land of Wano} type Character with a cost of 5 or more, this Leader gains +1000 power until the start of your next turn.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-001_p1.png?260715"
   },
@@ -821,7 +821,7 @@
     "types": [
       "Baroque Works"
     ],
-    "effect": "If your Leader's type includes \"Baroque Works\", this Character gains +1000 power for every 2 Events in your trash.<br>[On Play] Draw 2 cards and trash 1 card from your hand.",
+    "effect": "If your Leader's type includes \"Baroque Works\", this Character gains +1000 power for every 2 Events in your trash. [On Play] Draw 2 cards and trash 1 card from your hand.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-027.png?260715"
   },
@@ -844,7 +844,7 @@
     "types": [
       "Baroque Works"
     ],
-    "effect": "If your Leader's type includes \"Baroque Works\", this Character gains +1000 power for every 2 Events in your trash.<br>[On Play] Draw 2 cards and trash 1 card from your hand.",
+    "effect": "If your Leader's type includes \"Baroque Works\", this Character gains +1000 power for every 2 Events in your trash. [On Play] Draw 2 cards and trash 1 card from your hand.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-027_p1.png?260715"
   },
@@ -1027,7 +1027,7 @@
     "types": [
       "Baroque Works"
     ],
-    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On Your Opponent's Attack] [Once Per Turn] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If your Leader's type includes \"Baroque Works\", add up to 1 DON!! card from your DON!! deck and set it as active.",
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Your Opponent's Attack] [Once Per Turn] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If your Leader's type includes \"Baroque Works\", add up to 1 DON!! card from your DON!! deck and set it as active.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-034.png?260715"
   },
@@ -1050,7 +1050,7 @@
     "types": [
       "Baroque Works"
     ],
-    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On Your Opponent's Attack] [Once Per Turn] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If your Leader's type includes \"Baroque Works\", add up to 1 DON!! card from your DON!! deck and set it as active.",
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Your Opponent's Attack] [Once Per Turn] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If your Leader's type includes \"Baroque Works\", add up to 1 DON!! card from your DON!! deck and set it as active.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-034_p1.png?260715"
   },
@@ -1097,7 +1097,7 @@
       "Impel Down",
       "Jailer Beast"
     ],
-    "effect": "[Rush] (This card can attack on the turn in which it is played.)<br>[On K.O.] If your Leader has the {Impel Down} type, add up to 1 DON!! card from your DON!! deck and rest it.",
+    "effect": "[Rush] (This card can attack on the turn in which it is played.) [On K.O.] If your Leader has the {Impel Down} type, add up to 1 DON!! card from your DON!! deck and rest it.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-036.png?260715"
   },
@@ -1326,7 +1326,7 @@
     "types": [
       "Rumbar Pirates"
     ],
-    "effect": "[On Play] If your opponent has a Character with a cost of 0, this Character gains [Rush] during this turn.<br>(This card can attack on the turn in which it is played.)",
+    "effect": "[On Play] If your opponent has a Character with a cost of 0, this Character gains [Rush] during this turn. (This card can attack on the turn in which it is played.)",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-045.png?260715"
   },
@@ -1554,7 +1554,7 @@
     "types": [
       "Dressrosa"
     ],
-    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On Play] Choose one:<br>• Look at all of your opponent's Life cards and place them back in their Life area in any order.<br>• Turn all of your Life cards face-down.",
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] Choose one: • Look at all of your opponent's Life cards and place them back in their Life area in any order. • Turn all of your Life cards face-down.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-052.png?260715"
   },
@@ -1577,7 +1577,7 @@
     "types": [
       "Dressrosa"
     ],
-    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On Play] Choose one:<br>• Look at all of your opponent's Life cards and place them back in their Life area in any order.<br>• Turn all of your Life cards face-down.",
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] Choose one: • Look at all of your opponent's Life cards and place them back in their Life area in any order. • Turn all of your Life cards face-down.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-052_p1.png?260715"
   },
@@ -1623,7 +1623,7 @@
     "types": [
       "Sky Island"
     ],
-    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On Play] If your opponent has 1 or less Life cards, K.O. up to 1 of your opponent's Characters with a cost of 3 or less.",
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] If your opponent has 1 or less Life cards, K.O. up to 1 of your opponent's Characters with a cost of 3 or less.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-054.png?260715"
   },
@@ -1715,7 +1715,7 @@
     "types": [
       "Merfolk"
     ],
-    "effect": "When this Character is K.O.'d by your opponent's effect, add up to 1 card from the top of your deck to the top of your Life cards.<br>[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+    "effect": "When this Character is K.O.'d by your opponent's effect, add up to 1 card from the top of your deck to the top of your Life cards. [Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-057.png?260715"
   },
@@ -1738,7 +1738,7 @@
     "types": [
       "Merfolk"
     ],
-    "effect": "When this Character is K.O.'d by your opponent's effect, add up to 1 card from the top of your deck to the top of your Life cards.<br>[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+    "effect": "When this Character is K.O.'d by your opponent's effect, add up to 1 card from the top of your deck to the top of your Life cards. [Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-057_p1.png?260715"
   },
@@ -1826,7 +1826,7 @@
     "types": [
       "Former Baroque Works"
     ],
-    "effect": "[On Play] Add up to 1 DON!! card from your DON!! deck and set it as active.<br>[When Attacking] Select up to 1 of your opponent's Characters. This Character's base power becomes the same as the selected Character's power during this turn.",
+    "effect": "[On Play] Add up to 1 DON!! card from your DON!! deck and set it as active. [When Attacking] Select up to 1 of your opponent's Characters. This Character's base power becomes the same as the selected Character's power during this turn.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-061.png?260715"
   },
@@ -1849,7 +1849,7 @@
     "types": [
       "Former Baroque Works"
     ],
-    "effect": "[On Play] Add up to 1 DON!! card from your DON!! deck and set it as active.<br>[When Attacking] Select up to 1 of your opponent's Characters. This Character's base power becomes the same as the selected Character's power during this turn.",
+    "effect": "[On Play] Add up to 1 DON!! card from your DON!! deck and set it as active. [When Attacking] Select up to 1 of your opponent's Characters. This Character's base power becomes the same as the selected Character's power during this turn.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-061_p1.png?260715"
   }

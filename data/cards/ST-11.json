@@ -191,7 +191,7 @@
       "Supernovas",
       "Straw Hat Crew"
     ],
-    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On Play] Play up to 1 {FILM} or {Straw Hat Crew} type Character card with a cost of 4 or less from your hand.",
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] Play up to 1 {FILM} or {Straw Hat Crew} type Character card with a cost of 4 or less from your hand.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-041_p2.png?260715"
   },
@@ -239,7 +239,7 @@
       "Supernovas",
       "Straw Hat Crew"
     ],
-    "effect": "[Counter] Up to 1 of your Leader or Character cards gains +6000 power during this battle. Then, play up to 1 Character card with a cost of 3 or less and no base effect from your hand.<br>",
+    "effect": "[Counter] Up to 1 of your Leader or Character cards gains +6000 power during this battle. Then, play up to 1 Character card with a cost of 3 or less and no base effect from your hand.",
     "trigger": "[Trigger] Rest up to 1 of your opponent's Leader or Character cards with a cost of 5 or less.",
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-045_p1.png?260715"
   },
@@ -286,7 +286,7 @@
       "Music",
       "FILM"
     ],
-    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[End of Your Turn] You may trash 1 Event from your hand: Set up to 1 of your {FILM} type Characters as active.",
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [End of Your Turn] You may trash 1 Event from your hand: Set up to 1 of your {FILM} type Characters as active.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST11-002.png?260715"
   },
@@ -308,7 +308,7 @@
       "Music",
       "FILM"
     ],
-    "effect": "[Main] If your Leader is [Uta], choose one:<br>• Rest up to 1 of your opponent's Characters with a cost of 5 or less.<br>• K.O. up to 1 of your opponent's rested Characters with a cost of 5 or less.",
+    "effect": "[Main] If your Leader is [Uta], choose one: • Rest up to 1 of your opponent's Characters with a cost of 5 or less. • K.O. up to 1 of your opponent's rested Characters with a cost of 5 or less.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST11-003.png?260715"
   },

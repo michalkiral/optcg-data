@@ -89,7 +89,7 @@
     "types": [
       "Straw Hat Crew"
     ],
-    "effect": "[DON!! x2] This Character gains [Rush].<br>(This card can attack on the turn in which it is played.)",
+    "effect": "[DON!! x2] This Character gains [Rush]. (This card can attack on the turn in which it is played.)",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-004.png?260715"
   },
@@ -276,7 +276,7 @@
       "Supernovas",
       "Straw Hat Crew"
     ],
-    "effect": "[Rush] (This card can attack on the turn in which it is played.)<br>[DON!! x2] [When Attacking] Your opponent cannot activate [Blocker] during this battle.",
+    "effect": "[Rush] (This card can attack on the turn in which it is played.) [DON!! x2] [When Attacking] Your opponent cannot activate [Blocker] during this battle.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-012.png?260715"
   },

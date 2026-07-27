@@ -65,7 +65,7 @@
     "types": [
       "Big Mom Pirates"
     ],
-    "effect": "[On Play] Look at up to 1 card from the top of your or your opponent's Life cards, and place it at the top or bottom of the Life cards. Then, if you have less Life cards than your opponent, this Character gains [Rush] during this turn.<br>(This card can attack on the turn in which it is played.)",
+    "effect": "[On Play] Look at up to 1 card from the top of your or your opponent's Life cards, and place it at the top or bottom of the Life cards. Then, if you have less Life cards than your opponent, this Character gains [Rush] during this turn. (This card can attack on the turn in which it is played.)",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-003.png?260715"
   },
@@ -88,7 +88,7 @@
     "types": [
       "Big Mom Pirates"
     ],
-    "effect": "[DON!! x1] [When Attacking] You may add 1 card from the top or bottom of your Life cards to your hand: This Character gains [Banish] and +1000 power during this battle.<br>(When this card deals damage, the target card is trashed without activating its Trigger.)",
+    "effect": "[DON!! x1] [When Attacking] You may add 1 card from the top or bottom of your Life cards to your hand: This Character gains [Banish] and +1000 power during this battle. (When this card deals damage, the target card is trashed without activating its Trigger.)",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-004.png?260715"
   },
@@ -227,7 +227,7 @@
       "The Four Emperors",
       "Big Mom Pirates"
     ],
-    "effect": "[On Play] Your opponent chooses one:<br>- Trash 1 card from the top of your opponent's Life cards.<br>- Add 1 card from the top of your deck to the top of your Life cards.",
+    "effect": "[On Play] Your opponent chooses one: - Trash 1 card from the top of your opponent's Life cards. - Add 1 card from the top of your deck to the top of your Life cards.",
     "trigger": null,
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-010.png?260715"
   },
@@ -251,7 +251,7 @@
       "Big Mom Pirates",
       "Homies"
     ],
-    "effect": "[Activate: Main] You may rest this Character: Up to 1 of your [Charlotte Linlin] cards gains [Banish] during this turn.<br>(When this card deals damage, the target card is trashed without activating its Trigger.)",
+    "effect": "[Activate: Main] You may rest this Character: Up to 1 of your [Charlotte Linlin] cards gains [Banish] during this turn. (When this card deals damage, the target card is trashed without activating its Trigger.)",
     "trigger": "[Trigger] Play this card.",
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-011.png?260715"
   },
@@ -298,7 +298,7 @@
       "Big Mom Pirates",
       "Homies"
     ],
-    "effect": "[Activate: Main] You may rest this Character: Up to 1 of your [Charlotte Linlin] cards gains [Double Attack] during this turn.<br>(This card deals 2 damage.)",
+    "effect": "[Activate: Main] You may rest this Character: Up to 1 of your [Charlotte Linlin] cards gains [Double Attack] during this turn. (This card deals 2 damage.)",
     "trigger": "[Trigger] Play this card.",
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-013.png?260715"
   },
@@ -344,7 +344,7 @@
       "The Four Emperors",
       "Big Mom Pirates"
     ],
-    "effect": "[Main] Your opponent chooses one:<br>- Trash 1 card from the top of your opponent's Life cards.<br>- Add 1 card from the top of your deck to the top of your Life cards.",
+    "effect": "[Main] Your opponent chooses one: - Trash 1 card from the top of your opponent's Life cards. - Add 1 card from the top of your deck to the top of your Life cards.",
     "trigger": "[Trigger] Activate this card's [Main] effect.",
     "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-015.png?260715"
   },
