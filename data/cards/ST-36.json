@@ -21,7 +21,7 @@
     ],
     "effect": "[End of Your Turn] You may turn 1 card from the top of your Life cards face-up: Set up to 1 of your {Supernovas} type Characters with a cost of 3 to 8 as active. That Character gains [Blocker] until the end of your opponent's next turn.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP10-099_p2.png?260715"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP10-099_p2.png?260731"
   },
   {
     "id": "OP10-101_r1",
@@ -45,7 +45,7 @@
     ],
     "effect": "-",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP10-101_r1.png?260715"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP10-101_r1.png?260731"
   },
   {
     "id": "OP10-103_r1",
@@ -69,7 +69,7 @@
     ],
     "effect": "[On Play] You may add 1 card from the top or bottom of your Life cards to your hand: Add up to 1 {Supernovas} type Character card from your hand to the top of your Life cards face-up.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP10-103_r1.png?260715"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP10-103_r1.png?260731"
   },
   {
     "id": "OP10-109_r2",
@@ -93,7 +93,7 @@
     ],
     "effect": "[On K.O.] Trash up to 1 card from the top of your opponent's Life cards.",
     "trigger": "[Trigger] Draw 2 cards and trash 1 card from your hand.",
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP10-109_r2.png?260715"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP10-109_r2.png?260731"
   },
   {
     "id": "OP10-111_r1",
@@ -117,7 +117,7 @@
     ],
     "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Supernovas} type card other than [Monkey.D.Luffy] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP10-111_r1.png?260715"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP10-111_r1.png?260731"
   },
   {
     "id": "OP10-114_r2",
@@ -142,7 +142,7 @@
     ],
     "effect": "[Activate: Main] You may rest this Character: If the number of your Life cards is equal to or less than the number of your opponent's Life cards, rest up to 1 of your opponent's Characters with a cost of 4 or less.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP10-114_r2.png?260715"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP10-114_r2.png?260731"
   },
   {
     "id": "OP12-113_r1",
@@ -166,7 +166,7 @@
     ],
     "effect": "[On K.O.] If your Leader has the {Supernovas} type, play up to 1 {Supernovas} type Character card with a cost of 4 or less from your hand rested.",
     "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with a cost of 1 or less and add this card to your hand.",
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-113_r1.png?260715"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-113_r1.png?260731"
   },
   {
     "id": "OP13-116_r1",
@@ -188,7 +188,7 @@
     ],
     "effect": "[Main] Look at 5 cards from the top of your deck; reveal up to 1 {Supernovas} type Character card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
     "trigger": "[Trigger] Activate this card's [Main] effect.",
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-116_r1.png?260715"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-116_r1.png?260731"
   },
   {
     "id": "P-085_r2",
@@ -212,7 +212,7 @@
     ],
     "effect": "[On Play] If your Leader has the {Supernovas} type and the number of your Life cards is equal to or less than the number of your opponent's Life cards, add up to 1 of your opponent's Characters with a cost of 4 or less to the top or bottom of the owner's Life cards face-up.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-085_r2.png?260715"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-085_r2.png?260731"
   },
   {
     "id": "P-088_r2",
@@ -236,7 +236,7 @@
     ],
     "effect": "-",
     "trigger": "[Trigger] If your Leader has the {Supernovas} type and you and your opponent have a total of 5 or less Life cards, play this card.",
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-088_r2.png?260715"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/P-088_r2.png?260731"
   },
   {
     "id": "ST36-001",
@@ -261,7 +261,7 @@
     ],
     "effect": "[On K.O.] You may trash 1 card from your hand: Add up to 1 card from the top of your deck to the top of your Life cards.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST36-001.png?260715"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST36-001.png?260731"
   },
   {
     "id": "ST36-002",
@@ -285,7 +285,7 @@
     ],
     "effect": "[Your Turn] [On Play] If your Leader has the {Kid Pirates} type, add up to 1 card from the top of your deck to the top of your Life cards.",
     "trigger": "[Trigger] If your opponent has 3 or less Life cards, play this card.",
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST36-002.png?260715"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST36-002.png?260731"
   },
   {
     "id": "ST36-003",
@@ -309,7 +309,7 @@
     ],
     "effect": "-",
     "trigger": "[Trigger] Draw 1 card and your {Supernovas} type Leader's base power becomes 7000 during this turn.",
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST36-003.png?260715"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST36-003.png?260731"
   },
   {
     "id": "ST36-004",
@@ -334,7 +334,7 @@
     ],
     "effect": "[On Play] You may trash 1 {Supernovas} type card from your hand: Draw 2 cards.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST36-004.png?260715"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST36-004.png?260731"
   },
   {
     "id": "ST36-005",
@@ -358,6 +358,6 @@
     ],
     "effect": "[On Your Opponent's Attack] [Once Per Turn] You may turn 1 card from the top or bottom of your Life cards face-down: Change the target of the attack to your [Eustass\"Captain\"Kid] with 5000 base power or more. [Activate: Main] [Once Per Turn] You may turn 1 card from the top or bottom of your Life cards face-up: Give up to 1 rested DON!! card to your Leader.",
     "trigger": null,
-    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST36-005.png?260715"
+    "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST36-005.png?260731"
   }
 ]
